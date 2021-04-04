@@ -27,6 +27,8 @@ For each study the following information is provided:
 <a name="behavioral_factors"></a>
 ### Factors
 
+We identified independent variables in each study and grouped them into 7 factors listed below.
+
 * Primary (driving) task
 * Secondary (non-driving) task
 * Driving experience
