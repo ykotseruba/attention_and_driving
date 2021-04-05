@@ -14,7 +14,7 @@ Papers and their descriptions are split into three sheets: Studies, Factors and 
 
 For each study the following information is provided:
 
-* Reference: use this to search for bibtex information in `behavioral.bib`
+* Reference: use this to search for bibtex information in `bibtex/behavioral.bib`
 * Paper: title, venue, year
 * Dataset: name of the dataset or NDS used in the study
 * Experiment duration: usually it is the entire duration of the study including any pre- or post-experiment procedures. The actual driving time is usually less than the specified duration.
@@ -65,7 +65,7 @@ Papers are split into 5 categories:
 
 For each paper the following information is provided:
 
-* Reference: to be used for searching for bibtex information in `practical.bib`
+* Reference: to be used for searching for bibtex information in `bibtex/practical.bib`
 * Paper: title, venue, year
 * Code: link if available
 * Input, observation length, output
@@ -84,7 +84,7 @@ See [factors](#behavioral_factors) defined for behavioral studies.
 
 A list of relevant surveys and meta-reviews with:
 
-* Reference: to be used for searching for bibtex information in `surveys.bib`
+* Reference: to be used for searching for bibtex information in `bibtex/surveys.bib`
 * Paper: title, venue, year
 * Topic: a major topic of the survey or meta-review
 
@@ -94,7 +94,7 @@ A list of relevant surveys and meta-reviews with:
 
 The spreadsheet lists datasets (with and without eye-tracking data), naturalistic driving studies and field operational tests, and their properties:
 
-* Reference: to be used for searching for bibtex information in `practical.bib`
+* Reference: to be used for searching for bibtex information in `bibtex/practical.bib`
 * Paper: title, venue, year
 * Dataset name (full and abbreviated)
 * Link to data (if available)
