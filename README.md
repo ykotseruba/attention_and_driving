@@ -1,13 +1,13 @@
 # Attention and driving
 
-This is a repository holding information on papers that were used for writing the report on "Behavioral research and practical applications of drivers' attention". The repository contains ~200 behavioral and ~100 practical papers published since 2010 where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) or used in some relevant practical application (e.g. driver monitoring).
+This is a repository holding information on papers that were used for writing the report on ["Behavioral research and practical models of drivers' attention"](https://arxiv.org/pdf/2104.05677.pdf). The repository contains ~200 behavioral and ~100 practical papers published since 2010 where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) or used in some relevant practical application (e.g. driver monitoring).
 
 
 ## Behavioral research
 
 Papers and their descriptions are split into three sheets: Studies, Factors and Eye-tracking measures
 
-[Google Sheet Link](https://docs.google.com/spreadsheets/d/1nWf1auJXwuTzqlPnrK-8iOSnaogphLCCvS3QRrcU4S0/edit?usp=sharing)
+[Google Sheets Link](https://docs.google.com/spreadsheets/d/1nWf1auJXwuTzqlPnrK-8iOSnaogphLCCvS3QRrcU4S0/edit?usp=sharing)
 
 
 ### Studies
@@ -51,7 +51,7 @@ We identified independent variables in each study and grouped them into 7 factor
 
 Papers and their descriptions are split into 6 sheets: 5 types of Applications and Factors
 
-[Google Sheet Link](https://docs.google.com/spreadsheets/d/1FkT1hz1GQv3waICiCCxWpAByB8kzOpKrAZAhbUwriyo/edit?usp=sharing)
+[Google Sheets Link](https://docs.google.com/spreadsheets/d/1FkT1hz1GQv3waICiCCxWpAByB8kzOpKrAZAhbUwriyo/edit?usp=sharing)
 
 ### Applications
 
