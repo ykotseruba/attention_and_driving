@@ -17,7 +17,7 @@ For each study the following information is provided:
 * Reference: use this to search for bibtex information in `bibtex/behavioral.bib`
 * Paper: title, venue, year
 * Dataset: name of the dataset or NDS used in the study
-* Experiment duration: usually it is the entire duration of the study including any pre- or post-experiment procedures. The actual driving time is usually less than the specified duration.
+* Experiment duration: usually it is the entire duration of the study including any pre- or post-experiment procedures. The actual driving time may be shorter than the specified duration.
 * Number of subjects (whose data was used for analysis)
 * Eye tracker type, model and sampling rate
 * Driving simulator model (if applicable)
@@ -27,7 +27,7 @@ For each study the following information is provided:
 <a name="behavioral_factors"></a>
 ### Factors
 
-We identified independent variables in each study and grouped them into 7 factors listed below.
+We identified independent variables in each study and grouped them into 7 factors listed below:
 
 * Primary (driving) task
 * Secondary (non-driving) task
