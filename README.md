@@ -115,8 +115,11 @@ If you would like to provide corrections or suggest missing papers, please post 
 If you used this repository or the report in your research, please cite:
 
 ```
-@techreport{2021_arXiv_Kotseruba,
-title={Behavioral research and practical applications of drivers' attention}
+@article{2021_arXiv_Kotseruba,
+author={Kotseruba, Iuliia and Tsotsos, John K.},
+title={Behavioral research and practical applications of drivers' attention},
+year={2021},
+journal={arXiv:2104.05677}
 }
 ```
 
