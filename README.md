@@ -125,7 +125,7 @@ journal={arXiv:2104.05677}
 
 ### Acknowledgment
 
-This work is greatly inspired by the database for vision-based action prediction created by Amir Rasouli.
+This work is greatly inspired by the [database for vision-based action prediction](https://github.com/aras62/vision-based-prediction) created by [Amir Rasouli](https://github.com/aras62).
 
 ## Updates
 
