@@ -33,7 +33,7 @@ We identified independent variables in each study and grouped them into 7 factor
 * Secondary (non-driving) task
 * Driving experience
 * Demographics
-* Intattention
+* Inattention
 * Environment
 * Automation
 
