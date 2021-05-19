@@ -10,6 +10,9 @@ This is a repository holding information on papers that were used for writing th
 * [Datasets](https://ykotseruba.github.io/attention_and_driving/datasets_datasets.html)
 * [Surveys](https://ykotseruba.github.io/attention_and_driving/surveys_surveys.html)
 
+The tables are also available for download in Excel format from `spreadsheets` folder.
+Descriptions of the folder contents is given below
+
 ## Behavioral research
 
 Papers and their descriptions are split into three tables: Studies, Factors and Eye-tracking measures
