@@ -3,11 +3,16 @@
 This is a repository holding information on papers that were used for writing the report on ["Behavioral research and practical models of drivers' attention"](https://arxiv.org/pdf/2104.05677.pdf). The repository contains ~200 behavioral and ~100 practical papers published since 2010 where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) or used in some relevant practical application (e.g. driver monitoring).
 
 
+# Links to data
+
+* [Behavioral research](https://ykotseruba.github.io/attention_and_driving/behavioral_studies.html)
+* [Practical research](https://ykotseruba.github.io/attention_and_driving/practical_scene_gaze.html)
+* [Datasets](https://ykotseruba.github.io/attention_and_driving/datasets_datasets.html)
+* [Surveys](https://ykotseruba.github.io/attention_and_driving/surveys_surveys.html)
+
 ## Behavioral research
 
-Papers and their descriptions are split into three sheets: Studies, Factors and Eye-tracking measures
-
-[Google Sheets Link](https://docs.google.com/spreadsheets/d/1nWf1auJXwuTzqlPnrK-8iOSnaogphLCCvS3QRrcU4S0/edit?usp=sharing)
+Papers and their descriptions are split into three tables: Studies, Factors and Eye-tracking measures
 
 
 ### Studies
@@ -49,9 +54,8 @@ We identified independent variables in each study and grouped them into 7 factor
 
 ## Practical research
 
-Papers and their descriptions are split into 6 sheets: 5 types of Applications and Factors
+Papers and their descriptions are split into 6 tables: 5 types of Applications and Factors
 
-[Google Sheets Link](https://docs.google.com/spreadsheets/d/1FkT1hz1GQv3waICiCCxWpAByB8kzOpKrAZAhbUwriyo/edit?usp=sharing)
 
 ### Applications
 
@@ -80,7 +84,6 @@ See [factors](#behavioral_factors) defined for behavioral studies.
 
 ## Surveys and meta-reviews
 
-[Google Sheets Link](https://docs.google.com/spreadsheets/d/1RQ1iqhZNFuJLIGquEGEh2PW7ugQdtcwJx8dU8JX_DpI/edit?usp=sharing)
 
 A list of relevant surveys and meta-reviews with:
 
@@ -90,9 +93,7 @@ A list of relevant surveys and meta-reviews with:
 
 ## Datasets
 
-[Google Sheets Link](https://docs.google.com/spreadsheets/d/1eVNaqn2RtDFQYhKi2BAluxjwI5TMkrGad52X9aSTMgU/edit?usp=sharing)
-
-The spreadsheet lists datasets (with and without eye-tracking data), naturalistic driving studies and field operational tests, and their properties:
+The table lists datasets (with and without eye-tracking data), naturalistic driving studies and field operational tests, and their properties:
 
 * Reference: to be used for searching for bibtex information in `bibtex/practical.bib`
 * Paper: title, venue, year
@@ -130,5 +131,6 @@ This work is greatly inspired by the [database for vision-based action predictio
 ## Updates
 
 - March 31, 2021: The repository is up
+- May 19, 2021: Switched from Google Spreadsheets to Tabulator
 
 
