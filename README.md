@@ -1,17 +1,21 @@
 # Attention and driving
 
-This is a repository holding information on papers that were used for writing the report on ["Behavioral research and practical models of drivers' attention"](https://arxiv.org/pdf/2104.05677.pdf). The repository contains ~200 behavioral and ~100 practical papers published since 2010 where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) or used in some relevant practical application (e.g. driver monitoring).
+Here you can find papers and meta-data that were used for writing the report on ["Behavioral research and practical models of drivers' attention"](https://arxiv.org/pdf/2104.05677.pdf). The repository contains ~200 behavioral and ~100 practical papers published since 2010 where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) or used in some relevant practical application (e.g. driver monitoring).
+
+The repository will be regularly updated with new papers.
 
 
-# Links to data
+# Data in interactive tables
 
 * [Behavioral research](https://ykotseruba.github.io/attention_and_driving/behavioral_studies.html)
 * [Practical research](https://ykotseruba.github.io/attention_and_driving/practical_scene_gaze.html)
 * [Datasets](https://ykotseruba.github.io/attention_and_driving/datasets_datasets.html)
 * [Surveys](https://ykotseruba.github.io/attention_and_driving/surveys_surveys.html)
 
-The tables are also available for download in Excel format from `spreadsheets` folder.
-Descriptions of the folder contents is given below
+# Data in Excel spreadsheets
+Download from the `spreadsheets` folder.
+
+# What is in the tables
 
 ## Behavioral research
 
@@ -82,7 +86,7 @@ For each paper the following information is provided:
 
 ### Factors
 
-See [factors](#behavioral_factors) defined for behavioral studies.
+Same as [factors](#behavioral_factors) defined for behavioral studies.
 
 
 ## Surveys and meta-reviews
@@ -112,7 +116,7 @@ The table lists datasets (with and without eye-tracking data), naturalistic driv
 
 ## Contribute to this project
 
-If you would like to provide corrections or suggest missing papers, please post an issue on this github.
+If you would like to provide corrections or suggest papers to add, please post an issue on this github.
 
 ## Cite
 
