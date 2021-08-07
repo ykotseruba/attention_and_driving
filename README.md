@@ -1,6 +1,6 @@
 # Attention and driving
 
-Here you can find papers and meta-data that were used for writing the report on ["Behavioral research and practical models of drivers' attention"](https://arxiv.org/pdf/2104.05677.pdf). The repository contains ~200 behavioral and ~100 practical papers published since 2010 where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) or used in some relevant practical application (e.g. driver monitoring).
+Here you can find papers and meta-data that were used for writing the report on ["Behavioral research and practical models of drivers' attention"](https://arxiv.org/pdf/2104.05677.pdf). The repository contains ~250 behavioral and ~110 practical papers published since 2010 where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) or used in some relevant practical application (e.g. driver monitoring).
 
 The repository will be regularly updated with new papers.
 
@@ -89,14 +89,14 @@ For each paper the following information is provided:
 Same as [factors](#behavioral_factors) defined for behavioral studies.
 
 
-## Surveys and meta-reviews
+## Surveys, meta-reviews and relevant studies
 
 
-A list of relevant surveys and meta-reviews with:
+A list of surveys, meta-reviews and other relevant studies:
 
 * Reference: to be used for searching for bibtex information in `bibtex/surveys.bib`
 * Paper: title, venue, year
-* Topic: a major topic of the survey or meta-review
+* Topic: a major topic of the study
 
 ## Datasets
 
@@ -137,6 +137,7 @@ This work is greatly inspired by the [database for vision-based action predictio
 
 ## Updates
 
+- August 6, 2021: Added 60 behavioral and practical works up to mid-2021. Added hyperlinks for papers and code.
 - March 31, 2021: The repository is up
 - May 19, 2021: Switched from Google Spreadsheets to Tabulator
 
