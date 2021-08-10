@@ -1,6 +1,6 @@
 # Attention and driving
 
-This repository contains a curated list of papers and meta-data that were used for writing the report on ["Behavioral research and practical models of drivers' attention"](https://arxiv.org/pdf/2104.05677.pdf). Currently, the list covers ~250 behavioral and ~110 practical papers published from 2010 to June 2021 where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) and analyzed, or where gaze data is used to solve driving-related practical applications (e.g. driver monitoring).
+This repository contains a curated list of papers and meta-data that were used for writing the report on ["Behavioral research and practical models of drivers' attention"](https://arxiv.org/pdf/2104.05677.pdf). Currently, the list covers ~250 behavioral and ~110 practical papers published from 2010 to June 2021 where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) and analyzed, or where gaze data is used for driving-related practical applications (e.g. driver monitoring).
 
 The repository will be regularly updated with new papers.
 
