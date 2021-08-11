@@ -26,7 +26,8 @@ Papers and their descriptions are split into three tables: Studies, Factors and 
 
 For each study the following information is provided:
 
-* Reference: use this to search for bibtex information in `bibtex/behavioral.bib`
+* Reference: link to the paper
+* Bibtex: bibtex information
 * Paper: title, venue, year
 * Dataset: name of the dataset or NDS used in the study
 * Experiment duration: usually it is the entire duration of the study including any pre- or post-experiment procedures. The actual driving time may be shorter than the specified duration.
@@ -66,17 +67,19 @@ Papers and their descriptions are split into 6 tables: 5 types of Applications a
 
 ### Applications
 
-Papers are split into 5 categories:
+Papers are split into 6 categories:
 
 * Gaze prediction outside vehicle
 * Gaze prediction inside vehicle
 * Inattention detection
+* Action anticipation
 * Driver awareness
 * Self-driving
 
 For each paper the following information is provided:
 
-* Reference: to be used for searching for bibtex information in `bibtex/practical.bib`
+* Reference: link to the paper
+* Bibtex: bibtex information
 * Paper: title, venue, year
 * Code: link if available
 * Input, observation length, output
@@ -102,7 +105,8 @@ A list of surveys, meta-reviews and other relevant studies:
 
 The table lists datasets (with and without eye-tracking data), naturalistic driving studies and field operational tests, and their properties:
 
-* Reference: to be used for searching for bibtex information in `bibtex/practical.bib`
+* Reference: link to the paper
+* Bibtex: bibtex information
 * Paper: title, venue, year
 * Dataset name (full and abbreviated)
 * Link to data (if available)
@@ -137,6 +141,7 @@ This work is greatly inspired by the [database for vision-based action predictio
 
 ## Updates
 
+- August 11, 2021: Added bibtex info to practical works, added action anticipation
 - August 6, 2021: Added 60 behavioral and practical works up to mid-2021. Added hyperlinks for papers and code.
 - March 31, 2021: The repository is up
 - May 19, 2021: Switched from Google Spreadsheets to Tabulator
