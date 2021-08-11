@@ -1,6 +1,13 @@
 # Attention and driving
 
-This repository contains a curated list of papers and meta-data that were used for writing the report on ["Behavioral research and practical models of drivers' attention"](https://arxiv.org/pdf/2104.05677.pdf). Currently, the list covers ~250 behavioral and ~110 practical papers published from 2010 to June 2021 where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) and analyzed, or where gaze data is used for driving-related practical applications (e.g. driver monitoring).
+This repository contains a curated list of papers and meta-data that were used for writing the report on ["Behavioral research and practical models of drivers' attention"](https://arxiv.org/pdf/2104.05677.pdf). 
+
+The list contains papers published from **2010** to **mid-2021** where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) and analyzed, or where gaze data is used in driving-related practical applications (e.g. driver monitoring):
+
+* **~250** behavioral studies 
+* **~110** models
+* **~30** datasets
+* **~100** surveys and relevant papers
 
 The repository will be regularly updated with new papers.
 
@@ -25,16 +32,16 @@ Papers and their descriptions are split into three tables: Studies, Factors and 
 
 For each study the following information is provided:
 
-* Reference: link to the paper
-* Bibtex: bibtex information
-* Paper: title, venue, year
-* Dataset: name of the dataset or NDS used in the study
-* Experiment duration: usually it is the entire duration of the study including any pre- or post-experiment procedures. The actual driving time may be shorter than the specified duration.
-* Number of subjects (whose data was used for analysis)
-* Eye tracker type, model and sampling rate
-* Driving simulator model (if applicable)
-* Recording conditions: in driving simulator (low, medium or high fidelity), or on-road (naturalistic, directed, closed track)
-* Vehicle control: active or passive
+* **Reference:** link to the paper
+* **Bibtex:** bibtex information
+* **Paper:** title, venue, year
+* **Dataset:** name of the dataset or NDS used in the study
+* **Experiment duration:** usually it is the entire duration of the study including any pre- or post-experiment procedures. The actual driving time may be shorter than the specified duration.
+* **Number of subjects** (whose data was used for analysis)
+* **Eye tracker** type, model and sampling rate
+* **Driving simulator model** (if applicable)
+* **Recording conditions:** in driving simulator (low, medium or high fidelity), or on-road (naturalistic, directed, closed track)
+* **Vehicle control:** active or passive
 
 <a name="behavioral_factors"></a>
 ### Factors
@@ -61,7 +68,7 @@ We identified independent variables in each study and grouped them into 7 factor
 
 ## Practical research
 
-Papers and their descriptions are split into 6 tables: 5 types of Applications and Factors
+Papers and their descriptions are split into 7 tables: 6 types of Applications and Factors
 
 ### Applications
 
@@ -76,13 +83,13 @@ Papers are split into 6 categories:
 
 For each paper the following information is provided:
 
-* Reference: link to the paper
-* Bibtex: bibtex information
-* Paper: title, venue, year
-* Code: link if available
-* Input, observation length, output
-* Dataset: custom or one of the datasets listed in datasets
-* Evaluation metrics
+* **Reference:** link to the paper
+* **Bibtex:** bibtex information
+* **Paper:** title, venue, year
+* **Code:** link if available
+* **Input, observation length, output**
+* **Dataset:** custom or one of the datasets listed in datasets
+* Evaluation **metrics**
 
 
 ### Factors
@@ -95,30 +102,31 @@ Same as [factors](#behavioral_factors) defined for behavioral studies.
 
 A list of surveys, meta-reviews and other relevant studies:
 
-* Reference: to be used for searching for bibtex information in `bibtex/surveys.bib`
-* Paper: title, venue, year
-* Topic: a major topic of the study
+* **Reference:** link to the paper
+* **Bibtex:** bibtex information
+* **Paper:** title, venue, year
+* **Topic:** a major topic of the study
 
 ## Datasets
 
 The table lists datasets (with and without eye-tracking data), naturalistic driving studies and field operational tests, and their properties:
 
-* Reference: link to the paper
-* Bibtex: bibtex information
-* Paper: title, venue, year
-* Dataset name (full and abbreviated)
-* Link to data (if available)
-* Data types (e.g. video, CAN bus data)
-* Annotations (e.g. bounding boxes, text)
-* Recording conditions
-* Vehicle control: passive or active
-* Number of subjects whose gaze was recorded or who drove the vehicle if no gaze data is available
-* Number of frames, videos, cameras
+* **Reference:** link to the paper
+* **Bibtex:** bibtex information
+* **Paper:** title, venue, year
+* **Dataset** name (full and abbreviated)
+* **Link** to data (if available)
+* **Data types** (e.g. video, CAN bus data)
+* **Annotations** (e.g. bounding boxes, text)
+* **Recording conditions** (for gaze data recording)
+* **Vehicle control:** passive or active
+* **Number of subjects** whose gaze was recorded or who drove the vehicle if no gaze data is available
+* **Number of frames, videos, cameras**
 
 
 ## Contribute to this project
 
-If you would like to provide corrections or suggest papers to add, please post an issue on this github.
+If you would like to provide corrections or suggest papers to add, please raise an issue or email '''yulia_k@eecs.yorku.ca'''.
 
 ## Cite
 
