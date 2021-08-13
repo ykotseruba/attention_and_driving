@@ -19,7 +19,7 @@ The repository will be regularly updated with new papers.
 * [Datasets](https://ykotseruba.github.io/attention_and_driving/datasets_datasets.html)
 * [Surveys](https://ykotseruba.github.io/attention_and_driving/surveys_surveys.html)
 
-*Note: to copy the contents of the cell in any table double-click on it.*
+*Note: double-click on the cell in any table to copy its contents or select text normally by clicking and dragging.*
 
 # Data in Excel spreadsheets
 Download from the `spreadsheets` folder.
