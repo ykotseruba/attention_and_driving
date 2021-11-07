@@ -5,8 +5,8 @@ This repository contains a curated list of papers and meta-data that were used f
 The list contains papers published from **2010** to **mid-2021** where drivers' gaze allocation is explicitly measured (e.g. via an eye-tracker) and analyzed, or where gaze data is used in driving-related practical applications (e.g. driver monitoring):
 
 * **~250** behavioral studies 
-* **~110** models
-* **~30** datasets
+* **~160** models
+* **~35** datasets
 * **~100** surveys and relevant papers
 
 The repository will be regularly updated with new papers.
@@ -74,11 +74,12 @@ Papers and their descriptions are split into 7 tables: 6 types of Applications a
 
 ### Applications
 
-Papers are split into 6 categories:
+Papers are split into 7 categories:
 
 * Gaze prediction outside vehicle
 * Gaze prediction inside vehicle
-* Inattention detection
+* Distraction detection
+* Drowsiness detection
 * Action anticipation
 * Driver awareness
 * Self-driving
@@ -90,8 +91,9 @@ For each paper the following information is provided:
 * **Paper:** title, venue, year
 * **Code:** link if available
 * **Input, observation length, output**
-* **Dataset:** custom or one of the datasets listed in datasets
+* **Dataset:** custom or one of the datasets listed in datasets and data properties
 * Evaluation **metrics**
+
 
 
 ### Factors
@@ -149,6 +151,7 @@ This work is greatly inspired by the [database for vision-based action predictio
 
 ## Updates
 
+- November 7, 2021: Added 50+ practical papers, restructured and cleaned up the tables
 - August 11, 2021: Added bibtex info to practical works, added action anticipation
 - August 6, 2021: Added 60 behavioral and practical works up to mid-2021. Added hyperlinks for papers and code.
 - May 19, 2021: Switched from Google Spreadsheets to Tabulator
