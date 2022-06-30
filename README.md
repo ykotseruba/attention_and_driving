@@ -49,7 +49,7 @@ This work is greatly inspired by the database for vision-based action prediction
 
 ## Updates
 
-- Jun 29, 2022: added papers with code
+- June 29, 2022: added papers with code
 - June 2, 2022: restructured the tables into lists, old version is available in previous branch
 - November 7, 2021: Added 50+ practical papers, restructured and cleaned up the tables
 - August 11, 2021: Added bibtex info to practical works, added action anticipation
