@@ -21,12 +21,13 @@ Papers in the repository are grouped into behavioral, appliation (split into 5 a
 	- [Driver action anticipation](action_anticipation.md) - models that anticipate drivers' maneuvers using gaze and vehicle information
 	- [Driver awareness estimation](driver_awareness.md) - models that project drivers' gaze onto objects in the traffic scene
 	- [Attention for self-driving](self-driving.md) - models that use attention mechanisms for automated driving
+	- [Papers with code](papers_with_code.md) - a list of papers across all applications that have associated code
 - [Datasets](datasets.md) - a list of datasets with attention-related annotations
 
 
 ## Contributing to this project
 
-If you notice any errors or missing papers, please post an issue on this github.
+If you notice any errors or missing papers and code, please post an issue on this github.
 
 ## Citation
 
@@ -48,6 +49,7 @@ This work is greatly inspired by the database for vision-based action prediction
 
 ## Updates
 
+- Jun 29, 2022: added papers with code
 - June 2, 2022: restructured the tables into lists, old version is available in previous branch
 - November 7, 2021: Added 50+ practical papers, restructured and cleaned up the tables
 - August 11, 2021: Added bibtex info to practical works, added action anticipation

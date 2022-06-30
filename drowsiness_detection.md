@@ -2,7 +2,7 @@
 <a href=README.md/#top><l style="font-size:30px">Home</l></a>&nbsp;&nbsp;| <a href=behavioral.md><l style="font-size:30px">Behavioral</l></a>&nbsp;&nbsp;| <l style="font-size:35px">Applications</l>&nbsp;&nbsp;| <a href=datasets.md><l style="font-size:30px">Datasets</l></a>&nbsp;&nbsp;
 ---
 
-[Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| Drowsiness detection&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;
+[Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| Drowsiness detection&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
 <ul><a name=2021_T-ITS_Bakker></a>
@@ -73,6 +73,23 @@ Dataset(s): private
 </pre>
 </ul>
 </ul>
+<ul><a name=2020_IROS_Tran></a>
+<details close>
+<summary>Tran et al., Real-time Detection of Distracted Driving using Dual Cameras, IROS, 2020 | <a href=https://doi.org/10.1109/IROS45743.2020.9340921>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2020_IROS_Tran,
+    author = "Tran, Duy and Do, Ha Manh and Lu, Jiaxing and Sheng, Weihua",
+    title = "Real-time Detection of Distracted Driving using Dual Cameras",
+    booktitle = "IROS",
+    year = "2020"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2020_ICPR_Vijay></a>
 <details close>
 <summary>Vijay et al., Real-Time Driver Drowsiness Detection using Facial Action Units, ICPR, 2020 | <a href=https://doi.org/10.1109/ICPR48806.2021.9412288>paper</a></summary>
@@ -86,6 +103,46 @@ Dataset(s): <a href=datasets.md#DDD>DDD</a>
     title = "Real-Time Driver Drowsiness Detection using Facial Action Units",
     booktitle = "ICPR",
     year = "2021"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2019_T-ITS_Chiou></a>
+<details close>
+<summary>Chiou et al., Driver Monitoring Using Sparse Representation With Part-Based Temporal Face Descriptors, Trans. ITS, 2019 | <a href=https://doi.org/10.1109/TITS.2019.2892155>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#YawDD>YawDD</a>, <a href=datasets.md#DDD>DDD</a>
+</ul>
+<ul>
+<pre>
+@article{2019_T-ITS_Chiou,
+    author = "Chiou, Chien-Yu and Wang, Wei-Cheng and Lu, Shueh-Chou and Huang, Chun-Rong and Chung, Pau-Choo and Lai, Yun-Yang",
+    title = "Driver monitoring using sparse representation with part-based temporal face descriptors",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    volume = "21",
+    number = "1",
+    pages = "346--361",
+    year = "2019"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2019_PRL_Wang></a>
+<details close>
+<summary>Wang et al., Eye gaze pattern analysis for fatigue detection based on GP-BCNN with ESM, Pattern Recognition Letters, 2019 | <a href=https://doi.org/10.1016/j.patrec.2019.03.013>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2019_PRL_Wang,
+    author = "Wang, Yan and Huang, Rui and Guo, Lei",
+    title = "Eye gaze pattern analysis for fatigue detection based on GP-BCNN with ESM",
+    journal = "Pattern Recognition Letters",
+    volume = "123",
+    pages = "61--74",
+    year = "2019",
+    publisher = "Elsevier"
 }
 </pre>
 </ul>
@@ -346,6 +403,23 @@ Dataset(s): private
 </pre>
 </ul>
 </ul>
+<ul><a name=2016_IV_Kim></a>
+<details close>
+<summary>Kim et al., Fusion of Driver-information Based Driver Status Recognition for Co-Pilot System, IV, 2016 | <a href=https://doi.org/10.1109/IVS.2016.7535573>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2016_IV_Kim,
+    author = "Kim, Jinwoo and Kim, Kitae and Yoon, Daesub and Koo, Yongbon and Han, Wooyong",
+    title = "Fusion of driver-information based driver status recognition for co-pilot system",
+    booktitle = "IV",
+    year = "2016"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2016_ApplSci_Choi></a>
 <details close>
 <summary>Choi et al., Tracking a Driver’s Face against Extreme Head Poses and Inference of Drowsiness Using a Hidden Markov Model, Applied Sciences, 2016 | <a href=https://doi.org/10.3390/app6050137>paper</a></summary>
@@ -437,6 +511,44 @@ Dataset(s): private
 </pre>
 </ul>
 </ul>
+<ul><a name=2013_T-ITS_Mbouna></a>
+<details close>
+<summary>Mbouna et al., Visual Analysis of Eye State and Head Pose for Driver Alertness Monitoring, Trans. ITS, 2013 | <a href=https://doi.org/10.1109/TITS.2013.2262098>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#BU HeadTracking>BU HeadTracking</a>, private
+</ul>
+<ul>
+<pre>
+@article{2013_T-ITS_Mbouna,
+    author = "Mbouna, Ralph Oyini and Kong, Seong G and Chun, Myung-Geun",
+    title = "Visual analysis of eye state and head pose for driver alertness monitoring",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    volume = "14",
+    number = "3",
+    pages = "1462--1469",
+    year = "2013"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2013_IV_Masala></a>
+<details close>
+<summary>Masala et al., Detecting Driver Inattention by Rough Iconic Classification, IV, 2013 | <a href=https://doi.org/10.1109/IVS.2013.6629583>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2013_IV_Masala,
+    author = "Masala, Giovanni Luca and Grosso, Enrico",
+    title = "Detecting driver inattention by rough iconic classification",
+    booktitle = "IEEE Intelligent Vehicles Symposium (IV)",
+    pages = "913--918",
+    year = "2013"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2013_IV_Li></a>
 <details close>
 <summary>Li et al., Vision-based Estimation of Driver Drowsiness with ORD Model Using Evidence Theory, IV, 2013 | <a href=https://doi.org/10.1109/IVS.2013.6629543>paper</a></summary>
@@ -524,6 +636,47 @@ Dataset(s): private
 </pre>
 </ul>
 </ul>
+<ul><a name=2011_OptEng_Jo></a>
+<details close>
+<summary>Jo et al., Vision-based method for detecting driver drowsiness and distraction in driver monitoring system, Optical Engineering, 2011 | <a href=https://doi.org/10.1117/1.3657506>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2011_OptEng_Jo,
+    author = "Jo, Jaeik and Lee, Sung Joo and Kim, Jaihie and Jung, Ho Gi and Park, Kang Ryoung",
+    title = "Vision-based method for detecting driver drowsiness and distraction in driver monitoring system",
+    journal = "Optical Engineering",
+    volume = "50",
+    number = "12",
+    pages = "127202",
+    year = "2011"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2011_IET_Flores></a>
+<details close>
+<summary>Flores et al., Driver drowsiness detection system under infrared illumination for an intelligent vehicle, IET Intelligent Transport Systems, 2011 | <a href=https://doi.org/10.1049/iet-its.2009.0090>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2011_IET_Flores,
+    author = "Flores, Marco Javier and Armingol, J Ma and de la Escalera, Arturo",
+    title = "Driver drowsiness detection system under infrared illumination for an intelligent vehicle",
+    journal = "IET Intelligent Transport Systems",
+    volume = "5",
+    number = "4",
+    pages = "241--251",
+    year = "2011",
+    publisher = "IET"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2010_PRL_Fan></a>
 <details close>
 <summary>Fan et al., Gabor-based dynamic representation for human fatigue monitoring in facial image sequences, Pattern Recognition Letter, 2010 | <a href=https://doi.org/10.1016/j.patrec.2009.08.014>paper</a></summary>
@@ -578,139 +731,6 @@ Dataset(s): private
     title = "Camera-based drowsiness reference for driver state classification under real driving conditions",
     booktitle = "IV",
     year = "2010"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2020_IROS_Tran></a>
-<details close>
-<summary>Tran et al., Real-time Detection of Distracted Driving using Dual Cameras, IROS, 2020 | <a href=https://doi.org/10.1109/IROS45743.2020.9340921>paper</a></summary>
-<ul>
-Dataset(s): private
-</ul>
-<ul>
-<pre>
-@inproceedings{2020_IROS_Tran,
-    author = "Tran, Duy and Do, Ha Manh and Lu, Jiaxing and Sheng, Weihua",
-    title = "Real-time Detection of Distracted Driving using Dual Cameras",
-    booktitle = "IROS",
-    year = "2020"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2019_T-ITS_Chiou></a>
-<details close>
-<summary>Chiou et al., Driver Monitoring Using Sparse Representation With Part-Based Temporal Face Descriptors, Trans. ITS, 2019 | <a href=https://doi.org/10.1109/TITS.2019.2892155>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets.md#YawDD>YawDD</a>, <a href=datasets.md#DDD>DDD</a>
-</ul>
-<ul>
-<pre>
-@article{2019_T-ITS_Chiou,
-    author = "Chiou, Chien-Yu and Wang, Wei-Cheng and Lu, Shueh-Chou and Huang, Chun-Rong and Chung, Pau-Choo and Lai, Yun-Yang",
-    title = "Driver monitoring using sparse representation with part-based temporal face descriptors",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "21",
-    number = "1",
-    pages = "346--361",
-    year = "2019"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2016_IV_Kim></a>
-<details close>
-<summary>Kim et al., Fusion of Driver-information Based Driver Status Recognition for Co-Pilot System, IV, 2016 | <a href=https://doi.org/10.1109/IVS.2016.7535573>paper</a></summary>
-<ul>
-Dataset(s): private
-</ul>
-<ul>
-<pre>
-@inproceedings{2016_IV_Kim,
-    author = "Kim, Jinwoo and Kim, Kitae and Yoon, Daesub and Koo, Yongbon and Han, Wooyong",
-    title = "Fusion of driver-information based driver status recognition for co-pilot system",
-    booktitle = "IV",
-    year = "2016"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2013_IV_Masala></a>
-<details close>
-<summary>Masala et al., Detecting Driver Inattention by Rough Iconic Classification, IV, 2013 | <a href=https://doi.org/10.1109/IVS.2013.6629583>paper</a></summary>
-<ul>
-Dataset(s): private
-</ul>
-<ul>
-<pre>
-@inproceedings{2013_IV_Masala,
-    author = "Masala, Giovanni Luca and Grosso, Enrico",
-    title = "Detecting driver inattention by rough iconic classification",
-    booktitle = "IEEE Intelligent Vehicles Symposium (IV)",
-    pages = "913--918",
-    year = "2013"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2013_T-ITS_Mbouna></a>
-<details close>
-<summary>Mbouna et al., Visual Analysis of Eye State and Head Pose for Driver Alertness Monitoring, Trans. ITS, 2013 | <a href=https://doi.org/10.1109/TITS.2013.2262098>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets.md#BU HeadTracking>BU HeadTracking</a>, private
-</ul>
-<ul>
-<pre>
-@article{2013_T-ITS_Mbouna,
-    author = "Mbouna, Ralph Oyini and Kong, Seong G and Chun, Myung-Geun",
-    title = "Visual analysis of eye state and head pose for driver alertness monitoring",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "14",
-    number = "3",
-    pages = "1462--1469",
-    year = "2013"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2011_OptEng_Jo></a>
-<details close>
-<summary>Jo et al., Vision-based method for detecting driver drowsiness and distraction in driver monitoring system, Optical Engineering, 2011 | <a href=https://doi.org/10.1117/1.3657506>paper</a></summary>
-<ul>
-Dataset(s): private
-</ul>
-<ul>
-<pre>
-@article{2011_OptEng_Jo,
-    author = "Jo, Jaeik and Lee, Sung Joo and Kim, Jaihie and Jung, Ho Gi and Park, Kang Ryoung",
-    title = "Vision-based method for detecting driver drowsiness and distraction in driver monitoring system",
-    journal = "Optical Engineering",
-    volume = "50",
-    number = "12",
-    pages = "127202",
-    year = "2011"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2011_IET_Flores></a>
-<details close>
-<summary>Flores et al., Driver drowsiness detection system under infrared illumination for an intelligent vehicle, IET Intelligent Transport Systems, 2011 | <a href=https://doi.org/10.1049/iet-its.2009.0090>paper</a></summary>
-<ul>
-Dataset(s): private
-</ul>
-<ul>
-<pre>
-@article{2011_IET_Flores,
-    author = "Flores, Marco Javier and Armingol, J Ma and de la Escalera, Arturo",
-    title = "Driver drowsiness detection system under infrared illumination for an intelligent vehicle",
-    journal = "IET Intelligent Transport Systems",
-    volume = "5",
-    number = "4",
-    pages = "241--251",
-    year = "2011",
-    publisher = "IET"
 }
 </pre>
 </ul>
