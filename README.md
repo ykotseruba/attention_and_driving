@@ -34,6 +34,13 @@ If you notice any errors or missing papers and code, please post an issue on thi
 If you used this repository in your research, please cite:
 
 ```
+@article{kotseruba2022practical,
+  title={Attention for Vision-Based Assistive and Automated Driving: A Review of Algorithms and Datasets},
+  author={Kotseruba, Iuliia and Tsotsos, John K},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2022}
+}
+
 @article{kotseruba2021behavioral,
   title={Behavioral Research and Practical Models of Drivers' Attention},
   author={Kotseruba, Iuliia and Tsotsos, John K},
@@ -49,6 +56,7 @@ This work is greatly inspired by the database for vision-based action prediction
 
 ## Updates
 
+- July 13, 2022: added link and citation information for the survey of practical applications
 - June 29, 2022: added papers with code
 - June 2, 2022: restructured the tables into lists, old version is available in previous branch
 - November 7, 2021: Added 50+ practical papers, restructured and cleaned up the tables
