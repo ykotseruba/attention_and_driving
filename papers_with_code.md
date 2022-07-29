@@ -28,6 +28,79 @@ Dataset(s): <a href=datasets.md#Brain4Cars>Brain4Cars</a>
 
 ### Scene gaze
 
+<ul><a name=2022_T-ITS_Li></a>
+<details close>
+<summary>Li et al., Adaptive Short-Temporal Induced Aware Fusion Network for Predicting Attention Regions Like a Driver, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3165619>paper</a> | <a href=https://github.com/liuchunsense/ASIAFnet>code</a></summary>
+<ul>
+Dataset(s): BDD-A, <a href=datasets.md#DADA-2000>DADA-2000</a>, <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>
+</ul>
+<ul>
+<pre>
+@article{2022_T-ITS_Li,
+    author = "Li, Qiang and Liu, Chunsheng and Chang, Faliang and Li, Shuang and Liu, Hui and Liu, Zehao",
+    title = "Adaptive Short-Temporal Induced Aware Fusion Network for Predicting Attention Regions Like a Driver",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    year = "2022",
+    publisher = "IEEE"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_T-ITS_Fang></a>
+<details close>
+<summary>Fang et al., DADA: Driver Attention Prediction in Driving Accident Scenarios, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2020.3044678>paper</a> | <a href=https://github.com/JWFangit/LOTVS-DADA>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#DADA-2000>DADA-2000</a>
+</ul>
+<ul>
+<pre>
+@article{2022_T-ITS_Fang,
+    author = "Fang, Jianwu and Yan, Dingxin and Qiao, Jiahuan and Xue, Jianru and Yu, Hongkai",
+    title = "DADA: Driver attention prediction in driving accident scenarios",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    year = "2021",
+    publisher = "IEEE"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_IV_Araluce></a>
+<details close>
+<summary>Araluce et al., ARAGAN: A dRiver Attention estimation model based on conditional Generative Adversarial Network, IV, 2022 | <a href=https://doi.org/10.1109/IV51971.2022.9827175>paper</a> | <a href=https://github.com/javierAraluce/ARAGAN>code</a></summary>
+<ul>
+Dataset(s): BDD-A, <a href=datasets.md#DADA-2000>DADA-2000</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_IV_Araluce,
+    author = "Araluce, Javier and Bergasa, Luis M and Oca{\\textasciitilde n}a, Manuel and Barea, Rafael and L{\'o}pez-Guill{\'e}n, Elena and Revenga, Pedro",
+    title = "ARAGAN: A dRiver Attention estimation model based on conditional Generative Adversarial Network",
+    booktitle = "IV",
+    pages = "1066--1072",
+    year = "2022",
+    organization = "IEEE"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2021_ICCVW_Gopinath></a>
+<details close>
+<summary>Gopinath et al., MAAD: A Model and Dataset for “Attended Awareness” in Driving, ICCVW, 2021 | <a href=https://openaccess.thecvf.com/content/ICCV2021W/EPIC/papers/Gopinath_MAAD_A_Model_and_Dataset_for_Attended_Awareness_in_Driving_ICCVW_2021_paper.pdf>paper</a> | <a href=https://github.com/ToyotaResearchInstitute/att-aware/>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#MAAD>MAAD</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2021_ICCVW_Gopinath,
+    author = "Gopinath, Deepak and Rosman, Guy and Stent, Simon and Terahata, Katsuya and Fletcher, Luke and Argall, Brenna and Leonard, John",
+    title = {MAAD: A Model and Dataset for" Attended Awareness" in Driving},
+    booktitle = "ICCVW",
+    pages = "3426--3436",
+    year = "2021"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2021_ICCV_Baee></a>
 <details close>
 <summary>Baee et al., MEDIRL: Predicting the Visual Attention of Drivers via Maximum Entropy Deep Inverse Reinforcement Learning, ICCV, 2021 | <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Baee_MEDIRL_Predicting_the_Visual_Attention_of_Drivers_via_Maximum_Entropy_ICCV_2021_paper.pdf>paper</a> | <a href=https://github.com/soniabaee/MEDIRL-EyeCar>code</a></summary>
@@ -40,23 +113,6 @@ Dataset(s): Eyecar
     author = "Baee, Sonia and Pakdamanian, Erfan and Kim, Inki and Feng, Lu and Ordonez, Vicente and Barnes, Laura",
     title = "MEDIRL: Predicting the visual attention of drivers via maximum entropy deep inverse reinforcement learning",
     booktitle = "ICCV",
-    year = "2021"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2021_T-ITS_Fang></a>
-<details close>
-<summary>Fang et al., DADA: Driver Attention Prediction in Driving Accident Scenarios, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2020.3044678>paper</a> | <a href=https://github.com/JWFangit/LOTVS-DADA>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#DADA-2000>DADA-2000</a>
-</ul>
-<ul>
-<pre>
-@article{2021_T-ITS_Fang,
-    author = "Fang, Jianwu and Yan, Dingxin and Qiao, Jiahuan and Xue, Jianru and Yu, Hongkai",
-    title = "DADA: Driver Attention Prediction in Driving Accident Scenarios",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
     year = "2021"
 }
 </pre>
@@ -289,6 +345,30 @@ Dataset(s): private
 </ul>
 </ul>
 
+### Driver awareness
+
+<ul><a name=2022_T-ITS_Zhou></a>
+<details close>
+<summary>Zhou et al., Using Eye-Tracking Data to Predict Situation Awareness in Real Time During Takeover Transitions in Conditionally Automated Driving, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3069776>paper</a> | <a href=https://github.com/refengchou/Situation-awareness-prediction>code</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2022_T-ITS_Zhou,
+    author = "Zhou, Feng and Yang, X Jessie and de Winter, Joost CF",
+    title = "Using eye-tracking data to predict situation awareness in real time during takeover transitions in conditionally automated driving",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    volume = "23",
+    number = "3",
+    pages = "2284--2295",
+    year = "2021",
+    publisher = "IEEE"
+}
+</pre>
+</ul>
+</ul>
+
 ### Self-driving
 
 <ul><a name=2021_ICCV_Chitta></a>
@@ -342,23 +422,6 @@ Dataset(s): BDD-X, BDD-A, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>
 </pre>
 </ul>
 </ul>
-<ul><a name=2020_CVPR_Kim></a>
-<details close>
-<summary>Kim et al., Advisable Learning for Self-driving Vehicles by Internalizing Observation-to-Action Rules, CVPR, 2020 | <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Advisable_Learning_for_Self-Driving_Vehicles_by_Internalizing_Observation-to-Action_Rules_CVPR_2020_paper.pdf>paper</a> | <a href=https://github.com/JinkyuKimUCB/advisable-driving>code</a></summary>
-<ul>
-Dataset(s): BDD-X, CARLA
-</ul>
-<ul>
-<pre>
-@inproceedings{2020_CVPR_Kim,
-    author = "Kim, Jinkyu and Moon, Suhong and Rohrbach, Anna and Darrell, Trevor and Canny, John",
-    title = "Advisable learning for self-driving vehicles by internalizing observation-to-action rules",
-    booktitle = "CVPR",
-    year = "2020"
-}
-</pre>
-</ul>
-</ul>
 <ul><a name=2020_ECCVW_Mittal></a>
 <details close>
 <summary>Mittal et al., AttnGrounder: Talking to Cars with Attention, ECCVW, 2020 | <a href=https://doi.org/10.1007/978-3-030-66096-3_6>paper</a> | <a href=https://github.com/i-m-vivek/AttnGrounder>code</a></summary>
@@ -371,6 +434,23 @@ Dataset(s): Talk2Car
     author = "Mittal, Vivek",
     title = "Attngrounder: Talking to cars with attention",
     booktitle = "ECCV",
+    year = "2020"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2020_CVPR_Kim></a>
+<details close>
+<summary>Kim et al., Advisable Learning for Self-driving Vehicles by Internalizing Observation-to-Action Rules, CVPR, 2020 | <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Advisable_Learning_for_Self-Driving_Vehicles_by_Internalizing_Observation-to-Action_Rules_CVPR_2020_paper.pdf>paper</a> | <a href=https://github.com/JinkyuKimUCB/advisable-driving>code</a></summary>
+<ul>
+Dataset(s): BDD-X, CARLA
+</ul>
+<ul>
+<pre>
+@inproceedings{2020_CVPR_Kim,
+    author = "Kim, Jinkyu and Moon, Suhong and Rohrbach, Anna and Darrell, Trevor and Canny, John",
+    title = "Advisable learning for self-driving vehicles by internalizing observation-to-action rules",
+    booktitle = "CVPR",
     year = "2020"
 }
 </pre>

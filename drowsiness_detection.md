@@ -5,6 +5,82 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| Drowsiness detection&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2022_T-ITS_Luo></a>
+<details close>
+<summary>Luo et al., Detecting Driver Cognition Alertness State From Visual Activities in Normal and Emergency Scenarios, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3166251>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2022_T-ITS_Luo,
+    author = "Luo, Longxi and Wu, Jianping and Fei, Weijie and Bi, Luzheng and Fan, Xinan",
+    title = "Detecting Driver Cognition Alertness State From Visual Activities in Normal and Emergency Scenarios",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    year = "2022",
+    publisher = "IEEE"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_T-ITS_Bakker></a>
+<details close>
+<summary>Bakker et al., A Multi-Stage, Multi-Feature Machine Learning Approach to Detect Driver Sleepiness in Naturalistic Road Driving Conditions, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2021.3090272>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2022_T-ITS_Bakker,
+    author = {Bakker, Bram and Zab{\l}ocki, Bartosz and Baker, Angela and Riethmeister, Vanessa and Marx, Bernd and Iyer, Girish and Anund, Anna and Ahlstr{\"o}m, Christer},
+    title = "A multi-stage, multi-feature machine learning approach to detect driver sleepiness in naturalistic road driving conditions",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    volume = "23",
+    number = "5",
+    pages = "4791--4800",
+    year = "2021",
+    publisher = "IEEE"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_IV_Lollett></a>
+<details close>
+<summary>Lollett et al., Driver’s Drowsiness Classifier using a Single-Camera Robust to Mask-wearing Situations using an Eyelid, Lower-Face Contour, and Chest Movement Feature Vector GRU-based Model, IV, 2022 | <a href=https://doi.org/10.1109/IV51971.2022.9827229>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_IV_Lollett,
+    author = "Lollett, Catherine and Kamezaki, Mitsuhiro and Sugano, Shigeki",
+    title = "Driver’s Drowsiness Classifier using a Single-Camera Robust to Mask-wearing Situations using an Eyelid, Lower-Face Contour, and Chest Movement Feature Vector GRU-based Model",
+    booktitle = "IV",
+    pages = "519--526",
+    year = "2022",
+    organization = "IEEE"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2021_T-ITS_Du></a>
+<details close>
+<summary>Du et al., A Multimodal Fusion Fatigue Driving Detection Method Based on Heart Rate and PERCLOS, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2022.3176973>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#RLDD>RLDD</a>
+</ul>
+<ul>
+<pre>
+@article{2021_T-ITS_Du,
+    author = "Du, Guanglong and Zhang, Linlin and Su, Kang and Wang, Xueqian and Teng, Shaohua and Liu, Peter X",
+    title = "A Multimodal Fusion Fatigue Driving Detection Method Based on Heart Rate and PERCLOS",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    year = "2022",
+    publisher = "IEEE"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2021_T-ITS_Bakker></a>
 <details close>
 <summary>Bakker et al., A Multi-Stage, Multi-Feature Machine Learning Approach to Detect Driver Sleepiness in Naturalistic Road Driving Conditions, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3090272>paper</a></summary>
@@ -18,6 +94,42 @@ Dataset(s): private
     title = "A multi-stage, multi-feature machine learning approach to detect driver sleepiness in naturalistic road driving conditions",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     year = "2021"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2021_T-ITS_Ansari></a>
+<details close>
+<summary>Ansari et al., Driver Mental Fatigue Detection Based on Head Posture Using New Modified reLU-BiLSTM Deep Neural Network, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3098309>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2021_T-ITS_Ansari,
+    author = "Ansari, Shahzeb and Naghdy, Fazel and Du, Haiping and Pahnwar, Yasmeen Naz",
+    title = "Driver mental fatigue detection based on head posture using new modified reLU-BiLSTM deep neural network",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    year = "2021",
+    publisher = "IEEE"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2021_T-ITS_Ahmed></a>
+<details close>
+<summary>Ahmed et al., Intelligent Driver Drowsiness Detection for Traffic Safety Based on Multi CNN Deep Model and Facial Subsampling, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3134222>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#DDD>DDD</a>
+</ul>
+<ul>
+<pre>
+@article{2021_T-ITS_Ahmed,
+    author = "Ahmed, Muneeb and Masood, Sarfaraz and Ahmad, Musheer and Abd El-Latif, Ahmed A",
+    title = "Intelligent Driver Drowsiness Detection for Traffic Safety Based on Multi CNN Deep Model and Facial Subsampling",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    year = "2021",
+    publisher = "IEEE"
 }
 </pre>
 </ul>

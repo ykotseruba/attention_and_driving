@@ -5,6 +5,25 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| In-vehicle gaze&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2022_IV_Bieg></a>
+<details close>
+<summary>Bieg et al., Comparison of Video-based Driver Gaze Region Estimation Techniques, IV, 2022 | <a href=https://doi.org/10.1109/IV51971.2022.9827145>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_IV_Bieg,
+    author = "Bieg, Hans-Joachim and Strobel, Simon and Fischer, Matthias S and La{\ss}mann, Paula",
+    title = "Comparison of Video-based Driver Gaze Region Estimation Techniques",
+    booktitle = "IV",
+    pages = "382--389",
+    year = "2022",
+    organization = "IEEE"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2021_T-ITS_Huang></a>
 <details close>
 <summary>Huang et al., Driver Glance Behavior Modeling based on Semi-supervised Clustering and Piecewise Aggregate Representation, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3080322>paper</a></summary>
@@ -19,6 +38,25 @@ Dataset(s): private
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     year = "2021",
     publisher = "IEEE"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2021_IV_Lollett></a>
+<details close>
+<summary>Lollett et al., Towards a Driver’s Gaze Zone Classifier using a Single Camera Robust to Temporal and Permanent Face Occlusions, IV, 2021 | <a href=https://doi.org/0.1109/IV48863.2021.9575367>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2021_IV_Lollett,
+    author = "Lollett, Catherine and Kamezaki, Mitsuhiro and Sugano, Shigeki",
+    title = "Towards a Driver's Gaze Zone Classifier using a Single Camera Robust to Temporal and Permanent Face Occlusions",
+    booktitle = "IV",
+    pages = "578--585",
+    year = "2021",
+    organization = "IEEE"
 }
 </pre>
 </ul>

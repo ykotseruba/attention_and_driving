@@ -3,6 +3,130 @@
 ---
 
 *Click on each entry below to see additional information.*
+<a name=DGDB></a>
+<details close>
+<summary>DGDB | <a href=https://arxiv.org/pdf/2204.08096v1.pdf>paper</a> | <a href=https://data.mendeley.com/datasets/ptcp7rp3wb/1>link</a></summary>
+<ul>
+Description: Synthetic dataset for machine learning models to detect and analyze drivers' various distracted behavior and different gaze zones. 
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: gaze area labels, action labels, appearance labels
+</ul>
+<ul>
+<pre>
+@article{2022_arXiv_Rahman,
+    author = "Rahman, Mohammed Shaiqur and Venkatachalapathy, Archana and Sharma, Anuj and Wang, Jiyang and Gursoy, Senem Velipasalar and Anastasiu, David and Wang, Shuo",
+    title = "Dataset for Analyzing Various Gaze Zones and Distracted Behaviors of a Driver",
+    journal = "arXiv:2204.08096",
+    year = "2022"
+}
+</pre>
+</details>
+</ul>
+
+<a name=DAD></a>
+<details close>
+<summary>DAD | <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Kopuklu_Driver_Anomaly_Detection_A_Dataset_and_Contrastive_Learning_Approach_WACV_2021_paper.pdf>paper</a> | <a href=https://github.com/okankop/Driver-Anomaly-Detection>link</a></summary>
+<ul>
+Description: Videos of normal and anomalous behaviors (manual/visual distractions) of drivers.
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: action labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2021_WACV_Kopuklu,
+    author = "Kopuklu, Okan and Zheng, Jiapeng and Xu, Hang and Rigoll, Gerhard",
+    title = "Driver anomaly detection: A dataset and contrastive learning approach",
+    booktitle = "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision",
+    pages = "91--100",
+    year = "2021"
+}
+</pre>
+</details>
+</ul>
+
+<a name=VADD></a>
+<details close>
+<summary>VADD | <a href=https://doi.org/10.1109/TITS.2021.3053178>paper</a> | <a href=https://github.com/epan-utbm/VADD-Saliency-Dataset>link</a></summary>
+<ul>
+Description: Data is not available
+</ul>
+<ul>
+<pre>
+@article{2021_T-ITS_Lateef,
+    author = "Lateef, Fahad and Kas, Mohamed and Ruichek, Yassine",
+    title = "Saliency heat-map as visual attention for autonomous driving using generative adversarial network (gan)",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    year = "2021"
+}
+</pre>
+</details>
+</ul>
+
+<a name=MAAD></a>
+<details close>
+<summary>MAAD | <a href=https://openaccess.thecvf.com/content/ICCV2021W/EPIC/papers/Gopinath_MAAD_A_Model_and_Dataset_for_Attended_Awareness_in_Driving_ICCVW_2021_paper.pdf>paper</a> | <a href=https://github.com/ToyotaResearchInstitute/att-aware/>link</a></summary>
+<ul>
+Description: A subset of videos from DR(eye)VE annotated with gaze collected in lab conditions.
+</ul>
+</summary>
+<ul>
+Data: eye-tracking, scene video
+</ul>
+</summary>
+<ul>
+Annotations: task labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2021_ICCVW_Gopinath,
+    author = "Gopinath, Deepak and Rosman, Guy and Stent, Simon and Terahata, Katsuya and Fletcher, Luke and Argall, Brenna and Leonard, John",
+    title = {MAAD: A Model and Dataset for" Attended Awareness" in Driving},
+    booktitle = "ICCVW",
+    pages = "3426--3436",
+    year = "2021"
+}
+</pre>
+</details>
+</ul>
+
+<a name=DGW></a>
+<details close>
+<summary>DGW | <a href=https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Ghosh_Speak2Label_Using_Domain_Knowledge_for_Creating_a_Large_Scale_Driver_ICCVW_2021_paper.pdf>paper</a> | <a href=https://sites.google.com/view/drivergazeprediction/home>link</a></summary>
+<ul>
+Description: Videos of drivers fixating on different areas in the vehicle without constraining their head and eye movements
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: gaze area labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2021_ICCVW_Ghosh,
+    author = "Ghosh, Shreya and Dhall, Abhinav and Sharma, Garima and Gupta, Sarthak and Sebe, Nicu",
+    title = "Speak2label: Using domain knowledge for creating a large scale driver gaze zone estimation dataset",
+    booktitle = "ICCVW",
+    year = "2021"
+}
+</pre>
+</details>
+</ul>
+
 <a name=TrafficSaliency></a>
 <details close>
 <summary>TrafficSaliency | <a href=https://doi.org/10.1109/TITS.2019.2915540>paper</a> | <a href=https://github.com/taodeng/CDNN-traffic-saliency>link</a></summary>
@@ -29,190 +153,23 @@ Data: eye-tracking, scene video
 </details>
 </ul>
 
-<a name=DADA-2000></a>
+<a name=NeuroIV></a>
 <details close>
-<summary>DADA-2000 | <a href=https://doi.org/10.1109/ITSC.2019.8917218>paper</a> | <a href=https://github.com/JWFangit/LOTVS-DADA>link</a></summary>
+<summary>NeuroIV | <a href=https://doi.org/10.1109/TITS.2020.3022921>paper</a> | <a href=https://github.com/ispc-lab/NeuroIV>link</a></summary>
 <ul>
-Description: 2000 videos of accident videos collected from video hosting websites with eye-tracking data from 20 subjects collected in the lab.
+Description: Videos of drivers performing secondary tasks, making hand gestures and observing different regions inside the vehicle recorded with DAVIS and depth sensor
 </ul>
 </summary>
 <ul>
-Data: eye-tracking, scene video
-</ul>
-</summary>
-<ul>
-Annotations: bounding boxes, accident category labels
+Data: driver video
 </ul>
 <ul>
 <pre>
-@inproceedings{2019_ITSC_Fang,
-    author = "Fang, Jianwu and Yan, Dingxin and Qiao, Jiahuan and Xue, Jianru and Wang, He and Li, Sen",
-    title = "{DADA-2000: Can Driving Accident be Predicted by Driver Attentionƒ Analyzed by A Benchmark}",
-    booktitle = "ITSC",
-    year = "2019"
-}
-</pre>
-</details>
-</ul>
-
-<a name=PRORETA 4></a>
-<details close>
-<summary>PRORETA 4 | <a href=https://doi.org/10.1109/IVS.2019.8814224>paper</a> | <a href=https://www.proreta.tu-darmstadt.de/proreta_1_4/proreta4_1/datasets_1/index.en.jsp>link</a></summary>
-<ul>
-Description: Videos of traffic scenes recorded in instrumented vehicle with driver’s gaze data for evaluating accuracy of detecting driver’s current object of fixation
-</ul>
-</summary>
-<ul>
-Data: eye-tracking, driver video, scene video
-</ul>
-<ul>
-<pre>
-@inproceedings{2019_IV_Schwehr,
-    author = "Schwehr, Julian and Knaust, Moritz and Willert, Volker",
-    title = "How to evaluate object-of-fixation detection",
-    booktitle = "IV",
-    year = "2019"
-}
-</pre>
-</details>
-</ul>
-
-<a name=DR(eye)VE></a>
-<details close>
-<summary>DR(eye)VE | <a href=https://doi.org/10.1109/TPAMI.2018.2845370>paper</a> | <a href=http://imagelab.ing.unimore.it/dreyeve>link</a></summary>
-<ul>
-Description: Driving videos recorded on-road with corresponding gaze data of the driver
-</ul>
-</summary>
-<ul>
-Data: eye-tracking, scene video, vehicle data
-</ul>
-</summary>
-<ul>
-Annotations: weather and road type labels
-</ul>
-<ul>
-<pre>
-@article{2018_PAMI_Palazzi,
-    author = "Palazzi, Andrea and Abati, Davide and Solera, Francesco and Cucchiara, Rita and others",
-    title = "{Predicting the Driver's Focus of Attention: the DR (eye) VE Project}",
-    journal = "IEEE TPAMI",
-    volume = "41",
-    number = "7",
-    pages = "1720--1733",
-    year = "2018"
-}
-</pre>
-</details>
-</ul>
-
-<a name=BBD-A></a>
-<details close>
-<summary>BBD-A | <a href=https://doi.org/10.1007/978-3-030-20873-8_42>paper</a> | <a href=https://bdd-data.berkeley.edu/>link</a></summary>
-<ul>
-Description: A set of short video clips extracted from the Berkeley Deep Drive (BDD) dataset with additional eye-tracking data collected in the lab from 45 subjects
-</ul>
-</summary>
-<ul>
-Data: eye-tracking, scene video, vehicle data
-</ul>
-<ul>
-<pre>
-@inproceedings{2018_ACCV_Xia,
-    author = "Xia, Ye and Zhang, Danqing and Kim, Jinkyu and Nakayama, Ken and Zipser, Karl and Whitney, David",
-    title = "Predicting driver attention in critical situations",
-    booktitle = "ACCV",
-    year = "2018"
-}
-</pre>
-</details>
-</ul>
-
-<a name=C42CN></a>
-<details close>
-<summary>C42CN | <a href=https://doi.org/10.1038/sdata.2017.110>paper</a> | <a href=https://osf.io/c42cn/>link</a></summary>
-<ul>
-Description: A multi-modal dataset acquired in a controlled experiment on a driving simulator under 4 conditions: no distraction, cognitive, emotional and sensorimotor distraction.
-</ul>
-</summary>
-<ul>
-Data: eye-tracking, scene video, physiological signal
-</ul>
-<ul>
-<pre>
-@article{2017_NatSciData_Taamneh,
-    author = "Taamneh, Salah and Tsiamyrtzis, Panagiotis and Dcosta, Malcolm and Buddharaju, Pradeep and Khatri, Ashik and Manser, Michael and Ferris, Thomas and Wunderlich, Robert and Pavlidis, Ioannis",
-    title = "A multimodal dataset for various forms of distracted driving",
-    journal = "Scientific Data",
-    volume = "4",
-    pages = "170110",
-    year = "2017"
-}
-</pre>
-</details>
-</ul>
-
-<a name=TETD></a>
-<details close>
-<summary>TETD | <a href=https://doi.org/10.1109/TITS.2016.2535402>paper</a> | <a href=https://github.com/taodeng/traffic-eye-tracking-dataset>link</a></summary>
-<ul>
-Description: A set of 100 images of traffic scenes with corresponding eye-tracking data from 20 subjects
-</ul>
-</summary>
-<ul>
-Data: eye-tracking, scene images
-</ul>
-<ul>
-<pre>
-@article{2016_T-ITS_Deng,
-    author = "Deng, Tao and Yang, Kaifu and Li, Yongjie and Yan, Hongmei",
-    title = "Where does the driver look? Top-down-based saliency detection in a traffic driving environment",
+@article{2020_T-ITS_Chen,
+    author = {Chen, Guang and Wang, Fa and Li, Weijun and Hong, Lin and Conradt, J{\"o}rg and Chen, Jieneng and Zhang, Zhenyan and Lu, Yiwen and Knoll, Alois},
+    title = "NeuroIV: Neuromorphic vision meets intelligent vehicle towards safe driving with a new database and baseline evaluations",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "17",
-    number = "7",
-    pages = "2051--2062",
-    year = "2016",
-    publisher = "IEEE"
-}
-</pre>
-</details>
-</ul>
-
-<a name=3DDS></a>
-<details close>
-<summary>3DDS | <a href=http://www.bmva.org/bmvc/2011/proceedings/paper85/paper85.pdf>paper</a> | <a href=http://ilab.usc.edu/borji/Resources.html>link</a></summary>
-<ul>
-Description: Videos and eye-tracking data of people playing 3D driving simulator game
-</ul>
-</summary>
-<ul>
-Data: eye-tracking, scene video
-</ul>
-<ul>
-<pre>
-@inproceedings{2011_BMVC_Borji,
-    author = "Borji, Ali and Sihite, Dicky N and Itti, Laurent",
-    title = "Computational Modeling of Top-down Visual Attention in Interactive Environments.",
-    booktitle = "BMVC",
-    year = "2011"
-}
-</pre>
-</details>
-</ul>
-
-<a name=VADD></a>
-<details close>
-<summary>VADD | <a href=https://doi.org/10.1109/TITS.2021.3053178>paper</a> | <a href=https://github.com/epan-utbm/VADD-Saliency-Dataset>link</a></summary>
-<ul>
-Description: not available
-</ul>
-<ul>
-<pre>
-@article{2021_T-ITS_Lateef,
-    author = "Lateef, Fahad and Kas, Mohamed and Ruichek, Yassine",
-    title = "Saliency heat-map as visual attention for autonomous driving using generative adversarial network (gan)",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2021"
+    year = "2020"
 }
 </pre>
 </details>
@@ -266,32 +223,6 @@ Annotations: bounding boxes
 </details>
 </ul>
 
-<a name=DGW></a>
-<details close>
-<summary>DGW | <a href=https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Ghosh_Speak2Label_Using_Domain_Knowledge_for_Creating_a_Large_Scale_Driver_ICCVW_2021_paper.pdf>paper</a> | <a href=https://sites.google.com/view/drivergazeprediction/home>link</a></summary>
-<ul>
-Description: Videos of drivers fixating on different areas in the vehicle without constraining their head and eye movements
-</ul>
-</summary>
-<ul>
-Data: driver video
-</ul>
-</summary>
-<ul>
-Annotations: gaze area labels
-</ul>
-<ul>
-<pre>
-@inproceedings{2021_ICCVW_Ghosh,
-    author = "Ghosh, Shreya and Dhall, Abhinav and Sharma, Garima and Gupta, Sarthak and Sebe, Nicu",
-    title = "Speak2label: Using domain knowledge for creating a large scale driver gaze zone estimation dataset",
-    booktitle = "ICCVW",
-    year = "2021"
-}
-</pre>
-</details>
-</ul>
-
 <a name=DMD></a>
 <details close>
 <summary>DMD | <a href=https://doi.org/10.1007/978-3-030-66823-5_23>paper</a> | <a href=https://dmd.vicomtech.org/>link</a></summary>
@@ -318,23 +249,49 @@ Annotations: bounding boxes, action labels
 </details>
 </ul>
 
-<a name=NeuroIV></a>
+<a name=PRORETA 4></a>
 <details close>
-<summary>NeuroIV | <a href=https://doi.org/10.1109/TITS.2020.3022921>paper</a> | <a href=https://github.com/ispc-lab/NeuroIV>link</a></summary>
+<summary>PRORETA 4 | <a href=https://doi.org/10.1109/IVS.2019.8814224>paper</a> | <a href=https://www.proreta.tu-darmstadt.de/proreta_1_4/proreta4_1/datasets_1/index.en.jsp>link</a></summary>
 <ul>
-Description: Videos of drivers performing secondary tasks, making hand gestures and observing different regions inside the vehicle recorded with DAVIS and depth sensor
+Description: Videos of traffic scenes recorded in instrumented vehicle with driver’s gaze data for evaluating accuracy of detecting driver’s current object of fixation
 </ul>
 </summary>
 <ul>
-Data: driver video
+Data: eye-tracking, driver video, scene video
 </ul>
 <ul>
 <pre>
-@article{2020_T-ITS_Chen,
-    author = {Chen, Guang and Wang, Fa and Li, Weijun and Hong, Lin and Conradt, J{\"o}rg and Chen, Jieneng and Zhang, Zhenyan and Lu, Yiwen and Knoll, Alois},
-    title = "NeuroIV: Neuromorphic vision meets intelligent vehicle towards safe driving with a new database and baseline evaluations",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2020"
+@inproceedings{2019_IV_Schwehr,
+    author = "Schwehr, Julian and Knaust, Moritz and Willert, Volker",
+    title = "How to evaluate object-of-fixation detection",
+    booktitle = "IV",
+    year = "2019"
+}
+</pre>
+</details>
+</ul>
+
+<a name=DADA-2000></a>
+<details close>
+<summary>DADA-2000 | <a href=https://doi.org/10.1109/ITSC.2019.8917218>paper</a> | <a href=https://github.com/JWFangit/LOTVS-DADA>link</a></summary>
+<ul>
+Description: 2000 videos of accident videos collected from video hosting websites with eye-tracking data from 20 subjects collected in the lab.
+</ul>
+</summary>
+<ul>
+Data: eye-tracking, scene video
+</ul>
+</summary>
+<ul>
+Annotations: bounding boxes, accident category labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2019_ITSC_Fang,
+    author = "Fang, Jianwu and Yan, Dingxin and Qiao, Jiahuan and Xue, Jianru and Wang, He and Li, Sen",
+    title = "{DADA-2000: Can Driving Accident be Predicted by Driver Attentionƒ Analyzed by A Benchmark}",
+    booktitle = "ITSC",
+    year = "2019"
 }
 </pre>
 </details>
@@ -360,6 +317,32 @@ Annotations: semantic maps, action labels
     author = "Martin, Manuel and Roitberg, Alina and Haurilet, Monica and Horne, Matthias and Rei{\ss}, Simon and Voit, Michael and Stiefelhagen, Rainer",
     title = "Drive\\&act: A multi-modal dataset for fine-grained driver behavior recognition in autonomous vehicles",
     booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+</ul>
+
+<a name=RLDD></a>
+<details close>
+<summary>RLDD | <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/AMFG/Ghoddoosian_A_Realistic_Dataset_and_Baseline_Temporal_Model_for_Early_Drowsiness_CVPRW_2019_paper.pdf>paper</a> | <a href=https://github.com/rezaghoddoosian/Early-Drowsiness-Detection>link</a></summary>
+<ul>
+Description: Crowdsourced videos of people in various states of drowsiness recorded in indoor environments
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: drowsiness labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2019_CVPRW_Ghoddoosian,
+    author = "Ghoddoosian, Reza and Galib, Marnim and Athitsos, Vassilis",
+    title = "A realistic dataset and baseline temporal model for early drowsiness detection",
+    booktitle = "CVPRW",
     year = "2019"
 }
 </pre>
@@ -392,27 +375,30 @@ Annotations: goal and attention labels
 </details>
 </ul>
 
-<a name=RLDD></a>
+<a name=DR(eye)VE></a>
 <details close>
-<summary>RLDD | <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/AMFG/Ghoddoosian_A_Realistic_Dataset_and_Baseline_Temporal_Model_for_Early_Drowsiness_CVPRW_2019_paper.pdf>paper</a> | <a href=https://github.com/rezaghoddoosian/Early-Drowsiness-Detection>link</a></summary>
+<summary>DR(eye)VE | <a href=https://doi.org/10.1109/TPAMI.2018.2845370>paper</a> | <a href=http://imagelab.ing.unimore.it/dreyeve>link</a></summary>
 <ul>
-Description: Crowdsourced videos of people in various states of drowsiness recorded in indoor environments
+Description: Driving videos recorded on-road with corresponding gaze data of the driver
 </ul>
 </summary>
 <ul>
-Data: driver video
+Data: eye-tracking, scene video, vehicle data
 </ul>
 </summary>
 <ul>
-Annotations: drowsiness labels
+Annotations: weather and road type labels
 </ul>
 <ul>
 <pre>
-@inproceedings{2019_CVPRW_Ghoddoosian,
-    author = "Ghoddoosian, Reza and Galib, Marnim and Athitsos, Vassilis",
-    title = "A realistic dataset and baseline temporal model for early drowsiness detection",
-    booktitle = "CVPRW",
-    year = "2019"
+@article{2018_PAMI_Palazzi,
+    author = "Palazzi, Andrea and Abati, Davide and Solera, Francesco and Cucchiara, Rita and others",
+    title = "{Predicting the Driver's Focus of Attention: the DR (eye) VE Project}",
+    journal = "IEEE TPAMI",
+    volume = "41",
+    number = "7",
+    pages = "1720--1733",
+    year = "2018"
 }
 </pre>
 </details>
@@ -470,27 +456,47 @@ Annotations: bounding boxes, action labels
 </details>
 </ul>
 
-<a name=DDD></a>
+<a name=BBD-A></a>
 <details close>
-<summary>DDD | <a href=https://doi.org/10.1007/978-3-319-54526-4_9>paper</a> | <a href=http://cv.cs.nthu.edu.tw/php/callforpaper/datasets/DDD/>link</a></summary>
+<summary>BBD-A | <a href=https://doi.org/10.1007/978-3-030-20873-8_42>paper</a> | <a href=https://bdd-data.berkeley.edu/>link</a></summary>
 <ul>
-Description: Videos of human subjects simulating different levels of drowsiness while driving in a simulator
+Description: A set of short video clips extracted from the Berkeley Deep Drive (BDD) dataset with additional eye-tracking data collected in the lab from 45 subjects
 </ul>
 </summary>
 <ul>
-Data: driver video
-</ul>
-</summary>
-<ul>
-Annotations: drowsiness labels
+Data: eye-tracking, scene video, vehicle data
 </ul>
 <ul>
 <pre>
-@inproceedings{2017_ACCV_Weng,
-    author = "Weng, Ching-Hua and Lai, Ying-Hsiu and Lai, Shang-Hong",
-    title = "Driver drowsiness detection via a hierarchical temporal deep belief network",
+@inproceedings{2018_ACCV_Xia,
+    author = "Xia, Ye and Zhang, Danqing and Kim, Jinkyu and Nakayama, Ken and Zipser, Karl and Whitney, David",
+    title = "Predicting driver attention in critical situations",
     booktitle = "ACCV",
-    year = "2016"
+    year = "2018"
+}
+</pre>
+</details>
+</ul>
+
+<a name=C42CN></a>
+<details close>
+<summary>C42CN | <a href=https://doi.org/10.1038/sdata.2017.110>paper</a> | <a href=https://osf.io/c42cn/>link</a></summary>
+<ul>
+Description: A multi-modal dataset acquired in a controlled experiment on a driving simulator under 4 conditions: no distraction, cognitive, emotional and sensorimotor distraction.
+</ul>
+</summary>
+<ul>
+Data: eye-tracking, scene video, physiological signal
+</ul>
+<ul>
+<pre>
+@article{2017_NatSciData_Taamneh,
+    author = "Taamneh, Salah and Tsiamyrtzis, Panagiotis and Dcosta, Malcolm and Buddharaju, Pradeep and Khatri, Ashik and Manser, Michael and Ferris, Thomas and Wunderlich, Robert and Pavlidis, Ioannis",
+    title = "A multimodal dataset for various forms of distracted driving",
+    journal = "Scientific Data",
+    volume = "4",
+    pages = "170110",
+    year = "2017"
 }
 </pre>
 </details>
@@ -523,53 +529,27 @@ Annotations: occlusion, head pose, depth
 </details>
 </ul>
 
-<a name=DAD></a>
+<a name=DDD></a>
 <details close>
-<summary>DAD | <a href=https://doi.org/10.1007/978-3-319-54190-7_9>paper</a> | <a href=https://aliensunmin.github.io/project/dashcam/>link</a></summary>
+<summary>DDD | <a href=https://doi.org/10.1007/978-3-319-54526-4_9>paper</a> | <a href=http://cv.cs.nthu.edu.tw/php/callforpaper/datasets/DDD/>link</a></summary>
 <ul>
-Description: Videos of accidents recorded with dashboard cameras sourced from video hosting sites with annotations for accidents and road users involved in them
+Description: Videos of human subjects simulating different levels of drowsiness while driving in a simulator
 </ul>
 </summary>
 <ul>
-Data: scene video
+Data: driver video
 </ul>
 </summary>
 <ul>
-Annotations: bounding boxes, accident category labels
+Annotations: drowsiness labels
 </ul>
 <ul>
 <pre>
-@inproceedings{2016_ACCV_Chan,
-    author = "Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min",
-    title = "Anticipating accidents in dashcam videos",
+@inproceedings{2017_ACCV_Weng,
+    author = "Weng, Ching-Hua and Lai, Ying-Hsiu and Lai, Shang-Hong",
+    title = "Driver drowsiness detection via a hierarchical temporal deep belief network",
     booktitle = "ACCV",
     year = "2016"
-}
-</pre>
-</details>
-</ul>
-
-<a name=Brain4Cars></a>
-<details close>
-<summary>Brain4Cars | <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> | <a href=https://github.com/asheshjain399/ICCV2015_Brain4Cars>link</a></summary>
-<ul>
-Description: Synchronized videos from scene and driver-facing cameras of drivers performing various maneuvers in traffic
-</ul>
-</summary>
-<ul>
-Data: driver video, scene video, vehicle data
-</ul>
-</summary>
-<ul>
-Annotations: action labels
-</ul>
-<ul>
-<pre>
-@inproceedings{2015_ICCV_Jain,
-    author = "Jain, Ashesh and Koppula, Hema S and Raghavan, Bharad and Soh, Shane and Saxena, Ashutosh",
-    title = "Car that knows before you do: Anticipating maneuvers via learning temporal driving models",
-    booktitle = "ICCV",
-    year = "2015"
 }
 </pre>
 </details>
@@ -595,6 +575,58 @@ Annotations: drowsiness labels
     author = "Massoz, Quentin and Langohr, Thomas and Fran{\c{c}}ois, Cl{\'e}mentine and Verly, Jacques G",
     title = "The ULg multimodality drowsiness database (called DROZY) and examples of use",
     booktitle = "WACV",
+    year = "2016"
+}
+</pre>
+</details>
+</ul>
+
+<a name=TETD></a>
+<details close>
+<summary>TETD | <a href=https://doi.org/10.1109/TITS.2016.2535402>paper</a> | <a href=https://github.com/taodeng/traffic-eye-tracking-dataset>link</a></summary>
+<ul>
+Description: A set of 100 images of traffic scenes with corresponding eye-tracking data from 20 subjects
+</ul>
+</summary>
+<ul>
+Data: eye-tracking, scene images
+</ul>
+<ul>
+<pre>
+@article{2016_T-ITS_Deng,
+    author = "Deng, Tao and Yang, Kaifu and Li, Yongjie and Yan, Hongmei",
+    title = "Where does the driver look? Top-down-based saliency detection in a traffic driving environment",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    volume = "17",
+    number = "7",
+    pages = "2051--2062",
+    year = "2016",
+    publisher = "IEEE"
+}
+</pre>
+</details>
+</ul>
+
+<a name=DAD></a>
+<details close>
+<summary>DAD | <a href=https://doi.org/10.1007/978-3-319-54190-7_9>paper</a> | <a href=https://aliensunmin.github.io/project/dashcam/>link</a></summary>
+<ul>
+Description: Videos of accidents recorded with dashboard cameras sourced from video hosting sites with annotations for accidents and road users involved in them
+</ul>
+</summary>
+<ul>
+Data: scene video
+</ul>
+</summary>
+<ul>
+Annotations: bounding boxes, accident category labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2016_ACCV_Chan,
+    author = "Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min",
+    title = "Anticipating accidents in dashcam videos",
+    booktitle = "ACCV",
     year = "2016"
 }
 </pre>
@@ -627,6 +659,32 @@ Data: scene video, vehicle data
 </details>
 </ul>
 
+<a name=Brain4Cars></a>
+<details close>
+<summary>Brain4Cars | <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> | <a href=https://github.com/asheshjain399/ICCV2015_Brain4Cars>link</a></summary>
+<ul>
+Description: Synchronized videos from scene and driver-facing cameras of drivers performing various maneuvers in traffic
+</ul>
+</summary>
+<ul>
+Data: driver video, scene video, vehicle data
+</ul>
+</summary>
+<ul>
+Annotations: action labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2015_ICCV_Jain,
+    author = "Jain, Ashesh and Koppula, Hema S and Raghavan, Bharad and Soh, Shane and Saxena, Ashutosh",
+    title = "Car that knows before you do: Anticipating maneuvers via learning temporal driving models",
+    booktitle = "ICCV",
+    year = "2015"
+}
+</pre>
+</details>
+</ul>
+
 <a name=YawDD></a>
 <details close>
 <summary>YawDD | <a href=https://doi.org/10.1145/2557642.2563678>paper</a> | <a href=https://ieee-dataport.org/open-access/yawdd-yawning-detection-dataset>link</a></summary>
@@ -653,6 +711,28 @@ Annotations: bounding boxes, action labels
 </details>
 </ul>
 
+<a name=3DDS></a>
+<details close>
+<summary>3DDS | <a href=http://www.bmva.org/bmvc/2011/proceedings/paper85/paper85.pdf>paper</a> | <a href=http://ilab.usc.edu/borji/Resources.html>link</a></summary>
+<ul>
+Description: Videos and eye-tracking data of people playing 3D driving simulator game
+</ul>
+</summary>
+<ul>
+Data: eye-tracking, scene video
+</ul>
+<ul>
+<pre>
+@inproceedings{2011_BMVC_Borji,
+    author = "Borji, Ali and Sihite, Dicky N and Itti, Laurent",
+    title = "Computational Modeling of Top-down Visual Attention in Interactive Environments.",
+    booktitle = "BMVC",
+    year = "2011"
+}
+</pre>
+</details>
+</ul>
+
 <a name=DIPLECS Sweden></a>
 <details close>
 <summary>DIPLECS Sweden | <a href=https://doi.org/10.1007/978-3-642-15567-3_12>paper</a> | <a href=https://cvssp.org/data/diplecs/>link</a></summary>
@@ -671,22 +751,6 @@ Data: scene video, vehicle data
     booktitle = "ECCV",
     year = "2010"
 }
-</pre>
-</details>
-</ul>
-
-<a name=Dashcam dataset></a>
-<details close>
-<summary>Dashcam dataset | <a href=https://github.com/SullyChen/driving-datasets>link</a></summary>
-<ul>
-Description: Driving videos with steering information recorded on road
-</ul>
-</summary>
-<ul>
-Data: scene video
-</ul>
-<ul>
-<pre>
 </pre>
 </details>
 </ul>
@@ -716,6 +780,22 @@ Annotations: head pose
     pages = "322--336",
     year = "2000"
 }
+</pre>
+</details>
+</ul>
+
+<a name=Dashcam dataset></a>
+<details close>
+<summary>Dashcam dataset | <a href=https://github.com/SullyChen/driving-datasets>link</a></summary>
+<ul>
+Description: Driving videos with steering information recorded on road
+</ul>
+</summary>
+<ul>
+Data: scene video
+</ul>
+<ul>
+<pre>
 </pre>
 </details>
 </ul>

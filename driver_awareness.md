@@ -5,6 +5,46 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| Driver awareness&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2022_T-ITS_Zhou></a>
+<details close>
+<summary>Zhou et al., Using Eye-Tracking Data to Predict Situation Awareness in Real Time During Takeover Transitions in Conditionally Automated Driving, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3069776>paper</a> | <a href=https://github.com/refengchou/Situation-awareness-prediction>code</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2022_T-ITS_Zhou,
+    author = "Zhou, Feng and Yang, X Jessie and de Winter, Joost CF",
+    title = "Using eye-tracking data to predict situation awareness in real time during takeover transitions in conditionally automated driving",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    volume = "23",
+    number = "3",
+    pages = "2284--2295",
+    year = "2021",
+    publisher = "IEEE"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_IV_Wu></a>
+<details close>
+<summary>Wu et al., Toward an Adaptive Situational Awareness Support System for Urban Driving, IV, 2022 | <a href=https://doi.org/10.1109/IV51971.2022.9827205>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_IV_Wu,
+    author = "Wu, Tong and Sachdeva, Enna and Akash, Kumar and Wu, Xingwei and Misu, Teruhisa and Ortiz, Jorge",
+    title = "Toward an Adaptive Situational Awareness Support System for Urban Driving",
+    booktitle = "IV",
+    pages = "1073--1080",
+    year = "2022",
+    organization = "IEEE"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2021_T-ITS_Ahlstrom></a>
 <details close>
 <summary>Ahlstrom et al., Towards a Context-Dependent Multi-Buffer Driver Distraction Detection Algorithm, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3060168>paper</a></summary>
@@ -17,6 +57,43 @@ Dataset(s): private
     author = {Ahlstr{\"o}m, Christer and Georgoulas, George and Kircher, Katja},
     title = "Towards a Context-Dependent Multi-Buffer Driver Distraction Detection Algorithm",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
+    year = "2021"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2021_IV_Aftab></a>
+<details close>
+<summary>Aftab et al., Multimodal Fusion Using Deep Learning Applied to Driver’s Referencing of Outside-Vehicle Objects, IV, 2021 | <a href=https://doir.org/10.1109/IV48863.2021.9575815>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2021_IV_Aftab,
+    author = "Aftab, Abdul Rafey and Von Der Beeck, Michael and Rohrhirsch, Steven and Diotte, Benoit and Feld, Michael",
+    title = "Multimodal Fusion Using Deep Learning Applied to Driver's Referencing of Outside-Vehicle Objects",
+    booktitle = "IV",
+    pages = "1108--1115",
+    year = "2021",
+    organization = "IEEE"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2021_IROS_Zhu></a>
+<details close>
+<summary>Zhu et al., Improving Driver Situation Awareness Prediction using Human Visual Sensory and Memory Mechanism, IROS, 2021 | <a href=https://doi.org/10.1109/IROS51168.2021.9636112>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2021_IROS_Zhu,
+    author = "Zhu, Haibei and Misu, Teruhisa and Martin, Sujitha and Wu, Xingwei and Akash, Kumar",
+    title = "Improving Driver Situation Awareness Prediction using Human Visual Sensory and Memory Mechanism",
+    booktitle = "IROS",
+    pages = "6210--6216",
     year = "2021"
 }
 </pre>

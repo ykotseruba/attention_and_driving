@@ -5,6 +5,24 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| Action anticipation&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2022_CVPRW_Zhao></a>
+<details close>
+<summary>Zhao et al., PAND: Precise Action Recognition on Naturalistic Driving, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Zhao_PAND_Precise_Action_Recognition_on_Naturalistic_Driving_CVPRW_2022_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#DGDB>DGDB</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_CVPRW_Zhao,
+    author = "Zhao, Hangyue and Xiao, Yuchao and Zhao, Yanyun",
+    title = "PAND: Precise action recognition on naturalistic driving",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "3291--3299",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2021_T-ITS_Huang></a>
 <details close>
 <summary>Huang et al., Driver Glance Behavior Modeling based on Semi-supervised Clustering and Piecewise Aggregate Representation, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3080322>paper</a></summary>
