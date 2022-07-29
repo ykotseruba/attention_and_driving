@@ -115,7 +115,7 @@ Dataset(s): CARLA
 <details close>
 <summary>Xia et al., Periphery-Fovea Multi-Resolution Driving Model Guided by Human Attention, WACV, 2020 | <a href=https://openaccess.thecvf.com/content_WACV_2020/papers/Xia_Periphery-Fovea_Multi-Resolution_Driving_Model_Guided_by_Human_Attention_WACV_2020_paper.pdf>paper</a> | <a href=https://github.com/pascalxia/periphery_fovea_driving>code</a></summary>
 <ul>
-Dataset(s): BDD-X, BDD-A, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>
+Dataset(s): BDD-X, <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>
 </ul>
 <ul>
 <pre>

@@ -3,7 +3,7 @@
 ---
 
 *Click on each entry below to see additional information.*
-<a name=DGDB></a>
+<a name="DGDB"></a>
 <details close>
 <summary>DGDB | <a href=https://arxiv.org/pdf/2204.08096v1.pdf>paper</a> | <a href=https://data.mendeley.com/datasets/ptcp7rp3wb/1>link</a></summary>
 <ul>
@@ -29,7 +29,7 @@ Annotations: gaze area labels, action labels, appearance labels
 </details>
 </ul>
 
-<a name=DAD></a>
+<a name="DAD"></a>
 <details close>
 <summary>DAD | <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Kopuklu_Driver_Anomaly_Detection_A_Dataset_and_Contrastive_Learning_Approach_WACV_2021_paper.pdf>paper</a> | <a href=https://github.com/okankop/Driver-Anomaly-Detection>link</a></summary>
 <ul>
@@ -56,7 +56,7 @@ Annotations: action labels
 </details>
 </ul>
 
-<a name=VADD></a>
+<a name="VADD"></a>
 <details close>
 <summary>VADD | <a href=https://doi.org/10.1109/TITS.2021.3053178>paper</a> | <a href=https://github.com/epan-utbm/VADD-Saliency-Dataset>link</a></summary>
 <ul>
@@ -74,7 +74,7 @@ Description: Data is not available
 </details>
 </ul>
 
-<a name=MAAD></a>
+<a name="MAAD"></a>
 <details close>
 <summary>MAAD | <a href=https://openaccess.thecvf.com/content/ICCV2021W/EPIC/papers/Gopinath_MAAD_A_Model_and_Dataset_for_Attended_Awareness_in_Driving_ICCVW_2021_paper.pdf>paper</a> | <a href=https://github.com/ToyotaResearchInstitute/att-aware/>link</a></summary>
 <ul>
@@ -101,7 +101,7 @@ Annotations: task labels
 </details>
 </ul>
 
-<a name=DGW></a>
+<a name="DGW"></a>
 <details close>
 <summary>DGW | <a href=https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Ghosh_Speak2Label_Using_Domain_Knowledge_for_Creating_a_Large_Scale_Driver_ICCVW_2021_paper.pdf>paper</a> | <a href=https://sites.google.com/view/drivergazeprediction/home>link</a></summary>
 <ul>
@@ -127,7 +127,7 @@ Annotations: gaze area labels
 </details>
 </ul>
 
-<a name=TrafficSaliency></a>
+<a name="TrafficSaliency"></a>
 <details close>
 <summary>TrafficSaliency | <a href=https://doi.org/10.1109/TITS.2019.2915540>paper</a> | <a href=https://github.com/taodeng/CDNN-traffic-saliency>link</a></summary>
 <ul>
@@ -153,7 +153,7 @@ Data: eye-tracking, scene video
 </details>
 </ul>
 
-<a name=NeuroIV></a>
+<a name="NeuroIV"></a>
 <details close>
 <summary>NeuroIV | <a href=https://doi.org/10.1109/TITS.2020.3022921>paper</a> | <a href=https://github.com/ispc-lab/NeuroIV>link</a></summary>
 <ul>
@@ -175,7 +175,7 @@ Data: driver video
 </details>
 </ul>
 
-<a name=LISA v2></a>
+<a name="LISA v2"></a>
 <details close>
 <summary>LISA v2 | <a href=https://doi.org/10.1109/IV47402.2020.9304573>paper</a> | <a href=https://github.com/arangesh/GPCycleGAN>link</a></summary>
 <ul>
@@ -197,7 +197,7 @@ Data: driver video
 </details>
 </ul>
 
-<a name=DGAZE></a>
+<a name="DGAZE"></a>
 <details close>
 <summary>DGAZE | <a href=http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2020/DGAZE_Driver.pdf>paper</a> | <a href=https://github.com/duaisha/DGAZE>link</a></summary>
 <ul>
@@ -223,7 +223,7 @@ Annotations: bounding boxes
 </details>
 </ul>
 
-<a name=DMD></a>
+<a name="DMD"></a>
 <details close>
 <summary>DMD | <a href=https://doi.org/10.1007/978-3-030-66823-5_23>paper</a> | <a href=https://dmd.vicomtech.org/>link</a></summary>
 <ul>
@@ -249,7 +249,7 @@ Annotations: bounding boxes, action labels
 </details>
 </ul>
 
-<a name=PRORETA 4></a>
+<a name="PRORETA 4"></a>
 <details close>
 <summary>PRORETA 4 | <a href=https://doi.org/10.1109/IVS.2019.8814224>paper</a> | <a href=https://www.proreta.tu-darmstadt.de/proreta_1_4/proreta4_1/datasets_1/index.en.jsp>link</a></summary>
 <ul>
@@ -271,7 +271,7 @@ Data: eye-tracking, driver video, scene video
 </details>
 </ul>
 
-<a name=DADA-2000></a>
+<a name="DADA-2000"></a>
 <details close>
 <summary>DADA-2000 | <a href=https://doi.org/10.1109/ITSC.2019.8917218>paper</a> | <a href=https://github.com/JWFangit/LOTVS-DADA>link</a></summary>
 <ul>
@@ -297,7 +297,7 @@ Annotations: bounding boxes, accident category labels
 </details>
 </ul>
 
-<a name=Drive&Act></a>
+<a name="Drive&Act"></a>
 <details close>
 <summary>Drive&Act | <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Martin_DriveAct_A_Multi-Modal_Dataset_for_Fine-Grained_Driver_Behavior_Recognition_in_ICCV_2019_paper.pdf>paper</a> | <a href=https://www.driveandact.com/>link</a></summary>
 <ul>
@@ -323,7 +323,7 @@ Annotations: semantic maps, action labels
 </details>
 </ul>
 
-<a name=RLDD></a>
+<a name="RLDD"></a>
 <details close>
 <summary>RLDD | <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/AMFG/Ghoddoosian_A_Realistic_Dataset_and_Baseline_Temporal_Model_for_Early_Drowsiness_CVPRW_2019_paper.pdf>paper</a> | <a href=https://github.com/rezaghoddoosian/Early-Drowsiness-Detection>link</a></summary>
 <ul>
@@ -349,7 +349,7 @@ Annotations: drowsiness labels
 </details>
 </ul>
 
-<a name=HAD></a>
+<a name="HAD"></a>
 <details close>
 <summary>HAD | <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Grounding_Human-To-Vehicle_Advice_for_Self-Driving_Vehicles_CVPR_2019_paper.pdf>paper</a> | <a href=https://usa.honda-ri.com/HAD>link</a></summary>
 <ul>
@@ -375,7 +375,7 @@ Annotations: goal and attention labels
 </details>
 </ul>
 
-<a name=DR(eye)VE></a>
+<a name="DR(eye)VE"></a>
 <details close>
 <summary>DR(eye)VE | <a href=https://doi.org/10.1109/TPAMI.2018.2845370>paper</a> | <a href=http://imagelab.ing.unimore.it/dreyeve>link</a></summary>
 <ul>
@@ -404,7 +404,7 @@ Annotations: weather and road type labels
 </details>
 </ul>
 
-<a name=BBD-X></a>
+<a name="BBD-X"></a>
 <details close>
 <summary>BBD-X | <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf>paper</a> | <a href=https://github.com/JinkyuKimUCB/BDD-X-dataset>link</a></summary>
 <ul>
@@ -430,7 +430,7 @@ Annotations: action explanations
 </details>
 </ul>
 
-<a name=HDD></a>
+<a name="HDD"></a>
 <details close>
 <summary>HDD | <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Ramanishka_Toward_Driving_Scene_CVPR_2018_paper.pdf>paper</a> | <a href=https://usa.honda-ri.com/HDD>link</a></summary>
 <ul>
@@ -456,9 +456,9 @@ Annotations: bounding boxes, action labels
 </details>
 </ul>
 
-<a name=BBD-A></a>
+<a name="BDD-A"></a>
 <details close>
-<summary>BBD-A | <a href=https://doi.org/10.1007/978-3-030-20873-8_42>paper</a> | <a href=https://bdd-data.berkeley.edu/>link</a></summary>
+<summary>BDD-A | <a href=https://doi.org/10.1007/978-3-030-20873-8_42>paper</a> | <a href=https://bdd-data.berkeley.edu/>link</a></summary>
 <ul>
 Description: A set of short video clips extracted from the Berkeley Deep Drive (BDD) dataset with additional eye-tracking data collected in the lab from 45 subjects
 </ul>
@@ -478,7 +478,7 @@ Data: eye-tracking, scene video, vehicle data
 </details>
 </ul>
 
-<a name=C42CN></a>
+<a name="C42CN"></a>
 <details close>
 <summary>C42CN | <a href=https://doi.org/10.1038/sdata.2017.110>paper</a> | <a href=https://osf.io/c42cn/>link</a></summary>
 <ul>
@@ -502,7 +502,7 @@ Data: eye-tracking, scene video, physiological signal
 </details>
 </ul>
 
-<a name=DriveAHead></a>
+<a name="DriveAHead"></a>
 <details close>
 <summary>DriveAHead | <a href=https://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/papers/Schwarz_DriveAHead_-_A_CVPR_2017_paper.pdf>paper</a> | <a href=https://cvhci.anthropomatik.kit.edu/data/DriveAHead/>link</a></summary>
 <ul>
@@ -529,7 +529,7 @@ Annotations: occlusion, head pose, depth
 </details>
 </ul>
 
-<a name=DDD></a>
+<a name="DDD"></a>
 <details close>
 <summary>DDD | <a href=https://doi.org/10.1007/978-3-319-54526-4_9>paper</a> | <a href=http://cv.cs.nthu.edu.tw/php/callforpaper/datasets/DDD/>link</a></summary>
 <ul>
@@ -555,7 +555,7 @@ Annotations: drowsiness labels
 </details>
 </ul>
 
-<a name=DROZY></a>
+<a name="DROZY"></a>
 <details close>
 <summary>DROZY | <a href=https://doi.org/10.1109/WACV.2016.7477715>paper</a> | <a href=http://www.drozy.ulg.ac.be/>link</a></summary>
 <ul>
@@ -581,7 +581,7 @@ Annotations: drowsiness labels
 </details>
 </ul>
 
-<a name=TETD></a>
+<a name="TETD"></a>
 <details close>
 <summary>TETD | <a href=https://doi.org/10.1109/TITS.2016.2535402>paper</a> | <a href=https://github.com/taodeng/traffic-eye-tracking-dataset>link</a></summary>
 <ul>
@@ -607,7 +607,7 @@ Data: eye-tracking, scene images
 </details>
 </ul>
 
-<a name=DAD></a>
+<a name="DAD"></a>
 <details close>
 <summary>DAD | <a href=https://doi.org/10.1007/978-3-319-54190-7_9>paper</a> | <a href=https://aliensunmin.github.io/project/dashcam/>link</a></summary>
 <ul>
@@ -633,7 +633,7 @@ Annotations: bounding boxes, accident category labels
 </details>
 </ul>
 
-<a name=DIPLECS Surrey></a>
+<a name="DIPLECS Surrey"></a>
 <details close>
 <summary>DIPLECS Surrey | <a href=https://doi.org/10.1109/TVT.2015.2487826>paper</a> | <a href=https://cvssp.org/data/diplecs/>link</a></summary>
 <ul>
@@ -659,7 +659,7 @@ Data: scene video, vehicle data
 </details>
 </ul>
 
-<a name=Brain4Cars></a>
+<a name="Brain4Cars"></a>
 <details close>
 <summary>Brain4Cars | <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> | <a href=https://github.com/asheshjain399/ICCV2015_Brain4Cars>link</a></summary>
 <ul>
@@ -685,7 +685,7 @@ Annotations: action labels
 </details>
 </ul>
 
-<a name=YawDD></a>
+<a name="YawDD"></a>
 <details close>
 <summary>YawDD | <a href=https://doi.org/10.1145/2557642.2563678>paper</a> | <a href=https://ieee-dataport.org/open-access/yawdd-yawning-detection-dataset>link</a></summary>
 <ul>
@@ -711,7 +711,7 @@ Annotations: bounding boxes, action labels
 </details>
 </ul>
 
-<a name=3DDS></a>
+<a name="3DDS"></a>
 <details close>
 <summary>3DDS | <a href=http://www.bmva.org/bmvc/2011/proceedings/paper85/paper85.pdf>paper</a> | <a href=http://ilab.usc.edu/borji/Resources.html>link</a></summary>
 <ul>
@@ -733,7 +733,7 @@ Data: eye-tracking, scene video
 </details>
 </ul>
 
-<a name=DIPLECS Sweden></a>
+<a name="DIPLECS Sweden"></a>
 <details close>
 <summary>DIPLECS Sweden | <a href=https://doi.org/10.1007/978-3-642-15567-3_12>paper</a> | <a href=https://cvssp.org/data/diplecs/>link</a></summary>
 <ul>
@@ -755,7 +755,7 @@ Data: scene video, vehicle data
 </details>
 </ul>
 
-<a name=BU HeadTracking></a>
+<a name="BU HeadTracking"></a>
 <details close>
 <summary>BU HeadTracking | <a href=https://doi.org/10.1109/34.845375>paper</a> | <a href=https://www.cs.bu.edu/groups/ivc/HeadTracking/>link</a></summary>
 <ul>
@@ -784,7 +784,7 @@ Annotations: head pose
 </details>
 </ul>
 
-<a name=Dashcam dataset></a>
+<a name="Dashcam dataset"></a>
 <details close>
 <summary>Dashcam dataset | <a href=https://github.com/SullyChen/driving-datasets>link</a></summary>
 <ul>

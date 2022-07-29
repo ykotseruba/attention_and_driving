@@ -27,7 +27,7 @@ Dataset(s): private
 <details close>
 <summary>Li et al., Adaptive Short-Temporal Induced Aware Fusion Network for Predicting Attention Regions Like a Driver, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3165619>paper</a> | <a href=https://github.com/liuchunsense/ASIAFnet>code</a></summary>
 <ul>
-Dataset(s): BDD-A, <a href=datasets.md#DADA-2000>DADA-2000</a>, <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>
+Dataset(s): <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DADA-2000>DADA-2000</a>, <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>
 </ul>
 <ul>
 <pre>
@@ -45,7 +45,7 @@ Dataset(s): BDD-A, <a href=datasets.md#DADA-2000>DADA-2000</a>, <a href=datasets
 <details close>
 <summary>Gan et al., Multisource Adaption for Driver Attention Prediction in Arbitrary Driving Scenes, Trans. ITS, 2022 | <a href=https://doi.org/0.1109/TITS.2022.3177640>paper</a></summary>
 <ul>
-Dataset(s): BDD-A, <a href=datasets.md#DADA-2000>DADA-2000</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>
+Dataset(s): <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DADA-2000>DADA-2000</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>
 </ul>
 <ul>
 <pre>
@@ -81,7 +81,7 @@ Dataset(s): <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>, <a href=dat
 <details close>
 <summary>Araluce et al., ARAGAN: A dRiver Attention estimation model based on conditional Generative Adversarial Network, IV, 2022 | <a href=https://doi.org/10.1109/IV51971.2022.9827175>paper</a> | <a href=https://github.com/javierAraluce/ARAGAN>code</a></summary>
 <ul>
-Dataset(s): BDD-A, <a href=datasets.md#DADA-2000>DADA-2000</a>
+Dataset(s): <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DADA-2000>DADA-2000</a>
 </ul>
 <ul>
 <pre>
@@ -209,7 +209,7 @@ Dataset(s): private
 <details close>
 <summary>Pal et al., “Looking at the right stuff” - Guided semantic-gaze for autonomous driving, CVPR, 2020 | <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Pal_Looking_at_the_Right_Stuff_-_Guided_Semantic-Gaze_for_Autonomous_CVPR_2020_paper.pdf>paper</a> | <a href=https://sites.google.com/eng.ucsd.edu/sage-net>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, BDD-A, JAAD
+Dataset(s): <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#BDD-A>BDD-A</a>, JAAD
 </ul>
 <ul>
 <pre>
@@ -369,7 +369,7 @@ Dataset(s): private
 <details close>
 <summary>Xia et al., Predicting Driver Attention in Critical Situations, ACCV, 2018 | <a href=https://doi.org/10.1007/978-3-030-20873-8_42>paper</a> | <a href=https://github.com/pascalxia/driver_attention_prediction>code</a></summary>
 <ul>
-Dataset(s): BDD-A
+Dataset(s): <a href=datasets.md#BDD-A>BDD-A</a>
 </ul>
 <ul>
 <pre>
