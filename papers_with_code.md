@@ -409,7 +409,7 @@ Dataset(s): CARLA
 <details close>
 <summary>Xia et al., Periphery-Fovea Multi-Resolution Driving Model Guided by Human Attention, WACV, 2020 | <a href=https://openaccess.thecvf.com/content_WACV_2020/papers/Xia_Periphery-Fovea_Multi-Resolution_Driving_Model_Guided_by_Human_Attention_WACV_2020_paper.pdf>paper</a> | <a href=https://github.com/pascalxia/periphery_fovea_driving>code</a></summary>
 <ul>
-Dataset(s): BDD-X, <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>
+Dataset(s): <a href=datasets.md#BDD-X>BDD-X</a>, <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>
 </ul>
 <ul>
 <pre>
@@ -443,7 +443,7 @@ Dataset(s): Talk2Car
 <details close>
 <summary>Kim et al., Advisable Learning for Self-driving Vehicles by Internalizing Observation-to-Action Rules, CVPR, 2020 | <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Advisable_Learning_for_Self-Driving_Vehicles_by_Internalizing_Observation-to-Action_Rules_CVPR_2020_paper.pdf>paper</a> | <a href=https://github.com/JinkyuKimUCB/advisable-driving>code</a></summary>
 <ul>
-Dataset(s): BDD-X, CARLA
+Dataset(s): <a href=datasets.md#BDD-X>BDD-X</a>, CARLA
 </ul>
 <ul>
 <pre>
@@ -460,7 +460,7 @@ Dataset(s): BDD-X, CARLA
 <details close>
 <summary>Kim et al., Textual Explanations for Self-Driving Vehicles, ECCV, 2018 | <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf>paper</a> | <a href=https://github.com/JinkyuKimUCB/explainable-deep-driving>code</a></summary>
 <ul>
-Dataset(s): BDD-X
+Dataset(s): <a href=datasets.md#BDD-X>BDD-X</a>
 </ul>
 <ul>
 <pre>

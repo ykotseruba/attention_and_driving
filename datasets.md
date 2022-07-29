@@ -404,9 +404,9 @@ Annotations: weather and road type labels
 </details>
 </ul>
 
-<a name="BBD-X"></a>
+<a name="BDD-X"></a>
 <details close>
-<summary>BBD-X | <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf>paper</a> | <a href=https://github.com/JinkyuKimUCB/BDD-X-dataset>link</a></summary>
+<summary>BDD-X | <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf>paper</a> | <a href=https://github.com/JinkyuKimUCB/BDD-X-dataset>link</a></summary>
 <ul>
 Description: A subset of videos from BDD dataset annotated with textual descriptions of actions performed by the vehicle and explanations justifying those actions
 </ul>
