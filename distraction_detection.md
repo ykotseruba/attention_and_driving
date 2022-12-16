@@ -5,6 +5,23 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| Distraction detection&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2022_T-ITS_Du></a>
+<details close>
+<summary>Du et al., A Multimodal Fusion Fatigue Driving Detection Method Based on Heart Rate and PERCLOS, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3176973>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#RLDD>RLDD</a>
+</ul>
+<ul>
+<pre>
+@article{2022_T-ITS_Du,
+    author = "Du, Guanglong and Zhang, Linlin and Su, Kang and Wang, Xueqian and Teng, Shaohua and Liu, Peter X",
+    title = "A Multimodal Fusion Fatigue Driving Detection Method Based on Heart Rate and PERCLOS",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2021_WACV_Kopuklu></a>
 <details close>
 <summary>Kopuklu et al., Driver Anomaly Detection: A Dataset and Contrastive Learning Approach, WACV, 2021 | <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Kopuklu_Driver_Anomaly_Detection_A_Dataset_and_Contrastive_Learning_Approach_WACV_2021_paper.pdf>paper</a></summary>

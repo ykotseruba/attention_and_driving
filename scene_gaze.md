@@ -43,7 +43,7 @@ Dataset(s): <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DADA-2000>D
 </ul>
 <ul><a name=2022_T-ITS_Gan></a>
 <details close>
-<summary>Gan et al., Multisource Adaption for Driver Attention Prediction in Arbitrary Driving Scenes, Trans. ITS, 2022 | <a href=https://doi.org/0.1109/TITS.2022.3177640>paper</a></summary>
+<summary>Gan et al., Multisource Adaption for Driver Attention Prediction in Arbitrary Driving Scenes, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3177640>paper</a></summary>
 <ul>
 Dataset(s): <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DADA-2000>DADA-2000</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>
 </ul>

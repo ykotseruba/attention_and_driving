@@ -5,6 +5,41 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| Drowsiness detection&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2022_ITSC_Chen></a>
+<details close>
+<summary>Chen et al., A Multi-view Driver Drowsiness Detection Method Using Transfer Learning and Population-based Sampling Strategy, ITSC, 2022 | <a href=https://doi.org/10.1109/ITSC55140.2022.9922476>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_ITSC_Chen,
+    author = "Chen, Jinxin and Fang, Zhenwu and Wang, Jinxiang and Chen, Jiansong and Yin, Guodong",
+    title = "A Multi-view Driver Drowsiness Detection Method Using Transfer Learning and Population-based Sampling Strategy",
+    booktitle = "International Conference on Intelligent Transportation Systems (ITSC)",
+    pages = "3386--3391",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_T-ITS_Baccour></a>
+<details close>
+<summary>Baccour et al., Comparative Analysis of Vehicle-Based and Driver-Based Features for Driver Drowsiness Monitoring by Support Vector Machines, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3207965>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2022_T-ITS_Baccour,
+    author = {Baccour, Mohamed Hedi and Driewer, Frauke and Sch{\"a}ck, Tim and Kasneci, Enkelejda},
+    title = "Comparative Analysis of Vehicle-Based and Driver-Based Features for Driver Drowsiness Monitoring by Support Vector Machines",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2022_T-ITS_Luo></a>
 <details close>
 <summary>Luo et al., Detecting Driver Cognition Alertness State From Visual Activities in Normal and Emergency Scenarios, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3166251>paper</a></summary>

@@ -3,6 +3,33 @@
 ---
 
 *Click on each entry below to see additional information.*
+<a name="Fatigueview"></a>
+<details close>
+<summary>Fatigueview | <a href=https://doi.org/10.1109/TITS.2022.3216017>paper</a> | <a href=https://fatigueview.github.io/>link</a></summary>
+<ul>
+Description: Multi-camera video dataset for vision-based drowsiness detection.
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: facial landmarks, face/hand bounding boxes, head pose, eye status, pose, drowsiness labels
+</ul>
+<ul>
+<pre>
+@article{2022_T-ITS_Yang,
+    author = "Yang, Cong and Yang, Zhenyu and Li, Weiyu and See, John",
+    title = "FatigueView: A Multi-Camera Video Dataset for Vision-Based Drowsiness Detection",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    year = "2022",
+    publisher = "IEEE"
+}
+</pre>
+</details>
+</ul>
+
 <a name="DGDB"></a>
 <details close>
 <summary>DGDB | <a href=https://arxiv.org/pdf/2204.08096v1.pdf>paper</a> | <a href=https://data.mendeley.com/datasets/ptcp7rp3wb/1>link</a></summary>
@@ -24,6 +51,60 @@ Annotations: gaze area labels, action labels, appearance labels
     title = "Dataset for Analyzing Various Gaze Zones and Distracted Behaviors of a Driver",
     journal = "arXiv:2204.08096",
     year = "2022"
+}
+</pre>
+</details>
+</ul>
+
+<a name="CoCAtt"></a>
+<details close>
+<summary>CoCAtt | <a href=https://doi.org/10.1109/ITSC55140.2022.9921777>paper</a> | <a href=https://cocatt-dataset.github.io/>link</a></summary>
+<ul>
+Description: Videos of drivers and driver scenes in automated and manual driving conditions with per-frame gaze and distraction annotations
+</ul>
+</summary>
+<ul>
+Data: driver video, scene video, eye-tracking
+</ul>
+</summary>
+<ul>
+Annotations: distraction state, car telemetry, intention labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_ITSC_Shen,
+    author = "Shen, Yuan and Wijayaratne, Niviru and Sriram, Pranav and Hasan, Aamir and Du, Peter and Driggs-Campbell, Katherine",
+    title = "CoCAtt: A Cognitive-Conditioned Driver Attention Dataset",
+    booktitle = "International Conference on Intelligent Transportation Systems (ITSC)",
+    pages = "32--39",
+    year = "2022"
+}
+</pre>
+</details>
+</ul>
+
+<a name="55 Rides"></a>
+<details close>
+<summary>55 Rides | <a href=https://doi.org/10.1145/3448018.3457993>paper</a> | <a href=https://www.hci.uni-tuebingen.de/research/Applications/Driving/55rides.html>link</a></summary>
+<ul>
+Description: Naturalistic dataset recorded by four drivers and annotated by three raters to determine distraction states
+</ul>
+</summary>
+<ul>
+Data: driver video, eye-tracking
+</ul>
+</summary>
+<ul>
+Annotations: distraction state, head pose
+</ul>
+<ul>
+<pre>
+@inproceedings{2021_ETRA_Kubler,
+    author = {K{\"u}bler, Thomas C and Fuhl, Wolfgang and Wagner, Elena and Kasneci, Enkelejda},
+    title = "55 Rides: attention annotated head and gaze data during naturalistic driving",
+    booktitle = "ACM Symposium on Eye Tracking Research and Applications (ETRA)",
+    pages = "1--8",
+    year = "2021"
 }
 </pre>
 </details>
