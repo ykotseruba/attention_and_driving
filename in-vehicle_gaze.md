@@ -15,11 +15,11 @@ Dataset(s): private
 <pre>
 @inproceedings{2022_IV_Bieg,
     author = "Bieg, Hans-Joachim and Strobel, Simon and Fischer, Matthias S and La{\ss}mann, Paula",
-    title = "Comparison of Video-based Driver Gaze Region Estimation Techniques",
-    booktitle = "IV",
+    booktitle = "2022 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
     pages = "382--389",
-    year = "2022",
-    organization = "IEEE"
+    title = "Comparison of Video-based Driver Gaze Region Estimation Techniques",
+    year = "2022"
 }
 </pre>
 </ul>
@@ -34,10 +34,10 @@ Dataset(s): private
 <pre>
 @article{2021_T-ITS_Huang,
     author = "Huang, Jianling and Long, Yan and Zhao, Xiaohua",
-    title = "Driver Glance Behavior Modeling Based on Semi-Supervised Clustering and Piecewise Aggregate Representation",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2021",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "Driver Glance Behavior Modeling Based on Semi-Supervised Clustering and Piecewise Aggregate Representation",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -52,11 +52,11 @@ Dataset(s): private
 <pre>
 @inproceedings{2021_IV_Lollett,
     author = "Lollett, Catherine and Kamezaki, Mitsuhiro and Sugano, Shigeki",
-    title = "Towards a Driver's Gaze Zone Classifier using a Single Camera Robust to Temporal and Permanent Face Occlusions",
-    booktitle = "IV",
+    booktitle = "2021 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
     pages = "578--585",
-    year = "2021",
-    organization = "IEEE"
+    title = "Towards a Driver's Gaze Zone Classifier using a Single Camera Robust to Temporal and Permanent Face Occlusions",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -71,8 +71,8 @@ Dataset(s): LISA v3
 <pre>
 @inproceedings{2020_IV_Rangesh,
     author = "Rangesh, Akshay and Zhang, Bowen and Trivedi, Mohan M",
-    title = "Driver gaze estimation in the real world: Overcoming the eyeglass challenge",
     booktitle = "IV",
+    title = "Driver gaze estimation in the real world: Overcoming the eyeglass challenge",
     year = "2020"
 }
 </pre>
@@ -88,8 +88,8 @@ Dataset(s): <a href=datasets.md#DGW>DGW</a>
 <pre>
 @inproceedings{2020_ICMI_Stappen,
     author = {Stappen, Lukas and Rizos, Georgios and Schuller, Bj{\"o}rn},
-    title = "X-AWARE: ConteXt-AWARE Human-Environment Attention Fusion for Driver Gaze Prediction in the Wild",
     booktitle = "ICMI",
+    title = "X-AWARE: ConteXt-AWARE Human-Environment Attention Fusion for Driver Gaze Prediction in the Wild",
     year = "2020"
 }
 </pre>
@@ -105,11 +105,12 @@ Dataset(s): private
 <pre>
 @article{2020_HumanFactors_Jokinen,
     author = "Jokinen, Jussi PP and Kujala, Tuomo and Oulasvirta, Antti",
-    title = "Multitasking in driving as optimal adaptation under uncertainty",
     journal = "Human factors",
-    volume = "63",
     number = "8",
     pages = "1324--1341",
+    publisher = "Sage Publications Sage CA: Los Angeles, CA",
+    title = "Multitasking in driving as optimal adaptation under uncertainty",
+    volume = "63",
     year = "2021"
 }
 </pre>
@@ -125,11 +126,11 @@ Dataset(s): private
 <pre>
 @article{2018_TIV_Vora,
     author = "Vora, Sourabh and Rangesh, Akshay and Trivedi, Mohan Manubhai",
-    title = "Driver gaze zone estimation using convolutional neural networks: A general framework and ablative analysis",
     journal = "IEEE Transactions on Intelligent Vehicles",
-    volume = "3",
     number = "3",
     pages = "254--265",
+    title = "Driver gaze zone estimation using convolutional neural networks: A general framework and ablative analysis",
+    volume = "3",
     year = "2018"
 }
 </pre>
@@ -145,11 +146,11 @@ Dataset(s): private
 <pre>
 @article{2018_TIV_Martin,
     author = "Martin, Sujitha and Vora, Sourabh and Yuen, Kevan and Trivedi, Mohan Manubhai",
-    title = "Dynamics of driver's gaze: Explorations in behavior modeling and maneuver prediction",
     journal = "IEEE Transactions on Intelligent Vehicles",
-    volume = "3",
     number = "2",
     pages = "141--150",
+    title = "Dynamics of driver's gaze: Explorations in behavior modeling and maneuver prediction",
+    volume = "3",
     year = "2018"
 }
 </pre>
@@ -165,8 +166,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2017_IV_Vora,
     author = "Vora, Sourabh and Rangesh, Akshay and Trivedi, Mohan M",
-    title = "On generalizing driver gaze zone estimation using convolutional neural networks",
     booktitle = "IV",
+    title = "On generalizing driver gaze zone estimation using convolutional neural networks",
     year = "2017"
 }
 </pre>
@@ -182,13 +183,13 @@ Dataset(s): private
 <pre>
 @article{2016_T-ITS_Lundgren,
     author = "Lundgren, Malin and Hammarstrand, Lars and McKelvey, Tomas",
-    title = "Driver-gaze zone estimation using Bayesian filtering and Gaussian processes",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "17",
     number = "10",
     pages = "2739--2750",
-    year = "2016",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "Driver-gaze zone estimation using Bayesian filtering and Gaussian processes",
+    volume = "17",
+    year = "2016"
 }
 </pre>
 </ul>
@@ -203,8 +204,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2016_ITSC_Vasli,
     author = "Vasli, Borhan and Martin, Sujitha and Trivedi, Mohan Manubhai",
-    title = "On driver gaze estimation: Explorations and fusion of geometric and data driven approaches",
     booktitle = "ITSC",
+    title = "On driver gaze estimation: Explorations and fusion of geometric and data driven approaches",
     year = "2016"
 }
 </pre>
@@ -220,11 +221,11 @@ Dataset(s): private
 <pre>
 @article{2016_IS_Fridman,
     author = "Fridman, Lex and Langhans, Philipp and Lee, Joonbum and Reimer, Bryan",
-    title = "Driver gaze region estimation without use of eye movement",
     journal = "IEEE Intelligent Systems",
-    volume = "31",
     number = "3",
     pages = "49--56",
+    title = "Driver gaze region estimation without use of eye movement",
+    volume = "31",
     year = "2016"
 }
 </pre>
@@ -240,11 +241,11 @@ Dataset(s): private
 <pre>
 @article{2016_IET_Fridman,
     author = "Fridman, Lex and Lee, Joonbum and Reimer, Bryan and Victor, Trent",
-    title = "‘Owl’and ‘Lizard’: Patterns of head pose and eye pose in driver gaze classification",
     journal = "IET Computer Vision",
-    volume = "10",
     number = "4",
     pages = "308--314",
+    title = "‘Owl’and ‘Lizard’: Patterns of head pose and eye pose in driver gaze classification",
+    volume = "10",
     year = "2016"
 }
 </pre>
@@ -260,8 +261,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2016_BigComp_Choi,
     author = "Choi, In-Ho and Hong, Sung Kyung and Kim, Yong-Guk",
-    title = "Real-time categorization of driver's gaze zone using the deep learning techniques",
     booktitle = "ICBDSC",
+    title = "Real-time categorization of driver's gaze zone using the deep learning techniques",
     year = "2016"
 }
 </pre>
@@ -277,13 +278,12 @@ Dataset(s): private
 <pre>
 @article{2015_T-ITS_Vicente,
     author = "Vicente, Francisco and Huang, Zehua and Xiong, Xuehan and De la Torre, Fernando and Zhang, Wende and Levi, Dan",
-    title = "Driver gaze tracking and eyes off the road detection system",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "16",
     number = "4",
     pages = "2014--2027",
-    year = "2015",
-    publisher = "IEEE"
+    title = "Driver gaze tracking and eyes off the road detection system",
+    volume = "16",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -298,8 +298,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_IV_Tawari,
     author = "Tawari, Ashish and Trivedi, Mohan M",
-    title = "Robust and continuous estimation of driver gaze zone by dynamic analysis of multiple face videos",
     booktitle = "IV",
+    title = "Robust and continuous estimation of driver gaze zone by dynamic analysis of multiple face videos",
     year = "2014"
 }
 </pre>
@@ -315,8 +315,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_ITSC_Tawari,
     author = "Tawari, Ashish and Chen, Kuo Hao and Trivedi, Mohan M",
-    title = "Where is the driver looking: Analysis of head, eye and iris for robust gaze zone estimation",
     booktitle = "ITSC",
+    title = "Where is the driver looking: Analysis of head, eye and iris for robust gaze zone estimation",
     year = "2014"
 }
 </pre>
@@ -332,8 +332,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_CVPRW_Chuang,
     author = "Chuang, Meng-Che and Bala, Raja and Bernal, Edgar A and Paul, Peter and Burry, Aaron",
-    title = "Estimating gaze direction of vehicle drivers using a smartphone camera",
     booktitle = "CVPRW",
+    title = "Estimating gaze direction of vehicle drivers using a smartphone camera",
     year = "2014"
 }
 </pre>
@@ -349,11 +349,11 @@ Dataset(s): private
 <pre>
 @article{2011_T-ITS_Lee,
     author = "Lee, Sung Joo and Jo, Jaeik and Jung, Ho Gi and Park, Kang Ryoung and Kim, Jaihie",
-    title = "Real-time gaze estimator based on driver's head orientation for forward collision warning system",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "12",
     number = "1",
     pages = "254--267",
+    title = "Real-time gaze estimator based on driver's head orientation for forward collision warning system",
+    volume = "12",
     year = "2011"
 }
 </pre>

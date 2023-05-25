@@ -15,13 +15,13 @@ Dataset(s): private
 <pre>
 @article{2022_T-ITS_Zhou,
     author = "Zhou, Feng and Yang, X Jessie and de Winter, Joost CF",
-    title = "Using eye-tracking data to predict situation awareness in real time during takeover transitions in conditionally automated driving",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "23",
     number = "3",
     pages = "2284--2295",
-    year = "2021",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "Using eye-tracking data to predict situation awareness in real time during takeover transitions in conditionally automated driving",
+    volume = "23",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -36,11 +36,11 @@ Dataset(s): private
 <pre>
 @inproceedings{2022_IV_Wu,
     author = "Wu, Tong and Sachdeva, Enna and Akash, Kumar and Wu, Xingwei and Misu, Teruhisa and Ortiz, Jorge",
-    title = "Toward an Adaptive Situational Awareness Support System for Urban Driving",
-    booktitle = "IV",
+    booktitle = "2022 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
     pages = "1073--1080",
-    year = "2022",
-    organization = "IEEE"
+    title = "Toward an Adaptive Situational Awareness Support System for Urban Driving",
+    year = "2022"
 }
 </pre>
 </ul>
@@ -55,8 +55,8 @@ Dataset(s): private
 <pre>
 @article{2021_T-ITS_Ahlstrom,
     author = {Ahlstr{\"o}m, Christer and Georgoulas, George and Kircher, Katja},
-    title = "Towards a Context-Dependent Multi-Buffer Driver Distraction Detection Algorithm",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
+    title = "Towards a Context-Dependent Multi-Buffer Driver Distraction Detection Algorithm",
     year = "2021"
 }
 </pre>
@@ -72,11 +72,11 @@ Dataset(s): private
 <pre>
 @inproceedings{2021_IV_Aftab,
     author = "Aftab, Abdul Rafey and Von Der Beeck, Michael and Rohrhirsch, Steven and Diotte, Benoit and Feld, Michael",
-    title = "Multimodal Fusion Using Deep Learning Applied to Driver's Referencing of Outside-Vehicle Objects",
-    booktitle = "IV",
+    booktitle = "2021 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
     pages = "1108--1115",
-    year = "2021",
-    organization = "IEEE"
+    title = "Multimodal Fusion Using Deep Learning Applied to Driver's Referencing of Outside-Vehicle Objects",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -91,9 +91,10 @@ Dataset(s): private
 <pre>
 @inproceedings{2021_IROS_Zhu,
     author = "Zhu, Haibei and Misu, Teruhisa and Martin, Sujitha and Wu, Xingwei and Akash, Kumar",
-    title = "Improving Driver Situation Awareness Prediction using Human Visual Sensory and Memory Mechanism",
-    booktitle = "IROS",
+    booktitle = "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    organization = "IEEE",
     pages = "6210--6216",
+    title = "Improving driver situation awareness prediction using human visual sensory and memory mechanism",
     year = "2021"
 }
 </pre>
@@ -109,8 +110,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2020_IV_Kim,
     author = "Kim, Hyungil and Martin, Sujitha and Tawari, Ashish and Misu, Teruhisa and Gabbard, Joseph L",
-    title = "Toward Real-Time Estimation of Driver Situation Awareness: An Eye-tracking Approach based on Moving Objects of Interest",
     booktitle = "IV",
+    title = "Toward Real-Time Estimation of Driver Situation Awareness: An Eye-tracking Approach based on Moving Objects of Interest",
     year = "2020"
 }
 </pre>
@@ -126,8 +127,8 @@ Dataset(s): <a href=datasets.md#DGAZE>DGAZE</a>
 <pre>
 @inproceedings{2020_IROS_Dua,
     author = "Dua, Isha and John, Thrupthi Ann and Gupta, Riya and Jawahar, CV",
-    title = "DGAZE: Driver Gaze Mapping on Road",
     booktitle = "IROS",
+    title = "DGAZE: Driver Gaze Mapping on Road",
     year = "2020"
 }
 </pre>
@@ -143,11 +144,11 @@ Dataset(s): private
 <pre>
 @article{2019_T-ITS_Yang,
     author = "Yang, Lichao and Dong, Kuo and Dmitruk, Arkadiusz Jan and Brighton, James and Zhao, Yifan",
-    title = "A dual-cameras-based driver gaze mapping system with an application on non-driving activities monitoring",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "21",
     number = "10",
     pages = "4318--4327",
+    title = "A dual-cameras-based driver gaze mapping system with an application on non-driving activities monitoring",
+    volume = "21",
     year = "2019"
 }
 </pre>
@@ -163,8 +164,8 @@ Dataset(s): <a href=datasets.md#PRORETA 4>PRORETA 4</a>
 <pre>
 @inproceedings{2019_IV_Schwehr,
     author = "Schwehr, Julian and Knaust, Moritz and Willert, Volker",
-    title = "How to evaluate object-of-fixation detection",
     booktitle = "IV",
+    title = "How to evaluate object-of-fixation detection",
     year = "2019"
 }
 </pre>
@@ -180,8 +181,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2019_IV_Gillmeier,
     author = "Gillmeier, Katharina and Diederichs, Frederik and Spath, Dieter",
-    title = "Prediction of ego vehicle trajectories based on driver intention and environmental context",
     booktitle = "IV",
+    title = "Prediction of ego vehicle trajectories based on driver intention and environmental context",
     year = "2019"
 }
 </pre>
@@ -197,8 +198,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2019_ACM_Ma,
     author = "Ma, Yinan and Wu, Jing and Long, Chengnian",
-    title = "GazeFCW: Filter Collision Warning Triggers by Detecting Driver's Gaze Area",
     booktitle = "SenSys-ML",
+    title = "GazeFCW: Filter Collision Warning Triggers by Detecting Driver's Gaze Area",
     year = "2019"
 }
 </pre>
@@ -214,11 +215,11 @@ Dataset(s): private
 <pre>
 @article{2018_T-ITS_Tran,
     author = "Tran, Duy and Du, Jianhao and Sheng, Weihua and Osipychev, Denis and Sun, Yuge and Bai, He",
-    title = "A human-vehicle collaborative driving framework for driver assistance",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "20",
     number = "9",
     pages = "3470--3485",
+    title = "A human-vehicle collaborative driving framework for driver assistance",
+    volume = "20",
     year = "2018"
 }
 </pre>
@@ -234,8 +235,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2018_IV_Martin,
     author = "Martin, Sujitha and Tawari, Ashish",
-    title = "Object of fixation estimation by joint analysis of gaze and object dynamics",
     booktitle = "IV",
+    title = "Object of fixation estimation by joint analysis of gaze and object dynamics",
     year = "2018"
 }
 </pre>
@@ -251,8 +252,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2018_ITSC_Schwehr,
     author = "Schwehr, Julian and Willert, Volker",
-    title = "Multi-hypothesis multi-model driver's gaze target tracking",
     booktitle = "ITSC",
+    title = "Multi-hypothesis multi-model driver's gaze target tracking",
     year = "2018"
 }
 </pre>
@@ -268,8 +269,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2017_IV_Zabihi,
     author = "Zabihi, Sayed Jamal and Zabihi, SM and Beauchemin, Steven S and Bauer, Michael A",
-    title = "Detection and recognition of traffic signs inside the attentional visual field of drivers",
     booktitle = "IV",
+    title = "Detection and recognition of traffic signs inside the attentional visual field of drivers",
     year = "2017"
 }
 </pre>
@@ -285,8 +286,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2017_ITSC_Schwehr,
     author = "Schwehr, Julian and Willert, Volker",
-    title = "Driver's gaze prediction in dynamic automotive scenes",
     booktitle = "ITSC",
+    title = "Driver's gaze prediction in dynamic automotive scenes",
     year = "2017"
 }
 </pre>
@@ -302,8 +303,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2016_IV_Roth,
     author = "Roth, Markus and Flohr, Fabian and Gavrila, Dariu M",
-    title = "Driver and pedestrian awareness-based collision risk analysis",
     booktitle = "IV",
+    title = "Driver and pedestrian awareness-based collision risk analysis",
     year = "2016"
 }
 </pre>
@@ -319,8 +320,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2016_ICRA_Langner,
     author = "Langner, Tobias and Seifert, Daniel and Fischer, Bennet and Goehring, Daniel and Ganjineh, Tinosch and Rojas, Ra{\'u}l",
-    title = "Traffic awareness driver assistance based on stereovision, eye-tracking, and head-up display",
     booktitle = "ICRA",
+    title = "Traffic awareness driver assistance based on stereovision, eye-tracking, and head-up display",
     year = "2016"
 }
 </pre>
@@ -336,8 +337,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2015_ITSC_Diederichs,
     author = {Diederichs, Frederik and Sch{\"u}ttke, Tobias and Spath, Dieter},
-    title = "Driver intention algorithm for pedestrian protection and automated emergency braking systems",
     booktitle = "ITSC",
+    title = "Driver intention algorithm for pedestrian protection and automated emergency braking systems",
     year = "2015"
 }
 </pre>
@@ -353,8 +354,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_IV_Zabihi,
     author = "Zabihi, SM and Beauchemin, Steven S and De Medeiros, EAM and Bauer, Michael A",
-    title = "Frame-rate vehicle detection within the attentional visual area of drivers",
     booktitle = "IV",
+    title = "Frame-rate vehicle detection within the attentional visual area of drivers",
     year = "2014"
 }
 </pre>
@@ -370,8 +371,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_IV_Kowsari,
     author = "Kowsari, Taha and Beauchemin, Steven S and Bauer, Michael A and Laurendeau, Denis and Teasdale, Normand",
-    title = "Multi-depth cross-calibration of remote eye gaze trackers and stereoscopic scene systems",
     booktitle = "IV",
+    title = "Multi-depth cross-calibration of remote eye gaze trackers and stereoscopic scene systems",
     year = "2014"
 }
 </pre>
@@ -387,8 +388,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_IV_Doman,
     author = "Doman, Keisuke and Deguchi, Daisuke and Takahashi, Tomokazu and Mekada, Yoshito and Ide, Ichiro and Murase, Hiroshi and Sakai, Utsushi",
-    title = "Estimation of traffic sign visibility considering local and global features in a driving environment",
     booktitle = "IV",
+    title = "Estimation of traffic sign visibility considering local and global features in a driving environment",
     year = "2014"
 }
 </pre>
@@ -404,8 +405,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_ITSC_Tawari_1,
     author = "Tawari, Ashish and M{\o}gelmose, Andreas and Martin, Sujitha and Moeslund, Thomas B and Trivedi, Mohan M",
-    title = "Attention estimation by simultaneous analysis of viewer and view",
     booktitle = "ITSC",
+    title = "Attention estimation by simultaneous analysis of viewer and view",
     year = "2014"
 }
 </pre>
@@ -421,8 +422,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_ITSC_Tanishige,
     author = "Tanishige, Ryunosuke and Deguchi, Daisuke and Doman, Keisuke and Mekada, Yoshito and Ide, Ichiro and Murase, Hiroshi",
-    title = "Prediction of driver's pedestrian detectability by image processing adaptive to visual fields of view",
     booktitle = "ITSC",
+    title = "Prediction of driver's pedestrian detectability by image processing adaptive to visual fields of view",
     year = "2014"
 }
 </pre>
@@ -438,8 +439,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_CVPR_Rezaei,
     author = "Rezaei, Mahdi and Klette, Reinhard",
-    title = "{Look at the driver, look at the road: No distraction! No accident!}",
     booktitle = "CVPR",
+    title = "{Look at the driver, look at the road: No distraction! No accident!}",
     year = "2014"
 }
 </pre>
@@ -455,8 +456,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2013_IV_Bar,
     author = {B{\"a}r, Tobias and Linke, Denys and Nienh{\"u}ser, Dennis and Z{\"o}llner, J Marius},
-    title = "Seen and missed traffic objects: A traffic object-specific awareness estimation",
     booktitle = "IV",
+    title = "Seen and missed traffic objects: A traffic object-specific awareness estimation",
     year = "2013"
 }
 </pre>
@@ -472,8 +473,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2012_IV_George,
     author = "George, Paul and Thouvenin, Indira and Fremont, Vincent and Cherfaoui, V{\'e}ronique",
-    title = "DAARIA: Driver assistance by augmented reality for intelligent automobile",
     booktitle = "IV",
+    title = "DAARIA: Driver assistance by augmented reality for intelligent automobile",
     year = "2012"
 }
 </pre>
@@ -489,8 +490,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2012_IV_Engel,
     author = "Engel, David and Curio, Crist{\'o}bal",
-    title = "Detectability prediction in dynamic scenes for enhanced environment perception",
     booktitle = "IV",
+    title = "Detectability prediction in dynamic scenes for enhanced environment perception",
     year = "2012"
 }
 </pre>
@@ -506,8 +507,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2012_ITSC_Mori,
     author = "Mori, Masataka and Miyajima, Chiyomi and Angkititrakul, Pongtep and Hirayama, Takatsugu and Li, Yiyang and Kitaoka, Norihide and Takeda, Kazuya",
-    title = "Measuring driver awareness based on correlation between gaze behavior and risks of surrounding vehicles",
     booktitle = "ITSC",
+    title = "Measuring driver awareness based on correlation between gaze behavior and risks of surrounding vehicles",
     year = "2012"
 }
 </pre>
@@ -523,8 +524,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2011_IV_Doman,
     author = "Doman, Keisuke and Deguchi, Daisuke and Takahashi, Tomokazu and Mekada, Yoshito and Ide, Ichiro and Murase, Hiroshi and Tamatsu, Yukimasa",
-    title = "Estimation of traffic sign visibility considering temporal environmental changes for smart driver assistance",
     booktitle = "IV",
+    title = "Estimation of traffic sign visibility considering temporal environmental changes for smart driver assistance",
     year = "2011"
 }
 </pre>
@@ -540,8 +541,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2010_IV_Doman,
     author = "Doman, Keisuke and Deguchi, Daisuke and Takahashi, Tomokazu and Mekada, Yoshito and Ide, Ichiro and Murase, Hiroshi and Tamatsu, Yukimasa",
-    title = "Estimation of traffic sign visibility toward smart driver assistance",
     booktitle = "IV",
+    title = "Estimation of traffic sign visibility toward smart driver assistance",
     year = "2010"
 }
 </pre>
@@ -557,8 +558,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2010_CVPRW_Doshi,
     author = "Doshi, Anup and Trivedi, Mohan M",
-    title = "Attention estimation by simultaneous observation of viewer and view",
     booktitle = "CVPRW",
+    title = "Attention estimation by simultaneous observation of viewer and view",
     year = "2010"
 }
 </pre>

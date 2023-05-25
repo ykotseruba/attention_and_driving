@@ -15,9 +15,10 @@ Dataset(s): private
 <pre>
 @inproceedings{2022_ITSC_Chen,
     author = "Chen, Jinxin and Fang, Zhenwu and Wang, Jinxiang and Chen, Jiansong and Yin, Guodong",
-    title = "A Multi-view Driver Drowsiness Detection Method Using Transfer Learning and Population-based Sampling Strategy",
-    booktitle = "International Conference on Intelligent Transportation Systems (ITSC)",
+    booktitle = "2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)",
+    organization = "IEEE",
     pages = "3386--3391",
+    title = "A Multi-view Driver Drowsiness Detection Method Using Transfer Learning and Population-based Sampling Strategy",
     year = "2022"
 }
 </pre>
@@ -33,8 +34,12 @@ Dataset(s): private
 <pre>
 @article{2022_T-ITS_Baccour,
     author = {Baccour, Mohamed Hedi and Driewer, Frauke and Sch{\"a}ck, Tim and Kasneci, Enkelejda},
-    title = "Comparative Analysis of Vehicle-Based and Driver-Based Features for Driver Drowsiness Monitoring by Support Vector Machines",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
+    number = "12",
+    pages = "23164--23178",
+    publisher = "IEEE",
+    title = "Comparative Analysis of Vehicle-Based and Driver-Based Features for Driver Drowsiness Monitoring by Support Vector Machines",
+    volume = "23",
     year = "2022"
 }
 </pre>
@@ -50,10 +55,13 @@ Dataset(s): private
 <pre>
 @article{2022_T-ITS_Luo,
     author = "Luo, Longxi and Wu, Jianping and Fei, Weijie and Bi, Luzheng and Fan, Xinan",
-    title = "Detecting Driver Cognition Alertness State From Visual Activities in Normal and Emergency Scenarios",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2022",
-    publisher = "IEEE"
+    number = "10",
+    pages = "19497--19510",
+    publisher = "IEEE",
+    title = "Detecting Driver Cognition Alertness State From Visual Activities in Normal and Emergency Scenarios",
+    volume = "23",
+    year = "2022"
 }
 </pre>
 </ul>
@@ -68,13 +76,13 @@ Dataset(s): private
 <pre>
 @article{2022_T-ITS_Bakker,
     author = {Bakker, Bram and Zab{\l}ocki, Bartosz and Baker, Angela and Riethmeister, Vanessa and Marx, Bernd and Iyer, Girish and Anund, Anna and Ahlstr{\"o}m, Christer},
-    title = "A multi-stage, multi-feature machine learning approach to detect driver sleepiness in naturalistic road driving conditions",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "23",
     number = "5",
     pages = "4791--4800",
-    year = "2021",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "A multi-stage, multi-feature machine learning approach to detect driver sleepiness in naturalistic road driving conditions",
+    volume = "23",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -89,11 +97,49 @@ Dataset(s): private
 <pre>
 @inproceedings{2022_IV_Lollett,
     author = "Lollett, Catherine and Kamezaki, Mitsuhiro and Sugano, Shigeki",
-    title = "Driver’s Drowsiness Classifier using a Single-Camera Robust to Mask-wearing Situations using an Eyelid, Lower-Face Contour, and Chest Movement Feature Vector GRU-based Model",
-    booktitle = "IV",
+    booktitle = "2022 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
     pages = "519--526",
-    year = "2022",
-    organization = "IEEE"
+    title = "Driver’s Drowsiness Classifier using a Single-Camera Robust to Mask-wearing Situations using an Eyelid, Lower-Face Contour, and Chest Movement Feature Vector GRU-based Model",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_ECCVW_Tufekci></a>
+<details close>
+<summary>Tufekci et al., Detecting Driver Drowsiness as an Anomaly Using LSTM Autoencoders, ECCVW, 2022 | <a href=https://doi.org/10.1007/978-3-031-25075-0_37>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#DDD>DDD</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_ECCVW_Tufekci,
+    author = {T{\"u}fekci, G{\"u}lin and Kayaba{\c{s}}{\i}, Alper and Akag{\"u}nd{\"u}z, Erdem and Ulusoy, {\.I}lkay},
+    booktitle = "Computer Vision--ECCV 2022 Workshops: Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part VI",
+    organization = "Springer",
+    pages = "549--559",
+    title = "Detecting Driver Drowsiness as an Anomaly Using LSTM Autoencoders",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_ICPR_Sharak></a>
+<details close>
+<summary>Sharak et al., Contact Versus Noncontact Detection of Driver’s Drowsiness, ICPR, 2022 | <a href=https://doi.org/10.1109/ICPR56361.2022.9956336>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_ICPR_Sharak,
+    author = "Sharak, Salem and Das, Kapotaksha and Riani, Kais and Abouelenien, Mohamed and Burzo, Mihai and Mihalcea, Rada",
+    booktitle = "2022 26th International Conference on Pattern Recognition (ICPR)",
+    organization = "IEEE",
+    pages = "967--974",
+    title = "Contact Versus Noncontact Detection of Driver’s Drowsiness",
+    year = "2022"
 }
 </pre>
 </ul>
@@ -108,10 +154,13 @@ Dataset(s): <a href=datasets.md#RLDD>RLDD</a>
 <pre>
 @article{2021_T-ITS_Du,
     author = "Du, Guanglong and Zhang, Linlin and Su, Kang and Wang, Xueqian and Teng, Shaohua and Liu, Peter X",
-    title = "A Multimodal Fusion Fatigue Driving Detection Method Based on Heart Rate and PERCLOS",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2022",
-    publisher = "IEEE"
+    journal = "Ieee Transactions on Intelligent Transportation Systems",
+    number = "11",
+    pages = "21810--21820",
+    publisher = "IEEE",
+    title = "A multimodal fusion fatigue driving detection method based on heart rate and PERCLOS",
+    volume = "23",
+    year = "2022"
 }
 </pre>
 </ul>
@@ -126,8 +175,8 @@ Dataset(s): private
 <pre>
 @article{2021_T-ITS_Bakker,
     author = {Bakker, Bram and Zab{\l}ocki, Bartosz and Baker, Angela and Riethmeister, Vanessa and Marx, Bernd and Iyer, Girish and Anund, Anna and Ahlstr{\"o}m, Christer},
-    title = "A multi-stage, multi-feature machine learning approach to detect driver sleepiness in naturalistic road driving conditions",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
+    title = "A multi-stage, multi-feature machine learning approach to detect driver sleepiness in naturalistic road driving conditions",
     year = "2021"
 }
 </pre>
@@ -143,10 +192,13 @@ Dataset(s): private
 <pre>
 @article{2021_T-ITS_Ansari,
     author = "Ansari, Shahzeb and Naghdy, Fazel and Du, Haiping and Pahnwar, Yasmeen Naz",
-    title = "Driver mental fatigue detection based on head posture using new modified reLU-BiLSTM deep neural network",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2021",
-    publisher = "IEEE"
+    number = "8",
+    pages = "10957--10969",
+    publisher = "IEEE",
+    title = "Driver mental fatigue detection based on head posture using new modified reLU-BiLSTM deep neural network",
+    volume = "23",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -161,10 +213,13 @@ Dataset(s): <a href=datasets.md#DDD>DDD</a>
 <pre>
 @article{2021_T-ITS_Ahmed,
     author = "Ahmed, Muneeb and Masood, Sarfaraz and Ahmad, Musheer and Abd El-Latif, Ahmed A",
-    title = "Intelligent Driver Drowsiness Detection for Traffic Safety Based on Multi CNN Deep Model and Facial Subsampling",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2021",
-    publisher = "IEEE"
+    number = "10",
+    pages = "19743--19752",
+    publisher = "IEEE",
+    title = "Intelligent driver drowsiness detection for traffic safety based on multi CNN deep model and facial subsampling",
+    volume = "23",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -179,8 +234,8 @@ Dataset(s): <a href=datasets.md#DDD>DDD</a>
 <pre>
 @article{2020_T-ITS_Huang,
     author = "Huang, Rui and Wang, Yan and Li, Zijian and Lei, Zeyu and Xu, Yufan",
-    title = "RF-DCM: Multi-Granularity Deep Convolutional Model Based on Feature Recalibration and Fusion for Driver Fatigue Detection",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
+    title = "RF-DCM: Multi-Granularity Deep Convolutional Model Based on Feature Recalibration and Fusion for Driver Fatigue Detection",
     year = "2020"
 }
 </pre>
@@ -196,8 +251,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2020_IV_Joshi,
     author = "Joshi, Ajjen and Kyal, Survi and Banerjee, Sandipan and Mishra, Taniya",
-    title = "In-the-wild drowsiness detection from facial expressions",
     booktitle = "IV",
+    title = "In-the-wild drowsiness detection from facial expressions",
     year = "2020"
 }
 </pre>
@@ -213,8 +268,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2020_ITSC_Dari,
     author = "Dari, Simone and Epple, Nico and Protschky, Valentin",
-    title = "Unsupervised Blink Detection and Driver Drowsiness Metrics on Naturalistic Driving Data",
     booktitle = "ITSC",
+    title = "Unsupervised Blink Detection and Driver Drowsiness Metrics on Naturalistic Driving Data",
     year = "2020"
 }
 </pre>
@@ -230,8 +285,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2020_IROS_Tran,
     author = "Tran, Duy and Do, Ha Manh and Lu, Jiaxing and Sheng, Weihua",
-    title = "Real-time Detection of Distracted Driving using Dual Cameras",
     booktitle = "IROS",
+    title = "Real-time Detection of Distracted Driving using Dual Cameras",
     year = "2020"
 }
 </pre>
@@ -247,8 +302,8 @@ Dataset(s): <a href=datasets.md#DDD>DDD</a>
 <pre>
 @inproceedings{2020_ICPR_Vijay,
     author = "Vijay, Malaika and Vinayak, Nandagopal Netrakanti and Nunna, Maanvi and Natarajan, Subramanyam",
-    title = "Real-Time Driver Drowsiness Detection using Facial Action Units",
     booktitle = "ICPR",
+    title = "Real-Time Driver Drowsiness Detection using Facial Action Units",
     year = "2021"
 }
 </pre>
@@ -264,11 +319,12 @@ Dataset(s): <a href=datasets.md#YawDD>YawDD</a>, <a href=datasets.md#DDD>DDD</a>
 <pre>
 @article{2019_T-ITS_Chiou,
     author = "Chiou, Chien-Yu and Wang, Wei-Cheng and Lu, Shueh-Chou and Huang, Chun-Rong and Chung, Pau-Choo and Lai, Yun-Yang",
-    title = "Driver monitoring using sparse representation with part-based temporal face descriptors",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "21",
     number = "1",
     pages = "346--361",
+    publisher = "IEEE",
+    title = "Driver monitoring using sparse representation with part-based temporal face descriptors",
+    volume = "21",
     year = "2019"
 }
 </pre>
@@ -284,12 +340,12 @@ Dataset(s): private
 <pre>
 @article{2019_PRL_Wang,
     author = "Wang, Yan and Huang, Rui and Guo, Lei",
-    title = "Eye gaze pattern analysis for fatigue detection based on GP-BCNN with ESM",
     journal = "Pattern Recognition Letters",
-    volume = "123",
     pages = "61--74",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Eye gaze pattern analysis for fatigue detection based on GP-BCNN with ESM",
+    volume = "123",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -304,12 +360,12 @@ Dataset(s): private
 <pre>
 @article{2019_IEEEAccess_Zhang,
     author = "Zhang, Chao and Wu, Xiaopei and Zheng, Xi and Yu, Shui",
-    title = "Driver drowsiness detection using multi-channel second order blind identifications",
     journal = "IEEE Access",
-    volume = "7",
     pages = "11829--11843",
-    year = "2019",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "Driver drowsiness detection using multi-channel second order blind identifications",
+    volume = "7",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -324,12 +380,12 @@ Dataset(s): private
 <pre>
 @article{2019_IEEEAccess_Deng,
     author = "Deng, Wanghua and Wu, Ruoxue",
-    title = "Real-time driver-drowsiness detection system using facial features",
     journal = "IEEE Access",
-    volume = "7",
     pages = "118727--118738",
-    year = "2019",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "Real-time driver-drowsiness detection system using facial features",
+    volume = "7",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -344,8 +400,8 @@ Dataset(s): <a href=datasets.md#RLDD>RLDD</a>
 <pre>
 @inproceedings{2019_CVPRW_Ghoddoosian,
     author = "Ghoddoosian, Reza and Galib, Marnim and Athitsos, Vassilis",
-    title = "A realistic dataset and baseline temporal model for early drowsiness detection",
     booktitle = "CVPRW",
+    title = "A realistic dataset and baseline temporal model for early drowsiness detection",
     year = "2019"
 }
 </pre>
@@ -361,11 +417,11 @@ Dataset(s): <a href=datasets.md#DDD>DDD</a>
 <pre>
 @article{2018_T-ITS_Yu,
     author = "Yu, Jongmin and Park, Sangwoo and Lee, Sangwook and Jeon, Moongu",
-    title = "Driver drowsiness detection using condition-adaptive representation learning framework",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "20",
     number = "11",
     pages = "4206--4218",
+    title = "Driver drowsiness detection using condition-adaptive representation learning framework",
+    volume = "20",
     year = "2018"
 }
 </pre>
@@ -381,11 +437,11 @@ Dataset(s): private
 <pre>
 @article{2018_T-ITS_Dasgupta,
     author = "Dasgupta, Anirban and Rahman, Daleef and Routray, Aurobinda",
-    title = "A smartphone-based drowsiness detection and warning system for automotive drivers",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "20",
     number = "11",
     pages = "4045--4054",
+    title = "A smartphone-based drowsiness detection and warning system for automotive drivers",
+    volume = "20",
     year = "2018"
 }
 </pre>
@@ -401,8 +457,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2018_ITSC_Gwak,
     author = "Gwak, Jongseong and Shino, Motoki and Hirao, Akinari",
-    title = "Early detection of driver drowsiness utilizing machine learning based on physiological signals, behavioral measures, and driving performance",
     booktitle = "ITSC",
+    title = "Early detection of driver drowsiness utilizing machine learning based on physiological signals, behavioral measures, and driving performance",
     year = "2018"
 }
 </pre>
@@ -418,11 +474,11 @@ Dataset(s): private
 <pre>
 @article{2017_T-ITS_Sun,
     author = "Sun, Wei and Zhang, Xiaorui and Peeta, Srinivas and He, Xiaozheng and Li, Yongfu",
-    title = "A real-time fatigue driving recognition method incorporating contextual features and two fusion levels",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "18",
     number = "12",
     pages = "3408--3420",
+    title = "A real-time fatigue driving recognition method incorporating contextual features and two fusion levels",
+    volume = "18",
     year = "2017"
 }
 </pre>
@@ -438,11 +494,11 @@ Dataset(s): private
 <pre>
 @article{2017_IET_Zhao,
     author = "Zhao, Lei and Wang, Zengcai and Wang, Xiaojin and Liu, Qing",
-    title = "Driver drowsiness detection using facial dynamic fusion information and a DBN",
     journal = "IET Intelligent Transport Systems",
-    volume = "12",
     number = "2",
     pages = "127--133",
+    title = "Driver drowsiness detection using facial dynamic fusion information and a DBN",
+    volume = "12",
     year = "2017"
 }
 </pre>
@@ -458,8 +514,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2017_CVPRW_Reddy,
     author = "Reddy, Bhargava and Kim, Ye-Hoon and Yun, Sojung and Seo, Chanwon and Jang, Junik",
-    title = "Real-time driver drowsiness detection for embedded system using model compression of deep neural networks",
     booktitle = "CVPRW",
+    title = "Real-time driver drowsiness detection for embedded system using model compression of deep neural networks",
     year = "2017"
 }
 </pre>
@@ -475,8 +531,8 @@ Dataset(s): <a href=datasets.md#DDD>DDD</a>
 <pre>
 @inproceedings{2017_ACCVW_Yu,
     author = "Yu, Jongmin and Park, Sangwoo and Lee, Sangwook and Jeon, Moongu",
-    title = "Representation learning, scene understanding, and feature fusion for drowsiness detection",
     booktitle = "ACCV",
+    title = "Representation learning, scene understanding, and feature fusion for drowsiness detection",
     year = "2016"
 }
 </pre>
@@ -492,8 +548,8 @@ Dataset(s): <a href=datasets.md#DDD>DDD</a>
 <pre>
 @inproceedings{2017_ACCVW_Shih,
     author = "Shih, Tun-Huai and Hsu, Chiou-Ting",
-    title = "MSTN: Multistage spatial-temporal network for driver drowsiness detection",
     booktitle = "ACCV",
+    title = "MSTN: Multistage spatial-temporal network for driver drowsiness detection",
     year = "2016"
 }
 </pre>
@@ -509,8 +565,8 @@ Dataset(s): <a href=datasets.md#DDD>DDD</a>
 <pre>
 @inproceedings{2017_ACCVW_Huynh,
     author = "Huynh, Xuan-Phung and Park, Sang-Min and Kim, Yong-Guk",
-    title = "Detection of driver drowsiness using 3D deep neural network and semi-supervised gradient boosting machine",
     booktitle = "ACCV",
+    title = "Detection of driver drowsiness using 3D deep neural network and semi-supervised gradient boosting machine",
     year = "2016"
 }
 </pre>
@@ -526,8 +582,8 @@ Dataset(s): <a href=datasets.md#DDD>DDD</a>
 <pre>
 @inproceedings{2017_ACCV_Weng,
     author = "Weng, Ching-Hua and Lai, Ying-Hsiu and Lai, Shang-Hong",
-    title = "Driver drowsiness detection via a hierarchical temporal deep belief network",
     booktitle = "ACCV",
+    title = "Driver drowsiness detection via a hierarchical temporal deep belief network",
     year = "2016"
 }
 </pre>
@@ -543,8 +599,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2016_WACV_Yin,
     author = "Yin, Hao and Su, Yuanqi and Liu, Yuehu and Zhao, Danchen",
-    title = "A driver fatigue detection method based on multi-sensor signals",
     booktitle = "WACV",
+    title = "A driver fatigue detection method based on multi-sensor signals",
     year = "2016"
 }
 </pre>
@@ -560,8 +616,10 @@ Dataset(s): private
 <pre>
 @inproceedings{2016_IV_Kim,
     author = "Kim, Jinwoo and Kim, Kitae and Yoon, Daesub and Koo, Yongbon and Han, Wooyong",
+    booktitle = "2016 Ieee Intelligent Vehicles Symposium (iv)",
+    organization = "IEEE",
+    pages = "1398--1403",
     title = "Fusion of driver-information based driver status recognition for co-pilot system",
-    booktitle = "IV",
     year = "2016"
 }
 </pre>
@@ -577,11 +635,11 @@ Dataset(s): private
 <pre>
 @article{2016_ApplSci_Choi,
     author = "Choi, In-Ho and Jeong, Chan-Hee and Kim, Yong-Guk",
-    title = "Tracking a driver’s face against extreme head poses and inference of drowsiness using a hidden Markov model",
     journal = "Applied Sciences",
-    volume = "6",
     number = "5",
     pages = "137",
+    title = "Tracking a driver’s face against extreme head poses and inference of drowsiness using a hidden Markov model",
+    volume = "6",
     year = "2016"
 }
 </pre>
@@ -597,8 +655,8 @@ Dataset(s): <a href=datasets.md#DDD>DDD</a>
 <pre>
 @inproceedings{2016_ACCV_Park,
     author = "Park, Sanghyuk and Pan, Fei and Kang, Sunghun and Yoo, Chang D",
-    title = "Driver drowsiness detection system based on feature representation learning using various deep networks",
     booktitle = "ACCV",
+    title = "Driver drowsiness detection system based on feature representation learning using various deep networks",
     year = "2016"
 }
 </pre>
@@ -614,12 +672,12 @@ Dataset(s): private
 <pre>
 @article{2016_AccidentAnalysis_Wang,
     author = "Wang, Xuesong and Xu, Chuan",
-    title = "Driver drowsiness detection based on non-intrusive metrics considering individual specifics",
     journal = "Accident Analysis \\& Prevention",
-    volume = "95",
     pages = "350--357",
-    year = "2016",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Driver drowsiness detection based on non-intrusive metrics considering individual specifics",
+    volume = "95",
+    year = "2016"
 }
 </pre>
 </ul>
@@ -634,8 +692,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_ITSC_Chang,
     author = "Chang, Tang-Hsien and Chen, Yi-Ru",
-    title = "Driver fatigue surveillance via eye detection",
     booktitle = "ITSC",
+    title = "Driver fatigue surveillance via eye detection",
     year = "2014"
 }
 </pre>
@@ -651,8 +709,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_ICRA_Tadesse,
     author = "Tadesse, Eyosiyas and Sheng, Weihua and Liu, Meiqin",
-    title = "Driver drowsiness detection through HMM based dynamic modeling",
     booktitle = "ICRA",
+    title = "Driver drowsiness detection through HMM based dynamic modeling",
     year = "2014"
 }
 </pre>
@@ -668,11 +726,11 @@ Dataset(s): <a href=datasets.md#BU HeadTracking>BU HeadTracking</a>, private
 <pre>
 @article{2013_T-ITS_Mbouna,
     author = "Mbouna, Ralph Oyini and Kong, Seong G and Chun, Myung-Geun",
-    title = "Visual analysis of eye state and head pose for driver alertness monitoring",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "14",
     number = "3",
     pages = "1462--1469",
+    title = "Visual analysis of eye state and head pose for driver alertness monitoring",
+    volume = "14",
     year = "2013"
 }
 </pre>
@@ -688,9 +746,10 @@ Dataset(s): private
 <pre>
 @inproceedings{2013_IV_Masala,
     author = "Masala, Giovanni Luca and Grosso, Enrico",
-    title = "Detecting driver inattention by rough iconic classification",
-    booktitle = "IEEE Intelligent Vehicles Symposium (IV)",
+    booktitle = "2013 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
     pages = "913--918",
+    title = "Detecting driver inattention by rough iconic classification",
     year = "2013"
 }
 </pre>
@@ -706,8 +765,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2013_IV_Li,
     author = "Li, Xuanpeng and Seignez, Emmanuel and Loonis, Pierre",
-    title = "Vision-based estimation of driver drowsiness with ORD model using evidence theory",
     booktitle = "IV",
+    title = "Vision-based estimation of driver drowsiness with ORD model using evidence theory",
     year = "2013"
 }
 </pre>
@@ -723,8 +782,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2013_IV_Akrout,
     author = "Akrout, Belhassen and Mahdi, Walid",
-    title = "A visual based approach for drowsiness detection",
     booktitle = "IV",
+    title = "A visual based approach for drowsiness detection",
     year = "2013"
 }
 </pre>
@@ -740,10 +799,10 @@ Dataset(s): private
 <pre>
 @article{2013_AdvMechEng_Jin,
     author = "Jin, Lisheng and Niu, Qingning and Jiang, Yuying and Xian, Huacai and Qin, Yanguang and Xu, Meijiao",
-    title = "Driver sleepiness detection system based on eye movements variables",
     journal = "Advances in Mechanical Engineering",
-    volume = "5",
     pages = "648431",
+    title = "Driver sleepiness detection system based on eye movements variables",
+    volume = "5",
     year = "2013"
 }
 </pre>
@@ -759,8 +818,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2012_IV_Garcia,
     author = "Garcia, I and Bronte, Sebastian and Bergasa, Luis Miguel and Almaz{\'a}n, Javier and Yebes, J",
-    title = "Vision-based drowsiness detector for real driving conditions",
     booktitle = "IV",
+    title = "Vision-based drowsiness detector for real driving conditions",
     year = "2012"
 }
 </pre>
@@ -776,8 +835,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2012_ICPR_Matsuo,
     author = "Matsuo, Haruo and Khiat, Abdelaziz",
-    title = "Prediction of drowsy driving by monitoring driver's behavior",
     booktitle = "ICPR",
+    title = "Prediction of drowsy driving by monitoring driver's behavior",
     year = "2012"
 }
 </pre>
@@ -793,11 +852,11 @@ Dataset(s): private
 <pre>
 @article{2011_OptEng_Jo,
     author = "Jo, Jaeik and Lee, Sung Joo and Kim, Jaihie and Jung, Ho Gi and Park, Kang Ryoung",
-    title = "Vision-based method for detecting driver drowsiness and distraction in driver monitoring system",
     journal = "Optical Engineering",
-    volume = "50",
     number = "12",
     pages = "127202",
+    title = "Vision-based method for detecting driver drowsiness and distraction in driver monitoring system",
+    volume = "50",
     year = "2011"
 }
 </pre>
@@ -813,13 +872,13 @@ Dataset(s): private
 <pre>
 @article{2011_IET_Flores,
     author = "Flores, Marco Javier and Armingol, J Ma and de la Escalera, Arturo",
-    title = "Driver drowsiness detection system under infrared illumination for an intelligent vehicle",
     journal = "IET Intelligent Transport Systems",
-    volume = "5",
     number = "4",
     pages = "241--251",
-    year = "2011",
-    publisher = "IET"
+    publisher = "IET",
+    title = "Driver drowsiness detection system under infrared illumination for an intelligent vehicle",
+    volume = "5",
+    year = "2011"
 }
 </pre>
 </ul>
@@ -834,11 +893,11 @@ Dataset(s): private
 <pre>
 @article{2010_PRL_Fan,
     author = "Fan, Xiao and Sun, Yanfeng and Yin, Baocai and Guo, Xiuming",
-    title = "Gabor-based dynamic representation for human fatigue monitoring in facial image sequences",
     journal = "Pattern Recognition Letters",
-    volume = "31",
     number = "3",
     pages = "234--243",
+    title = "Gabor-based dynamic representation for human fatigue monitoring in facial image sequences",
+    volume = "31",
     year = "2010"
 }
 </pre>
@@ -854,13 +913,13 @@ Dataset(s): private
 <pre>
 @article{2010_JCTA_Zhang,
     author = "Zhang, Zutao and Zhang, Jiashu",
-    title = "A new real-time eye tracking based on nonlinear unscented Kalman filter for monitoring driver fatigue",
     journal = "Journal of Control Theory and Applications",
-    volume = "8",
     number = "2",
     pages = "181--188",
-    year = "2010",
-    publisher = "Springer"
+    publisher = "Springer",
+    title = "A new real-time eye tracking based on nonlinear unscented Kalman filter for monitoring driver fatigue",
+    volume = "8",
+    year = "2010"
 }
 </pre>
 </ul>
@@ -875,8 +934,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2010_IV_Friedrichs,
     author = "Friedrichs, Fabian and Yang, Bin",
-    title = "Camera-based drowsiness reference for driver state classification under real driving conditions",
     booktitle = "IV",
+    title = "Camera-based drowsiness reference for driver state classification under real driving conditions",
     year = "2010"
 }
 </pre>

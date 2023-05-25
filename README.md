@@ -52,17 +52,4 @@ If you used this repository in your research, please cite:
 
 ### Acknowledgment
 
-This work is greatly inspired by the database for vision-based action prediction created by [Amir Rasouli](https://github.com/aras62/).
-
-## Updates
-
-- December 16, 2022: added 10 papers
-- July 29, 2022: added 22 papers
-- July 13, 2022: added link and citation information for the survey of practical applications
-- June 29, 2022: added papers with code
-- June 2, 2022: restructured the tables into lists, old version is available in previous branch
-- November 7, 2021: Added 50+ papers, restructured and cleaned up the tables
-- August 11, 2021: Added bibtex info to practical works, added action anticipation
-- August 6, 2021: Added 60 behavioral and practical works up to mid-2021. Added hyperlinks for papers and code.
-- May 19, 2021: Switched from Google Spreadsheets to Tabulator
-- March 31, 2021: The repository is up
+This work is inspired by the database of papers on vision-based action prediction created by [Amir Rasouli](https://github.com/aras62/).

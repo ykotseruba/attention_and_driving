@@ -15,10 +15,13 @@ Dataset(s): private
 <pre>
 @article{2022_T-ITS_Qin,
     author = "Qin, Long and Shi, Yi and He, Yahui and Zhang, Junrui and Zhang, Xianshi and Li, Yongjie and Deng, Tao and Yan, Hongmei",
-    title = "ID-YOLO: Real-Time Salient Object Detection Based on the Driver's Fixation Region",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2022",
-    publisher = "IEEE"
+    number = "9",
+    pages = "15898--15908",
+    publisher = "IEEE",
+    title = "ID-YOLO: Real-time salient object detection based on the driver’s fixation region",
+    volume = "23",
+    year = "2022"
 }
 </pre>
 </ul>
@@ -33,10 +36,13 @@ Dataset(s): <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DADA-2000>D
 <pre>
 @article{2022_T-ITS_Li,
     author = "Li, Qiang and Liu, Chunsheng and Chang, Faliang and Li, Shuang and Liu, Hui and Liu, Zehao",
-    title = "Adaptive Short-Temporal Induced Aware Fusion Network for Predicting Attention Regions Like a Driver",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2022",
-    publisher = "IEEE"
+    number = "10",
+    pages = "18695--18706",
+    publisher = "IEEE",
+    title = "Adaptive short-temporal induced aware fusion network for predicting attention regions like a driver",
+    volume = "23",
+    year = "2022"
 }
 </pre>
 </ul>
@@ -51,28 +57,13 @@ Dataset(s): <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DADA-2000>D
 <pre>
 @article{2022_T-ITS_Gan,
     author = "Gan, Shun and Pei, Xizhe and Ge, Yulong and Wang, Qingfan and Shang, Shi and Li, Shengbo Eben and Nie, Bingbing",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    number = "11",
+    pages = "20912--20925",
+    publisher = "IEEE",
     title = "Multisource Adaption for Driver Attention Prediction in Arbitrary Driving Scenes",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2022",
-    publisher = "IEEE"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2022_T-ITS_Fang></a>
-<details close>
-<summary>Fang et al., DADA: Driver Attention Prediction in Driving Accident Scenarios, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2020.3044678>paper</a> | <a href=https://github.com/JWFangit/LOTVS-DADA>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#DADA-2000>DADA-2000</a>
-</ul>
-<ul>
-<pre>
-@article{2022_T-ITS_Fang,
-    author = "Fang, Jianwu and Yan, Dingxin and Qiao, Jiahuan and Xue, Jianru and Yu, Hongkai",
-    title = "DADA: Driver attention prediction in driving accident scenarios",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2021",
-    publisher = "IEEE"
+    volume = "23",
+    year = "2022"
 }
 </pre>
 </ul>
@@ -87,11 +78,51 @@ Dataset(s): <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DADA-2000>D
 <pre>
 @inproceedings{2022_IV_Araluce,
     author = "Araluce, Javier and Bergasa, Luis M and Oca{\\textasciitilde n}a, Manuel and Barea, Rafael and L{\'o}pez-Guill{\'e}n, Elena and Revenga, Pedro",
-    title = "ARAGAN: A dRiver Attention estimation model based on conditional Generative Adversarial Network",
-    booktitle = "IV",
+    booktitle = "2022 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
     pages = "1066--1072",
-    year = "2022",
-    organization = "IEEE"
+    title = "ARAGAN: A dRiver Attention estimation model based on conditional Generative Adversarial Network",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_ECCV_Kasahara></a>
+<details close>
+<summary>Kasahara et al., Look Both Ways: Self-Supervising Driver Gaze Estimation and Road Scene Saliency, ECCV, 2022 | <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730128.pdf>paper</a> | <a href=https://github.com/Kasai2020/look_both_ways>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#LBW>LBW</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_ECCV_Kasahara,
+    author = "Kasahara, Isaac and Stent, Simon and Park, Hyun Soo",
+    booktitle = "Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XIII",
+    organization = "Springer",
+    pages = "126--142",
+    title = "Look Both Ways: Self-supervising Driver Gaze Estimation and Road Scene Saliency",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_T-ITS_Fang></a>
+<details close>
+<summary>Fang et al., DADA: Driver Attention Prediction in Driving Accident Scenarios, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2020.3044678>paper</a> | <a href=https://github.com/JWFangit/LOTVS-DADA>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#DADA-2000>DADA-2000</a>
+</ul>
+<ul>
+<pre>
+@article{2022_T-ITS_Fang,
+    author = "Fang, Jianwu and Yan, Dingxin and Qiao, Jiahuan and Xue, Jianru and Yu, Hongkai",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    number = "6",
+    pages = "4959--4971",
+    publisher = "IEEE",
+    title = "DADA: Driver attention prediction in driving accident scenarios",
+    volume = "23",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -106,8 +137,8 @@ Dataset(s): private
 <pre>
 @article{2021_T-ITS_Amadori,
     author = "Amadori, Pierluigi Vito and Fischer, Tobias and Demiris, Yiannis",
-    title = "HammerDrive: A Task-Aware Driving Visual Attention Model",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
+    title = "HammerDrive: A Task-Aware Driving Visual Attention Model",
     year = "2021"
 }
 </pre>
@@ -123,11 +154,11 @@ Dataset(s): private
 <pre>
 @inproceedings{2021_IV_Epple,
     author = "Epple, Nico and Chopra, Harshit and Riener, Andreas",
-    title = "How Do Drivers Observe Surrounding Vehicles in Real-World Traffic? Estimating the Drivers Primary Observed Traffic Objects",
-    booktitle = "IV",
+    booktitle = "2021 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
     pages = "594--601",
-    year = "2021",
-    organization = "IEEE"
+    title = "How Do Drivers Observe Surrounding Vehicles in Real-World Traffic? Estimating the Drivers Primary Observed Traffic Objects",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -142,9 +173,9 @@ Dataset(s): <a href=datasets.md#MAAD>MAAD</a>
 <pre>
 @inproceedings{2021_ICCVW_Gopinath,
     author = "Gopinath, Deepak and Rosman, Guy and Stent, Simon and Terahata, Katsuya and Fletcher, Luke and Argall, Brenna and Leonard, John",
-    title = {MAAD: A Model and Dataset for" Attended Awareness" in Driving},
-    booktitle = "ICCVW",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
     pages = "3426--3436",
+    title = {MAAD: A Model and Dataset for" Attended Awareness" in Driving},
     year = "2021"
 }
 </pre>
@@ -160,8 +191,8 @@ Dataset(s): Eyecar
 <pre>
 @inproceedings{2021_ICCV_Baee,
     author = "Baee, Sonia and Pakdamanian, Erfan and Kim, Inki and Feng, Lu and Ordonez, Vicente and Barnes, Laura",
-    title = "MEDIRL: Predicting the visual attention of drivers via maximum entropy deep inverse reinforcement learning",
     booktitle = "ICCV",
+    title = "MEDIRL: Predicting the visual attention of drivers via maximum entropy deep inverse reinforcement learning",
     year = "2021"
 }
 </pre>
@@ -177,13 +208,13 @@ Dataset(s): <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>
 <pre>
 @article{2020_T-ITS_Deng,
     author = "Deng, Tao and Yan, Hongmei and Qin, Long and Ngo, Thuyen and Manjunath, BS",
-    title = "How do drivers allocate their potential attention? Driving fixation prediction via convolutional neural networks",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "21",
     number = "5",
     pages = "2146--2154",
-    year = "2019",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "{How do drivers allocate their potential attention? Driving fixation prediction via convolutional neural networks}",
+    volume = "21",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -198,8 +229,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2020_ICRA_Zhang,
     author = "Zhang, Zehua and Tawari, Ashish and Martin, Sujitha and Crandall, David",
-    title = "Interaction Graphs for Object Importance Estimation in On-road Driving Videos",
     booktitle = "ICRA",
+    title = "Interaction Graphs for Object Importance Estimation in On-road Driving Videos",
     year = "2020"
 }
 </pre>
@@ -215,8 +246,8 @@ Dataset(s): <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#BDD
 <pre>
 @inproceedings{2020_CVPR_Pal,
     author = "Pal, Anwesan and Mondal, Sayan and Christensen, Henrik I",
-    title = {{" Looking at the Right Stuff"-Guided Semantic-Gaze for Autonomous Driving}},
     booktitle = "CVPR",
+    title = {{" Looking at the Right Stuff"-Guided Semantic-Gaze for Autonomous Driving}},
     year = "2020"
 }
 </pre>
@@ -232,8 +263,8 @@ Dataset(s): <a href=datasets.md#3DDS>3DDS</a>
 <pre>
 @inproceedings{2019_WACV_Tavakoli,
     author = "Tavakoli, Hamed Rezazadegan and Rahtu, Esa and Kannala, Juho and Borji, Ali",
-    title = "Digging deeper into egocentric gaze prediction",
     booktitle = "WACV",
+    title = "Digging deeper into egocentric gaze prediction",
     year = "2019"
 }
 </pre>
@@ -249,8 +280,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2019_IV_Rahimpour,
     author = "Rahimpour, Alireza and Martin, Sujitha and Tawari, Ashish and Qi, Hairong",
-    title = "{Context Aware Road-user Importance Estimation (iCARE)}",
     booktitle = "IV",
+    title = "{Context Aware Road-user Importance Estimation (iCARE)}",
     year = "2019"
 }
 </pre>
@@ -266,8 +297,8 @@ Dataset(s): <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>
 <pre>
 @inproceedings{2019_ITSC_Ning,
     author = "Ning, Minghao and Lu, Chao and Gong, Jianwei",
-    title = "{An Efficient Model for Driving Focus of Attention Prediction using Deep Learning}",
     booktitle = "ITCS",
+    title = "{An Efficient Model for Driving Focus of Attention Prediction using Deep Learning}",
     year = "2019"
 }
 </pre>
@@ -283,8 +314,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2019_ICRA_Gao,
     author = "Gao, Mingfei and Tawari, Ashish and Martin, Sujitha",
-    title = "Goal-oriented object importance estimation in on-road driving videos",
     booktitle = "ICRA",
+    title = "Goal-oriented object importance estimation in on-road driving videos",
     year = "2019"
 }
 </pre>
@@ -300,8 +331,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2019_BMVC_Palasek,
     author = "Palasek, Petar and Lavie, Nilli and Palmer, Luke",
-    title = "Attentional demand estimation with attentive driving models",
     booktitle = "BMVC",
+    title = "Attentional demand estimation with attentive driving models",
     year = "2019"
 }
 </pre>
@@ -317,13 +348,12 @@ Dataset(s): <a href=datasets.md#TETD>TETD</a>
 <pre>
 @article{2018_T-ITS_Deng,
     author = "Deng, Tao and Yan, Hongmei and Li, Yong-Jie",
-    title = "Learning to boost bottom-up fixation prediction in driving environments via random forest",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "19",
     number = "9",
     pages = "3059--3067",
-    year = "2017",
-    publisher = "IEEE"
+    title = "Learning to boost bottom-up fixation prediction in driving environments via random forest",
+    volume = "19",
+    year = "2017"
 }
 </pre>
 </ul>
@@ -338,11 +368,11 @@ Dataset(s): <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>
 <pre>
 @article{2018_PAMI_Palazzi,
     author = "Palazzi, Andrea and Abati, Davide and Solera, Francesco and Cucchiara, Rita and others",
-    title = "{Predicting the Driver's Focus of Attention: the DR (eye) VE Project}",
     journal = "IEEE TPAMI",
-    volume = "41",
     number = "7",
     pages = "1720--1733",
+    title = "{Predicting the Driver's Focus of Attention: the DR (eye) VE Project}",
+    volume = "41",
     year = "2018"
 }
 </pre>
@@ -358,8 +388,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2018_ITSC_Tawari,
     author = "Tawari, Ashish and Mallela, Praneeta and Martin, Sujitha",
-    title = "Learning to attend to salient targets in driving videos using fully convolutional rnn",
     booktitle = "ITSC",
+    title = "Learning to attend to salient targets in driving videos using fully convolutional rnn",
     year = "2018"
 }
 </pre>
@@ -375,8 +405,8 @@ Dataset(s): <a href=datasets.md#BDD-A>BDD-A</a>
 <pre>
 @inproceedings{2018_ACCV_Xia,
     author = "Xia, Ye and Zhang, Danqing and Kim, Jinkyu and Nakayama, Ken and Zipser, Karl and Whitney, David",
-    title = "Predicting driver attention in critical situations",
     booktitle = "ACCV",
+    title = "Predicting driver attention in critical situations",
     year = "2018"
 }
 </pre>
@@ -392,8 +422,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2017_WACV_Palmer,
     author = "Palmer, Luke and Bialkowski, Alina and Brostow, Gabriel J and Ambeck-Madsen, Jonas and Lavie, Nilli",
-    title = "Predicting the perceptual demands of urban driving with video regression",
     booktitle = "WACV",
+    title = "Predicting the perceptual demands of urban driving with video regression",
     year = "2017"
 }
 </pre>
@@ -409,10 +439,10 @@ Dataset(s): KITTI
 <pre>
 @article{2017_PR_Ohn-Bar,
     author = "Ohn-Bar, Eshed and Trivedi, Mohan Manubhai",
-    title = "Are all objects equal? Deep spatio-temporal importance prediction in driving videos",
     journal = "Pattern Recognition",
-    volume = "64",
     pages = "425--436",
+    title = "Are all objects equal? Deep spatio-temporal importance prediction in driving videos",
+    volume = "64",
     year = "2017"
 }
 </pre>
@@ -428,8 +458,8 @@ Dataset(s): <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>
 <pre>
 @inproceedings{2017_IV_Tawari,
     author = "Tawari, Ashish and Kang, Byeongkeun",
-    title = "A computational framework for driver's visual attention using a fully convolutional architecture",
     booktitle = "IV",
+    title = "A computational framework for driver's visual attention using a fully convolutional architecture",
     year = "2017"
 }
 </pre>
@@ -445,8 +475,8 @@ Dataset(s): <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>
 <pre>
 @inproceedings{2017_IV_Palazzi,
     author = "Palazzi, Andrea and Solera, Francesco and Calderara, Simone and Alletto, Stefano and Cucchiara, Rita",
-    title = "Learning where to attend like a human driver",
     booktitle = "IV",
+    title = "Learning where to attend like a human driver",
     year = "2017"
 }
 </pre>
@@ -462,13 +492,13 @@ Dataset(s): private
 <pre>
 @article{2016_T-ITS_Deng,
     author = "Deng, Tao and Yang, Kaifu and Li, Yongjie and Yan, Hongmei",
-    title = "Where does the driver look? Top-down-based saliency detection in a traffic driving environment",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "17",
     number = "7",
     pages = "2051--2062",
-    year = "2016",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "Where does the driver look? Top-down-based saliency detection in a traffic driving environment",
+    volume = "17",
+    year = "2016"
 }
 </pre>
 </ul>
@@ -483,11 +513,11 @@ Dataset(s): <a href=datasets.md#3DDS>3DDS</a>
 <pre>
 @article{2014_TransSysManCybernetics_Borji,
     author = "Borji, Ali and Sihite, Dicky N and Itti, Laurent",
-    title = "{What/where to look next? Modeling top-down visual attention in complex interactive environments}",
     journal = "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
-    volume = "44",
     number = "5",
     pages = "523--538",
+    title = "{What/where to look next? Modeling top-down visual attention in complex interactive environments}",
+    volume = "44",
     year = "2013"
 }
 </pre>
@@ -503,11 +533,11 @@ Dataset(s): private
 <pre>
 @article{2013_RSTB_Johnson,
     author = "Johnson, Leif and Sullivan, Brian and Hayhoe, Mary and Ballard, Dana",
-    title = "Predicting human visuomotor behaviour in a driving task",
     journal = "Philosophical Transactions of the Royal Society B: Biological Sciences",
-    volume = "369",
     number = "1636",
     pages = "20130044",
+    title = "Predicting human visuomotor behaviour in a driving task",
+    volume = "369",
     year = "2014"
 }
 </pre>
@@ -523,8 +553,8 @@ Dataset(s): <a href=datasets.md#3DDS>3DDS</a>
 <pre>
 @inproceedings{2012_CVPR_Borji,
     author = "Borji, Ali and Sihite, Dicky N and Itti, Laurent",
-    title = "Probabilistic learning of task-specific visual attention",
     booktitle = "CVPR",
+    title = "Probabilistic learning of task-specific visual attention",
     year = "2012"
 }
 </pre>
@@ -540,8 +570,8 @@ Dataset(s): <a href=datasets.md#3DDS>3DDS</a>
 <pre>
 @inproceedings{2011_BMVC_Borji,
     author = "Borji, Ali and Sihite, Dicky N and Itti, Laurent",
-    title = "Computational Modeling of Top-down Visual Attention in Interactive Environments.",
     booktitle = "BMVC",
+    title = "Computational Modeling of Top-down Visual Attention in Interactive Environments.",
     year = "2011"
 }
 </pre>

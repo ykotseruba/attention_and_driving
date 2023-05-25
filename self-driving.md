@@ -15,11 +15,11 @@ Dataset(s): private
 <pre>
 @inproceedings{2022_IV_Niu,
     author = "Niu, Yinjie and Ding, Ming and Zhang, Yuxiao and Ohtani, Kento and Takeda, Kazuya",
-    title = "Auditory and visual warning information generation of the risk object in driving scenes based on weakly supervised learning",
-    booktitle = "IV",
+    booktitle = "2022 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
     pages = "1572--1577",
-    year = "2022",
-    organization = "IEEE"
+    title = "Auditory and visual warning information generation of the risk object in driving scenes based on weakly supervised learning",
+    year = "2022"
 }
 </pre>
 </ul>
@@ -34,11 +34,30 @@ Dataset(s): KITTI
 <pre>
 @inproceedings{2022_IV_Li,
     author = "Li, Jing and Zhang, Dongbo and Meng, Bumin and Chen, Renjie and Tang, Jiajun and Wang, Yaonan",
-    title = "Enhancement of Target Feature Regions and Intention-Driven Visual Attention Selection in Traffic Scenes",
-    booktitle = "IV",
+    booktitle = "2022 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
     pages = "404--410",
-    year = "2022",
-    organization = "IEEE"
+    title = "Enhancement of Target Feature Regions and Intention-Driven Visual Attention Selection in Traffic Scenes",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_ICRA_Li></a>
+<details close>
+<summary>Li et al., Important Object Identification with Semi-Supervised Learning for Autonomous Driving, ICRA, 2022 | <a href=https://doi.org/10.1109/ICRA46639.2022.9812234>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#H3D>H3D</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_ICRA_Li,
+    author = "Li, Jiachen and Gang, Haiming and Ma, Hengbo and Tomizuka, Masayoshi and Choi, Chiho",
+    booktitle = "2022 International Conference on Robotics and Automation (ICRA)",
+    organization = "IEEE",
+    pages = "2913--2919",
+    title = "Important object identification with semi-supervised learning for autonomous driving",
+    year = "2022"
 }
 </pre>
 </ul>
@@ -53,8 +72,8 @@ Dataset(s): Drive4D, nuScenes
 <pre>
 @inproceedings{2021_ICRA_Wei,
     author = "Wei, Bob and Ren, Mengye and Zeng, Wenyuan and Liang, Ming and Yang, Bin and Urtasun, Raquel",
-    title = "Perceive, Attend, and Drive: Learning Spatial Attention for Safe Self-Driving",
     booktitle = "ICRA",
+    title = "Perceive, Attend, and Drive: Learning Spatial Attention for Safe Self-Driving",
     year = "2021"
 }
 </pre>
@@ -70,8 +89,8 @@ Dataset(s): CARLA
 <pre>
 @inproceedings{2021_ICCV_Chitta,
     author = "Chitta, Kashyap and Prakash, Aditya and Geiger, Andreas",
-    title = "NEAT: Neural Attention Fields for End-to-End Autonomous Driving",
     booktitle = "ICCV",
+    title = "NEAT: Neural Attention Fields for End-to-End Autonomous Driving",
     year = "2021"
 }
 </pre>
@@ -87,8 +106,8 @@ Dataset(s): CARLA
 <pre>
 @inproceedings{2021_CVPRW_Ishihara,
     author = "Ishihara, Keishi and Kanervisto, Anssi and Miura, Jun and Hautamaki, Ville",
-    title = "Multi-task Learning with Attention for End-to-end Autonomous Driving",
     booktitle = "CVPRW",
+    title = "Multi-task Learning with Attention for End-to-end Autonomous Driving",
     year = "2021"
 }
 </pre>
@@ -104,8 +123,8 @@ Dataset(s): CARLA
 <pre>
 @inproceedings{2021_CVPR_Prakash,
     author = "Prakash, Aditya and Chitta, Kashyap and Geiger, Andreas",
-    title = "Multi-Modal Fusion Transformer for End-to-End Autonomous Driving",
     booktitle = "CVPR",
+    title = "Multi-Modal Fusion Transformer for End-to-End Autonomous Driving",
     year = "2021"
 }
 </pre>
@@ -121,8 +140,8 @@ Dataset(s): <a href=datasets.md#BDD-X>BDD-X</a>, <a href=datasets.md#BDD-A>BDD-A
 <pre>
 @inproceedings{2020_WACV_Xia,
     author = "Xia, Ye and Kim, Jinkyu and Canny, John and Zipser, Karl and Canas-Bajo, Teresa and Whitney, David",
-    title = "Periphery-fovea multi-resolution driving model guided by human attention",
     booktitle = "WACV",
+    title = "Periphery-fovea multi-resolution driving model guided by human attention",
     year = "2020"
 }
 </pre>
@@ -138,8 +157,8 @@ Dataset(s): ATG4D, nuScenes
 <pre>
 @inproceedings{2020_IROS_Li_1,
     author = "Li, Lingyun Luke and Yang, Bin and Liang, Ming and Zeng, Wenyuan and Ren, Mengye and Segal, Sean and Urtasun, Raquel",
-    title = "End-to-end contextual perception and prediction with interaction transformer",
     booktitle = "IROS",
+    title = "End-to-end contextual perception and prediction with interaction transformer",
     year = "2020"
 }
 </pre>
@@ -155,8 +174,8 @@ Dataset(s): Talk2Car
 <pre>
 @inproceedings{2020_ECCVW_Mittal,
     author = "Mittal, Vivek",
-    title = "Attngrounder: Talking to cars with attention",
     booktitle = "ECCV",
+    title = "Attngrounder: Talking to cars with attention",
     year = "2020"
 }
 </pre>
@@ -172,8 +191,8 @@ Dataset(s): Apollo-DaoxiangLake
 <pre>
 @inproceedings{2020_ECCV_Zhou,
     author = "Zhou, Yao and Wan, Guowei and Hou, Shenhua and Yu, Li and Wang, Gang and Rui, Xiaofei and Song, Shiyu",
-    title = "DA4AD: End-to-end deep attention-based visual localization for autonomous driving",
     booktitle = "ECCV",
+    title = "DA4AD: End-to-end deep attention-based visual localization for autonomous driving",
     year = "2020"
 }
 </pre>
@@ -189,8 +208,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2020_CVPRW_Kim,
     author = "Kim, Jinkyu and Bansal, Mayank",
-    title = "Attentional bottleneck: Towards an interpretable deep driving network",
     booktitle = "CVPR",
+    title = "Attentional bottleneck: Towards an interpretable deep driving network",
     year = "2020"
 }
 </pre>
@@ -206,8 +225,8 @@ Dataset(s): CARLA
 <pre>
 @inproceedings{2020_CVPRW_Cultrera,
     author = "Cultrera, Luca and Seidenari, Lorenzo and Becattini, Federico and Pala, Pietro and Del Bimbo, Alberto",
-    title = "{Explaining Autonomous Driving by Learning End-to-End Visual Attention}",
     booktitle = "CVPRW",
+    title = "{Explaining Autonomous Driving by Learning End-to-End Visual Attention}",
     year = "2020"
 }
 </pre>
@@ -223,8 +242,8 @@ Dataset(s): <a href=datasets.md#BDD-X>BDD-X</a>, CARLA
 <pre>
 @inproceedings{2020_CVPR_Kim,
     author = "Kim, Jinkyu and Moon, Suhong and Rohrbach, Anna and Darrell, Trevor and Canny, John",
-    title = "Advisable learning for self-driving vehicles by internalizing observation-to-action rules",
     booktitle = "CVPR",
+    title = "Advisable learning for self-driving vehicles by internalizing observation-to-action rules",
     year = "2020"
 }
 </pre>
@@ -240,8 +259,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2019_IV_Mori,
     author = "Mori, Keisuke and Fukui, Hiroshi and Murase, Takuya and Hirakawa, Tsubasa and Yamashita, Takayoshi and Fujiyoshi, Hironobu",
-    title = "Visual explanation by attention branch network for end-to-end learning-based self-driving",
     booktitle = "IV",
+    title = "Visual explanation by attention branch network for end-to-end learning-based self-driving",
     year = "2019"
 }
 </pre>
@@ -257,8 +276,8 @@ Dataset(s): TORCS
 <pre>
 @inproceedings{2019_IROSW_Chen,
     author = "Chen, Yuying and Liu, Congcong and Tai, Lei and Liu, Ming and Shi, Bertram E",
-    title = "Gaze training by modulated dropout improves imitation learning",
     booktitle = "IROS",
+    title = "Gaze training by modulated dropout improves imitation learning",
     year = "2019"
 }
 </pre>
@@ -274,8 +293,8 @@ Dataset(s): BDD
 <pre>
 @inproceedings{2019_ICRA_Wang,
     author = "Wang, Dequan and Devin, Coline and Cai, Qi-Zhi and Yu, Fisher and Darrell, Trevor",
-    title = "Deep object-centric policies for autonomous driving",
     booktitle = "ICRA",
+    title = "Deep object-centric policies for autonomous driving",
     year = "2019"
 }
 </pre>
@@ -291,8 +310,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2019_ICCVW_Li,
     author = "Li, Max Guangyu and Jiang, Bo and Che, Zhengping and Shi, Xuefeng and Liu, Mengyao and Meng, Yiping and Ye, Jieping and Liu, Yan",
-    title = "DBUS: Human Driving Behavior Understanding System.",
     booktitle = "ICCVW",
+    title = "DBUS: Human Driving Behavior Understanding System.",
     year = "2019"
 }
 </pre>
@@ -308,8 +327,8 @@ Dataset(s): <a href=datasets.md#HAD>HAD</a>
 <pre>
 @inproceedings{2019_CVPR_Kim,
     author = "Kim, Jinkyu and Misu, Teruhisa and Chen, Yi-Ting and Tawari, Ashish and Canny, John",
-    title = "Grounding human-to-vehicle advice for self-driving vehicles",
     booktitle = "CVPR",
+    title = "Grounding human-to-vehicle advice for self-driving vehicles",
     year = "2019"
 }
 </pre>
@@ -325,8 +344,8 @@ Dataset(s): TORCS
 <pre>
 @inproceedings{2019_ACM_Liu,
     author = "Liu, Congcong and Chen, Yuying and Tai, Lei and Ye, Haoyang and Liu, Ming and Shi, Bertram E",
-    title = "A gaze model improves autonomous driving",
     booktitle = "ETRA",
+    title = "A gaze model improves autonomous driving",
     year = "2019"
 }
 </pre>
@@ -342,8 +361,8 @@ Dataset(s): <a href=datasets.md#Dashcam dataset>Dashcam dataset</a>
 <pre>
 @inproceedings{2018_ITSC_Mund,
     author = {Mund, Sandro and Frank, Rapha{\"e}l and Varisteas, Georgios and State, Radu},
-    title = "{Visualizing the Learning Progress of Self-Driving Cars}",
     booktitle = "ITSC",
+    title = "{Visualizing the Learning Progress of Self-Driving Cars}",
     year = "2018"
 }
 </pre>
@@ -359,8 +378,8 @@ Dataset(s): DIPLECS, Comma.ai
 <pre>
 @inproceedings{2018_ICPR_He,
     author = "He, Sen and Kangin, Dmitry and Mi, Yang and Pugeault, Nicolas",
-    title = "{Aggregated Sparse Attention for Steering Angle Prediction}",
     booktitle = "ICPR",
+    title = "{Aggregated Sparse Attention for Steering Angle Prediction}",
     year = "2018"
 }
 </pre>
@@ -376,8 +395,8 @@ Dataset(s): <a href=datasets.md#BDD-X>BDD-X</a>
 <pre>
 @inproceedings{2018_ECCV_Kim,
     author = "Kim, Jinkyu and Rohrbach, Anna and Darrell, Trevor and Canny, John and Akata, Zeynep",
-    title = "Textual explanations for self-driving vehicles",
     booktitle = "ECCV",
+    title = "Textual explanations for self-driving vehicles",
     year = "2018"
 }
 </pre>
@@ -393,8 +412,8 @@ Dataset(s): Comma.ai, Udacity, private
 <pre>
 @inproceedings{2017_ICCV_Kim,
     author = "Kim, Jinkyu and Canny, John",
-    title = "Interpretable learning for self-driving cars by visualizing causal attention",
     booktitle = "ICCV",
+    title = "Interpretable learning for self-driving cars by visualizing causal attention",
     year = "2017"
 }
 </pre>
@@ -410,8 +429,8 @@ Dataset(s): private
 <pre>
 @article{2017_arXiv_Bojarski,
     author = "Bojarski, Mariusz and Yeres, Philip and Choromanska, Anna and Choromanski, Krzysztof and Firner, Bernhard and Jackel, Lawrence and Muller, Urs",
-    title = "Explaining how a deep neural network trained with end-to-end learning steers a car",
     journal = "arXiv:1704.07911",
+    title = "Explaining how a deep neural network trained with end-to-end learning steers a car",
     year = "2017"
 }
 </pre>

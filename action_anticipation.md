@@ -5,19 +5,56 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| Action anticipation&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2023_T-ITS_Guo></a>
+<details close>
+<summary>Guo et al., Temporal Information Fusion Network for Driving Behavior Prediction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3267150>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#Brain4Cars>Brain4Cars</a>, private
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Guo,
+    author = "Guo, Chenghao and Liu, Haizhuang and Chen, Jiansheng and Ma, Huimin",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Temporal Information Fusion Network for Driving Behavior Prediction",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2022_CVPRW_Zhao></a>
 <details close>
 <summary>Zhao et al., PAND: Precise Action Recognition on Naturalistic Driving, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Zhao_PAND_Precise_Action_Recognition_on_Naturalistic_Driving_CVPRW_2022_paper.pdf>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#DGDB>DGDB</a>
+Dataset(s): DGDB
 </ul>
 <ul>
 <pre>
 @inproceedings{2022_CVPRW_Zhao,
     author = "Zhao, Hangyue and Xiao, Yuchao and Zhao, Yanyun",
-    title = "PAND: Precise action recognition on naturalistic driving",
     booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
     pages = "3291--3299",
+    title = "PAND: Precise action recognition on naturalistic driving",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_IROS_Peng></a>
+<details close>
+<summary>Peng et al., TransDARC: Transformer-based Driver Activity Recognition with Latent Space Feature Calibration, IROS, 2022 | <a href=https://doi.org/10.1109/IROS47612.2022.9981445>paper</a> | <a href=https://github.com/KPeng9510/TransDARC>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#Drive&Act>Drive&Act</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_IROS_Peng,
+    author = "Peng, Kunyu and Roitberg, Alina and Yang, Kailun and Zhang, Jiaming and Stiefelhagen, Rainer",
+    booktitle = "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    organization = "IEEE",
+    pages = "278--285",
+    title = "TransDARC: Transformer-based Driver Activity Recognition with Latent Space Feature Calibration",
     year = "2022"
 }
 </pre>
@@ -33,10 +70,10 @@ Dataset(s): private
 <pre>
 @article{2021_T-ITS_Huang,
     author = "Huang, Jianling and Long, Yan and Zhao, Xiaohua",
-    title = "Driver Glance Behavior Modeling Based on Semi-Supervised Clustering and Piecewise Aggregate Representation",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    year = "2021",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "Driver Glance Behavior Modeling Based on Semi-Supervised Clustering and Piecewise Aggregate Representation",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -51,11 +88,11 @@ Dataset(s): private
 <pre>
 @article{2020_T-ITS_Lee,
     author = "Lee, Sukhan and Khan, Muhammad Qasim and Husen, Mohd Nizam",
-    title = "Continuous car driving intent detection using structural pattern recognition",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "22",
     number = "2",
     pages = "1001--1013",
+    title = "Continuous car driving intent detection using structural pattern recognition",
+    volume = "22",
     year = "2020"
 }
 </pre>
@@ -71,9 +108,10 @@ Dataset(s): private
 <pre>
 @inproceedings{2020_ITSC_Amadori,
     author = "Amadori, Pierluigi Vito and Fischer, Tobias and Wang, Ruohan and Demiris, Yiannis",
-    title = "Decision anticipation for driving assistance systems",
-    booktitle = "ITSC",
+    booktitle = "2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)",
+    organization = "IEEE",
     pages = "1--7",
+    title = "Decision anticipation for driving assistance systems",
     year = "2020"
 }
 </pre>
@@ -89,8 +127,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2019_IV_Akai,
     author = "Akai, Naoki and Hirayama, Takatsugu and Morales, Luis Yoichi and Akagi, Yasuhiro and Liu, Hailong and Murase, Hiroshi",
-    title = "{Driving behavior modeling based on hidden Markov models with driver's eye-gaze measurement and ego-vehicle localization}",
     booktitle = "IV",
+    title = "{Driving behavior modeling based on hidden Markov models with driver's eye-gaze measurement and ego-vehicle localization}",
     year = "2019"
 }
 </pre>
@@ -106,8 +144,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2019_IROS_Wu,
     author = "Wu, Min and Louw, Tyron and Lahijanian, Morteza and Ruan, Wenjie and Huang, Xiaowei and Merat, Natasha and Kwiatkowska, Marta",
-    title = "Gaze-based intention anticipation over driving manoeuvres in semi-autonomous vehicles",
     booktitle = "IROS",
+    title = "Gaze-based intention anticipation over driving manoeuvres in semi-autonomous vehicles",
     year = "2019"
 }
 </pre>
@@ -123,11 +161,11 @@ Dataset(s): private
 <pre>
 @article{2018_TIV_Martin,
     author = "Martin, Sujitha and Vora, Sourabh and Yuen, Kevan and Trivedi, Mohan Manubhai",
-    title = "Dynamics of driver's gaze: Explorations in behavior modeling and maneuver prediction",
     journal = "IEEE Transactions on Intelligent Vehicles",
-    volume = "3",
     number = "2",
     pages = "141--150",
+    title = "Dynamics of driver's gaze: Explorations in behavior modeling and maneuver prediction",
+    volume = "3",
     year = "2018"
 }
 </pre>
@@ -143,8 +181,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2017_IV_Martin,
     author = "Martin, Sujitha and Trivedi, Mohan M",
-    title = "Gaze fixations and dynamics for behavior modeling and prediction of on-road driving maneuvers",
     booktitle = "IV",
+    title = "Gaze fixations and dynamics for behavior modeling and prediction of on-road driving maneuvers",
     year = "2017"
 }
 </pre>
@@ -160,11 +198,12 @@ Dataset(s): private
 <pre>
 @article{2016_T-ITS_Li,
     author = "Li, Nanxiang and Busso, Carlos",
-    title = "Detecting drivers' mirror-checking actions and its application to maneuver and secondary task recognition",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "17",
     number = "4",
     pages = "980--992",
+    publisher = "IEEE",
+    title = "Detecting drivers' mirror-checking actions and its application to maneuver and secondary task recognition",
+    volume = "17",
     year = "2015"
 }
 </pre>
@@ -180,8 +219,8 @@ Dataset(s): <a href=datasets.md#Brain4Cars>Brain4Cars</a>
 <pre>
 @inproceedings{2016_ICRA_Jain,
     author = "Jain, Ashesh and Singh, Avi and Koppula, Hema S and Soh, Shane and Saxena, Ashutosh",
-    title = "Recurrent neural networks for driver activity anticipation via sensory-fusion architecture",
     booktitle = "ICRA",
+    title = "Recurrent neural networks for driver activity anticipation via sensory-fusion architecture",
     year = "2016"
 }
 </pre>
@@ -197,13 +236,13 @@ Dataset(s): DIPLECS
 <pre>
 @article{2015_TranVehTech_Pugeault,
     author = "Pugeault, Nicolas and Bowden, Richard",
-    title = "How much of driving is preattentive?",
     journal = "IEEE Transactions on Vehicular Technology",
-    volume = "64",
     number = "12",
     pages = "5424--5438",
-    year = "2015",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "How much of driving is preattentive?",
+    volume = "64",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -218,8 +257,8 @@ Dataset(s): <a href=datasets.md#Brain4Cars>Brain4Cars</a>
 <pre>
 @inproceedings{2015_ICCV_Jain,
     author = "Jain, Ashesh and Koppula, Hema S and Raghavan, Bharad and Soh, Shane and Saxena, Ashutosh",
-    title = "Car that knows before you do: Anticipating maneuvers via learning temporal driving models",
     booktitle = "ICCV",
+    title = "Car that knows before you do: Anticipating maneuvers via learning temporal driving models",
     year = "2015"
 }
 </pre>
@@ -235,8 +274,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2014_CVPRW_Ohn-Bar,
     author = "Ohn-Bar, Eshed and Tawari, Ashish and Martin, Sujitha and Trivedi, Mohan M",
-    title = "Vision on wheels: Looking at driver, vehicle, and surround for on-road maneuver analysis",
     booktitle = "CVPRW",
+    title = "Vision on wheels: Looking at driver, vehicle, and surround for on-road maneuver analysis",
     year = "2014"
 }
 </pre>
@@ -252,8 +291,8 @@ Dataset(s): private
 <pre>
 @inproceedings{2013_ITSC_Mori,
     author = "Mori, Masataka and Miyajima, Chiyomi and Hirayama, Takatsugu and Kitaoka, Norihide and Takeda, Kazuya",
-    title = "Integrated modeling of driver gaze and vehicle operation behavior to estimate risk level during lane changes",
     booktitle = "ITSC",
+    title = "Integrated modeling of driver gaze and vehicle operation behavior to estimate risk level during lane changes",
     year = "2013"
 }
 </pre>
@@ -269,8 +308,8 @@ Dataset(s): DIPLECS
 <pre>
 @inproceedings{2010_ACCV_Pugeault,
     author = "Pugeault, Nicolas and Bowden, Richard",
-    title = "Learning pre-attentive driving behaviour from holistic visual features",
     booktitle = "ECCV",
+    title = "Learning pre-attentive driving behaviour from holistic visual features",
     year = "2010"
 }
 </pre>

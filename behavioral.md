@@ -16,12 +16,12 @@ Inattention: distraction
 <pre>
 @article{2021_TransRes_Vlakveld,
     author = "Vlakveld, Willem and Doumen, Michelle and van der Kint, Sander",
-    title = "Driving and gaze behavior while texting when the smartphone is placed in a mount: A simulator study",
     journal = "Transportation research part F: traffic psychology and behaviour",
-    volume = "76",
     pages = "26--37",
-    year = "2021",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Driving and gaze behavior while texting when the smartphone is placed in a mount: A simulator study",
+    volume = "76",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -37,12 +37,12 @@ Inattention: fatigue
 <pre>
 @article{2021_TransRes_Hu,
     author = "Hu, Xinyun and Lodewijks, Gabriel",
-    title = "Exploration of the effects of task-related fatigue on eye-motion features and its value in improving driver fatigue-related technology",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "80",
     pages = "150--171",
-    year = "2021",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Exploration of the effects of task-related fatigue on eye-motion features and its value in improving driver fatigue-related technology",
+    volume = "80",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -58,13 +58,13 @@ Inattention: distraction
 <pre>
 @article{2021_SciRep_Turnbull,
     author = "Turnbull, Philip RK and Khanal, Safal and Dakin, Steven C",
-    title = "The effect of cellphone position on driving and gaze behaviour",
     journal = "Scientific reports",
-    volume = "11",
     number = "1",
     pages = "1--10",
-    year = "2021",
-    publisher = "Nature Publishing Group"
+    publisher = "Nature Publishing Group",
+    title = "The effect of cellphone position on driving and gaze behaviour",
+    volume = "11",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -80,13 +80,13 @@ Environment: road geometry
 <pre>
 @article{2021_SciRep_Okafuji,
     author = "Okafuji, Yuki and Fukao, Takanori",
-    title = "Theoretical interpretation of drivers’ gaze strategy influenced by optical flow",
     journal = "Scientific reports",
-    volume = "11",
     number = "1",
     pages = "1--14",
-    year = "2021",
-    publisher = "Nature Publishing Group"
+    publisher = "Nature Publishing Group",
+    title = "Theoretical interpretation of drivers’ gaze strategy influenced by optical flow",
+    volume = "11",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -110,13 +110,13 @@ Automation: lateral control, longitudinal control
 <pre>
 @article{2021_SciRep_Navarro,
     author = "Navarro, Jordan and Lappi, Otto and Osiurak, Fran{\c{c}}ois and Hernout, Emma and Gabaude, Catherine and Reynaud, Emanuelle",
-    title = "Dynamic scan paths investigations under manual and highly automated driving",
     journal = "Scientific reports",
-    volume = "11",
     number = "1",
     pages = "1--17",
-    year = "2021",
-    publisher = "Nature Publishing Group"
+    publisher = "Nature Publishing Group",
+    title = "Dynamic scan paths investigations under manual and highly automated driving",
+    volume = "11",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -136,13 +136,13 @@ Automation: lateral control, longitudinal control
 <pre>
 @article{2021_SciRep_Mole,
     author = "Mole, Callum and Pekkanen, Jami and Sheppard, William EA and Markkula, Gustav and Wilkie, Richard M",
-    title = "Drivers use active gaze to monitor waypoints during automated driving",
     journal = "Scientific reports",
-    volume = "11",
     number = "1",
     pages = "1--18",
-    year = "2021",
-    publisher = "Nature Publishing Group"
+    publisher = "Nature Publishing Group",
+    title = "Drivers use active gaze to monitor waypoints during automated driving",
+    volume = "11",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -158,12 +158,12 @@ Environment: road type
 <pre>
 @article{2021_SafetyScience_Lobjois,
     author = "Lobjois, Regis and Faure, V{\'e}rane and D{\'e}sir{\'e}, Lara and Benguigui, Nicolas",
-    title = "Behavioral and workload measures in real and simulated driving: do they tell us the same thing about the validity of driving simulation?",
     journal = "Safety science",
-    volume = "134",
     pages = "105046",
-    year = "2021",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Behavioral and workload measures in real and simulated driving: do they tell us the same thing about the validity of driving simulation?",
+    volume = "134",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -183,12 +183,12 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2021_JEMR_Schnebelen,
     author = "Schnebelen, Damien and Charron, Camilo and Mars, Franck",
-    title = "Model-based estimation of the state of vehicle automation as derived from the driver’s spontaneous visual strategies",
     journal = "Journal of eye movement research",
-    volume = "12",
     number = "3",
-    year = "2019",
-    publisher = "European Group for Eye Movement Research"
+    publisher = "European Group for Eye Movement Research",
+    title = "Model-based estimation of the state of vehicle automation as derived from the driver’s spontaneous visual strategies",
+    volume = "12",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -208,11 +208,11 @@ Demographics: age
 <pre>
 @article{2021_HumanFactors_Snider,
     author = "Snider, Joseph and Spence, Ryan J and Engler, Anne-Marie and Moran, Ryan and Hacker, Sarah and Chukoskie, Leanne and Townsend, Jeanne and Hill, Linda",
-    title = "Distraction “Hangover”: Characterization of the Delayed Return to Baseline Driving Risk After Distracting Behaviors",
     journal = "Human factors",
     pages = "00187208211012218",
-    year = "2021",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "Distraction “Hangover”: Characterization of the Delayed Return to Baseline Driving Risk After Distracting Behaviors",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -232,13 +232,13 @@ Automation: warning/guidance
 <pre>
 @article{2021_AppSci_Matsui,
     author = "Matsui, Yasuhiro and Oikawa, Shoko",
-    title = "Gazing Characteristics of a Driver during Vehicle Backing",
     journal = "Applied Sciences",
-    volume = "11",
     number = "5",
     pages = "2180",
-    year = "2021",
-    publisher = "Multidisciplinary Digital Publishing Institute"
+    publisher = "Multidisciplinary Digital Publishing Institute",
+    title = "Gazing Characteristics of a Driver during Vehicle Backing",
+    volume = "11",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -262,12 +262,12 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2021_AppliedErgonomics_Yoon,
     author = "Yoon, Sol Hee and Lee, Seul Chan and Ji, Yong Gu",
-    title = "Modeling takeover time based on non-driving-related task attributes in highly automated driving",
     journal = "Applied ergonomics",
-    volume = "92",
     pages = "103343",
-    year = "2021",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Modeling takeover time based on non-driving-related task attributes in highly automated driving",
+    volume = "92",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -283,12 +283,12 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2021_AppliedErgonomics_Muela,
     author = "Muela, Ismael and Chica, Ana B and Garcia-Fernandez, Pedro and Castro, Candida",
-    title = "Visual attention in realistic driving situations: attentional capture and Hazard Prediction",
     journal = "Applied ergonomics",
-    volume = "90",
     pages = "103235",
-    year = "2021",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Visual attention in realistic driving situations: attentional capture and Hazard Prediction",
+    volume = "90",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -308,12 +308,12 @@ Inattention: intoxication
 <pre>
 @article{2021_AccidentAnalysis_Tabibi,
     author = "Tabibi, Zahra and Schwebel, David C and Moghaddam, Abolfazl Mohammadzadeh and Fadardi, Javad Salehi and Feizabadi, Sara Mirzaei",
-    title = "Differential effects of stimulant versus opiate drugs on driving performance",
     journal = "Accident Analysis \\& Prevention",
-    volume = "150",
     pages = "105885",
-    year = "2021",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Differential effects of stimulant versus opiate drugs on driving performance",
+    volume = "150",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -333,12 +333,12 @@ Automation: lateral control, longitudinal control
 <pre>
 @article{2021_AccidentAnalysis_Noble,
     author = "Noble, Alexandria M and Miles, Melissa and Perez, Miguel A and Guo, Feng and Klauer, Sheila G",
-    title = "Evaluating driver eye glance behavior and secondary task engagement while using driving automation systems",
     journal = "Accident Analysis \\& Prevention",
-    volume = "151",
     pages = "105959",
-    year = "2021",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Evaluating driver eye glance behavior and secondary task engagement while using driving automation systems",
+    volume = "151",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -358,12 +358,12 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2021_AccidentAnalysis_Jin,
     author = "Jin, Mengxia and Lu, Guangquan and Chen, Facheng and Shi, Xi and Tan, Haitian and Zhai, Junda",
-    title = "Modeling takeover behavior in level 3 automated driving via a structural equation model: considering the mediating role of trust",
     journal = "Accident Analysis \\& Prevention",
-    volume = "157",
     pages = "106156",
-    year = "2021",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Modeling takeover behavior in level 3 automated driving via a structural equation model: considering the mediating role of trust",
+    volume = "157",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -379,13 +379,13 @@ Driving task: hazard anticipation/detection, hazard response
 <pre>
 @article{2020_TRR_Ebadi,
     author = "Ebadi, Yalda and Pai, Ganesh and Samuel, Siby and Fisher, Donald L",
-    title = "Impact of cognitive distractions on drivers’ hazardous event anticipation and mitigation behavior in vehicle--bicycle conflict situations",
     journal = "Transportation research record",
-    volume = "2674",
     number = "7",
     pages = "504--513",
-    year = "2020",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "Impact of cognitive distractions on drivers’ hazardous event anticipation and mitigation behavior in vehicle--bicycle conflict situations",
+    volume = "2674",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -409,13 +409,13 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2020_TRR_DeGuzman,
     author = "DeGuzman, Chelsea A and Hopkins, Samantha A and Donmez, Birsen",
-    title = "Driver takeover performance and monitoring behavior with driving automation at system-limit versus system-malfunction failures",
     journal = "Transportation research record",
-    volume = "2674",
     number = "4",
     pages = "140--151",
-    year = "2020",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "Driver takeover performance and monitoring behavior with driving automation at system-limit versus system-malfunction failures",
+    volume = "2674",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -439,12 +439,12 @@ Environment: highway exit
 <pre>
 @article{2020_TRP_Zampino,
     author = "Zampino, Stefano",
-    title = "Analysis of the effects of lead-vehicles on drivers approaching deceleration lanes on a dual carriageway road",
     journal = "Transportation research procedia",
-    volume = "45",
     pages = "62--69",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Analysis of the effects of lead-vehicles on drivers approaching deceleration lanes on a dual carriageway road",
+    volume = "45",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -460,12 +460,12 @@ Environment: road type
 <pre>
 @article{2020_TRP_Vetturi,
     author = "Vetturi, David and Tiboni, Michela and Maternini, Giulio and Bonera, Michela",
-    title = "Use of eye tracking device to evaluate the driver’s behaviour and the infrastructures quality in relation to road safety",
     journal = "Transportation research procedia",
-    volume = "45",
     pages = "587--595",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Use of eye tracking device to evaluate the driver’s behaviour and the infrastructures quality in relation to road safety",
+    volume = "45",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -489,12 +489,12 @@ Environment: intersection
 <pre>
 @article{2020_TransRes_Savage,
     author = "Savage, Steven W and Zhang, Lily and Swan, Garrett and Bowers, Alex R",
-    title = "The effects of age on the contributions of head and eye movements to scanning behavior at intersections",
     journal = "Transportation research part F: traffic psychology and behaviour",
-    volume = "73",
     pages = "128--142",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "The effects of age on the contributions of head and eye movements to scanning behavior at intersections",
+    volume = "73",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -514,12 +514,12 @@ Inattention: distraction
 <pre>
 @article{2020_TransRes_Nilsson,
     author = {Nilsson, Emma J and Victor, Trent and Aust, Mikael Ljung and Svanberg, Bo and Lind{\'e}n, Per and Gustavsson, P{\"a}r},
-    title = "On-to-off-path gaze shift cancellations lead to gaze concentration in cognitively loaded car drivers: A simulator study exploring gaze patterns in relation to a cognitive task and the traffic environment",
     journal = "Transportation research part F: traffic psychology and behaviour",
-    volume = "75",
     pages = "1--15",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "On-to-off-path gaze shift cancellations lead to gaze concentration in cognitively loaded car drivers: A simulator study exploring gaze patterns in relation to a cognitive task and the traffic environment",
+    volume = "75",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -543,12 +543,12 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2020_TransRes_Li,
     author = "Li, Xiaomeng and Schroeter, Ronald and Rakotonirainy, Andry and Kuo, Jonny and Lenn{\'e}, Michael G",
-    title = "Effects of different non-driving-related-task display modes on drivers’ eye-movement patterns during take-over in an automated vehicle",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "70",
     pages = "135--148",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Effects of different non-driving-related-task display modes on drivers’ eye-movement patterns during take-over in an automated vehicle",
+    volume = "70",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -564,12 +564,12 @@ Environment: intersection, traffic
 <pre>
 @article{2020_TransRes_Lemonnier,
     author = "Lemonnier, Sophie and D{\'e}sir{\'e}, Lara and Br{\'e}mond, Roland and Baccino, Thierry",
-    title = "Drivers’ visual attention: A field study at intersections",
     journal = "Transportation research part F: traffic psychology and behaviour",
-    volume = "69",
     pages = "206--221",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Drivers’ visual attention: A field study at intersections",
+    volume = "69",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -585,12 +585,12 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2020_TransRes_Lee1,
     author = "Lee, Yee Mun and Miller, Karl and Crundall, David and Sheppard, Elizabeth",
-    title = "Cross-cultural effects on detecting multiple sources of driving hazard: Evidence from the deceleration detection flicker test",
     journal = "Transportation research part F: traffic psychology and behaviour",
-    volume = "69",
     pages = "222--234",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Cross-cultural effects on detecting multiple sources of driving hazard: Evidence from the deceleration detection flicker test",
+    volume = "69",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -606,12 +606,12 @@ Environment: sign
 <pre>
 @article{2020_TransRes_Lee,
     author = "Lee, Yee Mun and Sheppard, Elizabeth",
-    title = "Effects of position of speed limit signs and the presence of speed camera on Malaysian drivers’ speed choice: An eye-tracking study",
     journal = "Transportation research part F: traffic psychology and behaviour",
-    volume = "74",
     pages = "386--395",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Effects of position of speed limit signs and the presence of speed camera on Malaysian drivers’ speed choice: An eye-tracking study",
+    volume = "74",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -627,12 +627,12 @@ Environment: intersection
 <pre>
 @article{2020_TransRes_Kircher,
     author = {Kircher, Katja and Ahlstr{\"o}m, Christer},
-    title = "Attentional requirements on cyclists and drivers in urban intersections",
     journal = "Transportation research part F: traffic psychology and behaviour",
-    volume = "68",
     pages = "105--117",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Attentional requirements on cyclists and drivers in urban intersections",
+    volume = "68",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -652,12 +652,12 @@ Environment: traffic
 <pre>
 @article{2020_TransRes_Huo,
     author = "Huo, Dongchao and Ma, Jinfei and Chang, Ruosong",
-    title = "Lane-changing-decision characteristics and the allocation of visual attention of drivers with an angry driving style",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "71",
     pages = "62--75",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Lane-changing-decision characteristics and the allocation of visual attention of drivers with an angry driving style",
+    volume = "71",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -681,12 +681,12 @@ Environment: road geometry, road users
 <pre>
 @article{2020_TransRes_Figueira,
     author = "Figueira, Aurenice Cruz and Larocca, Ana Paula C",
-    title = "Analysis of the factors influencing overtaking in two-lane highways: A driving simulator study",
     journal = "Transportation research part F: traffic psychology and behaviour",
-    volume = "69",
     pages = "38--48",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Analysis of the factors influencing overtaking in two-lane highways: A driving simulator study",
+    volume = "69",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -702,12 +702,12 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2020_TransRes_Du,
     author = "Du, Xinyu and Ma, Jinfei and Chang, Ruosong",
-    title = "The interactive effect of vehicle signals and sensation-seeking on driver hazard perception",
     journal = "Transportation research part F: traffic psychology and behaviour",
-    volume = "73",
     pages = "174--187",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "The interactive effect of vehicle signals and sensation-seeking on driver hazard perception",
+    volume = "73",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -727,12 +727,12 @@ Demographics: age, gender
 <pre>
 @article{2020_TransRes_Costela,
     author = "Costela, Francisco M and Castro-Torres, Jos{\'e} J",
-    title = "Risk prediction model using eye movements during simulated driving with logistic regressions and neural networks",
     journal = "Transportation research part F: traffic psychology and behaviour",
-    volume = "74",
     pages = "511--521",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Risk prediction model using eye movements during simulated driving with logistic regressions and neural networks",
+    volume = "74",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -748,12 +748,12 @@ Environment: road geometry, road users, vegetation
 <pre>
 @article{2020_TransRes_Cabrall,
     author = "Cabrall, Christopher DD and Happee, Riender and de Winter, Joost CF",
-    title = "Prediction of effort and eye movement measures from driving scene components",
     journal = "Transportation research part F: traffic psychology and behaviour",
-    volume = "68",
     pages = "187--197",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Prediction of effort and eye movement measures from driving scene components",
+    volume = "68",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -773,13 +773,13 @@ Automation: warning/guidance
 <pre>
 @article{2020_TraffiInjuryPrevention_Banerjee,
     author = "Banerjee, Snehanshu and Jeihani, Mansoureh and Khadem, Nashid K and Kabir, Md Muhib",
-    title = "Influence of red-light violation warning systems on driver behavior--a driving simulator study",
     journal = "Traffic injury prevention",
-    volume = "21",
     number = "4",
     pages = "265--271",
-    year = "2020",
-    publisher = "Taylor \\& Francis"
+    publisher = "Taylor \\& Francis",
+    title = "Influence of red-light violation warning systems on driver behavior--a driving simulator study",
+    volume = "21",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -791,12 +791,12 @@ Automation: warning/guidance
 <pre>
 @article{2020_TR_Zheng,
     author = "Zheng, Xinyi and Yang, Yanqun and Easa, Said and Lin, Wei and Cherchi, Elisabetta",
-    title = "The effect of leftward bias on visual attention for driving tasks",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "70",
     pages = "199--207",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "The effect of leftward bias on visual attention for driving tasks",
+    volume = "70",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -812,12 +812,12 @@ Driving task: hazard response
 <pre>
 @article{2020_TR_Lu,
     author = "Lu, Zhenji and Happee, Riender and de Winter, Joost CF",
-    title = "{Take over! A video-clip study measuring attention, situation awareness, and decision-making in the face of an impending hazard}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "72",
     pages = "211--225",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Take over! A video-clip study measuring attention, situation awareness, and decision-making in the face of an impending hazard}",
+    volume = "72",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -833,13 +833,13 @@ Environment: road geometry
 <pre>
 @article{2020_SciRep_Lappi,
     author = "Lappi, Otto and Pekkanen, Jami and Rinkkala, Paavo and Tuhkanen, Samuel and Tuononen, Ari and Virtanen, Juho-Pekka",
-    title = "Humans use optokinetic eye movements to track waypoints for steering",
     journal = "Scientific reports",
-    volume = "10",
     number = "1",
     pages = "1--14",
-    year = "2020",
-    publisher = "Nature Publishing Group"
+    publisher = "Nature Publishing Group",
+    title = "Humans use optokinetic eye movements to track waypoints for steering",
+    volume = "10",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -855,13 +855,13 @@ Environment: visibility, traffic signalling elements
 <pre>
 @article{2020_Safety_Babic,
     author = "Babi{\'c}, Darko and Babi{\'c}, Dario and Cajner, Hrvoje and Sruk, Ana and Fioli{\'c}, Mario",
-    title = "Effect of road markings and traffic signs presence on young driver stress level, eye movement and behaviour in night-time conditions: a driving simulator study",
     journal = "Safety",
-    volume = "6",
     number = "2",
     pages = "24",
-    year = "2020",
-    publisher = "Multidisciplinary Digital Publishing Institute"
+    publisher = "Multidisciplinary Digital Publishing Institute",
+    title = "Effect of road markings and traffic signs presence on young driver stress level, eye movement and behaviour in night-time conditions: a driving simulator study",
+    volume = "6",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -873,13 +873,13 @@ Environment: visibility, traffic signalling elements
 <pre>
 @article{2020_PONE_Wu,
     author = "Wu, Fuwei and Fu, Rui and Ma, Yong and Wang, Chang and Zhang, Zhi",
-    title = "Relationship between speed perception and eye movement—A case study of crash-involved and crash-not-involved drivers in China",
     journal = "PloS one",
-    volume = "15",
     number = "3",
     pages = "e0229650",
-    year = "2020",
-    publisher = "Public Library of Science San Francisco, CA USA"
+    publisher = "Public Library of Science San Francisco, CA USA",
+    title = "Relationship between speed perception and eye movement—A case study of crash-involved and crash-not-involved drivers in China",
+    volume = "15",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -899,13 +899,13 @@ Automation: lateral control, longitudinal control
 <pre>
 @article{2020_PONE_Navarro,
     author = "Navarro, Jordan and Hernout, Emma and Osiurak, Fran{\c{c}}ois and Reynaud, Emanuelle",
-    title = "On the nature of eye-hand coordination in natural steering behavior",
     journal = "PLoS one",
-    volume = "15",
     number = "11",
     pages = "e0242818",
-    year = "2020",
-    publisher = "Public Library of Science San Francisco, CA USA"
+    publisher = "Public Library of Science San Francisco, CA USA",
+    title = "On the nature of eye-hand coordination in natural steering behavior",
+    volume = "15",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -929,13 +929,13 @@ Environment: visibility
 <pre>
 @article{2020_PlosONE_Mikula,
     author = "Mikula, Laura and Mej{\'\i}a-Romero, Sergio and Chaumillon, Romain and Patoine, Amigale and Lugo, Eduardo and Bernardin, Delphine and Faubert, Jocelyn",
-    title = "Eye-head coordination and dynamic visual scanning as indicators of visuo-cognitive demands in driving simulator",
     journal = "PLoS one",
-    volume = "15",
     number = "12",
     pages = "e0240201",
-    year = "2020",
-    publisher = "Public Library of Science San Francisco, CA USA"
+    publisher = "Public Library of Science San Francisco, CA USA",
+    title = "Eye-head coordination and dynamic visual scanning as indicators of visuo-cognitive demands in driving simulator",
+    volume = "15",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -963,13 +963,13 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2020_Information_Hollander,
     author = "Hollander, Cornelia and Rauh, Nadine and Naujoks, Frederik and Hergeth, Sebastian and Krems, Josef F and Keinath, Andreas",
-    title = "Methodological approach towards evaluating the effects of non-driving related tasks during partially automated driving",
     journal = "Information",
-    volume = "11",
     number = "7",
     pages = "340",
-    year = "2020",
-    publisher = "Multidisciplinary Digital Publishing Institute"
+    publisher = "Multidisciplinary Digital Publishing Institute",
+    title = "Methodological approach towards evaluating the effects of non-driving related tasks during partially automated driving",
+    volume = "11",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -989,37 +989,12 @@ Automation: lateral control, longitudinal control, explainability
 <pre>
 @article{2020_Information_Feierle,
     author = "Feierle, Alexander and Danner, Simon and Steininger, Sarah and Bengler, Klaus",
-    title = "{Information Needs and Visual Attention during Urban, Highly Automated Driving—An Investigation of Potential Influencing Factors}",
     journal = "Information",
-    volume = "11",
     number = "2",
     pages = "62",
-    year = "2020",
-    publisher = "Multidisciplinary Digital Publishing Institute"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2020_IJHFE_Samuel></a>
-<details close>
-<summary>Samuel et al., Understanding drivers’ latent hazard anticipation in partially automated vehicle systems, International Journal of Human Factors and Ergonomics, 2020 | <sup>Driving task Automation</sup> |<a href=https://doi.org/10.1504/IJHFE.2020.110093>paper</a></summary>
-</summary>
-<ul>
-Driving task: hazard anticipation/detection
-</ul>
-</summary>
-<ul>
-Automation: lateral control, longitudinal control
-</ul>
-<ul>
-<pre>
-@article{2020_IJHFE_Samuel,
-    author = "Samuel, Siby and Yamani, Yusuke and Fisher, Donald L",
-    title = "Understanding drivers' latent hazard anticipation in partially automated vehicle systems",
-    journal = "International Journal of Human Factors and Ergonomics",
-    volume = "7",
-    number = "3",
-    pages = "282--296",
+    publisher = "Multidisciplinary Digital Publishing Institute",
+    title = "{Information Needs and Visual Attention during Urban, Highly Automated Driving—An Investigation of Potential Influencing Factors}",
+    volume = "11",
     year = "2020"
 }
 </pre>
@@ -1036,12 +1011,12 @@ Inattention: distraction
 <pre>
 @article{2020_IJHCS_Grahn,
     author = "Grahn, Hilkka and Kujala, Tuomo",
-    title = "Impacts of touch screen size, user interface design, and subtask boundaries on in-car task's visual demand and driver distraction",
     journal = "International Journal of Human-Computer Studies",
-    volume = "142",
     pages = "102467",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Impacts of touch screen size, user interface design, and subtask boundaries on in-car task's visual demand and driver distraction",
+    volume = "142",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1061,13 +1036,13 @@ Automation: warning/guidance
 <pre>
 @article{2020_IJHCI_Yang,
     author = "Yang, Zhen and Shi, Jinlei and Wu, Bohan and Ma, Shu and Kang, Chunyan and Zhang, Wei and Li, Hongting and Wu, Changxu",
-    title = "Effect of Warning Graphics Location on Driving Performance: An Eye Movement Study",
     journal = "International Journal of Human--Computer Interaction",
-    volume = "36",
     number = "12",
     pages = "1150--1160",
-    year = "2020",
-    publisher = "Taylor \\& Francis"
+    publisher = "Taylor \\& Francis",
+    title = "Effect of warning graphics location on driving performance: An eye movement study",
+    volume = "36",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1083,11 +1058,11 @@ Environment: road type
 <pre>
 @article{2020_HumanFactors_Unverricht,
     author = "Unverricht, James and Yamani, Yusuke and Chen, Jing and Horrey, William J",
-    title = "Minding the gap: effects of an attention maintenance training program on driver calibration",
     journal = "Human factors",
     pages = "0018720820965293",
-    year = "2020",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "Minding the gap: effects of an attention maintenance training program on driver calibration",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1099,11 +1074,11 @@ Environment: road type
 <pre>
 @article{2020_HumanFactors_Stapel,
     author = "Stapel, Jork and El Hassnaoui, Mounir and Happee, Riender",
-    title = "Measuring driver perception: Combining eye-tracking and automated road scene perception",
     journal = "Human factors",
     pages = "0018720820959958",
-    year = "2020",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "Measuring driver perception: Combining eye-tracking and automated road scene perception",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1119,13 +1094,13 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2020_HumanFactors_Malone,
     author = {Malone, Sarah and Br{\"u}nken, Roland},
-    title = "Studying gaze behavior to compare three different hazard perception tasks",
     journal = "Human factors",
-    volume = "62",
     number = "8",
     pages = "1286--1303",
-    year = "2020",
-    publisher = "Sage Publications Sage CA: Los Angeles, CA"
+    publisher = "Sage Publications Sage CA: Los Angeles, CA",
+    title = "Studying gaze behavior to compare three different hazard perception tasks",
+    volume = "62",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1145,13 +1120,13 @@ Environment: traffic
 <pre>
 @article{2020_HumanFactors_Kircher,
     author = {Kircher, Katja and Kujala, Tuomo and Ahlstr{\"o}m, Christer},
-    title = "On the difference between necessary and unnecessary glances away from the forward roadway: An occlusion study on the motorway",
     journal = "Human factors",
-    volume = "62",
     number = "7",
     pages = "1117--1131",
-    year = "2020",
-    publisher = "Sage Publications Sage CA: Los Angeles, CA"
+    publisher = "Sage Publications Sage CA: Los Angeles, CA",
+    title = "On the difference between necessary and unnecessary glances away from the forward roadway: An occlusion study on the motorway",
+    volume = "62",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1175,11 +1150,11 @@ Environment: road type
 <pre>
 @article{2020_HumanFactors_He,
     author = "He, Dengbo and Donmez, Birsen",
-    title = "The influence of visual-manual distractions on anticipatory driving",
     journal = "Human factors",
     pages = "0018720820938893",
-    year = "2020",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "The influence of visual-manual distractions on anticipatory driving",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1203,13 +1178,13 @@ Automation: warning/guidance
 <pre>
 @article{2020_HFM_Niu,
     author = "Niu, Jianwei and Xu, Haixin and Sun, Yipin and Qin, Hua",
-    title = "Study on drivers' visual perception characteristics during the take-over of vehicle control in automated driving",
     journal = "Human Factors and Ergonomics in Manufacturing \\& Service Industries",
-    volume = "30",
     number = "6",
     pages = "377--384",
-    year = "2020",
-    publisher = "Wiley Online Library"
+    publisher = "Wiley Online Library",
+    title = "Study on drivers' visual perception characteristics during the take-over of vehicle control in automated driving",
+    volume = "30",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1225,13 +1200,13 @@ Driving task: hazard anticipation/detection
 <pre>
 @inproceedings{2020_HFES_Yahoodik,
     author = "Yahoodik, Sarah and Yamani, Yusuke",
-    title = "Attentional Control in Young Drivers: Does Training Impact Hazard Anticipation in Dynamic Environments?",
     booktitle = "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
-    volume = "64",
     number = "1",
+    organization = "SAGE Publications Sage CA: Los Angeles, CA",
     pages = "1986--1990",
-    year = "2020",
-    organization = "SAGE Publications Sage CA: Los Angeles, CA"
+    title = "Attentional Control in Young Drivers: Does Training Impact Hazard Anticipation in Dynamic Environments?",
+    volume = "64",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1247,13 +1222,13 @@ Inattention: distraction
 <pre>
 @inproceedings{2020_HFES_DiNocera,
     author = "Nocera, Francesco Di and Ricciardi, Orlando and Mastrangelo, Simon and Torres, Emiliano and Bordignon, Marco and Marcolin, Francesco",
-    title = "Scanpath analysis into the wild: the spatiotemporal distribution of fixations as an indicator of driver’s mental workload",
     booktitle = "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
-    volume = "64",
     number = "1",
+    organization = "SAGE Publications Sage CA: Los Angeles, CA",
     pages = "371--375",
-    year = "2020",
-    organization = "SAGE Publications Sage CA: Los Angeles, CA"
+    title = "Scanpath analysis into the wild: the spatiotemporal distribution of fixations as an indicator of driver’s mental workload",
+    volume = "64",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1269,13 +1244,13 @@ Driving task: hazard anticipation/detection
 <pre>
 @inproceedings{2020_HFES_Borzendowski,
     author = "Borzendowski, Stephanie A Whetsel and Hartman, Leah S and Campbell, Alan O",
-    title = "An Eye Tracking-Based Forensic Analysis of Motorcyclist Conspicuity During a Left Turn Maneuver",
     booktitle = "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
-    volume = "64",
     number = "1",
+    organization = "SAGE Publications Sage CA: Los Angeles, CA",
     pages = "541--544",
-    year = "2020",
-    organization = "SAGE Publications Sage CA: Los Angeles, CA"
+    title = "An Eye Tracking-Based Forensic Analysis of Motorcyclist Conspicuity During a Left Turn Maneuver",
+    volume = "64",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1295,11 +1270,11 @@ Automation: lateral control, longitudinal control, trust
 <pre>
 @article{2020_FPsych_Stephenson,
     author = "Stephenson, Alice C and Eimontaite, Iveta and Caleb-Solly, Praminda and Morgan, Phillip L and Khatun, Tabasum and Davis, Joseph and Alford, Chris",
-    title = "Effects of an unexpected and expected event on older adults’ autonomic arousal and eye fixations during autonomous driving",
     journal = "Frontiers in psychology",
+    publisher = "Frontiers Media SA",
+    title = "Effects of an unexpected and expected event on older adults’ autonomic arousal and eye fixations during autonomous driving",
     volume = "11",
-    year = "2020",
-    publisher = "Frontiers Media SA"
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1315,12 +1290,12 @@ Driving task: search for parking
 <pre>
 @article{2020_FPsych_Ponnambalan,
     author = "Ponnambalam, Canmanie Teresa and Donmez, Birsen",
-    title = "Searching for street parking: effects on driver vehicle control, workload, physiology, and glances",
     journal = "Frontiers in psychology",
-    volume = "11",
     pages = "2618",
-    year = "2020",
-    publisher = "Frontiers"
+    publisher = "Frontiers",
+    title = "Searching for street parking: effects on driver vehicle control, workload, physiology, and glances",
+    volume = "11",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1340,12 +1315,12 @@ Inattention: distraction
 <pre>
 @article{2020_FPsych_Cohen_Lazry,
     author = "Cohen-Lazry, Guy and Borowsky, Avinoam",
-    title = "Improving drivers' hazard perception and performance using a less visually-demanding interface",
     journal = "Frontiers in psychology",
-    volume = "11",
     pages = "2216",
-    year = "2020",
-    publisher = "Frontiers"
+    publisher = "Frontiers",
+    title = "Improving drivers' hazard perception and performance using a less visually-demanding interface",
+    volume = "11",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1361,13 +1336,13 @@ Automation: warning/guidance
 <pre>
 @article{2020_ETRR_Lehtonen,
     author = "Lehtonen, Esko and Malhotra, Neha and Starkey, Nicola J and Charlton, Samuel G",
-    title = "Speedometer monitoring when driving with a speed warning system",
     journal = "European transport research review",
-    volume = "12",
     number = "1",
     pages = "1--12",
-    year = "2020",
-    publisher = "SpringerOpen"
+    publisher = "SpringerOpen",
+    title = "Speedometer monitoring when driving with a speed warning system",
+    volume = "12",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1383,9 +1358,9 @@ Environment: road users
 <pre>
 @inproceedings{2020_ETRA_Edewaard,
     author = "Edewaard, Darlene E and Tyrrell, Richard A and Duchowski, Andrew T and Szubski, Ellen C and King, Savana S",
-    title = "Using Eye Tracking to Assess the Temporal Dynamics By Which Drivers Notice Cyclists in Daylight: Drivers Becoming Aware of Cyclists",
     booktitle = "ACM Symposium on Eye Tracking Research and Applications",
     pages = "1--5",
+    title = "Using Eye Tracking to Assess the Temporal Dynamics By Which Drivers Notice Cyclists in Daylight: Drivers Becoming Aware of Cyclists",
     year = "2020"
 }
 </pre>
@@ -1410,11 +1385,11 @@ Automation: warning/guidance
 <pre>
 @article{2020_Ergonomics_Zhang,
     author = "Zhang, Yanjun and Yang, Tian and Zhang, Xia and Zhang, Yongjin and Sun, Youchao",
-    title = "Effects of full windshield head-up display on visual attention allocation",
     journal = "Ergonomics",
     pages = "1--12",
-    year = "2021",
-    publisher = "Taylor \\& Francis"
+    publisher = "Taylor \\& Francis",
+    title = "Effects of full windshield head-up display on visual attention allocation",
+    year = "2021"
 }
 </pre>
 </ul>
@@ -1434,9 +1409,9 @@ Automation: lateral control, longitudinal control
 <pre>
 @inproceedings{2020_CHI_Gerber,
     author = "Gerber, Michael A and Schroeter, Ronald and Xiaomeng, Li and Elhenawy, Mohammed",
-    title = "Self-Interruptions of Non-Driving Related Tasks in Automated Vehicles: Mobile vs Head-Up Display",
     booktitle = "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
     pages = "1--9",
+    title = "Self-Interruptions of Non-Driving Related Tasks in Automated Vehicles: Mobile vs Head-Up Display",
     year = "2020"
 }
 </pre>
@@ -1453,12 +1428,12 @@ Environment: sign
 <pre>
 @article{2020_AccidentAnalysis_Yang,
     author = "Yang, Yanqun and Chen, Jianying and Easa, Said M and Yu, Sheng and Zheng, Xinyi",
-    title = "Effectiveness of yellow color guardrail belt at freeway exits",
     journal = "Accident Analysis \\& Prevention",
-    volume = "146",
     pages = "105737",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Effectiveness of yellow color guardrail belt at freeway exits",
+    volume = "146",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1474,12 +1449,12 @@ Driving task: vehicle following
 <pre>
 @article{2020_AccidentAnalysis_Niu,
     author = "Niu, Jianwei and Ma, Chuang and Liu, Jing and Li, Lei and Hu, Tingjiang and Ran, Linghua",
-    title = "Is music a mediator impacting car following when driver’s personalities are considered",
     journal = "Accident Analysis \\& Prevention",
-    volume = "147",
     pages = "105774",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Is music a mediator impacting car following when driver’s personalities are considered",
+    volume = "147",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1499,12 +1474,12 @@ Environment: billboard
 <pre>
 @article{2020_AccidentAnalysis_Meuleners,
     author = "Meuleners, Lynn and Roberts, Paul and Fraser, Michelle",
-    title = "Identifying the distracting aspects of electronic advertising billboards: a driving simulation study",
     journal = "Accident Analysis \\& Prevention",
-    volume = "145",
     pages = "105710",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Identifying the distracting aspects of electronic advertising billboards: a driving simulation study",
+    volume = "145",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1520,12 +1495,12 @@ Environment: road type, traffic
 <pre>
 @article{2020_AccidentAnalysis_Li,
     author = "Li, Guofa and Lai, Weijian and Sui, Xiaoxuan and Li, Xiaohang and Qu, Xingda and Zhang, Tingru and Li, Yuezhi",
-    title = "Influence of traffic congestion on driver behavior in post-congestion driving",
     journal = "Accident Analysis \\& Prevention",
-    volume = "141",
     pages = "105508",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Influence of traffic congestion on driver behavior in post-congestion driving",
+    volume = "141",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1549,12 +1524,12 @@ Environment: construction
 <pre>
 @article{2020_AccidentAnalysis_Kummetha,
     author = "Kummetha, Vishal C and Kondyli, Alexandra and Chrysikou, Evangelia G and Schrock, Steven D",
-    title = "Safety analysis of work zone complexity with respect to driver characteristics—A simulator study employing performance and gaze measures",
     journal = "Accident Analysis \\& Prevention",
-    volume = "142",
     pages = "105566",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Safety analysis of work zone complexity with respect to driver characteristics—A simulator study employing performance and gaze measures",
+    volume = "142",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1574,12 +1549,12 @@ Automation: warning/guidance, lateral control, longitudinal control
 <pre>
 @article{2020_AccidentAnalysis_Kraft,
     author = "Kraft, Ann-Kathrin and Maag, Christian and Baumann, Martin",
-    title = "Comparing dynamic and static illustration of an HMI for cooperative driving",
     journal = "Accident Analysis \\& Prevention",
-    volume = "144",
     pages = "105682",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Comparing dynamic and static illustration of an HMI for cooperative driving",
+    volume = "144",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1607,12 +1582,12 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2020_AccidentAnalysis_Du_1,
     author = "Du, Na and Yang, X Jessie and Zhou, Feng",
-    title = "Psychophysiological responses to takeover requests in conditionally automated driving",
     journal = "Accident Analysis \\& Prevention",
-    volume = "148",
     pages = "105804",
-    year = "2020",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Psychophysiological responses to takeover requests in conditionally automated driving",
+    volume = "148",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1628,13 +1603,13 @@ Environment: sign, billboard
 <pre>
 @article{2019_TRR_Pankok,
     author = "Pankok Jr, Carl and Kaber, David and Rasdorf, William and Hummer, Joseph",
-    title = "Effects of guide and logo signs on freeway driving behavior",
     journal = "Transportation Research Record",
-    volume = "2518",
     number = "1",
     pages = "73--78",
-    year = "2015",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "Effects of guide and logo signs on freeway driving behavior",
+    volume = "2518",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -1650,13 +1625,13 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2019_TRR_Mangalore,
     author = "Pai Mangalore, Ganesh and Ebadi, Yalda and Samuel, Siby and Knodler, Michael A and Fisher, Donald L",
-    title = "The Promise of Virtual Reality Headsets: Can They be Used to Measure Accurately Drivers’ Hazard Anticipation Performance?",
     journal = "Transportation Research Record",
-    volume = "2673",
     number = "10",
     pages = "455--464",
-    year = "2019",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "The Promise of Virtual Reality Headsets: Can They be Used to Measure Accurately Drivers’ Hazard Anticipation Performance?",
+    volume = "2673",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -1684,12 +1659,12 @@ Automation: lateral control, longitudinal control
 <pre>
 @article{2019_TransRes_Miller,
     author = "Miller, Erika E and Boyle, Linda Ng",
-    title = "Adaptations in attention allocation: implications for takeover in an automated vehicle",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "66",
     pages = "101--110",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Adaptations in attention allocation: implications for takeover in an automated vehicle",
+    volume = "66",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -1713,12 +1688,12 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2019_TransRes_Lu,
     author = {Lu, Z and Zhang, B and Feldh{\"u}tter, A and Happee, R and Martens, M and De Winter, JCF},
-    title = "{Beyond mere take-over requests: The effects of monitoring requests on driver attention, take-over performance, and acceptance}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "63",
     pages = "22--37",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Beyond mere take-over requests: The effects of monitoring requests on driver attention, take-over performance, and acceptance}",
+    volume = "63",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -1738,12 +1713,12 @@ Automation: lateral control, longitudinal control, failure
 <pre>
 @article{2019_TransRes_Louw,
     author = "Louw, Tyron and Kuo, Jonny and Romano, Richard and Radhakrishnan, Vishnu and Lenn{\'e}, Michael G and Merat, Natasha",
-    title = "{Engaging in NDRTs affects drivers’ responses and glance patterns after silent automation failures}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "62",
     pages = "870--882",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Engaging in NDRTs affects drivers’ responses and glance patterns after silent automation failures}",
+    volume = "62",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -1759,12 +1734,12 @@ Inattention: distraction
 <pre>
 @article{2019_TransRes_Hashash,
     author = "Hashash, Mahmoud and Abou Zeid, Maya and Moacdieh, Nadine Marie",
-    title = "Social media browsing while driving: effects on driver performance and attention allocation",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "63",
     pages = "67--82",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Social media browsing while driving: effects on driver performance and attention allocation",
+    volume = "63",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -1792,12 +1767,12 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2019_TransRes_Clark,
     author = "Clark, Jediah R and Stanton, Neville A and Revell, Kirsten MA",
-    title = "Directability, eye-gaze, and the usage of visual displays during an automated vehicle handover task",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "67",
     pages = "29--42",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Directability, eye-gaze, and the usage of visual displays during an automated vehicle handover task",
+    volume = "67",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -1813,12 +1788,12 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2019_TransRes_Chen,
     author = "Chen, Wenxiang and Zhuang, Xiangling and Cui, Zixin and Ma, Guojie",
-    title = "{Drivers’ recognition of pedestrian road-crossing intentions: Performance and process}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "64",
     pages = "552--564",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Drivers’ recognition of pedestrian road-crossing intentions: Performance and process}",
+    volume = "64",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -1838,8 +1813,8 @@ Automation: warning/guidance
 <pre>
 @inproceedings{2019_SAP_Bozkir,
     author = "Bozkir, Efe and Geisler, David and Kasneci, Enkelejda",
-    title = "{Assessment of driver attention during a safety critical situation in VR to generate VR-based training}",
     booktitle = "SAP",
+    title = "{Assessment of driver attention during a safety critical situation in VR to generate VR-based training}",
     year = "2019"
 }
 </pre>
@@ -1856,12 +1831,12 @@ Inattention: drowsiness
 <pre>
 @article{2019_SafetyScience_Kuo,
     author = "Kuo, Jonny and Lenn{\'e}, Michael G and Mulhall, Megan and Sletten, Tracey and Anderson, Clare and Howard, Mark and Rajaratnam, Shantha and Magee, Michelle and Collins, Allison",
-    title = "Continuous monitoring of visual distraction and drowsiness in shift-workers during naturalistic driving",
     journal = "Safety Science",
-    volume = "119",
     pages = "112--116",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Continuous monitoring of visual distraction and drowsiness in shift-workers during naturalistic driving",
+    volume = "119",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -1881,13 +1856,13 @@ Environment: sign, billboard, visibility
 <pre>
 @article{2019_JTEPBS_Zhang,
     author = "Zhang, Lanfang and Kong, Junying and Cui, Boyu and Fu, Ting",
-    title = "{Safety Effects of Freeway Roadside Electronic Billboards on Visual Properties of Drivers: Insights from Field Experiments}",
     journal = "Journal of Transportation Engineering, Part A: Systems",
-    volume = "146",
     number = "2",
     pages = "04019071",
-    year = "2020",
-    publisher = "American Society of Civil Engineers"
+    publisher = "American Society of Civil Engineers",
+    title = "{Safety Effects of Freeway Roadside Electronic Billboards on Visual Properties of Drivers: Insights from Field Experiments}",
+    volume = "146",
+    year = "2020"
 }
 </pre>
 </ul>
@@ -1903,12 +1878,12 @@ Environment: intersection
 <pre>
 @article{2019_JSR_Li,
     author = "Li, Guofa and Wang, Ying and Zhu, Fangping and Sui, Xiaoxuan and Wang, Ning and Qu, Xingda and Green, Paul",
-    title = "{Drivers’ visual scanning behavior at signalized and unsignalized intersections: A naturalistic driving study in China}",
     journal = "Journal of Safety Research",
-    volume = "71",
     pages = "219--229",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Drivers’ visual scanning behavior at signalized and unsignalized intersections: A naturalistic driving study in China}",
+    volume = "71",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -1924,8 +1899,8 @@ Driving task: hazard anticipation/detection
 <pre>
 @inproceedings{2019_ITSC_Fang,
     author = "Fang, Jianwu and Yan, Dingxin and Qiao, Jiahuan and Xue, Jianru and Wang, He and Li, Sen",
-    title = "{DADA-2000: Can Driving Accident be Predicted by Driver Attentionƒ Analyzed by A Benchmark}",
     booktitle = "ITSC",
+    title = "{DADA-2000: Can Driving Accident be Predicted by Driver Attentionƒ Analyzed by A Benchmark}",
     year = "2019"
 }
 </pre>
@@ -1946,11 +1921,11 @@ Automation: lateral control, longitudinal control
 <pre>
 @article{2019_IJHCI_Navarro,
     author = "Navarro, Jordan and Osiurak, Fran{\c{c}}ois and Ovigue, M and Charrier, Laurianne and Reynaud, Emanuelle",
-    title = "{Highly Automated Driving Impact on Drivers’ Gaze Behaviors during a Car-Following Task}",
     journal = "International Journal of Human-Computer Interaction",
-    volume = "35",
     number = "11",
     pages = "1008--1017",
+    title = "{Highly Automated Driving Impact on Drivers’ Gaze Behaviors during a Car-Following Task}",
+    volume = "35",
     year = "2019"
 }
 </pre>
@@ -1967,11 +1942,11 @@ Driving task: hazard anticipation/detection
 <pre>
 @inproceedings{2019_HumanFactorsErgonomics_Kim,
     author = "Kim, Hyungil and Gabbard, Joseph L and Martin, Sujitha and Tawari, Ashish and Misu, Teruhisa",
-    title = "{Toward Prediction of Driver Awareness of Automotive Hazards: Driving-Video-Based Simulation Approach}",
     booktitle = "{Proc. Hum. Factors Ergon. Soc. Annu. Meet.}",
-    volume = "63",
     number = "1",
     pages = "2099--2103",
+    title = "{Toward Prediction of Driver Awareness of Automotive Hazards: Driving-Video-Based Simulation Approach}",
+    volume = "63",
     year = "2019"
 }
 </pre>
@@ -1992,11 +1967,11 @@ Environment: road type
 <pre>
 @inproceedings{2019_HumanFactorsErgonomics_Beanland,
     author = "Beanland, Vanessa and Wynne, Rachael A",
-    title = "{Does familiarity breed competence or contempt? Effects of driver experience, road type and familiarity on hazard perception}",
     booktitle = "Proc. Hum. Factors Ergon. Soc. Annu. Meet.",
-    volume = "63",
     number = "1",
     pages = "2006--2010",
+    title = "{Does familiarity breed competence or contempt? Effects of driver experience, road type and familiarity on hazard perception}",
+    volume = "63",
     year = "2019"
 }
 </pre>
@@ -2017,11 +1992,11 @@ Automation: warning/guidance
 <pre>
 @article{2019_HumanFactors_Kim,
     author = "Kim, Hyungil and Gabbard, Joseph L",
-    title = "Assessing distraction potential of augmented reality head-up displays for vehicle drivers",
     journal = "Human factors",
     pages = "0018720819844845",
-    year = "2019",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "Assessing distraction potential of augmented reality head-up displays for vehicle drivers",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -2037,13 +2012,13 @@ Automation: lateral control, longitudinal control
 <pre>
 @article{2019_HumanFactors_Gaspar,
     author = "Gaspar, John and Carney, Cher",
-    title = "The effect of partial automation on driver attention: a naturalistic driving study",
     journal = "Human factors",
-    volume = "61",
     number = "8",
     pages = "1261--1276",
-    year = "2019",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "The effect of partial automation on driver attention: a naturalistic driving study",
+    volume = "61",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -2059,12 +2034,12 @@ Inattention: intoxication
 <pre>
 @article{2019_DrugAlcoDependence_Shiferaw,
     author = "Shiferaw, Brook A and Crewther, David P and Downey, Luke A",
-    title = "Gaze entropy measures detect alcohol-induced driver impairment",
     journal = "Drug and Alcohol Dependence",
-    volume = "204",
     pages = "107519",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Gaze entropy measures detect alcohol-induced driver impairment",
+    volume = "204",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -2084,8 +2059,8 @@ Automation: lateral control, longitudinal control, warning/guidance, monitoring
 <pre>
 @inproceedings{2019_AutomotiveUI_Walch,
     author = "Walch, Marcel and Lehr, David and Colley, Mark and Weber, Michael",
-    title = "{Don't you see them? Towards gaze-based interaction adaptation for driver-vehicle cooperation}",
     booktitle = "AutomotiveUI",
+    title = "{Don't you see them? Towards gaze-based interaction adaptation for driver-vehicle cooperation}",
     year = "2019"
 }
 </pre>
@@ -2102,12 +2077,12 @@ Environment: intersection
 <pre>
 @article{2019_AppliedErgonomics_Robbins,
     author = "Robbins, Chloe J and Allen, Harriet A and Chapman, Peter",
-    title = "Comparing drivers’ visual attention at Junctions in Real and Simulated Environments",
     journal = "Applied Ergonomics",
-    volume = "80",
     pages = "89--101",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Comparing drivers’ visual attention at Junctions in Real and Simulated Environments",
+    volume = "80",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -2127,12 +2102,12 @@ Environment: sign, billboard
 <pre>
 @article{2019_AppliedErgonomics_Costa,
     author = "Costa, Marco and Bonetti, Leonardo and Vignali, Valeria and Bichicchi, Arianna and Lantieri, Claudio and Simone, Andrea",
-    title = "Driver's visual attention to different categories of roadside advertising signs",
     journal = "Applied Ergonomics",
-    volume = "78",
     pages = "127--136",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Driver's visual attention to different categories of roadside advertising signs",
+    volume = "78",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -2156,12 +2131,12 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2019_AccidentAnalysis_Vogelpohl,
     author = {Vogelpohl, Tobias and K{\"u}hn, Matthias and Hummel, Thomas and Vollrath, Mark},
-    title = "{Asleep at the automated wheel -- Sleepiness and fatigue during highly automated driving}",
     journal = "Accident Analysis \\& Prevention",
-    volume = "126",
     pages = "70--84",
-    year = "2019",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Asleep at the automated wheel -- Sleepiness and fatigue during highly automated driving}",
+    volume = "126",
+    year = "2019"
 }
 </pre>
 </ul>
@@ -2177,10 +2152,10 @@ Driving task: hazard anticipation/detection, hazard response
 <pre>
 @article{2019_AccidentAnalysis_Stahl,
     author = "Stahl, Patrick and Donmez, Birsen and Jamieson, Greg A",
-    title = "Eye glances towards conflict-relevant cues: the roles of anticipatory competence and driver experience",
     journal = "Accident Analysis \\& Prevention",
-    volume = "132",
     pages = "105255",
+    title = "Eye glances towards conflict-relevant cues: the roles of anticipatory competence and driver experience",
+    volume = "132",
     year = "2019"
 }
 </pre>
@@ -2201,11 +2176,11 @@ Demographics: gender
 <pre>
 @article{2018_TRR_Li,
     author = "Li, Xiaomeng and Rakotonirainy, Andry and Yan, Xuedong and Zhang, Yuting",
-    title = "Driver’s visual performance in rear-end collision avoidance process under the influence of cell phone use",
     journal = "Transportation Research Record",
-    volume = "2672",
     number = "37",
     pages = "55--63",
+    title = "Driver’s visual performance in rear-end collision avoidance process under the influence of cell phone use",
+    volume = "2672",
     year = "2018"
 }
 </pre>
@@ -2218,12 +2193,12 @@ Demographics: gender
 <pre>
 @article{2018_TransRes_Young,
     author = "Young, Angela H and Mackenzie, Andrew K and Davies, Robert L and Crundall, David",
-    title = "{Familiarity breeds contempt for the road ahead: The real-world effects of route repetition on visual attention in an expert driver}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "57",
     pages = "4--9",
-    year = "2018",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Familiarity breeds contempt for the road ahead: The real-world effects of route repetition on visual attention in an expert driver}",
+    volume = "57",
+    year = "2018"
 }
 </pre>
 </ul>
@@ -2239,10 +2214,10 @@ Automation: lateral control, longitudinal control, explainability, trust
 <pre>
 @article{2018_TransRes_Kraft,
     author = {Kraft, Ann-Kathrin and Naujoks, Frederik and W{\"o}rle, Johanna and Neukum, Alexandra},
-    title = "The impact of an in-vehicle display on glance distribution in partially automated driving in an on-road experiment",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "52",
     pages = "40--50",
+    title = "The impact of an in-vehicle display on glance distribution in partially automated driving in an on-road experiment",
+    volume = "52",
     year = "2018"
 }
 </pre>
@@ -2263,10 +2238,10 @@ Automation: lateral control, longitudinal control
 <pre>
 @article{2018_TransRes_Kidd,
     author = "Kidd, David G and Reimer, Bryan and Dobres, Jonathan and Mehler, Bruce",
-    title = "Changes in driver glance behavior when using a system that automates steering to perform a low-speed parallel parking maneuver",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "58",
     pages = "629--639",
+    title = "Changes in driver glance behavior when using a system that automates steering to perform a low-speed parallel parking maneuver",
+    volume = "58",
     year = "2018"
 }
 </pre>
@@ -2287,10 +2262,10 @@ Automation: lateral control, longitudinal control, TOR, trust
 <pre>
 @article{2018_TR_Vlakveld,
     author = "Vlakveld, Willem and van Nes, Nicole and de Bruin, Jonathan and Vissers, Luuk and van der Kroft, Merle",
-    title = "{Situation awareness increases when drivers have more time to take over the wheel in a Level 3 automated car: A simulator study}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "58",
     pages = "917--929",
+    title = "{Situation awareness increases when drivers have more time to take over the wheel in a Level 3 automated car: A simulator study}",
+    volume = "58",
     year = "2018"
 }
 </pre>
@@ -2315,11 +2290,11 @@ Automation: lateral control, warning/guidance
 <pre>
 @article{2018_TIV_Wang,
     author = "Wang, Zheng and Zheng, Rencheng and Kaizuka, Tsutomu and Nakano, Kimihiko",
-    title = "Relationship between gaze behavior and steering performance for driver--automation shared control: a driving simulator study",
     journal = "IEEE Transactions on Intelligent Vehicles",
-    volume = "4",
     number = "1",
     pages = "154--166",
+    title = "Relationship between gaze behavior and steering performance for driver--automation shared control: a driving simulator study",
+    volume = "4",
     year = "2018"
 }
 </pre>
@@ -2344,11 +2319,11 @@ Automation: lateral control, longitudinal control
 <pre>
 @article{2018_T-ITS_Morando,
     author = "Morando, Alberto and Victor, Trent and Dozza, Marco",
-    title = "{A reference model for driver attention in automation: Glance behavior changes during lateral and longitudinal assistance}",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "20",
     number = "8",
     pages = "2999--3009",
+    title = "{A reference model for driver attention in automation: Glance behavior changes during lateral and longitudinal assistance}",
+    volume = "20",
     year = "2018"
 }
 </pre>
@@ -2365,11 +2340,11 @@ Inattention: drowsiness
 <pre>
 @article{2018_NatSciReports_Shiferaw,
     author = "Shiferaw, Brook A and Downey, Luke A and Westlake, Justine and Stevens, Bronwyn and Rajaratnam, Shantha MW and Berlowitz, David J and Swann, Phillip and Howard, Mark E",
-    title = "Stationary gaze entropy predicts lane departure events in sleep-deprived drivers",
     journal = "Scientific Reports",
-    volume = "8",
     number = "1",
     pages = "1--10",
+    title = "Stationary gaze entropy predicts lane departure events in sleep-deprived drivers",
+    volume = "8",
     year = "2018"
 }
 </pre>
@@ -2394,8 +2369,8 @@ Automation: lateral control, longitudinal control, TOR, warning/guidance
 <pre>
 @inproceedings{2018_ITSC_Yang,
     author = "Yang, Yucheng and Karakaya, Burak and Dominioni, Giancarlo Caccia and Kawabe, Kyosuke and Bengler, Klaus",
-    title = "{An HMI Concept to Improve Driver's Visual Behavior and Situation Awareness in Automated Vehicle}",
     booktitle = "ITSC",
+    title = "{An HMI Concept to Improve Driver's Visual Behavior and Situation Awareness in Automated Vehicle}",
     year = "2018"
 }
 </pre>
@@ -2420,11 +2395,11 @@ Environment: sign, billboard
 <pre>
 @inproceedings{2018_HumanFactorsErgonomics_Zahabi,
     author = "Zahabi, Maryam and Machado, Patricia and Lau, Mei and Deng, Yulin and Pankok, Carl and Hummer, Joseph and Rasdorf, William and Kaber, David",
-    title = "{Effect of Driver Age and Distance Guide Sign Format on Driver Attention Allocation and Performance}",
     booktitle = "{Proc. Hum. Factors Ergon. Soc. Annu. Meet.}",
-    volume = "62",
     number = "1",
     pages = "1903--1907",
+    title = "{Effect of Driver Age and Distance Guide Sign Format on Driver Attention Allocation and Performance}",
+    volume = "62",
     year = "2018"
 }
 </pre>
@@ -2449,11 +2424,11 @@ Automation: lateral control, longitudinal control, monitoring, TOR, warning/guid
 <pre>
 @article{2018_HumanFactors_Victor,
     author = {Victor, Trent W and Tivesten, Emma and Gustavsson, P{\"a}r and Johansson, Joel and Sangberg, Fredrik and Ljung Aust, Mikael},
-    title = "Automation expectation mismatch: Incorrect prediction despite eyes on threat and hands on wheel",
     journal = "Human factors",
-    volume = "60",
     number = "8",
     pages = "1095--1116",
+    title = "Automation expectation mismatch: Incorrect prediction despite eyes on threat and hands on wheel",
+    volume = "60",
     year = "2018"
 }
 </pre>
@@ -2474,11 +2449,11 @@ Environment: intersection
 <pre>
 @article{2018_HumanFactors_Robbins,
     author = "Robbins, Chloe Jade and Chapman, Peter",
-    title = "Drivers’ visual search behavior toward vulnerable road users at junctions as a function of cycling experience",
     journal = "Human factors",
-    volume = "60",
     number = "7",
     pages = "889--901",
+    title = "Drivers’ visual search behavior toward vulnerable road users at junctions as a function of cycling experience",
+    volume = "60",
     year = "2018"
 }
 </pre>
@@ -2495,11 +2470,11 @@ Environment: sign
 <pre>
 @article{2018_Ergonomics_Costa,
     author = "Costa, Marco and Bonetti, Leonardo and Vignali, Valeria and Lantieri, Claudio and Simone, Andrea",
-    title = "The role of peripheral vision in vertical road sign identification and discrimination",
     journal = "Ergonomics",
-    volume = "61",
     number = "12",
     pages = "1619--1634",
+    title = "The role of peripheral vision in vertical road sign identification and discrimination",
+    volume = "61",
     year = "2018"
 }
 </pre>
@@ -2520,10 +2495,10 @@ Inattention: distraction
 <pre>
 @article{2018_AppliedErgonomics_Zahabi,
     author = "Zahabi, Maryam and Kaber, David",
-    title = "Effect of police mobile computer terminal interface design on officer driving distraction",
     journal = "Applied Ergonomics",
-    volume = "67",
     pages = "26--38",
+    title = "Effect of police mobile computer terminal interface design on officer driving distraction",
+    volume = "67",
     year = "2018"
 }
 </pre>
@@ -2540,10 +2515,10 @@ Environment: sign
 <pre>
 @article{2018_AppliedErgonomics_Costa,
     author = "Costa, Marco and Simone, Andrea and Vignali, Valeria and Lantieri, Claudio and Palena, Nicola",
-    title = "Fixation distance and fixation duration to vertical road signs",
     journal = "Applied Ergonomics",
-    volume = "69",
     pages = "48--57",
+    title = "Fixation distance and fixation duration to vertical road signs",
+    volume = "69",
     year = "2018"
 }
 </pre>
@@ -2568,9 +2543,9 @@ Automation: lateral control, longitudinal control, TOR, failure
 <pre>
 @inproceedings{2018_AHAT_Feldhutter,
     author = {Feldh{\"u}tter, Anna and H{\"a}rtwig, Nicolas and Kurpiers, Christina and Hernandez, Julia Mejia and Bengler, Klaus},
-    title = "Effect on mode awareness when changing from conditionally to partially automated driving",
     booktitle = "Congress of the International Ergonomics Association",
     pages = "314--324",
+    title = "Effect on mode awareness when changing from conditionally to partially automated driving",
     year = "2018"
 }
 </pre>
@@ -2591,10 +2566,10 @@ Environment: intersection
 <pre>
 @article{2018_AccidentAnalysis_Sun,
     author = {Sun, Qian Chayn and Xia, Jianhong Cecilia and He, Jibo and Foster, Jonathan and Falkmer, Torbj{\"o}rn and Lee, Hoe},
-    title = "{Towards unpacking older drivers’ visual-motor coordination: A gaze-based integrated driving assessment}",
     journal = "Accident Analysis \\& Prevention",
-    volume = "113",
     pages = "85--96",
+    title = "{Towards unpacking older drivers’ visual-motor coordination: A gaze-based integrated driving assessment}",
+    volume = "113",
     year = "2018"
 }
 </pre>
@@ -2615,10 +2590,10 @@ Inattention: distraction
 <pre>
 @article{2018_AccidentAnalysis_Lee,
     author = {Lee, Ja Young and Lee, John D and B{\"a}rgman, Jonas and Lee, Joonbum and Reimer, Bryan},
-    title = "How safe is tuning a radio?: using the radio tuning task as a benchmark for distracted driving",
     journal = "Accident Analysis \\& Prevention",
-    volume = "110",
     pages = "29--37",
+    title = "How safe is tuning a radio?: using the radio tuning task as a benchmark for distracted driving",
+    volume = "110",
     year = "2018"
 }
 </pre>
@@ -2631,10 +2606,10 @@ Inattention: distraction
 <pre>
 @article{2018_AccidentAnalysis_Kircher,
     author = "Kircher, Katja and Ahlstrom, Christer",
-    title = "Evaluation of methods for the assessment of attention while driving",
     journal = "Accident Analysis \\& Prevention",
-    volume = "114",
     pages = "40--47",
+    title = "Evaluation of methods for the assessment of attention while driving",
+    volume = "114",
     year = "2018"
 }
 </pre>
@@ -2659,10 +2634,10 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2017_TransRes_Louw,
     author = "Louw, Tyron and Merat, Natasha",
-    title = "{Are you in the loop? Using gaze dispersion to understand driver visual attention during vehicle automation}",
     journal = "Transportation Research Part C: Emerging Technologies",
-    volume = "76",
     pages = "35--50",
+    title = "{Are you in the loop? Using gaze dispersion to understand driver visual attention during vehicle automation}",
+    volume = "76",
     year = "2017"
 }
 </pre>
@@ -2683,11 +2658,11 @@ Demographics: age
 <pre>
 @article{2017_TrafficInjuryPrevention_Wang,
     author = "Wang, Yonggang and Xin, Mengyang and Bai, Han and Zhao, Yangdong",
-    title = "{Can variations in visual behavior measures be good predictors of driver sleepiness? A real driving test study}",
     journal = "Traffic Injury Prevention",
-    volume = "18",
     number = "2",
     pages = "132--138",
+    title = "{Can variations in visual behavior measures be good predictors of driver sleepiness? A real driving test study}",
+    volume = "18",
     year = "2017"
 }
 </pre>
@@ -2704,8 +2679,8 @@ Environment: location, road geometry
 <pre>
 @inproceedings{2017_SNPD_Shinohara,
     author = "Shinohara, Yumiko and Nishizaki, Yukiko",
-    title = "Where do drivers look when driving in a foreign country?",
     booktitle = "SNPD",
+    title = "Where do drivers look when driving in a foreign country?",
     year = "2017"
 }
 </pre>
@@ -2718,11 +2693,11 @@ Environment: location, road geometry
 <pre>
 @article{2017_PONE_VanLeeuwen,
     author = "Van Leeuwen, Peter M and de Groot, Stefan and Happee, Riender and de Winter, Joost CF",
-    title = "{Differences between racing and non-racing drivers: A simulator study using eye-tracking}",
     journal = "PLoS one",
-    volume = "12",
     number = "11",
     pages = "e0186871",
+    title = "{Differences between racing and non-racing drivers: A simulator study using eye-tracking}",
+    volume = "12",
     year = "2017"
 }
 </pre>
@@ -2743,12 +2718,12 @@ Environment: visibility
 <pre>
 @article{2017_JSR_Wang,
     author = "Wang, Yuan and Bao, Shan and Du, Wenjun and Ye, Zhirui and Sayer, James R",
-    title = "Examining drivers' eye glance patterns during distracted driving: Insights from scanning randomness and glance transition matrix",
     journal = "Journal of Safety Research",
-    volume = "63",
     pages = "149--155",
-    year = "2017",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Examining drivers' eye glance patterns during distracted driving: Insights from scanning randomness and glance transition matrix",
+    volume = "63",
+    year = "2017"
 }
 </pre>
 </ul>
@@ -2764,8 +2739,8 @@ Driving task: hazard anticipation/detection
 <pre>
 @inproceedings{2017_DrivingAssessmentConference_Yamani,
     author = "Yamani, Yusuke and B{\i}{\c{c}}aks{\i}z, Pinar and Palmer, Dakota B and Cronauer, John M and Samuel, Siby",
-    title = "{Following expert’s eyes: Evaluation of the effectiveness of a gaze-based training intervention on young drivers’ latent hazard anticipation skills}",
     booktitle = "Driving Assessment Conference",
+    title = "{Following expert’s eyes: Evaluation of the effectiveness of a gaze-based training intervention on young drivers’ latent hazard anticipation skills}",
     year = "2017"
 }
 </pre>
@@ -2790,10 +2765,10 @@ Automation: monitoring, warning/guidance
 <pre>
 @article{2017_CHB_Stenberger,
     author = "Steinberger, Fabius and Schroeter, Ronald and Watling, Christopher N",
-    title = "{From road distraction to safe driving: Evaluating the effects of boredom and gamification on driving behaviour, physiological arousal, and subjective experience}",
     journal = "Computers in Human Behavior",
-    volume = "75",
     pages = "714--726",
+    title = "{From road distraction to safe driving: Evaluating the effects of boredom and gamification on driving behaviour, physiological arousal, and subjective experience}",
+    volume = "75",
     year = "2017"
 }
 </pre>
@@ -2814,8 +2789,8 @@ Environment: location
 <pre>
 @inproceedings{2017_AutoUI_Shinohara,
     author = "Shinohara, Yumiko and Currano, Rebecca and Ju, Wendy and Nishizaki, Yukiko",
-    title = "{Visual attention during simulated autonomous driving in the US and Japan}",
     booktitle = "AutomotiveUI",
+    title = "{Visual attention during simulated autonomous driving in the US and Japan}",
     year = "2017"
 }
 </pre>
@@ -2832,9 +2807,9 @@ Inattention: distraction
 <pre>
 @inproceedings{2017_AutomotiveUI_Kujala,
     author = "Kujala, Tuomo and Grahn, Hilkka",
-    title = "Visual distraction effects of in-car text entry methods: Comparing keyboard, handwriting and voice recognition",
-    booktitle = "Proceedings of the 9th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
+    booktitle = "Proceedings of the 9th international conference on automotive user interfaces and interactive vehicular applications",
     pages = "1--10",
+    title = "Visual distraction effects of in-car text entry methods: Comparing keyboard, handwriting and voice recognition",
     year = "2017"
 }
 </pre>
@@ -2859,10 +2834,10 @@ Environment: sign, billboard
 <pre>
 @article{2017_AppliedErgonomics_Zahabi,
     author = "Zahabi, Maryam and Machado, Patricia and Lau, Mei Ying and Deng, Yulin and Pankok Jr, Carl and Hummer, Joseph and Rasdorf, William and Kaber, David B",
-    title = "Driver performance and attention allocation in use of logo signs on freeway exit ramps",
     journal = "Applied Ergonomics",
-    volume = "65",
     pages = "70--80",
+    title = "Driver performance and attention allocation in use of logo signs on freeway exit ramps",
+    volume = "65",
     year = "2017"
 }
 </pre>
@@ -2883,10 +2858,10 @@ Automation: monitoring, warning/guidance
 <pre>
 @article{2017_AppliedErgonomics_Ahlstrom,
     author = "Ahlstrom, Christer and Kircher, Katja",
-    title = "{Changes in glance behaviour when using a visual eco-driving system--A field study}",
     journal = "Applied Ergonomics",
-    volume = "58",
     pages = "414--423",
+    title = "{Changes in glance behaviour when using a visual eco-driving system--A field study}",
+    volume = "58",
     year = "2017"
 }
 </pre>
@@ -2903,10 +2878,10 @@ Environment: traffic
 <pre>
 @article{2017_AppErgonomics_Lu,
     author = "Lu, Zhenji and Coster, Xander and De Winter, Joost",
-    title = "{How much time do drivers need to obtain situation awareness? A laboratory-based study of automated driving}",
     journal = "Applied Ergonomics",
-    volume = "60",
     pages = "293--304",
+    title = "{How much time do drivers need to obtain situation awareness? A laboratory-based study of automated driving}",
+    volume = "60",
     year = "2017"
 }
 </pre>
@@ -2931,9 +2906,9 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @incollection{2017_AdvErgonomics_Feldhutter,
     author = {Feldh{\"u}tter, Anna and Gold, Christian and Schneider, Sonja and Bengler, Klaus},
-    title = "How the duration of automated driving influences take-over performance and gaze behavior",
     booktitle = "Advances in ergonomic design of systems, products and processes",
     pages = "309--318",
+    title = "How the duration of automated driving influences take-over performance and gaze behavior",
     year = "2017"
 }
 </pre>
@@ -2954,10 +2929,10 @@ Inattention: distraction
 <pre>
 @article{2017_AccidentAnalysis_Seppelt,
     author = "Seppelt, Bobbie D and Seaman, Sean and Lee, Joonbum and Angell, Linda S and Mehler, Bruce and Reimer, Bryan",
-    title = "{Glass half-full: On-road glance metrics differentiate crashes from near-crashes in the 100-Car data}",
     journal = "Accident Analysis \\& Prevention",
-    volume = "107",
     pages = "48--62",
+    title = "{Glass half-full: On-road glance metrics differentiate crashes from near-crashes in the 100-Car data}",
+    volume = "107",
     year = "2017"
 }
 </pre>
@@ -2986,10 +2961,10 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2017_AccidentAnalysis_Clark,
     author = "Clark, Hallie and Feng, Jing",
-    title = "Age differences in the takeover of vehicle control and engagement in non-driving-related activities in simulated driving with conditional automation",
     journal = "Accident Analysis \\& Prevention",
-    volume = "106",
     pages = "468--479",
+    title = "Age differences in the takeover of vehicle control and engagement in non-driving-related activities in simulated driving with conditional automation",
+    volume = "106",
     year = "2017"
 }
 </pre>
@@ -3010,10 +2985,10 @@ Environment: road type
 <pre>
 @article{2017_AccidentAnalysis_Beanland,
     author = "Beanland, Vanessa and Filtness, Ashleigh J and Jeans, Rhiannon",
-    title = "{Change detection in urban and rural driving scenes: Effects of target type and safety relevance on change blindness}",
     journal = "Accident Analysis and Prevention",
-    volume = "100",
     pages = "111--122",
+    title = "{Change detection in urban and rural driving scenes: Effects of target type and safety relevance on change blindness}",
+    volume = "100",
     year = "2017"
 }
 </pre>
@@ -3030,10 +3005,10 @@ Environment: vegetation
 <pre>
 @article{2016_TransRes_Fitzpatrick,
     author = "Fitzpatrick, Cole D and Samuel, Siby and Knodler Jr, Michael A",
-    title = "Evaluating the effect of vegetation and clear zone width on driver behavior using a driving simulator",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "42",
     pages = "80--89",
+    title = "Evaluating the effect of vegetation and clear zone width on driver behavior using a driving simulator",
+    volume = "42",
     year = "2016"
 }
 </pre>
@@ -3050,11 +3025,11 @@ Inattention: drowsiness
 <pre>
 @article{2016_TraffInjuryPrevention_Jackson,
     author = "Jackson, Melinda L and Raj, Susan and Croft, Rodney J and Hayley, Amie C and Downey, Luke A and Kennedy, Gerard A and Howard, Mark E",
-    title = "Slow eyelid closure as a measure of driver drowsiness and its relationship to performance",
     journal = "Traffic Injury Prevention",
-    volume = "17",
     number = "3",
     pages = "251--257",
+    title = "Slow eyelid closure as a measure of driver drowsiness and its relationship to performance",
+    volume = "17",
     year = "2016"
 }
 </pre>
@@ -3075,12 +3050,12 @@ Environment: sign, billboard
 <pre>
 @article{2016_TR_Topolsek,
     author = "Topol{\v{s}}ek, Darja and Areh, Igor and Cvahte, Tina",
-    title = "Examination of driver detection of roadside traffic signs and advertisements using eye tracking",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "43",
     pages = "212--224",
-    year = "2016",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Examination of driver detection of roadside traffic signs and advertisements using eye tracking",
+    volume = "43",
+    year = "2016"
 }
 </pre>
 </ul>
@@ -3104,10 +3079,10 @@ Environment: sign, billboard
 <pre>
 @article{2016_TR_Stavrinos,
     author = "Stavrinos, Despina and Mosley, Peyton R and Wittig, Shannon M and Johnson, Haley D and Decker, John S and Sisiopiku, Virginia P and Welburn, Sharon C",
-    title = "{Visual behavior differences in drivers across the lifespan: A digital billboard simulator study}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "41",
     pages = "19--28",
+    title = "{Visual behavior differences in drivers across the lifespan: A digital billboard simulator study}",
+    volume = "41",
     year = "2016"
 }
 </pre>
@@ -3132,11 +3107,11 @@ Environment: intersection
 <pre>
 @article{2016_PLOS_Yan,
     author = "Yan, Xuedong and Zhang, Xinran and Zhang, Yuting and Li, Xiaomeng and Yang, Zhuo",
-    title = "Changes in drivers’ visual performance during the collision avoidance process as a function of different field of views at intersections",
     journal = "PLoS one",
-    volume = "11",
     number = "10",
     pages = "e0164101",
+    title = "Changes in drivers’ visual performance during the collision avoidance process as a function of different field of views at intersections",
+    volume = "11",
     year = "2016"
 }
 </pre>
@@ -3161,11 +3136,11 @@ Environment: intersection
 <pre>
 @article{2016_PLOS_Yamani,
     author = "Yamani, Yusuke and Horrey, William J and Liang, Yulan and Fisher, Donald L",
-    title = "Age-related differences in vehicle control and eye movement patterns at intersections: older and middle-aged drivers",
     journal = "PLoS one",
-    volume = "11",
     number = "10",
     pages = "e0164124",
+    title = "Age-related differences in vehicle control and eye movement patterns at intersections: older and middle-aged drivers",
+    volume = "11",
     year = "2016"
 }
 </pre>
@@ -3182,11 +3157,11 @@ Environment: traffic
 <pre>
 @article{2016_PLOS_Cheng,
     author = "Cheng, Ying and Gao, Li and Zhao, Yanan and Du, Feng",
-    title = "Drivers’ visual characteristics when merging onto or exiting an urban expressway",
     journal = "PloS one",
-    volume = "11",
     number = "9",
     pages = "e0162298",
+    title = "Drivers’ visual characteristics when merging onto or exiting an urban expressway",
+    volume = "11",
     year = "2016"
 }
 </pre>
@@ -3207,11 +3182,11 @@ Demographics: age
 <pre>
 @article{2016_OptometryVisionScience_Lee,
     author = "Lee, Samantha Sze-Yee and Black, Alex A and Lacherez, Philippe and Wood, Joanne M",
-    title = "Eye movements and road hazard detection: effects of blur and distractors",
     journal = "Optometry and Vision Science",
-    volume = "93",
     number = "9",
     pages = "1137--1146",
+    title = "Eye movements and road hazard detection: effects of blur and distractors",
+    volume = "93",
     year = "2016"
 }
 </pre>
@@ -3228,11 +3203,11 @@ Environment: intersection
 <pre>
 @article{2016_JTSS_Grippenkoven,
     author = "Grippenkoven, Jan and Dietsch, Sandra",
-    title = "Gaze direction and driving behavior of drivers at level crossings",
     journal = "Journal of Transportation Safety \\& Security",
-    volume = "8",
     number = "sup1",
     pages = "4--18",
+    title = "Gaze direction and driving behavior of drivers at level crossings",
+    volume = "8",
     year = "2016"
 }
 </pre>
@@ -3249,11 +3224,11 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2016_JoV_Huestegge,
     author = {Huestegge, Lynn and B{\"o}ckler, Anne},
-    title = "{Out of the corner of the driver's eye: Peripheral processing of hazards in static traffic scenes}",
     journal = "Journal of Vision",
-    volume = "16",
     number = "2",
     pages = "11--11",
+    title = "{Out of the corner of the driver's eye: Peripheral processing of hazards in static traffic scenes}",
+    volume = "16",
     year = "2016"
 }
 </pre>
@@ -3274,10 +3249,10 @@ Environment: intersection, road type
 <pre>
 @article{2016_JEMR_Sun,
     author = {Sun, Quian and Xia, jianhong and Falkmer, Torbj{\"o}rn and Lee, Hoe},
-    title = "{Investigating the Spatial Pattern of Older Drivers Eye Fixation Behaviour and Associations with Their Visual Capacity}",
     journal = "Journal of Eye Movement Research",
-    volume = "9",
     number = "6",
+    title = "{Investigating the Spatial Pattern of Older Drivers Eye Fixation Behaviour and Associations with Their Visual Capacity}",
+    volume = "9",
     year = "2016"
 }
 </pre>
@@ -3298,11 +3273,11 @@ Inattention: distraction
 <pre>
 @article{2016_JARMAC_Wood,
     author = "Wood, G and Hartley, G and Furley, PA and Wilson, MR",
-    title = "Working memory capacity, visual attention and hazard perception in driving",
     journal = "Journal of Applied Research in Memory and Cognition",
-    volume = "5",
     number = "4",
     pages = "454--462",
+    title = "Working memory capacity, visual attention and hazard perception in driving",
+    volume = "5",
     year = "2016"
 }
 </pre>
@@ -3323,11 +3298,11 @@ Environment: billboard
 <pre>
 @article{2016_JAR_Wilson,
     author = "Wilson, Rick T and Casper, Jeff",
-    title = "{The role of location and visual saliency in capturing attention to outdoor advertising: How location attributes increase the likelihood for a driver to notice a billboard ad}",
     journal = "Journal of Advertising Research",
-    volume = "56",
     number = "3",
     pages = "259--273",
+    title = "{The role of location and visual saliency in capturing attention to outdoor advertising: How location attributes increase the likelihood for a driver to notice a billboard ad}",
+    volume = "56",
     year = "2016"
 }
 </pre>
@@ -3352,8 +3327,8 @@ Automation: lateral control, longitudinal control, monitoring
 <pre>
 @inproceedings{2016_IV_Schmidt,
     author = {Schmidt, J{\"u}rgen and Braunagel, Christian and Stolzmann, Wolfgang and Karrer-Gau{\ss}, Katja},
-    title = "Driver drowsiness and behavior detection in prolonged conditionally automated drives",
     booktitle = "IV",
+    title = "Driver drowsiness and behavior detection in prolonged conditionally automated drives",
     year = "2016"
 }
 </pre>
@@ -3374,12 +3349,12 @@ Automation: warning/guidance
 <pre>
 @article{2016_IJHCS_Kujala,
     author = {Kujala, Tuomo and Karvonen, Hannu and M{\"a}kel{\"a}, Jakke},
-    title = "Context-sensitive distraction warnings--Effects on drivers׳ visual behavior and acceptance",
     journal = "International Journal of Human-Computer Studies",
-    volume = "90",
     pages = "39--52",
-    year = "2016",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Context-sensitive distraction warnings--Effects on drivers׳ visual behavior and acceptance",
+    volume = "90",
+    year = "2016"
 }
 </pre>
 </ul>
@@ -3403,11 +3378,11 @@ Automation: lateral control, longitudinal control, TOR, trust
 <pre>
 @article{2016_HumanFactors_Hergeth,
     author = "Hergeth, Sebastian and Lorenz, Lutz and Vilimek, Roman and Krems, Josef F",
-    title = "{Keep your scanners peeled: Gaze behavior as a measure of automation trust during highly automated driving}",
     journal = "Human factors",
-    volume = "58",
     number = "3",
     pages = "509--519",
+    title = "{Keep your scanners peeled: Gaze behavior as a measure of automation trust during highly automated driving}",
+    volume = "58",
     year = "2016"
 }
 </pre>
@@ -3432,11 +3407,11 @@ Environment: wind
 <pre>
 @article{2016_HumanFactors_Gaspar,
     author = "Gaspar, John G and Ward, Nathan and Neider, Mark B and Crowell, James and Carbonari, Ronald and Kaczmarski, Henry and Ringer, Ryan V and Johnson, Aaron P and Kramer, Arthur F and Loschky, Lester C",
-    title = "Measuring the useful field of view during simulated driving with gaze-contingent displays",
     journal = "Human factors",
-    volume = "58",
     number = "4",
     pages = "630--641",
+    title = "Measuring the useful field of view during simulated driving with gaze-contingent displays",
+    volume = "58",
     year = "2016"
 }
 </pre>
@@ -3457,8 +3432,8 @@ Inattention: distraction
 <pre>
 @inproceedings{2016_CHI_Lee,
     author = "Lee, Ja Young and Gibson, Madeleine C and Lee, John D",
-    title = "Error recovery in multitasking while driving",
     booktitle = "CHI",
+    title = "Error recovery in multitasking while driving",
     year = "2016"
 }
 </pre>
@@ -3475,8 +3450,8 @@ Environment: intersection
 <pre>
 @inproceedings{2016_CHI_Akkil,
     author = "Akkil, Deepak and Isokoski, Poika",
-    title = "Gaze augmentation in egocentric video improves awareness of intention",
     booktitle = "CHI",
+    title = "Gaze augmentation in egocentric video improves awareness of intention",
     year = "2016"
 }
 </pre>
@@ -3497,8 +3472,8 @@ Inattention: distraction
 <pre>
 @inproceedings{2016_AutoUI_Smith,
     author = "Smith, Missie and Gabbard, Joseph L and Conley, Christian",
-    title = "Head-up vs. head-down displays: examining traditional methods of display assessment while driving",
     booktitle = "AutomotiveUI",
+    title = "Head-up vs. head-down displays: examining traditional methods of display assessment while driving",
     year = "2016"
 }
 </pre>
@@ -3519,8 +3494,8 @@ Environment: location, sign
 <pre>
 @inproceedings{2016_AutoUI_Hurtado,
     author = "Hurtado, Stephanie and Chiasson, Sonia",
-    title = "An eye-tracking evaluation of driver distraction and unfamiliar road signs",
     booktitle = "AutomotiveUI",
+    title = "An eye-tracking evaluation of driver distraction and unfamiliar road signs",
     year = "2016"
 }
 </pre>
@@ -3545,8 +3520,8 @@ Automation: lateral control, longitudinal control, TOR, warning/guidance
 <pre>
 @inproceedings{2016_AutoUI_Borojeni,
     author = "Borojeni, Shadan Sadeghian and Chuang, Lewis and Heuten, Wilko and Boll, Susanne",
-    title = "Assisting drivers with ambient take-over requests in highly automated driving",
     booktitle = "AutomotiveUI",
+    title = "Assisting drivers with ambient take-over requests in highly automated driving",
     year = "2016"
 }
 </pre>
@@ -3571,12 +3546,12 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2016_AccidentAnalysis_Zeeb,
     author = "Zeeb, Kathrin and Buchner, Axel and Schrauf, Michael",
-    title = "{Is take-over time all that matters? The impact of visual-cognitive load on driver take-over quality after conditionally automated driving}",
     journal = "Accident Analysis \\& Prevention",
-    volume = "92",
     pages = "230--239",
-    year = "2016",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Is take-over time all that matters? The impact of visual-cognitive load on driver take-over quality after conditionally automated driving}",
+    volume = "92",
+    year = "2016"
 }
 </pre>
 </ul>
@@ -3596,12 +3571,12 @@ Automation: longitudinal control, warning/guidance
 <pre>
 @article{2016_AccidentAnalysis_Morando,
     author = "Morando, Alberto and Victor, Trent and Dozza, Marco",
-    title = "{Drivers anticipate lead-vehicle conflicts during automated longitudinal control: Sensory cues capture driver attention and promote appropriate and timely responses}",
     journal = "Accident Analysis \\& Prevention",
-    volume = "97",
     pages = "206--219",
-    year = "2016",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Drivers anticipate lead-vehicle conflicts during automated longitudinal control: Sensory cues capture driver attention and promote appropriate and timely responses}",
+    volume = "97",
+    year = "2016"
 }
 </pre>
 </ul>
@@ -3625,12 +3600,12 @@ Environment: road geometry
 <pre>
 @article{2016_AccidentAnalysis_Kountouriotis,
     author = "Kountouriotis, Georgios K and Merat, Natasha",
-    title = "{Leading to distraction: Driver distraction, lead car, and road environment}",
     journal = "Accident Analysis \\& Prevention",
-    volume = "89",
     pages = "22--30",
-    year = "2016",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Leading to distraction: Driver distraction, lead car, and road environment}",
+    volume = "89",
+    year = "2016"
 }
 </pre>
 </ul>
@@ -3650,12 +3625,12 @@ Automation: warning/guidance
 <pre>
 @article{2016_AccidentAnalysis_Kidd,
     author = "Kidd, David G and McCartt, Anne T",
-    title = "Differences in glance behavior between drivers using a rearview camera, parking sensor system, both technologies, or no technology during low-speed parking maneuvers",
     journal = "Accident Analysis \\& Prevention",
-    volume = "87",
     pages = "92--101",
-    year = "2016",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Differences in glance behavior between drivers using a rearview camera, parking sensor system, both technologies, or no technology during low-speed parking maneuvers",
+    volume = "87",
+    year = "2016"
 }
 </pre>
 </ul>
@@ -3679,12 +3654,12 @@ Environment: billboard
 <pre>
 @article{2016_AccidentAnalysis_Belyusar,
     author = "Belyusar, Daniel and Reimer, Bryan and Mehler, Bruce and Coughlin, Joseph F",
-    title = "A field study on the effects of digital billboards on glance behavior during highway driving",
     journal = "Accident Analysis \\& Prevention",
-    volume = "88",
     pages = "88--96",
-    year = "2016",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "A field study on the effects of digital billboards on glance behavior during highway driving",
+    volume = "88",
+    year = "2016"
 }
 </pre>
 </ul>
@@ -3700,13 +3675,13 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2015_VC_Mackenzie,
     author = "Mackenzie, Andrew K and Harris, Julie M",
-    title = "Eye movements and hazard perception in active and passive driving",
     journal = "Visual cognition",
-    volume = "23",
     number = "6",
     pages = "736--757",
-    year = "2015",
-    publisher = "Taylor \\& Francis"
+    publisher = "Taylor \\& Francis",
+    title = "Eye movements and hazard perception in active and passive driving",
+    volume = "23",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -3726,13 +3701,13 @@ Inattention: distraction
 <pre>
 @article{2015_TRR_Samuel,
     author = "Samuel, Siby and Fisher, Donald L",
-    title = "Evaluation of the minimum forward roadway glance duration",
     journal = "Transportation Research Record",
-    volume = "2518",
     number = "1",
     pages = "9--17",
-    year = "2015",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "Evaluation of the minimum forward roadway glance duration",
+    volume = "2518",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -3748,12 +3723,12 @@ Inattention: distraction
 <pre>
 @article{2015_TransRes_Niezgoda,
     author = "Niezgoda, Michal and Tarnowski, Adam and Kruszewski, Miko{\l}aj and Kami{\'n}ski, Tomasz",
-    title = "{Towards testing auditory--vocal interfaces and detecting distraction while driving: A comparison of eye-movement measures in the assessment of cognitive workload}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "32",
     pages = "23--34",
-    year = "2015",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Towards testing auditory--vocal interfaces and detecting distraction while driving: A comparison of eye-movement measures in the assessment of cognitive workload}",
+    volume = "32",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -3773,12 +3748,12 @@ Inattention: distraction
 <pre>
 @article{2015_TransRes_Bargman,
     author = {B{\"a}rgman, Jonas and Lisovskaja, Vera and Victor, Trent and Flannagan, Carol and Dozza, Marco},
-    title = "{How does glance behavior influence crash and injury risk? A ‘what-if’counterfactual simulation using crashes and near-crashes from SHRP2}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "35",
     pages = "152--169",
-    year = "2015",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{How does glance behavior influence crash and injury risk? A ‘what-if’counterfactual simulation using crashes and near-crashes from SHRP2}",
+    volume = "35",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -3798,13 +3773,13 @@ Inattention: distraction
 <pre>
 @article{2015_TrafficInjuryPrevention_Borowsky,
     author = "Borowsky, Avinoam and Horrey, William J and Liang, Yulan and Garabet, Angela and Simmons, Lucinda and Fisher, Donald L",
-    title = "The effects of momentary visual disruption on hazard anticipation and awareness in driving",
     journal = "Traffic Injury Prevention",
-    volume = "16",
     number = "2",
     pages = "133--139",
-    year = "2015",
-    publisher = "Taylor \\& Francis"
+    publisher = "Taylor \\& Francis",
+    title = "The effects of momentary visual disruption on hazard anticipation and awareness in driving",
+    volume = "16",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -3820,12 +3795,12 @@ Environment: intersection, traffic
 <pre>
 @article{2015_TR_Lemonnier,
     author = "Lemonnier, Sophie and Br{\'e}mond, Roland and Baccino, Thierry",
-    title = "{Gaze behavior when approaching an intersection: Dwell time distribution and comparison with a quantitative prediction}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "35",
     pages = "60--74",
-    year = "2015",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Gaze behavior when approaching an intersection: Dwell time distribution and comparison with a quantitative prediction}",
+    volume = "35",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -3841,12 +3816,12 @@ Automation: warning/guidance
 <pre>
 @article{2015_TR_Eyraud,
     author = "Eyraud, Robin and Zibetti, Elisabetta and Baccino, Thierry",
-    title = "Allocation of visual attention while driving with simulated augmented reality",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "32",
     pages = "46--55",
-    year = "2015",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Allocation of visual attention while driving with simulated augmented reality",
+    volume = "32",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -3862,11 +3837,11 @@ Environment: road geometry
 <pre>
 @article{2015_PONE_Itkonen,
     author = "Itkonen, Teemu and Pekkanen, Jami and Lappi, Otto",
-    title = "Driver gaze behavior is different in normal curve driving and when looking at the tangent point",
     journal = "PloS one",
-    volume = "10",
     number = "8",
     pages = "e0135505",
+    title = "Driver gaze behavior is different in normal curve driving and when looking at the tangent point",
+    volume = "10",
     year = "2015"
 }
 </pre>
@@ -3887,11 +3862,11 @@ Environment: intersection
 <pre>
 @article{2015_OPO_Lee,
     author = "Lee, Samantha Sze-Yee and Wood, Joanne M and Black, Alexander A",
-    title = "Blur, eye movements and performance on a driving visual recognition slide test",
     journal = "Ophthalmic and Physiological Optics",
-    volume = "35",
     number = "5",
     pages = "522--529",
+    title = "Blur, eye movements and performance on a driving visual recognition slide test",
+    volume = "35",
     year = "2015"
 }
 </pre>
@@ -3912,9 +3887,9 @@ Inattention: distraction
 <pre>
 @inproceedings{2015_MindTrek_Kujala,
     author = "Kujala, Tuomo and Grahn, Hilkka and Holmstedt, Niina",
-    title = "Hand-Held texting is less distracting than texting with the phone in a holder: anyway, don't do it",
     booktitle = "Proceedings of the 19th International Academic Mindtrek Conference",
     pages = "98--105",
+    title = "Hand-Held texting is less distracting than texting with the phone in a holder: anyway, don't do it",
     year = "2015"
 }
 </pre>
@@ -3935,12 +3910,12 @@ Inattention: distraction
 <pre>
 @article{2015_IJHCS_Kujala,
     author = "Kujala, Tuomo and Salvucci, Dario D",
-    title = "Modeling visual sampling on in-car displays: The challenge of predicting safety-critical lapses of control",
     journal = "International Journal of Human-Computer Studies",
-    volume = "79",
     pages = "66--78",
-    year = "2015",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Modeling visual sampling on in-car displays: The challenge of predicting safety-critical lapses of control",
+    volume = "79",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -3960,13 +3935,13 @@ Automation: warning/guidance
 <pre>
 @article{2015_IET_Yang,
     author = "Yang, Bo and Zheng, Rencheng and Yin, Yuandong and Yamabe, Shigeyuki and Nakano, Kimihiko",
-    title = "Analysis of influence on driver behaviour while using in-vehicle traffic lights with application of head-up display",
     journal = "IET Intelligent Transport Systems",
-    volume = "10",
     number = "5",
     pages = "347--353",
-    year = "2016",
-    publisher = "IET"
+    publisher = "IET",
+    title = "Analysis of influence on driver behaviour while using in-vehicle traffic lights with application of head-up display",
+    volume = "10",
+    year = "2016"
 }
 </pre>
 </ul>
@@ -3986,11 +3961,11 @@ Environment: road geometry
 <pre>
 @article{2015_HumanFactors_Liang,
     author = "Liang, Yulan and Horrey, William J and Hoffman, Joshua D",
-    title = "Reading text while driving: Understanding drivers’ strategic and tactical adaptation to distraction",
     journal = "Human factors",
-    volume = "57",
     number = "2",
     pages = "347--359",
+    title = "Reading text while driving: Understanding drivers’ strategic and tactical adaptation to distraction",
+    volume = "57",
     year = "2015"
 }
 </pre>
@@ -4007,13 +3982,13 @@ Environment: road geometry
 <pre>
 @article{2015_Ergonomics_vanLeeuwen,
     author = "van Leeuwen, Peter M and G{\'o}mez i Subils, Carla and Ramon Jimenez, Arnau and Happee, Riender and de Winter, Joost CF",
-    title = "Effects of visual fidelity on curve negotiation, gaze behaviour and simulator discomfort",
     journal = "Ergonomics",
-    volume = "58",
     number = "8",
     pages = "1347--1364",
-    year = "2015",
-    publisher = "Taylor \\& Francis"
+    publisher = "Taylor \\& Francis",
+    title = "Effects of visual fidelity on curve negotiation, gaze behaviour and simulator discomfort",
+    volume = "58",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -4033,8 +4008,8 @@ Automation: lateral control, longitudinal control, warning/guidance
 <pre>
 @inproceedings{2015_DDI_Tivesten,
     author = "Tivesten, E and Morando, A and Victor, T",
-    title = "The timecourse of driver visual attention in naturalistic driving with adaptive cruise control and forward collision warning",
     booktitle = "DDI",
+    title = "The timecourse of driver visual attention in naturalistic driving with adaptive cruise control and forward collision warning",
     year = "2015"
 }
 </pre>
@@ -4055,13 +4030,13 @@ Environment: visibility
 <pre>
 @article{2015_BMCGeriatrics_Urwyler,
     author = {Urwyler, Prabitha and Gruber, Nicole and M{\"u}ri, Ren{\'e} M and J{\"a}ger, Michael and Bieri, Rahel and Nyffeler, Thomas and Mosimann, Urs P and Nef, Tobias},
-    title = "{Age-dependent visual exploration during simulated day-and night driving on a motorway: A cross-sectional study}",
     journal = "BMC Geriatrics",
-    volume = "15",
     number = "1",
     pages = "18",
-    year = "2015",
-    publisher = "Springer"
+    publisher = "Springer",
+    title = "{Age-dependent visual exploration during simulated day-and night driving on a motorway: A cross-sectional study}",
+    volume = "15",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -4081,12 +4056,12 @@ Environment: sign, construction
 <pre>
 @article{2015_AppliedErgonomics_Kaber,
     author = "Kaber, David and Pankok Jr, Carl and Corbett, Brendan and Ma, Wenqi and Hummer, Joseph and Rasdorf, William",
-    title = "Driver behavior in use of guide and logo signs under distraction and complex roadway conditions",
     journal = "Applied Ergonomics",
-    volume = "47",
     pages = "99--106",
-    year = "2015",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Driver behavior in use of guide and logo signs under distraction and complex roadway conditions",
+    volume = "47",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -4106,12 +4081,12 @@ Environment: traffic
 <pre>
 @article{2015_AccidentAnalysis_Peng,
     author = "Peng, Yiyun and Boyle, Linda Ng",
-    title = "Driver's adaptive glance behavior to in-vehicle information systems",
     journal = "Accident Analysis \\& Prevention",
-    volume = "85",
     pages = "93--101",
-    year = "2015",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Driver's adaptive glance behavior to in-vehicle information systems",
+    volume = "85",
+    year = "2015"
 }
 </pre>
 </ul>
@@ -4127,12 +4102,12 @@ Environment: visibility, road geometry
 <pre>
 @article{2014_TransRes_vanLeeuwen,
     author = "Van Leeuwen, PM and Happee, R and De Winter, JCF",
-    title = "{Vertical field of view restriction in driver training: A simulator-based evaluation}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "24",
     pages = "169--182",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Vertical field of view restriction in driver training: A simulator-based evaluation}",
+    volume = "24",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4152,12 +4127,12 @@ Environment: road type, intersection, visibility
 <pre>
 @article{2014_TransRes_Tivesten,
     author = "Tivesten, Emma and Dozza, Marco",
-    title = "Driving context and visual-manual phone tasks influence glance behavior in naturalistic driving",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "26",
     pages = "258--272",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Driving context and visual-manual phone tasks influence glance behavior in naturalistic driving",
+    volume = "26",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4173,12 +4148,12 @@ Environment: sign
 <pre>
 @article{2014_TransRes_Costa,
     author = "Costa, Marco and Simone, Andrea and Vignali, Valeria and Lantieri, Claudio and Bucchi, Alberto and Dondi, Giulio",
-    title = "Looking behavior for vertical road signs",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "23",
     pages = "147--155",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Looking behavior for vertical road signs",
+    volume = "23",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4190,12 +4165,12 @@ Environment: sign
 <pre>
 @article{2014_TransRes_Ciceri,
     author = "Ciceri, Maria Rita and Ruscio, Daniele",
-    title = "{Does driving experience in video games count? Hazard anticipation and visual exploration of male gamers as function of driving experience}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "22",
     pages = "76--85",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Does driving experience in video games count? Hazard anticipation and visual exploration of male gamers as function of driving experience}",
+    volume = "22",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4211,12 +4186,12 @@ Automation: warning/guidance
 <pre>
 @article{2014_TransRes_Birrell,
     author = "Birrell, Stewart A and Fowkes, Mark",
-    title = "{Glance behaviours when using an in-vehicle smart driving aid: A real-world, on-road driving study}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "22",
     pages = "113--125",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Glance behaviours when using an in-vehicle smart driving aid: A real-world, on-road driving study}",
+    volume = "22",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4236,12 +4211,12 @@ Demographics: gender
 <pre>
 @article{2014_TR_Reimer,
     author = "Reimer, Bryan and Mehler, Bruce and Donmez, Birsen",
-    title = "A study of young adults examining phone dialing while driving using a touchscreen vs. a button style flip-phone",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "23",
     pages = "57--68",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "A study of young adults examining phone dialing while driving using a touchscreen vs. a button style flip-phone",
+    volume = "23",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4261,12 +4236,12 @@ Automation: lateral control, longitudinal control, TOR
 <pre>
 @article{2014_TR_Merat,
     author = "Merat, Natasha and Jamson, A Hamish and Lai, Frank CH and Daly, Michael and Carsten, Oliver MJ",
-    title = "{Transition to manual: Driver behaviour when resuming control from a highly automated vehicle}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "27",
     pages = "274--282",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Transition to manual: Driver behaviour when resuming control from a highly automated vehicle}",
+    volume = "27",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4286,12 +4261,12 @@ Environment: visibility
 <pre>
 @article{2014_TR_Alberti,
     author = "Alberti, Concetta F and Shahar, Amit and Crundall, David",
-    title = "Are experienced drivers more likely than novice drivers to benefit from driving simulations with a wide field of view?",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "27",
     pages = "124--132",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Are experienced drivers more likely than novice drivers to benefit from driving simulations with a wide field of view?",
+    volume = "27",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4307,12 +4282,12 @@ Inattention: distraction
 <pre>
 @article{2014_SafetyScience_Young,
     author = "Young, Kristie L and Rudin-Brown, Christina M and Patten, Christopher and Ceci, Ruggero and Lenn{\'e}, Michael G",
-    title = "Effects of phone type on driving and eye glance behaviour while text-messaging",
     journal = "Safety Science",
-    volume = "68",
     pages = "47--54",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Effects of phone type on driving and eye glance behaviour while text-messaging",
+    volume = "68",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4328,10 +4303,10 @@ Inattention: distraction
 <pre>
 @article{2014_SafetyScience_Lemercier,
     author = {Lemercier, C{\'e}line and Pecher, Christelle and Berthi{\'e}, Ga{\"e}lle and Valery, Benoit and Vidal, Vanessa and Paubel, Pierre-Vincent and Cour, Maurice and Fort, Alexandra and Gal{\'e}ra, C{\'e}dric and Gabaude, Catherine and others},
-    title = "{Inattention behind the wheel: How factual internal thoughts impact attentional control while driving}",
     journal = "Safety Science",
-    volume = "62",
     pages = "279--285",
+    title = "{Inattention behind the wheel: How factual internal thoughts impact attentional control while driving}",
+    volume = "62",
     year = "2014"
 }
 </pre>
@@ -4348,11 +4323,11 @@ Environment: traffic, intersection
 <pre>
 @article{2014_JEMR_Lemonnier,
     author = "Lemonnier, Sophie and Br{\'e}mond, Roland and Baccino, Thierry",
-    title = "Discriminating cognitive processes with eye movements in a decision-making driving task",
     journal = "Journal of Eye Movement Research",
-    volume = "7",
     number = "4",
     pages = "1--14",
+    title = "Discriminating cognitive processes with eye movements in a decision-making driving task",
+    volume = "7",
     year = "2014"
 }
 </pre>
@@ -4369,13 +4344,13 @@ Inattention: distraction
 <pre>
 @article{2014_JAH_SimonsMorton,
     author = "Simons-Morton, Bruce G and Guo, Feng and Klauer, Sheila G and Ehsani, Johnathon P and Pradhan, Anuj K",
-    title = "Keep your eyes on the road: Young driver crash risk increases according to duration of distraction",
     journal = "Journal of Adolescent Health",
-    volume = "54",
     number = "5",
     pages = "S61--S67",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Keep your eyes on the road: Young driver crash risk increases according to duration of distraction",
+    volume = "54",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4399,11 +4374,11 @@ Automation: lateral control, longitudinal control, warning/guidance
 <pre>
 @inproceedings{2014_HumanFactorsErognomics_Lorenz,
     author = "Lorenz, Lutz and Kerschbaum, Philipp and Schumann, Josef",
-    title = "Designing take over scenarios for automated driving: How does augmented reality support the driver to get back into the loop?",
     booktitle = "Proc. Hum. Factors Ergon. Soc. Annu. Meet.",
-    volume = "58",
     number = "1",
     pages = "1681--1685",
+    title = "Designing take over scenarios for automated driving: How does augmented reality support the driver to get back into the loop?",
+    volume = "58",
     year = "2014"
 }
 </pre>
@@ -4420,11 +4395,11 @@ Environment: sign
 <pre>
 @inproceedings{2014_HumanFactorsErgonomics_Schieber,
     author = "Schieber, Frank and Limrick, Kevin and McCall, Robert and Beck, Andrew",
-    title = "Evaluation of the visual demands of digital billboards using a hybrid driving simulator",
     booktitle = "Proc. Hum. Factors Ergon. Soc. Annu. Meet.",
-    volume = "58",
     number = "1",
     pages = "2214--2218",
+    title = "Evaluation of the visual demands of digital billboards using a hybrid driving simulator",
+    volume = "58",
     year = "2014"
 }
 </pre>
@@ -4449,11 +4424,11 @@ Automation: longitudinal control
 <pre>
 @article{2014_HumanFactors_He,
     author = "He, Jibo and McCarley, Jason S and Kramer, Arthur F",
-    title = "Lane keeping under cognitive load: performance changes and mechanisms",
     journal = "Human factors",
-    volume = "56",
     number = "2",
     pages = "414--426",
+    title = "Lane keeping under cognitive load: performance changes and mechanisms",
+    volume = "56",
     year = "2014"
 }
 </pre>
@@ -4474,11 +4449,11 @@ Inattention: distraction
 <pre>
 @inproceedings{2014_HFES_Liang,
     author = "Liang, Yulan and Lee, John D and Horrey, William J",
-    title = "A looming crisis: the distribution of off-road glance duration in moments leading up to crashes/near-crashes in naturalistic driving",
     booktitle = "Proc. Hum. Factors Ergon. Soc. Annu. Meet.",
-    volume = "58",
     number = "1",
     pages = "2102--2106",
+    title = "A looming crisis: the distribution of off-road glance duration in moments leading up to crashes/near-crashes in naturalistic driving",
+    volume = "58",
     year = "2014"
 }
 </pre>
@@ -4495,13 +4470,13 @@ Environment: intersection, traffic
 <pre>
 @article{2014_CogTechWork_Werneke,
     author = "Werneke, Julia and Vollrath, Mark",
-    title = "How do environmental characteristics at intersections change in their relevance for drivers before entering an intersection: analysis of drivers’ gaze and driving behavior in a driving simulator study",
     journal = "Cognition, Technology \\& Work",
-    volume = "16",
     number = "2",
     pages = "157--169",
-    year = "2014",
-    publisher = "Springer"
+    publisher = "Springer",
+    title = "How do environmental characteristics at intersections change in their relevance for drivers before entering an intersection: analysis of drivers’ gaze and driving behavior in a driving simulator study",
+    volume = "16",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4517,8 +4492,8 @@ Inattention: distraction
 <pre>
 @inproceedings{2014_ACM_Reimer,
     author = "Reimer, Bryan and Mehler, Bruce and Dobres, Jonathan and McAnulty, Hale and Mehler, Alea and Munger, Daniel and Rumpold, Adrian",
-    title = "Effects of an 'Expert Mode' voice command system on task performance, glance behavior \\& driver physiology",
     booktitle = "AutomotiveUI",
+    title = "Effects of an 'Expert Mode' voice command system on task performance, glance behavior \\& driver physiology",
     year = "2014"
 }
 </pre>
@@ -4535,12 +4510,12 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2014_AccidentPrevention_Jones,
     author = "Jones, MP and Chapman, P and Bailey, K",
-    title = "The influence of image valence on visual attention and perception of risk in drivers",
     journal = "Accident Analysis \\& Prevention",
-    volume = "73",
     pages = "296--304",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "The influence of image valence on visual attention and perception of risk in drivers",
+    volume = "73",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4556,12 +4531,12 @@ Environment: road geometry
 <pre>
 @article{2014_AccidentAnalysis_Lehtonen,
     author = "Lehtonen, Esko and Lappi, Otto and Koirikivi, Iivo and Summala, Heikki",
-    title = "Effect of driving experience on anticipatory look-ahead fixations in real curve driving",
     journal = "Accident Analysis \\& Prevention",
-    volume = "70",
     pages = "195--208",
-    year = "2014",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Effect of driving experience on anticipatory look-ahead fixations in real curve driving",
+    volume = "70",
+    year = "2014"
 }
 </pre>
 </ul>
@@ -4581,12 +4556,12 @@ Environment: sign
 <pre>
 @article{2013_TransRes_Benedetto,
     author = "Benedetto, Simone and Pedrotti, Marco and Bremond, Roland and Baccino, Thierry",
-    title = "Leftward attentional bias in a simulated driving task",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "20",
     pages = "147--153",
-    year = "2013",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Leftward attentional bias in a simulated driving task",
+    volume = "20",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4606,12 +4581,12 @@ Inattention: distraction
 <pre>
 @article{2013_TransportRes_Savage,
     author = "Savage, Steven W and Potter, Douglas D and Tatler, Benjamin W",
-    title = "{Does preoccupation impair hazard perception? A simultaneous EEG and eye tracking study}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "17",
     pages = "52--62",
-    year = "2013",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Does preoccupation impair hazard perception? A simultaneous EEG and eye tracking study}",
+    volume = "17",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4631,13 +4606,13 @@ Environment: sign, billboard
 <pre>
 @article{2013_TrafficInjuryPrevention_Dukic,
     author = "Dukic, Tania and Ahlstrom, Christer and Patten, Christopher and Kettwich, Carmen and Kircher, Katja",
-    title = "Effects of electronic billboards on driver distraction",
     journal = "Traffic Injury Prevention",
-    volume = "14",
     number = "5",
     pages = "469--476",
-    year = "2013",
-    publisher = "Taylor \\& Francis"
+    publisher = "Taylor \\& Francis",
+    title = "Effects of electronic billboards on driver distraction",
+    volume = "14",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4661,12 +4636,12 @@ Environment: intersection
 <pre>
 @article{2013_TR_Romoser,
     author = "Romoser, Matthew RE and Pollatsek, Alexander and Fisher, Donald L and Williams, Carrick C",
-    title = "{Comparing the glance patterns of older versus younger experienced drivers: Scanning for hazards while approaching and entering the intersection}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "16",
     pages = "104--116",
-    year = "2013",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Comparing the glance patterns of older versus younger experienced drivers: Scanning for hazards while approaching and entering the intersection}",
+    volume = "16",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4686,12 +4661,12 @@ Environment: location
 <pre>
 @article{2013_TR_Lim,
     author = "Lim, Phui Cheng and Sheppard, Elizabeth and Crundall, David",
-    title = "Cross-cultural effects on drivers’ hazard perception",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "21",
     pages = "194--206",
-    year = "2013",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Cross-cultural effects on drivers’ hazard perception",
+    volume = "21",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4715,12 +4690,12 @@ Automation: lateral control, longitudinal control
 <pre>
 @article{2013_TR_Jamson,
     author = "Jamson, A Hamish and Merat, Natasha and Carsten, Oliver MJ and Lai, Frank CH",
-    title = "Behavioural changes in drivers experiencing highly-automated vehicle control in varying traffic conditions",
     journal = "Transportation Research Part C: Emerging Technologies",
-    volume = "30",
     pages = "116--125",
-    year = "2013",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Behavioural changes in drivers experiencing highly-automated vehicle control in varying traffic conditions",
+    volume = "30",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4740,13 +4715,13 @@ Environment: road geometry
 <pre>
 @article{2013_T-ITS_Yekhshatyan,
     author = "Yekhshatyan, Lora and Lee, John D",
-    title = "Changes in the correlation between eye and steering movements indicate driver distraction",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "14",
     number = "1",
     pages = "136--145",
-    year = "2012",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "Changes in the correlation between eye and steering movements indicate driver distraction",
+    volume = "14",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -4762,13 +4737,13 @@ Automation: monitoring, warning/guidance
 <pre>
 @article{2013_T-ITS_Ahlstrom,
     author = "Ahlstrom, Christer and Kircher, Katja and Kircher, Albert",
-    title = "A gaze-based driver distraction warning system and its effect on visual behavior",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
-    volume = "14",
     number = "2",
     pages = "965--973",
-    year = "2013",
-    publisher = "IEEE"
+    publisher = "IEEE",
+    title = "A gaze-based driver distraction warning system and its effect on visual behavior",
+    volume = "14",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4788,12 +4763,12 @@ Environment: intersection
 <pre>
 @article{2013_SafetyResearch_Scott,
     author = "Scott, Helen and Hall, Lynne and Litchfield, Damien and Westwood, Diane",
-    title = "{Visual information search in simulated junction negotiation: Gaze transitions of young novice, young experienced and older experienced drivers}",
     journal = "Journal of Safety Research",
-    volume = "45",
     pages = "111--116",
-    year = "2013",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Visual information search in simulated junction negotiation: Gaze transitions of young novice, young experienced and older experienced drivers}",
+    volume = "45",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4809,13 +4784,13 @@ Inattention: distraction
 <pre>
 @article{2013_PUC_Kujala,
     author = "Kujala, Tuomo",
-    title = "Browsing the information highway while driving: three in-vehicle touch screen scrolling methods and driver distraction",
     journal = "Personal and Ubiquitous Computing",
-    volume = "17",
     number = "5",
     pages = "815--823",
-    year = "2013",
-    publisher = "Springer"
+    publisher = "Springer",
+    title = "Browsing the information highway while driving: three in-vehicle touch screen scrolling methods and driver distraction",
+    volume = "17",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4831,11 +4806,11 @@ Environment: road geometry
 <pre>
 @article{2013_JoV_Lappi,
     author = "Lappi, Otto and Lehtonen, Esko and Pekkanen, Jami and Itkonen, Teemu",
-    title = "Beyond the tangent point: gaze targets in naturalistic driving",
     journal = "Journal of Vision",
-    volume = "13",
     number = "13",
     pages = "11--11",
+    title = "Beyond the tangent point: gaze targets in naturalistic driving",
+    volume = "13",
     year = "2013"
 }
 </pre>
@@ -4852,13 +4827,13 @@ Environment: road geometry
 <pre>
 @article{2013_Ergonomics_Lehtonen,
     author = "Lehtonen, Esko and Lappi, Otto and Kotkanen, Henri and Summala, Heikki",
-    title = "Look-ahead fixations in curve driving",
     journal = "Ergonomics",
-    volume = "56",
     number = "1",
     pages = "34--44",
-    year = "2013",
-    publisher = "Taylor \\& Francis"
+    publisher = "Taylor \\& Francis",
+    title = "Look-ahead fixations in curve driving",
+    volume = "56",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4878,9 +4853,9 @@ Demographics: gender
 <pre>
 @inproceedings{2013_DDI_Lasch,
     author = "Lasch, Annegret and Kujala, Tuomo",
-    title = "Can you ignore it? {Effects} of album artwork on driver distraction",
-    booktitle = "Proceedings of the International Conference on Driver Distraction and Inattention",
+    booktitle = "Proceedings of the 3rd International Conference on Driver Distraction and Inattention",
     pages = "1--16",
+    title = "Can you ignore it?--effects of album artwork on driver distraction",
     year = "2013"
 }
 </pre>
@@ -4901,9 +4876,9 @@ Inattention: distraction
 <pre>
 @inproceedings{2013_AutomotiveUI_Kujala,
     author = "Kujala, Tuomo and Silvennoinen, Johanna and Lasch, Annegret",
-    title = "Visual-manual in-car tasks decomposed: {Text} entry and kinetic scrolling as the main sources of visual distraction",
-    booktitle = "AutomotiveUI",
+    booktitle = "Proceedings of the 5th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
     pages = "82--89",
+    title = "Visual-manual in-car tasks decomposed: text entry and kinetic scrolling as the main sources of visual distraction",
     year = "2013"
 }
 </pre>
@@ -4928,13 +4903,13 @@ Environment: sign
 <pre>
 @article{2013_AppliedErgonomics_Zhang,
     author = "Zhang, Yu and Harris, Elizabeth and Rogers, Meghan and Kaber, David and Hummer, Joseph and Rasdorf, William and Hu, Jia",
-    title = "Driver distraction and performance effects of highway logo sign design",
     journal = "Applied Ergonomics",
-    volume = "44",
     number = "3",
     pages = "472--479",
-    year = "2013",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Driver distraction and performance effects of highway logo sign design",
+    volume = "44",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4958,13 +4933,13 @@ Environment: sign, billboard
 <pre>
 @article{2013_ACP_Garrison,
     author = "Garrison, Teena M and Williams, Carrick C",
-    title = "Impact of relevance and distraction on driving performance and visual attention in a simulated driving environment",
     journal = "Applied Cognitive Psychology",
-    volume = "27",
     number = "3",
     pages = "396--405",
-    year = "2013",
-    publisher = "Wiley Online Library"
+    publisher = "Wiley Online Library",
+    title = "Impact of relevance and distraction on driving performance and visual attention in a simulated driving environment",
+    volume = "27",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -4984,12 +4959,12 @@ Environment: traffic, intersection
 <pre>
 @article{2013_AccidentPrevention_Wong,
     author = "Wong, Jinn-Tsai and Huang, Shih-Hsuan",
-    title = "Attention allocation patterns in naturalistic driving",
     journal = "Accident Analysis \\& Prevention",
-    volume = "58",
     pages = "140--147",
-    year = "2013",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Attention allocation patterns in naturalistic driving",
+    volume = "58",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -5013,12 +4988,12 @@ Environment: road type
 <pre>
 @article{2013_AccidentAnalysis_Peng,
     author = "Peng, Yiyun and Boyle, Linda Ng and Hallmark, Shauna L",
-    title = "Driver's lane keeping ability with eyes off road: Insights from a naturalistic study",
     journal = "Accident Analysis \\& Prevention",
-    volume = "50",
     pages = "628--634",
-    year = "2013",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Driver's lane keeping ability with eyes off road: Insights from a naturalistic study",
+    volume = "50",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -5042,12 +5017,12 @@ Environment: traffic, road type, visibility
 <pre>
 @article{2013_AccidentAnalysis_Dozza,
     author = "Dozza, Marco",
-    title = "What factors influence drivers’ response time for evasive maneuvers in real traffic?",
     journal = "Accident Analysis \\& Prevention",
-    volume = "58",
     pages = "299--308",
-    year = "2013",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "What factors influence drivers’ response time for evasive maneuvers in real traffic?",
+    volume = "58",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -5063,12 +5038,12 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2013_AccidentAnalysis_Borowsky,
     author = "Borowsky, Avinoam and Oron-Gilad, Tal",
-    title = "Exploring the effects of driving experience on hazard awareness and risk perception via real-time hazard identification, hazard classification, and rating tasks",
     journal = "Accident Analysis \\& Prevention",
-    volume = "59",
     pages = "548--565",
-    year = "2013",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Exploring the effects of driving experience on hazard awareness and risk perception via real-time hazard identification, hazard classification, and rating tasks",
+    volume = "59",
+    year = "2013"
 }
 </pre>
 </ul>
@@ -5088,13 +5063,13 @@ Inattention: distraction
 <pre>
 @article{2012_TRR_Divekar,
     author = "Divekar, Gautam and Pradhan, Anuj Kumar and Pollatsek, Alexander and Fisher, Donald L",
-    title = "{Effect of external distractions: Behavior and vehicle control of novice and experienced drivers evaluated}",
     journal = "Transportation Research Record",
-    volume = "2321",
     number = "1",
     pages = "15--22",
-    year = "2012",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "{Effect of external distractions: Behavior and vehicle control of novice and experienced drivers evaluated}",
+    volume = "2321",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5114,13 +5089,13 @@ Inattention: distraction
 <pre>
 @article{2012_TR_Kaber,
     author = "Kaber, David B and Liang, Yulan and Zhang, Yu and Rogers, Meghan L and Gangakhedkar, Shruti",
-    title = "Driver performance effects of simultaneous visual and cognitive distraction and adaptation behavior",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "15",
     number = "5",
     pages = "491--501",
-    year = "2012",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Driver performance effects of simultaneous visual and cognitive distraction and adaptation behavior",
+    volume = "15",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5140,9 +5115,9 @@ Automation: warning/guidance
 <pre>
 @techreport{2012_SAE_Kim,
     author = "Kim, Robyn and Rauschenberger, Robert and Heckman, Genevieve and Young, Doug and Lange, Robert",
+    institution = "SAE Technical Paper",
     title = "Efficacy and usage patterns for three types of rearview camera displays during backing up",
-    year = "2012",
-    institution = "SAE Technical Paper"
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5162,13 +5137,13 @@ Automation: lateral control
 <pre>
 @article{2012_PLOS_Mars,
     author = "Mars, Franck and Navarro, Jordan",
-    title = "Where we look when we drive with or without active steering wheel control",
     journal = "PloS one",
-    volume = "7",
     number = "8",
     pages = "e43858",
-    year = "2012",
-    publisher = "Public Library of Science"
+    publisher = "Public Library of Science",
+    title = "Where we look when we drive with or without active steering wheel control",
+    volume = "7",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5184,13 +5159,13 @@ Driving task: vehicle following
 <pre>
 @article{2012_JoV_Sullivan,
     author = "Sullivan, Brian T and Johnson, Leif and Rothkopf, Constantin A and Ballard, Dana and Hayhoe, Mary",
-    title = "The role of uncertainty and reward on eye movements in a virtual driving task",
     journal = "Journal of Vision",
-    volume = "12",
     number = "13",
     pages = "19--19",
-    year = "2012",
-    publisher = "The Association for Research in Vision and Ophthalmology"
+    publisher = "The Association for Research in Vision and Ophthalmology",
+    title = "The role of uncertainty and reward on eye movements in a virtual driving task",
+    volume = "12",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5206,13 +5181,13 @@ Inattention: distraction
 <pre>
 @article{2012_JoV_Doshi,
     author = "Doshi, Anup and Trivedi, Mohan M",
-    title = "Head and eye gaze dynamics during visual attention shifts in complex environments",
     journal = "Journal of Vision",
-    volume = "12",
     number = "2",
     pages = "9--9",
-    year = "2012",
-    publisher = "The Association for Research in Vision and Ophthalmology"
+    publisher = "The Association for Research in Vision and Ophthalmology",
+    title = "Head and eye gaze dynamics during visual attention shifts in complex environments",
+    volume = "12",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5228,13 +5203,13 @@ Inattention: distraction
 <pre>
 @article{2012_HumanFactors_Reimer,
     author = "Reimer, Bryan and Mehler, Bruce and Wang, Ying and Coughlin, Joseph F",
-    title = "A field study on the impact of variations in short-term memory demands on drivers’ visual attention and driving performance across three age groups",
     journal = "Human factors",
-    volume = "54",
     number = "3",
     pages = "454--468",
-    year = "2012",
-    publisher = "Sage Publications Sage CA: Los Angeles, CA"
+    publisher = "Sage Publications Sage CA: Los Angeles, CA",
+    title = "A field study on the impact of variations in short-term memory demands on drivers’ visual attention and driving performance across three age groups",
+    volume = "54",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5258,13 +5233,13 @@ Environment: traffic, construction
 <pre>
 @article{2012_HumanFactors_Lee,
     author = "Lee, John D and Roberts, Shannon C and Hoffman, Joshua D and Angell, Linda S",
-    title = "Scrolling and driving: How an MP3 player and its aftermarket controller affect driving performance and visual behavior",
     journal = "Human factors",
-    volume = "54",
     number = "2",
     pages = "250--263",
-    year = "2012",
-    publisher = "Sage Publications Sage CA: Los Angeles, CA"
+    publisher = "Sage Publications Sage CA: Los Angeles, CA",
+    title = "Scrolling and driving: How an MP3 player and its aftermarket controller affect driving performance and visual behavior",
+    volume = "54",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5284,9 +5259,9 @@ Inattention: distraction
 <pre>
 @inproceedings{2012_AutomotiveUI_Lasch,
     author = "Lasch, Annegret and Kujala, Tuomo",
-    title = "Designing browsing for in-car music player: {Effects} of touch screen scrolling techniques, items per page and screen orientation on driver distraction",
-    booktitle = "AutomotiveUI",
+    booktitle = "Proceedings of the 4th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
     pages = "41--48",
+    title = "Designing browsing for in-car music player: effects of touch screen scrolling techniques, items per page and screen orientation on driver distraction",
     year = "2012"
 }
 </pre>
@@ -5307,13 +5282,13 @@ Automation: warning/guidance
 <pre>
 @article{2012_ACM_Pomarjanschi,
     author = "Pomarjanschi, Laura and Dorr, Michael and Barth, Erhardt",
-    title = "Gaze guidance reduces the number of collisions with pedestrians in a driving simulator",
     journal = "ACM Transactions on Interactive Intelligent Systems",
-    volume = "1",
     number = "2",
     pages = "1--14",
-    year = "2012",
-    publisher = "ACM New York, NY, USA"
+    publisher = "ACM New York, NY, USA",
+    title = "Gaze guidance reduces the number of collisions with pedestrians in a driving simulator",
+    volume = "1",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5329,12 +5304,12 @@ Environment: traffic, intersection
 <pre>
 @article{2012_AccidentAnalysis_Werneke,
     author = "Werneke, Julia and Vollrath, Mark",
-    title = "What does the driver look at? The influence of intersection characteristics on attention allocation and driving behavior",
     journal = "Accident Analysis \\& Prevention",
-    volume = "45",
     pages = "610--619",
-    year = "2012",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "What does the driver look at? The influence of intersection characteristics on attention allocation and driving behavior",
+    volume = "45",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5350,12 +5325,12 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2012_AccidentAnalysis_Crundall_1,
     author = "Crundall, David and Chapman, Peter and Trawley, Steven and Collins, Lyn and Van Loon, Editha and Andrews, Ben and Underwood, Geoffrey",
-    title = "{Some hazards are more attractive than others: Drivers of varying experience respond differently to different types of hazard}",
     journal = "Accident Analysis \\& Prevention",
-    volume = "45",
     pages = "600--609",
-    year = "2012",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Some hazards are more attractive than others: Drivers of varying experience respond differently to different types of hazard}",
+    volume = "45",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5371,13 +5346,13 @@ Environment: intersection
 <pre>
 @article{2012_AccidentAnalysis_Crundall,
     author = "Crundall, David and Crundall, Elizabeth and Clarke, David and Shahar, Amit",
-    title = "Why do car drivers fail to give way to motorcycles at t-junctions?",
     journal = "Accident Analysis \\& Prevention",
-    volume = "44",
     number = "1",
     pages = "88--96",
-    year = "2012",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Why do car drivers fail to give way to motorcycles at t-junctions?",
+    volume = "44",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5397,13 +5372,13 @@ Environment: road type
 <pre>
 @article{2012_AccidentAnalysis_Borowsky,
     author = "Borowsky, Avinoam and Oron-Gilad, Tal and Meir, Anat and Parmet, Yisrael",
-    title = "{Drivers’ perception of vulnerable road users: A hazard perception approach}",
     journal = "Accident Analysis \\& Prevention",
-    volume = "44",
     number = "1",
     pages = "160--166",
-    year = "2012",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Drivers’ perception of vulnerable road users: A hazard perception approach}",
+    volume = "44",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5419,13 +5394,13 @@ Environment: intersection
 <pre>
 @article{2011_VR_Underwood,
     author = "Underwood, Geoffrey and Humphrey, Katherine and Van Loon, Editha",
-    title = "Decisions about objects in real-world scenes are influenced by visual saliency before and during their inspection",
     journal = "Vision Research",
-    volume = "51",
     number = "18",
     pages = "2031--2038",
-    year = "2011",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Decisions about objects in real-world scenes are influenced by visual saliency before and during their inspection",
+    volume = "51",
+    year = "2011"
 }
 </pre>
 </ul>
@@ -5441,13 +5416,13 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2011_TransRes_Vkalveld,
     author = "Vlakveld, Willem and Romoser, Matthew RE and Mehranian, Hasmik and Diete, Frank and Pollatsek, Alexander and Fisher, Donald L",
-    title = "Do crashes and near crashes in simulator-based training enhance novice drivers’ visual search for latent hazards?",
     journal = "Transportation Research Record",
-    volume = "2265",
     number = "1",
     pages = "153--160",
-    year = "2011",
-    publisher = "SAGE Publications Sage CA: Los Angeles, CA"
+    publisher = "SAGE Publications Sage CA: Los Angeles, CA",
+    title = "Do crashes and near crashes in simulator-based training enhance novice drivers’ visual search for latent hazards?",
+    volume = "2265",
+    year = "2011"
 }
 </pre>
 </ul>
@@ -5467,13 +5442,13 @@ Inattention: distraction
 <pre>
 @article{2011_TR_Metz,
     author = {Metz, Barbara and Sch{\"o}mig, Nadja and Kr{\"u}ger, Hans-Peter},
-    title = "{Attention during visual secondary tasks in driving: Adaptation to the demands of the driving task}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "14",
     number = "5",
     pages = "369--380",
-    year = "2011",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{Attention during visual secondary tasks in driving: Adaptation to the demands of the driving task}",
+    volume = "14",
+    year = "2011"
 }
 </pre>
 </ul>
@@ -5489,13 +5464,13 @@ Inattention: distraction
 <pre>
 @article{2011_TR_Briggs,
     author = "Briggs, Gemma F and Hole, Graham J and Land, Michael F",
-    title = "Emotionally involving telephone conversations lead to driver error and visual tunnelling",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "14",
     number = "4",
     pages = "313--323",
-    year = "2011",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Emotionally involving telephone conversations lead to driver error and visual tunnelling",
+    volume = "14",
+    year = "2011"
 }
 </pre>
 </ul>
@@ -5511,13 +5486,13 @@ Inattention: distraction
 <pre>
 @article{2011_Ergonomics_Kujala,
     author = "Kujala, Tuomo and Saariluoma, Pertti",
-    title = "Effects of menu structure and touch screen scrolling style on the variability of glance durations during in-vehicle visual search tasks",
     journal = "Ergonomics",
-    volume = "54",
     number = "8",
     pages = "716--732",
-    year = "2011",
-    publisher = "Taylor \\& Francis"
+    publisher = "Taylor \\& Francis",
+    title = "Effects of menu structure and touch screen scrolling style on the variability of glance durations during in-vehicle visual search tasks",
+    volume = "54",
+    year = "2011"
 }
 </pre>
 </ul>
@@ -5533,8 +5508,8 @@ Driving task: hazard anticipation/detection
 <pre>
 @inproceedings{2011_DrivSymposium_Taylor,
     author = "Taylor, Thalia GG and Masserang, Kathleen M and Pradhan, Anuj K and Divekar, Gautam and Samuel, Siby and Muttart, Jeffrey W and Pollatsek, Alexander and Fisher, Donald L",
-    title = "Long term effects of hazard anticipation training on novice drivers measured on the open road",
     booktitle = "Proc. Internl. Driv. Symp. Hum. Factors Driv. Assess., Train., and Veh. Design",
+    title = "Long term effects of hazard anticipation training on novice drivers measured on the open road",
     year = "2011"
 }
 </pre>
@@ -5551,13 +5526,13 @@ Inattention: distraction
 <pre>
 @article{2011_CTW_Nabatilan,
     author = "Nabatilan, Larry B and Aghazadeh, Fereydoun and Nimbarte, Ashish D and Harvey, Craig C and Chowdhury, Suman K",
-    title = "Effect of driving experience on visual behavior and driving performance under different driving conditions",
     journal = "Cognition, Technology \\& Work",
-    volume = "14",
     number = "4",
     pages = "355--363",
-    year = "2012",
-    publisher = "Springer"
+    publisher = "Springer",
+    title = "Effect of driving experience on visual behavior and driving performance under different driving conditions",
+    volume = "14",
+    year = "2012"
 }
 </pre>
 </ul>
@@ -5581,13 +5556,13 @@ Environment: sign, billboard
 <pre>
 @article{2011_AppliedErgonomics_Edquist,
     author = "Edquist, Jessica and Horberry, Tim and Hosking, Simon and Johnston, Ian",
-    title = "Effects of advertising billboards during simulated driving",
     journal = "Applied Ergonomics",
-    volume = "42",
     number = "4",
     pages = "619--626",
-    year = "2011",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Effects of advertising billboards during simulated driving",
+    volume = "42",
+    year = "2011"
 }
 </pre>
 </ul>
@@ -5607,11 +5582,12 @@ Environment: road geometry
 <pre>
 @article{2011_AHCI_Kujala,
     author = "Kujala, Tuomo and Saariluoma, Pertti",
-    title = "Measuring distraction at the levels of tactical and strategic control: the limits of capacity-based measures for revealing unsafe visual sampling models",
     journal = "Advances in Human-Computer Interaction",
+    pages = "1--13",
+    publisher = "Hindawi Limited London, UK, United Kingdom",
+    title = "Measuring distraction at the levels of tactical and strategic control: the limits of capacity-based measures for revealing unsafe visual sampling models",
     volume = "2011",
-    year = "2011",
-    publisher = "Hindawi"
+    year = "2011"
 }
 </pre>
 </ul>
@@ -5631,13 +5607,13 @@ Demographics: age
 <pre>
 @article{2011_AccidentAnalysis_Owens,
     author = "Owens, Justin M and McLaughlin, Shane B and Sudweeks, Jeremy",
-    title = "Driver performance while text messaging using handheld and in-vehicle systems",
     journal = "Accident Analysis \\& Prevention",
-    volume = "43",
     number = "3",
     pages = "939--947",
-    year = "2011",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Driver performance while text messaging using handheld and in-vehicle systems",
+    volume = "43",
+    year = "2011"
 }
 </pre>
 </ul>
@@ -5657,13 +5633,13 @@ Inattention: distraction
 <pre>
 @article{2011_AccidentAnalysis_Andersen,
     author = "Andersen, George J and Ni, Rui and Bian, Zheng and Kang, Julie",
-    title = "Limits of spatial attention in three-dimensional space and dual-task driving performance",
     journal = "Accident Analysis \\& Prevention",
-    volume = "43",
     number = "1",
     pages = "381--390",
-    year = "2011",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Limits of spatial attention in three-dimensional space and dual-task driving performance",
+    volume = "43",
+    year = "2011"
 }
 </pre>
 </ul>
@@ -5683,13 +5659,13 @@ Inattention: distraction
 <pre>
 @article{2010_TransEng_Bonmez,
     author = "Donmez, Birsen and Boyle, Linda Ng and Lee, John D",
-    title = "{Differences in off-road glances: Effects on young drivers’ performance}",
     journal = "Journal of Transportation Engineering",
-    volume = "136",
     number = "5",
     pages = "403--409",
-    year = "2010",
-    publisher = "American Society of Civil Engineers"
+    publisher = "American Society of Civil Engineers",
+    title = "{Differences in off-road glances: Effects on young drivers’ performance}",
+    volume = "136",
+    year = "2010"
 }
 </pre>
 </ul>
@@ -5709,8 +5685,8 @@ Inattention: distraction
 <pre>
 @techreport{2010_TR_Klauer,
     author = "Klauer, Sheila G and Guo, Feng and Sudweeks, Jeremy and Dingus, Thomas A",
-    title = "{An analysis of driver inattention using a case-crossover approach on 100-Car data}",
     institution = "NHTSA",
+    title = "{An analysis of driver inattention using a case-crossover approach on 100-Car data}",
     year = "2010"
 }
 </pre>
@@ -5727,13 +5703,13 @@ Driving task: hazard anticipation/detection
 <pre>
 @article{2010_TR_Huestegge,
     author = {Huestegge, Lynn and Skottke, Eva-Maria and Anders, Sina and M{\"u}sseler, Jochen and Debus, G{\"u}nter},
-    title = "{The development of hazard perception: Dissociation of visual orientation and hazard processing}",
     journal = "Transportation Research Part F: Traffic Psychology and Behaviour",
-    volume = "13",
     number = "1",
     pages = "1--8",
-    year = "2010",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{The development of hazard perception: Dissociation of visual orientation and hazard processing}",
+    volume = "13",
+    year = "2010"
 }
 </pre>
 </ul>
@@ -5749,13 +5725,13 @@ Environment: intersection
 <pre>
 @article{2010_Perception_vanLoon,
     author = "Van Loon, Editha M and Khashawi, Fadhel and Underwood, Geoffrey",
-    title = "Visual strategies used for time-to-arrival judgments in driving",
     journal = "Perception",
-    volume = "39",
     number = "9",
     pages = "1216--1229",
-    year = "2010",
-    publisher = "SAGE Publications Sage UK: London, England"
+    publisher = "SAGE Publications Sage UK: London, England",
+    title = "Visual strategies used for time-to-arrival judgments in driving",
+    volume = "39",
+    year = "2010"
 }
 </pre>
 </ul>
@@ -5771,11 +5747,11 @@ Inattention: distraction
 <pre>
 @inproceedings{2010_HumanFactorsErgonomics_Reimer,
     author = "Reimer, Bryan and Mehler, Bruce and Wang, Ying and Coughlin, Joseph F",
-    title = "The impact of systematic variation of cognitive demand on drivers' visual attention across multiple age groups",
     booktitle = "Proc. Hum. Factors Ergon. Soc. Annu. Meet.",
-    volume = "54",
     number = "24",
     pages = "2052--2055",
+    title = "The impact of systematic variation of cognitive demand on drivers' visual attention across multiple age groups",
+    volume = "54",
     year = "2010"
 }
 </pre>
@@ -5796,11 +5772,11 @@ Inattention: distraction
 <pre>
 @article{2010_HumanFactors_Cooper,
     author = "Cooper, Joel M and Medeiros-Ward, Nathan and Strayer, David L",
-    title = "The impact of eye movements and cognitive workload on lateral position variability in driving",
     journal = "Human factors",
-    volume = "55",
     number = "5",
     pages = "1001--1014",
+    title = "The impact of eye movements and cognitive workload on lateral position variability in driving",
+    volume = "55",
     year = "2013"
 }
 </pre>
@@ -5817,9 +5793,9 @@ Inattention: distraction
 <pre>
 @inproceedings{2010_CHI_Jensen,
     author = "Jensen, Brit Susan and Skov, Mikael B and Thiruravichandran, Nissanthen",
-    title = "Studying driver attention and behaviour for three configurations of GPS navigation in real traffic driving",
     booktitle = "CHI",
     pages = "1271--1280",
+    title = "Studying driver attention and behaviour for three configurations of GPS navigation in real traffic driving",
     year = "2010"
 }
 </pre>
@@ -5844,13 +5820,13 @@ Demographics: gender
 <pre>
 @article{2010_AccidentAnalysis_White,
     author = "White, Cale B and Caird, Jeff K",
-    title = "{The blind date: The effects of change blindness, passenger conversation and gender on looked-but-failed-to-see (LBFTS) errors}",
     journal = "Accident Analysis \\& Prevention",
-    volume = "42",
     number = "6",
     pages = "1822--1830",
-    year = "2010",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "{The blind date: The effects of change blindness, passenger conversation and gender on looked-but-failed-to-see (LBFTS) errors}",
+    volume = "42",
+    year = "2010"
 }
 </pre>
 </ul>
@@ -5866,13 +5842,13 @@ Environment: visibility
 <pre>
 @article{2010_AccidentAnalysis_Konstantopoulos,
     author = "Konstantopoulos, Panos and Chapman, Peter and Crundall, David",
-    title = "Driver's visual attention as a function of driving experience and visibility. Using a driving simulator to explore drivers’ eye movements in day, night and rain driving",
     journal = "Accident Analysis \\& Prevention",
-    volume = "42",
     number = "3",
     pages = "827--834",
-    year = "2010",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Driver's visual attention as a function of driving experience and visibility. Using a driving simulator to explore drivers’ eye movements in day, night and rain driving",
+    volume = "42",
+    year = "2010"
 }
 </pre>
 </ul>
@@ -5892,13 +5868,13 @@ Demographics: age
 <pre>
 @article{2010_AccidentAnalysis_Borowsky,
     author = "Borowsky, Avinoam and Shinar, David and Oron-Gilad, Tal",
-    title = "Age, skill, and hazard perception in driving",
     journal = "Accident Analysis \\& Prevention",
-    volume = "42",
     number = "4",
     pages = "1240--1249",
-    year = "2010",
-    publisher = "Elsevier"
+    publisher = "Elsevier",
+    title = "Age, skill, and hazard perception in driving",
+    volume = "42",
+    year = "2010"
 }
 </pre>
 </ul>
