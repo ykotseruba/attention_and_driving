@@ -39,7 +39,7 @@ If you used this repository in your research, please cite:
   author={Kotseruba, Iuliia and Tsotsos, John K},
   journal={IEEE Transactions on Intelligent Transportation Systems},
   volume = {23},
-  issue = {11},
+  number = {11},
   pages = {19907--19928},
   year={2022}
 }
