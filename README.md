@@ -1,6 +1,6 @@
 # Attention and driving
 
-This is a curated collection of papers related to attention and driving published in top transportation and robotics venues since 2010. 
+This is a curated collection of papers related to attention and driving published in top transportation, human factors, and robotics venues since 2010. 
 
 The collection includes behavioral studies and applications where drivers' gaze allocation is *explicitly* measured (e.g. via an eye-tracker) or is used in some relevant practical application (e.g. driver assistance).
 
