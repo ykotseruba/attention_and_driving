@@ -5,15 +5,15 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| Distraction detection&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
-<ul><a name=Mittal_T-ITS_2023></a>
+<ul><a name=2023_T-ITS_Mittal></a>
 <details close>
-<summary>T-ITS et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>
+<summary>Mittal et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>
 <ul>
 Dataset(s): <a href=datasets.md#SFD>SFD</a>, <a href=datasets.md#AUCD2>AUCD2</a>
 </ul>
 <ul>
 <pre>
-@article{Mittal_T-ITS_2023,
+@article{2023_T-ITS_Mittal,
     author = "Mittal, Himanshu and Verma, Bindu",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     publisher = "IEEE",

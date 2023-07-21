@@ -1000,6 +1000,32 @@ Automation: lateral control, longitudinal control, explainability
 </pre>
 </ul>
 </ul>
+<ul><a name=2020_IJHFE_Samuel></a>
+<details close>
+<summary>Samuel et al., Understanding drivers’ latent hazard anticipation in partially automated vehicle systems, International Journal of Human Factors and Ergonomics, 2020 | <sup>Driving task Automation</sup> |<a href=https://doi.org/10.1504/IJHFE.2020.110093>paper</a></summary>
+</summary>
+<ul>
+Driving task: hazard anticipation/detection
+</ul>
+</summary>
+<ul>
+Automation: lateral control, longitudinal control
+</ul>
+<ul>
+<pre>
+@article{2020_IJHFE_Samuel,
+    author = "Samuel, Siby and Yamani, Yusuke and Fisher, Donald L",
+    title = "Understanding drivers' latent hazard anticipation in partially automated vehicle systems",
+    journal = "International journal of human factors and ergonomics",
+    volume = "7",
+    number = "3",
+    pages = "282--296",
+    year = "2020",
+    publisher = "Inderscience Publishers (IEL)"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2020_IJHCS_Grahn></a>
 <details close>
 <summary>Grahn et al., Impacts of Touch Screen Size, User Interface Design, and Subtask Boundaries on In-Car Task's Visual Demand and Driver Distraction, International Journal of Human-Computer Studies, 2020 | <sup>Inattention</sup> |<a href=https://doi.org/10.1016/j.ijhcs.2020.102467>paper</a></summary>
