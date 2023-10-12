@@ -3,6 +3,68 @@
 ---
 
 *Click on each entry below to see additional information.*
+<a name="AIDE"></a>
+<details close>
+<summary>AIDE | <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_AIDE_A_Vision-Driven_Multi-View_Multi-Modal_Multi-Tasking_Dataset_for_Assistive_Driving_ICCV_2023_paper.pdf>paper</a> | <a href=https://github.com/ydk122024/AIDE>link</a></summary>
+<ul>
+Full name: Assistive Driving Perception Dataset
+</ul>
+</summary>
+<ul>
+Description: Naturalistic dataset with multi-camera views of drivers performing normal driving and secondary tasks
+</ul>
+</summary>
+<ul>
+Data: driver video, scene video
+</ul>
+</summary>
+<ul>
+Annotations: distraction state, action labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_ICCV_Yang,
+    author = "Yang, Dingkang and Huang, Shuai and Xu, Zhi and Li, Zhenpeng and Wang, Shunli and Li, Mingcheng and Wang, Yuzheng and Liu, Yang and Yang, Kun and Chen, Zhaoyu and others",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "20459--20470",
+    title = "AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception",
+    year = "2023"
+}
+</pre>
+</details>
+</ul>
+
+<a name="SAM-DD"></a>
+<details close>
+<summary>SAM-DD | <a href=https://doi.org/10.1109/TITS.2023.3316203>paper</a> | <a href=https://yanghh.io/SAM-DD/>link</a></summary>
+<ul>
+Full name: Singapore AutoMan@NTU Distracted Driving Dataset
+</ul>
+</summary>
+<ul>
+Description: Videos of drivers performing secondary tasks
+</ul>
+</summary>
+<ul>
+Data: driver video, depth
+</ul>
+</summary>
+<ul>
+Annotations: distraction state
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Yang,
+    author = "Yang, Haohan and Liu, Haochen and Hu, Zhongxu and Nguyen, Anh-Tu and Guerra, Thierry-Marie and Lv, Chen",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach",
+    year = "2023"
+}
+</pre>
+</details>
+</ul>
+
 <a name="100-Driver"></a>
 <details close>
 <summary>100-Driver | <a href=https://doi.org/10.1109/TITS.2023.3255923>paper</a> | <a href=https://100-driver.github.io>link</a></summary>

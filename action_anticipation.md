@@ -5,6 +5,24 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| Action anticipation&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2023_T-ITS_Yi></a>
+<details close>
+<summary>Yi et al., Fusion of Gaze and Scene Information for Driving Behaviour Recognition: A Graph-Neural-Network-Based Framework, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3263875>paper</a></summary>
+<ul>
+Dataset(s): BLVD
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Yi,
+    author = "Yi, Yangtian and Lu, Chao and Wang, Boyang and Cheng, Long and Li, Zirui and Gong, Jianwei",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Fusion of Gaze and Scene Information for Driving Behaviour Recognition: A Graph-Neural-Network-Based Framework",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2023_T-ITS_Guo></a>
 <details close>
 <summary>Guo et al., Temporal Information Fusion Network for Driving Behavior Prediction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3267150>paper</a></summary>

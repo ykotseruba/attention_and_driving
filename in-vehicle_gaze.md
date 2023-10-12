@@ -5,6 +5,25 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| In-vehicle gaze&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2023_IV_Lollett></a>
+<details close>
+<summary>Lollett et al., Normalized Facial Features-Based DNN for a Driver’s Gaze Zone Classifier Using a Single Camera Robust to Various Highly Challenging Driving Scenarios, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186697>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Lollett,
+    author = "Lollett, Catherine and Kamezaki, Mitsuhiro and Sugano, Shigeki",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--8",
+    title = "Normalized Facial Features-Based DNN for a Driver’s Gaze Zone Classifier Using a Single Camera Robust to Various Highly Challenging Driving Scenarios",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2022_IV_Bieg></a>
 <details close>
 <summary>Bieg et al., Comparison of Video-based Driver Gaze Region Estimation Techniques, IV, 2022 | <a href=https://doi.org/10.1109/IV51971.2022.9827145>paper</a></summary>

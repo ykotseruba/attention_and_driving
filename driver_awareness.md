@@ -5,6 +5,25 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| Driver awareness&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2023_IV_Dahl></a>
+<details close>
+<summary>Dahl et al., Intention-Aware Lane Keeping Assist Using Driver Gaze Information, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186601>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Dahl,
+    author = "Dahl, John and de Campos, Gabriel Rodrigues and Fredriksson, Jonas",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--7",
+    title = "Intention-Aware Lane Keeping Assist Using Driver Gaze Information",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2022_T-ITS_Zhou></a>
 <details close>
 <summary>Zhou et al., Using Eye-Tracking Data to Predict Situation Awareness in Real Time During Takeover Transitions in Conditionally Automated Driving, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3069776>paper</a> | <a href=https://github.com/refengchou/Situation-awareness-prediction>code</a></summary>

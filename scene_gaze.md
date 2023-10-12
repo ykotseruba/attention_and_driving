@@ -5,6 +5,62 @@
 Scene gaze&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2023_ICCV_Chen></a>
+<details close>
+<summary>Chen et al., FBLNet: FeedBack Loop Network for Driver Attention Prediction, ICCV, 2023 | <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_FBLNet_FeedBack_Loop_Network_for_Driver_Attention_Prediction_ICCV_2023_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DADA-2000>DADA-2000</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_ICCV_Chen,
+    author = "Chen, Yilong and Nan, Zhixiong and Xiang, Tao",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "13371--13380",
+    title = "FBLNet: FeedBack Loop Network for Driver Attention Prediction",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_IV_Biswas></a>
+<details close>
+<summary>Biswas et al., Characterizing Drivers’ Peripheral Vision via the Functional Field of View for Intelligent Driving Assistance, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186746>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Biswas,
+    author = "Biswas, Abhijat and Admoni, Henny",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--8",
+    title = "Characterizing Drivers’ Peripheral Vision via the Functional Field of View for Intelligent Driving Assistance",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_IV_Bhagat></a>
+<details close>
+<summary>Bhagat et al., Driver Gaze Fixation and Pattern Analysis in Safety Critical Events, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186718>paper</a> | <a href=https://github.com/VTTI/gaze-fixation-and-object-saliency>code</a></summary>
+<ul>
+Dataset(s): SHRP2
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Bhagat,
+    author = "Bhagat, Hirva and Jain, Sandesh and Abbott, Lynn and Sonth, Akash and Sarkar, Abhijit",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--8",
+    title = "Driver gaze fixation and pattern analysis in safety critical events",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2022_T-ITS_Qin></a>
 <details close>
 <summary>Qin et al., ID-YOLO: Real-Time Salient Object Detection Based on the Driver’s Fixation Region, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3146271>paper</a></summary>

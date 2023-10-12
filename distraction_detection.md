@@ -9,6 +9,79 @@ ___
 <details close>
 <summary>Mittal et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>
 <ul>
+Dataset(s): <a href=datasets.md#AUCD2>AUCD2</a>, Statefarm
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Mittal,
+    author = "Mittal, Himanshu and Verma, Bindu",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Kuang></a>
+<details close>
+<summary>Kuang et al., MIFI: MultI-Camera Feature Integration for Robust 3D Distracted Driver Activity Recognition, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3304317>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#3MDAD>3MDAD</a>
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Kuang,
+    author = "Kuang, Jian and Li, Wenjing and Li, Fang and Zhang, Jun and Wu, Zhongcheng",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "MIFI: MultI-Camera Feature Integration for Robust 3D Distracted Driver Activity Recognition",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Yang></a>
+<details close>
+<summary>Yang et al., Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3316203>paper</a> | <a href=https://yanghh.io/Driver-Distraction-Quantification>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#SAM-DD>SAM-DD</a>
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Yang,
+    author = "Yang, Haohan and Liu, Haochen and Hu, Zhongxu and Nguyen, Anh-Tu and Guerra, Thierry-Marie and Lv, Chen",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_IV_Sonth></a>
+<details close>
+<summary>Sonth et al., Explainable Driver Activity Recognition Using Video Transformer in Highly Automated Vehicle, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186584>paper</a> | <a href=github.com/VTTI/driver-secondary-action-recognition>code</a></summary>
+<ul>
+Dataset(s): VTTIMLP01, SHRP2
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Sonth,
+    author = "Sonth, Akash and Sarkar, Abhijit and Bhagat, Hirva and Abbott, Lynn",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--8",
+    title = "Explainable Driver Activity Recognition Using Video Transformer in Highly Automated Vehicle",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Mittal></a>
+<details close>
+<summary>Mittal et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>
+<ul>
 Dataset(s): <a href=datasets.md#SFD>SFD</a>, <a href=datasets.md#AUCD2>AUCD2</a>
 </ul>
 <ul>

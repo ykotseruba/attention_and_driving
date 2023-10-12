@@ -1015,13 +1015,13 @@ Automation: lateral control, longitudinal control
 <pre>
 @article{2020_IJHFE_Samuel,
     author = "Samuel, Siby and Yamani, Yusuke and Fisher, Donald L",
-    title = "Understanding drivers' latent hazard anticipation in partially automated vehicle systems",
     journal = "International journal of human factors and ergonomics",
-    volume = "7",
     number = "3",
     pages = "282--296",
-    year = "2020",
-    publisher = "Inderscience Publishers (IEL)"
+    publisher = "Inderscience Publishers (IEL)",
+    title = "Understanding drivers' latent hazard anticipation in partially automated vehicle systems",
+    volume = "7",
+    year = "2020"
 }
 </pre>
 </ul>

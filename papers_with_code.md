@@ -47,6 +47,25 @@ Dataset(s): <a href=datasets.md#Brain4Cars>Brain4Cars</a>
 
 ### Scene gaze
 
+<ul><a name=2023_IV_Bhagat></a>
+<details close>
+<summary>Bhagat et al., Driver Gaze Fixation and Pattern Analysis in Safety Critical Events, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186718>paper</a> | <a href=https://github.com/VTTI/gaze-fixation-and-object-saliency>code</a></summary>
+<ul>
+Dataset(s): SHRP2
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Bhagat,
+    author = "Bhagat, Hirva and Jain, Sandesh and Abbott, Lynn and Sonth, Akash and Sarkar, Abhijit",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--8",
+    title = "Driver gaze fixation and pattern analysis in safety critical events",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2022_T-ITS_Li></a>
 <details close>
 <summary>Li et al., Adaptive Short-Temporal Induced Aware Fusion Network for Predicting Attention Regions Like a Driver, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3165619>paper</a> | <a href=https://github.com/liuchunsense/ASIAFnet>code</a></summary>
@@ -385,6 +404,46 @@ Dataset(s): private
     title = "Multitasking in driving as optimal adaptation under uncertainty",
     volume = "63",
     year = "2021"
+}
+</pre>
+</ul>
+</ul>
+
+### Distraction detection
+
+<ul><a name=2023_T-ITS_Yang></a>
+<details close>
+<summary>Yang et al., Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3316203>paper</a> | <a href=https://yanghh.io/Driver-Distraction-Quantification>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#SAM-DD>SAM-DD</a>
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Yang,
+    author = "Yang, Haohan and Liu, Haochen and Hu, Zhongxu and Nguyen, Anh-Tu and Guerra, Thierry-Marie and Lv, Chen",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_IV_Sonth></a>
+<details close>
+<summary>Sonth et al., Explainable Driver Activity Recognition Using Video Transformer in Highly Automated Vehicle, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186584>paper</a> | <a href=github.com/VTTI/driver-secondary-action-recognition>code</a></summary>
+<ul>
+Dataset(s): VTTIMLP01, SHRP2
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Sonth,
+    author = "Sonth, Akash and Sarkar, Abhijit and Bhagat, Hirva and Abbott, Lynn",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--8",
+    title = "Explainable Driver Activity Recognition Using Video Transformer in Highly Automated Vehicle",
+    year = "2023"
 }
 </pre>
 </ul>

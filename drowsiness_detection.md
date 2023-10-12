@@ -5,6 +5,24 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| Drowsiness detection&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2023_T-ITS_Lu></a>
+<details close>
+<summary>Lu et al., JHPFA-Net: Joint Head Pose and Facial Action Network for Driver Yawning Detection Across Arbitrary Poses in Videos, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3285923>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#YawDD>YawDD</a>
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Lu,
+    author = "Lu, Yansha and Liu, Chunsheng and Chang, Faliang and Liu, Hui and Huan, Hengqiang",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "JHPFA-Net: Joint Head Pose and Facial Action Network for Driver Yawning Detection Across Arbitrary Poses in Videos",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2022_ITSC_Chen></a>
 <details close>
 <summary>Chen et al., A Multi-view Driver Drowsiness Detection Method Using Transfer Learning and Population-based Sampling Strategy, ITSC, 2022 | <a href=https://doi.org/10.1109/ITSC55140.2022.9922476>paper</a></summary>
