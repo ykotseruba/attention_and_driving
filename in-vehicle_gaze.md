@@ -5,6 +5,42 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| In-vehicle gaze&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2024_T-ITS_Xu></a>
+<details close>
+<summary>Xu et al., Detecting Critical Mismatched Driver Visual Attention During Lane Change: An Embedding Kernel Algorithm, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3346684>paper</a></summary>
+<ul>
+Dataset(s): SHRP2
+</ul>
+<ul>
+<pre>
+@article{2024_T-ITS_Xu,
+    author = "Xu, Jingbin and Qian, Chen and Han, Shu and Guo, Feng",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Detecting Critical Mismatched Driver Visual Attention During Lane Change: An Embedding Kernel Algorithm",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Chai></a>
+<details close>
+<summary>Chai et al., Driver Head Pose Detection From Naturalistic Driving Data, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3275070>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Chai,
+    author = "Chai, Weiheng and Chen, Jiajing and Wang, Jiyang and Velipasalar, Senem and Venkatachalapathy, Archana and Adu-Gyamfi, Yaw and Merickel, Jennifer and Sharma, Anuj",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Driver Head Pose Detection From Naturalistic Driving Data",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2023_IV_Lollett></a>
 <details close>
 <summary>Lollett et al., Normalized Facial Features-Based DNN for a Driver’s Gaze Zone Classifier Using a Single Camera Robust to Various Highly Challenging Driving Scenarios, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186697>paper</a></summary>

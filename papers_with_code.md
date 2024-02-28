@@ -47,6 +47,24 @@ Dataset(s): <a href=datasets.md#Brain4Cars>Brain4Cars</a>
 
 ### Scene gaze
 
+<ul><a name=2023_T-ITS_Deng></a>
+<details close>
+<summary>Deng et al., Driving Visual Saliency Prediction of Dynamic Night Scenes via a Spatio-Temporal Dual-Encoder Network, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3323468>paper</a> | <a href=https://github.com/taodeng/DrFixD-night>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#DrFixD-night>DrFixD-night</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Deng,
+    author = "Deng, Tao and Jiang, Lianfang and Shi, Yi and Wu, Jiang and Wu, Zhangbi and Yan, Shun and Zhang, Xianshi and Yan, Hongmei",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Driving Visual Saliency Prediction of Dynamic Night Scenes via a Spatio-Temporal Dual-Encoder Network",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2023_IV_Bhagat></a>
 <details close>
 <summary>Bhagat et al., Driver Gaze Fixation and Pattern Analysis in Safety Critical Events, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186718>paper</a> | <a href=https://github.com/VTTI/gaze-fixation-and-object-saliency>code</a></summary>

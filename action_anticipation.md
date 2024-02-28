@@ -5,6 +5,25 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| Action anticipation&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2023_IV_Zhao></a>
+<details close>
+<summary>Zhao et al., End-to-End Spatio-Temporal Attention-Based Lane-Change Intention Prediction from Multi-Perspective Cameras, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186602>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Zhao,
+    author = "Zhao, Zhouqiao and Wei, Zhensong and Tian, Danyang and Reimer, Bryan and Gershon, Pnina and Moradi-Pari, Ehsan",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--8",
+    title = "End-to-End Spatio-Temporal Attention-Based Lane-Change Intention Prediction from Multi-Perspective Cameras",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2023_T-ITS_Yi></a>
 <details close>
 <summary>Yi et al., Fusion of Gaze and Scene Information for Driving Behaviour Recognition: A Graph-Neural-Network-Based Framework, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3263875>paper</a></summary>

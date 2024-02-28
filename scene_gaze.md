@@ -5,6 +5,42 @@
 Scene gaze&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2023_T-ITS_Jia></a>
+<details close>
+<summary>Jia et al., TFGNet: Traffic Salient Object Detection Using a Feature Deep Interaction and Guidance Fusion, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3293822>paper</a></summary>
+<ul>
+Dataset(s): DUTS, DUT-OMRON, ECSSD, HKU-IS, SOD, PASCAL-S, TSOD
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Jia,
+    author = "Jia, Ning and Sun, Yougang and Liu, Xianhui",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "TFGNet: Traffic salient object detection using a feature deep interaction and guidance fusion",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Deng></a>
+<details close>
+<summary>Deng et al., Driving Visual Saliency Prediction of Dynamic Night Scenes via a Spatio-Temporal Dual-Encoder Network, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3323468>paper</a> | <a href=https://github.com/taodeng/DrFixD-night>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#DrFixD-night>DrFixD-night</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Deng,
+    author = "Deng, Tao and Jiang, Lianfang and Shi, Yi and Wu, Jiang and Wu, Zhangbi and Yan, Shun and Zhang, Xianshi and Yan, Hongmei",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Driving Visual Saliency Prediction of Dynamic Night Scenes via a Spatio-Temporal Dual-Encoder Network",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2023_ICCV_Chen></a>
 <details close>
 <summary>Chen et al., FBLNet: FeedBack Loop Network for Driver Attention Prediction, ICCV, 2023 | <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_FBLNet_FeedBack_Loop_Network_for_Driver_Attention_Prediction_ICCV_2023_paper.pdf>paper</a></summary>

@@ -3,6 +3,95 @@
 ---
 
 *Click on each entry below to see additional information.*
+<a name="HOIST"></a>
+<details close>
+<summary>HOIST | <a href=https://doi.org/10.1109/LRA.2024.3368301>paper</a> | <a href=https://github.com/vehicle-importance/oiecr>link</a></summary>
+<ul>
+Full name: Object Importance Estimation Using Counterfactual Reasoning
+</ul>
+</summary>
+<ul>
+Description: Simulated driving scenarios with object importance annotations
+</ul>
+</summary>
+<ul>
+Data: scene video (BEV)
+</ul>
+</summary>
+<ul>
+Annotations: bounding boxes, object importance labels
+</ul>
+<ul>
+<pre>
+@article{2024_RAL_Gupta,
+    author = "Gupta, Pranay and Biswas, Abhijat and Admoni, Henny and Held, David",
+    journal = "IEEE Robotics and Automation Letters",
+    publisher = "IEEE",
+    title = "Object Importance Estimation using Counterfactual Reasoning for Intelligent Driving",
+    year = "2024"
+}
+</pre>
+</details>
+</ul>
+
+<a name="DRAMA"></a>
+<details close>
+<summary>DRAMA | <a href=https://openaccess.thecvf.com/content/WACV2023/papers/Malla_DRAMA_Joint_Risk_Localization_and_Captioning_in_Driving_WACV_2023_paper.pdf>paper</a> | <a href=https://usa.honda-ri.com/drama>link</a></summary>
+<ul>
+Full name: Driving Risk Assessment Mechanism with A captioning module
+</ul>
+</summary>
+<ul>
+Description: Driving scenarios recorded in Tokyo, Japan with video and object-level importance labels and captions
+</ul>
+</summary>
+<ul>
+Data: scene video
+</ul>
+</summary>
+<ul>
+Annotations: bounding boxes, captions
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_WACV_Malla,
+    author = "Malla, Srikanth and Choi, Chiho and Dwivedi, Isht and Choi, Joon Hee and Li, Jiachen",
+    booktitle = "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision",
+    pages = "1043--1052",
+    title = "DRAMA: Joint Risk Localization and Captioning in Driving",
+    year = "2023"
+}
+</pre>
+</details>
+</ul>
+
+<a name="DrFixD-night"></a>
+<details close>
+<summary>DrFixD-night | <a href=https://doi.org/10.1109/TITS.2023.3323468>paper</a> | <a href=https://github.com/taodeng/DrFixD-night>link</a></summary>
+<ul>
+Full name: Driver Fixation Dataset in night
+</ul>
+</summary>
+<ul>
+Description: 15 videos of night-time driving with eye-tracking data from 30 participants
+</ul>
+</summary>
+<ul>
+Data: scene video, eye-tracking
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Deng,
+    author = "Deng, Tao and Jiang, Lianfang and Shi, Yi and Wu, Jiang and Wu, Zhangbi and Yan, Shun and Zhang, Xianshi and Yan, Hongmei",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Driving Visual Saliency Prediction of Dynamic Night Scenes via a Spatio-Temporal Dual-Encoder Network",
+    year = "2023"
+}
+</pre>
+</details>
+</ul>
+
 <a name="AIDE"></a>
 <details close>
 <summary>AIDE | <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_AIDE_A_Vision-Driven_Multi-View_Multi-Modal_Multi-Tasking_Dataset_for_Assistive_Driving_ICCV_2023_paper.pdf>paper</a> | <a href=https://github.com/ydk122024/AIDE>link</a></summary>

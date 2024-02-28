@@ -5,6 +5,44 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| Distraction detection&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2023_ITSC_Morales-Alvarez></a>
+<details close>
+<summary>Morales-Alvarez et al., On Transferability of Driver Observation Models from Simulated to Real Environments in Autonomous Cars, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10422678>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#Drive&Act>Drive&Act</a>, private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_ITSC_Morales-Alvarez,
+    author = "Morales-Alvarez, Walter and Certad, Novel and Roitberg, Alina and Stiefelhagen, Rainer and Olaverri-Monreal, Cristina",
+    booktitle = "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)",
+    organization = "IEEE",
+    pages = "3129--3134",
+    title = "On Transferability of Driver Observation Models from Simulated to Real Environments in Autonomous Cars",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_ITSC_Hamieh></a>
+<details close>
+<summary>Hamieh et al., Driver Visual Distraction Detection Using Unsupervised Learning Techniques, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10421874>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_ITSC_Hamieh,
+    author = "Hamieh, Salam and Heiries, Vincent and Al-Osman, Hussein and Godin, Christelle and Aloui, Saifeddine",
+    booktitle = "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)",
+    organization = "IEEE",
+    pages = "945--950",
+    title = "Driver Visual Distraction Detection Using Unsupervised Learning Techniques",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2023_T-ITS_Mittal></a>
 <details close>
 <summary>Mittal et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>

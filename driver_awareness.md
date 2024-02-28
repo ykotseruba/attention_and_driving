@@ -5,6 +5,62 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| Driver awareness&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2023_ITSC_Heidari></a>
+<details close>
+<summary>Heidari et al., Multi-Depth Cross-Calibration of Gaze Tracker and LiDAR Systems, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10422290>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_ITSC_Heidari,
+    author = "Heidari, Farzan and Dalirani, Farhad and Rahman, Taufiq and Cheema, Daniel Singh and Bauer, Michael A",
+    booktitle = "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)",
+    organization = "IEEE",
+    pages = "1699--1705",
+    title = "Multi-Depth Cross-Calibration of Gaze Tracker and LiDAR Systems",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Wang1></a>
+<details close>
+<summary>Wang1 et al., Traffic Conflict Forecasting and Avoidance System Under Automated Driving System Disengagement: A Non-Intrusive Prototype Design, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3320583>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Wang1,
+    author = "Wang, Song and Li, Zhixia and Hu, Jia and Xu, Jin and Jiang, Shang",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Traffic Conflict Forecasting and Avoidance System Under Automated Driving System Disengagement: A Non-Intrusive Prototype Design",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_ITSC_Li></a>
+<details close>
+<summary>Li et al., Human-like Evaluation of Visual Perception System for Autonomous Vehicles based on Human Visual Attention, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10422311>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_ITSC_Li,
+    author = "Li, Chenhao and Wang, Yijin and Li, Kuang and Fan, Qianhui and Shen, Yu and Ji, Yuxiong",
+    booktitle = "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)",
+    organization = "IEEE",
+    pages = "5555--5560",
+    title = "Human-Like Evaluation of Visual Perception System for Autonomous Vehicles Based on Human Visual Attention",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2023_IV_Dahl></a>
 <details close>
 <summary>Dahl et al., Intention-Aware Lane Keeping Assist Using Driver Gaze Information, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186601>paper</a></summary>

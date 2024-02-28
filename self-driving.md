@@ -5,6 +5,24 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| Self-driving&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2023_T-ITS_Araluce></a>
+<details close>
+<summary>Araluce et al., Leveraging Driver Attention for an End-to-End Explainable Decision-Making FromFrontal Images, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2024.3350337>paper</a></summary>
+<ul>
+Dataset(s): BDD-OIA
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Araluce,
+    author = "Araluce, Javier and Bergasa, Luis M and Oca{\\textasciitilde n}a, Manuel and Llamazares, {\'A}ngel and L{\'o}pez-Guill{\'e}n, Elena",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2023_T-ITS_Zhao></a>
 <details close>
 <summary>Zhao et al., Improving Autonomous Vehicle Visual Perception by Fusing Human Gaze and Machine Vision, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3290016>paper</a></summary>
