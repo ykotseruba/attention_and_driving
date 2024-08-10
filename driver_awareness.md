@@ -5,21 +5,40 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| Driver awareness&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
-<ul><a name=2023_ITSC_Heidari></a>
+<ul><a name=2024_IV_Nair></a>
 <details close>
-<summary>Heidari et al., Multi-Depth Cross-Calibration of Gaze Tracker and LiDAR Systems, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10422290>paper</a></summary>
+<summary>Nair et al., Investigating Drivers’ Awareness of Pedestrians Using Virtual Reality towards Modeling the Impact of External Factors, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588734>paper</a></summary>
 <ul>
 Dataset(s): private
 </ul>
 <ul>
 <pre>
-@inproceedings{2023_ITSC_Heidari,
-    author = "Heidari, Farzan and Dalirani, Farhad and Rahman, Taufiq and Cheema, Daniel Singh and Bauer, Michael A",
-    booktitle = "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)",
+@inproceedings{2024_IV_Nair,
+    author = "Nair, Vinu Vijayakumaran and Rehmann, Markus and de la Rosa, Stephan and Curio, Crist{\'o}bal",
+    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
     organization = "IEEE",
-    pages = "1699--1705",
-    title = "Multi-Depth Cross-Calibration of Gaze Tracker and LiDAR Systems",
-    year = "2023"
+    pages = "3001--3008",
+    title = "Investigating Drivers’ Awareness of Pedestrians Using Virtual Reality towards Modeling the Impact of External Factors",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2024_IV_Konrad></a>
+<details close>
+<summary>Konrad et al., Safety Driver Attention on Autonomous Vehicle Operation Based on Head Pose and Vehicle Perception, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588436>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2024_IV_Konrad,
+    author = "Konrad, Santiago Gerling and Berrio, Julie Stephany and Shan, Mao and Masson, Favio and Nebot, Eduardo and Worrall, Stewart",
+    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1878--1885",
+    title = "Safety Driver Attention on Autonomous Vehicle Operation Based on Head Pose and Vehicle Perception",
+    year = "2024"
 }
 </pre>
 </ul>
@@ -37,6 +56,84 @@ Dataset(s): private
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     publisher = "IEEE",
     title = "Traffic Conflict Forecasting and Avoidance System Under Automated Driving System Disengagement: A Non-Intrusive Prototype Design",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Mishra></a>
+<details close>
+<summary>Mishra et al., Sensing Accident-Prone Features in Urban Scenes for Proactive Driving and Accident Prevention, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3271395>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Mishra,
+    author = "Mishra, Sumit and Rajendran, Praveen Kumar and Vecchietti, Luiz Felipe and Har, Dongsoo",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    number = "9",
+    pages = "9401--9414",
+    publisher = "IEEE",
+    title = "Sensing accident-prone features in urban scenes for proactive driving and accident prevention",
+    volume = "24",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_IV_Denk></a>
+<details close>
+<summary>Denk et al., Design of an Experiment to Pinpoint Cognitive Failure Processes in the Interaction of Motorists and Vulnerable Road Users, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186550>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Denk,
+    author = {Denk, Florian and Fr{\"o}hling, Felix and Brunner, Pascal and Huber, Werner and Margreiter, Martin and Bogenberger, Klaus and Kates, Ronald},
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--8",
+    title = "Design of an experiment to pinpoint cognitive failure processes in the interaction of motorists and vulnerable road users",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_IV_Dahl></a>
+<details close>
+<summary>Dahl et al., Intention-Aware Lane Keeping Assist Using Driver Gaze Information, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186601>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Dahl,
+    author = "Dahl, John and de Campos, Gabriel Rodrigues and Fredriksson, Jonas",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--7",
+    title = "Intention-Aware Lane Keeping Assist Using Driver Gaze Information",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_ITSC_Nambata></a>
+<details close>
+<summary>Nambata et al., Human-like Guidance with Gaze Estimation and Classification-based Text Generation, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10422062>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_ITSC_Nambata,
+    author = "Nambata, Masaki and Shimomura, Kota and Hirakawa, Tsubasa and Yamashita, Takayoshi and Fujiyoshi, Hironobu",
+    booktitle = "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)",
+    organization = "IEEE",
+    pages = "3122--3128",
+    title = "Human-like Guidance with Gaze Estimation and Classification-based Text Generation",
     year = "2023"
 }
 </pre>
@@ -61,20 +158,20 @@ Dataset(s): private
 </pre>
 </ul>
 </ul>
-<ul><a name=2023_IV_Dahl></a>
+<ul><a name=2023_ITSC_Heidari></a>
 <details close>
-<summary>Dahl et al., Intention-Aware Lane Keeping Assist Using Driver Gaze Information, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186601>paper</a></summary>
+<summary>Heidari et al., Multi-Depth Cross-Calibration of Gaze Tracker and LiDAR Systems, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10422290>paper</a></summary>
 <ul>
 Dataset(s): private
 </ul>
 <ul>
 <pre>
-@inproceedings{2023_IV_Dahl,
-    author = "Dahl, John and de Campos, Gabriel Rodrigues and Fredriksson, Jonas",
-    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+@inproceedings{2023_ITSC_Heidari,
+    author = "Heidari, Farzan and Dalirani, Farhad and Rahman, Taufiq and Cheema, Daniel Singh and Bauer, Michael A",
+    booktitle = "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)",
     organization = "IEEE",
-    pages = "1--7",
-    title = "Intention-Aware Lane Keeping Assist Using Driver Gaze Information",
+    pages = "1699--1705",
+    title = "Multi-Depth Cross-Calibration of Gaze Tracker and LiDAR Systems",
     year = "2023"
 }
 </pre>

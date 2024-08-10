@@ -5,6 +5,79 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| Drowsiness detection&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2024_T-ITS_Peng></a>
+<details close>
+<summary>Peng et al., A Multi-Source Fusion Approach for Driver Fatigue Detection Using Physiological Signals and Facial Image, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3420409>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2024_T-ITS_Peng,
+    author = "Peng, Yong and Deng, Hanwen and Xiang, Guoliang and Wu, Xianhui and Yu, Xizhuo and Li, Yingli and Yu, Tianjian",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "A Multi-Source Fusion Approach for Driver Fatigue Detection Using Physiological Signals and Facial Image",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2024_T-ITS_Fang></a>
+<details close>
+<summary>Fang et al., Human–Machine Shared Control for Path Following Considering Driver Fatigue Characteristics, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3347439>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2024_T-ITS_Fang,
+    author = "Fang, Zhenwu and Wang, Jinxiang and Wang, Zejiang and Chen, Jinxin and Yin, Guodong and Zhang, Hui",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Human--machine shared control for path following considering driver fatigue characteristics",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2024_IV_Sakata></a>
+<details close>
+<summary>Sakata et al., Proposal for Reproducible and Practical Drowsiness Indices, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588562>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2024_IV_Sakata,
+    author = "Sakata, Takuya and Yamauchi, Koichiro and Karumi, Takahiro and Omi, Takuhiro and Sawai, Shunichiroh",
+    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "2983--2988",
+    title = "Proposal for Reproducible and Practical Drowsiness Indices",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Yang></a>
+<details close>
+<summary>Yang et al., Video-Based Driver Drowsiness Detection With Optimised Utilization of Key Facial Features, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3346054>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#YawDD>YawDD</a>, <a href=datasets.md#DDD>DDD</a>, private
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Yang,
+    author = "Yang, Haohan and Liu, Haochen and Hu, Zhongxu and Nguyen, Anh-Tu and Guerra, Thierry-Marie and Lv, Chen",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2023_T-ITS_Lu></a>
 <details close>
 <summary>Lu et al., JHPFA-Net: Joint Head Pose and Facial Action Network for Driver Yawning Detection Across Arbitrary Poses in Videos, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3285923>paper</a></summary>
@@ -19,46 +92,6 @@ Dataset(s): <a href=datasets.md#YawDD>YawDD</a>
     publisher = "IEEE",
     title = "JHPFA-Net: Joint Head Pose and Facial Action Network for Driver Yawning Detection Across Arbitrary Poses in Videos",
     year = "2023"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2022_ITSC_Chen></a>
-<details close>
-<summary>Chen et al., A Multi-view Driver Drowsiness Detection Method Using Transfer Learning and Population-based Sampling Strategy, ITSC, 2022 | <a href=https://doi.org/10.1109/ITSC55140.2022.9922476>paper</a></summary>
-<ul>
-Dataset(s): private
-</ul>
-<ul>
-<pre>
-@inproceedings{2022_ITSC_Chen,
-    author = "Chen, Jinxin and Fang, Zhenwu and Wang, Jinxiang and Chen, Jiansong and Yin, Guodong",
-    booktitle = "2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)",
-    organization = "IEEE",
-    pages = "3386--3391",
-    title = "A Multi-view Driver Drowsiness Detection Method Using Transfer Learning and Population-based Sampling Strategy",
-    year = "2022"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2022_T-ITS_Baccour></a>
-<details close>
-<summary>Baccour et al., Comparative Analysis of Vehicle-Based and Driver-Based Features for Driver Drowsiness Monitoring by Support Vector Machines, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3207965>paper</a></summary>
-<ul>
-Dataset(s): private
-</ul>
-<ul>
-<pre>
-@article{2022_T-ITS_Baccour,
-    author = {Baccour, Mohamed Hedi and Driewer, Frauke and Sch{\"a}ck, Tim and Kasneci, Enkelejda},
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    number = "12",
-    pages = "23164--23178",
-    publisher = "IEEE",
-    title = "Comparative Analysis of Vehicle-Based and Driver-Based Features for Driver Drowsiness Monitoring by Support Vector Machines",
-    volume = "23",
-    year = "2022"
 }
 </pre>
 </ul>
@@ -105,6 +138,27 @@ Dataset(s): private
 </pre>
 </ul>
 </ul>
+<ul><a name=2022_T-ITS_Baccour></a>
+<details close>
+<summary>Baccour et al., Comparative Analysis of Vehicle-Based and Driver-Based Features for Driver Drowsiness Monitoring by Support Vector Machines, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3207965>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2022_T-ITS_Baccour,
+    author = {Baccour, Mohamed Hedi and Driewer, Frauke and Sch{\"a}ck, Tim and Kasneci, Enkelejda},
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    number = "12",
+    pages = "23164--23178",
+    publisher = "IEEE",
+    title = "Comparative Analysis of Vehicle-Based and Driver-Based Features for Driver Drowsiness Monitoring by Support Vector Machines",
+    volume = "23",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2022_IV_Lollett></a>
 <details close>
 <summary>Lollett et al., Driver’s Drowsiness Classifier using a Single-Camera Robust to Mask-wearing Situations using an Eyelid, Lower-Face Contour, and Chest Movement Feature Vector GRU-based Model, IV, 2022 | <a href=https://doi.org/10.1109/IV51971.2022.9827229>paper</a></summary>
@@ -119,6 +173,44 @@ Dataset(s): private
     organization = "IEEE",
     pages = "519--526",
     title = "Driver’s Drowsiness Classifier using a Single-Camera Robust to Mask-wearing Situations using an Eyelid, Lower-Face Contour, and Chest Movement Feature Vector GRU-based Model",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_ITSC_Chen></a>
+<details close>
+<summary>Chen et al., A Multi-view Driver Drowsiness Detection Method Using Transfer Learning and Population-based Sampling Strategy, ITSC, 2022 | <a href=https://doi.org/10.1109/ITSC55140.2022.9922476>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_ITSC_Chen,
+    author = "Chen, Jinxin and Fang, Zhenwu and Wang, Jinxiang and Chen, Jiansong and Yin, Guodong",
+    booktitle = "2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)",
+    organization = "IEEE",
+    pages = "3386--3391",
+    title = "A Multi-view Driver Drowsiness Detection Method Using Transfer Learning and Population-based Sampling Strategy",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_ICPR_Sharak></a>
+<details close>
+<summary>Sharak et al., Contact Versus Noncontact Detection of Driver’s Drowsiness, ICPR, 2022 | <a href=https://doi.org/10.1109/ICPR56361.2022.9956336>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_ICPR_Sharak,
+    author = "Sharak, Salem and Das, Kapotaksha and Riani, Kais and Abouelenien, Mohamed and Burzo, Mihai and Mihalcea, Rada",
+    booktitle = "2022 26th International Conference on Pattern Recognition (ICPR)",
+    organization = "IEEE",
+    pages = "967--974",
+    title = "Contact Versus Noncontact Detection of Driver’s Drowsiness",
     year = "2022"
 }
 </pre>
@@ -139,25 +231,6 @@ Dataset(s): <a href=datasets.md#DDD>DDD</a>
     pages = "549--559",
     title = "Detecting Driver Drowsiness as an Anomaly Using LSTM Autoencoders",
     year = "2023"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2022_ICPR_Sharak></a>
-<details close>
-<summary>Sharak et al., Contact Versus Noncontact Detection of Driver’s Drowsiness, ICPR, 2022 | <a href=https://doi.org/10.1109/ICPR56361.2022.9956336>paper</a></summary>
-<ul>
-Dataset(s): private
-</ul>
-<ul>
-<pre>
-@inproceedings{2022_ICPR_Sharak,
-    author = "Sharak, Salem and Das, Kapotaksha and Riani, Kais and Abouelenien, Mohamed and Burzo, Mihai and Mihalcea, Rada",
-    booktitle = "2022 26th International Conference on Pattern Recognition (ICPR)",
-    organization = "IEEE",
-    pages = "967--974",
-    title = "Contact Versus Noncontact Detection of Driver’s Drowsiness",
-    year = "2022"
 }
 </pre>
 </ul>

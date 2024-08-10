@@ -5,20 +5,56 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| Action anticipation&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
-<ul><a name=2023_IV_Zhao></a>
+<ul><a name=2024_T-ITS_Zhang></a>
 <details close>
-<summary>Zhao et al., End-to-End Spatio-Temporal Attention-Based Lane-Change Intention Prediction from Multi-Perspective Cameras, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186602>paper</a></summary>
+<summary>Zhang et al., What Are the Differences in Driver Lane-Changing Intention Models Recognition Performance Between Connected and Non-Connected Environments, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3358743>paper</a></summary>
 <ul>
 Dataset(s): private
 </ul>
 <ul>
 <pre>
-@inproceedings{2023_IV_Zhao,
-    author = "Zhao, Zhouqiao and Wei, Zhensong and Tian, Danyang and Reimer, Bryan and Gershon, Pnina and Moradi-Pari, Ehsan",
-    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+@article{2024_T-ITS_Zhang,
+    author = "Zhang, Hongjia and Wu, Fuwei and Guo, Dong and Gao, Song",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "What Are the Differences in Driver Lane-Changing Intention Models Recognition Performance Between Connected and Non-Connected Environments",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2024_IV_Pardo-Decimavilla></a>
+<details close>
+<summary>Pardo-Decimavilla et al., Do You Act Like You Talk? Exploring Pose-based Driver Action Classification with Speech Recognition Networks, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588839>paper</a> | <a href=https://github.com/pablopardod/dyalyt>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#Drive&Act>Drive&Act</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2024_IV_Pardo-Decimavilla,
+    author = "Pardo-Decimavilla, Pablo and Bergasa, Luis M and Montiel-Mar{\'\i}n, Santiago and Antunes, Miguel and Llamazares, {\'A}ngel",
+    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
     organization = "IEEE",
-    pages = "1--8",
-    title = "End-to-End Spatio-Temporal Attention-Based Lane-Change Intention Prediction from Multi-Perspective Cameras",
+    pages = "1395--1400",
+    title = "Do You Act Like You Talk? Exploring Pose-based Driver Action Classification with Speech Recognition Networks",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Zhang></a>
+<details close>
+<summary>Zhang et al., Driver Lane-Changing Intention Recognition Based on Stacking Ensemble Learning in the Connected Environment: A Driving Simulator Study, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3314443>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Zhang,
+    author = "Zhang, Hongjia and Gao, Song and Guo, Yingshi",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Driver lane-changing intention recognition based on stacking ensemble learning in the connected environment: A driving simulator study",
     year = "2023"
 }
 </pre>
@@ -60,20 +96,59 @@ Dataset(s): <a href=datasets.md#Brain4Cars>Brain4Cars</a>, private
 </pre>
 </ul>
 </ul>
-<ul><a name=2022_CVPRW_Zhao></a>
+<ul><a name=2023_IV_Zhao></a>
 <details close>
-<summary>Zhao et al., PAND: Precise Action Recognition on Naturalistic Driving, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Zhao_PAND_Precise_Action_Recognition_on_Naturalistic_Driving_CVPRW_2022_paper.pdf>paper</a></summary>
+<summary>Zhao et al., End-to-End Spatio-Temporal Attention-Based Lane-Change Intention Prediction from Multi-Perspective Cameras, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186602>paper</a></summary>
 <ul>
-Dataset(s): DGDB
+Dataset(s): private
 </ul>
 <ul>
 <pre>
-@inproceedings{2022_CVPRW_Zhao,
-    author = "Zhao, Hangyue and Xiao, Yuchao and Zhao, Yanyun",
-    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-    pages = "3291--3299",
-    title = "PAND: Precise action recognition on naturalistic driving",
-    year = "2022"
+@inproceedings{2023_IV_Zhao,
+    author = "Zhao, Zhouqiao and Wei, Zhensong and Tian, Danyang and Reimer, Bryan and Gershon, Pnina and Moradi-Pari, Ehsan",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--8",
+    title = "End-to-End Spatio-Temporal Attention-Based Lane-Change Intention Prediction from Multi-Perspective Cameras",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_IV_Dahl></a>
+<details close>
+<summary>Dahl et al., Intention-Aware Lane Keeping Assist Using Driver Gaze Information, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186601>paper</a></summary>
+<ul>
+Dataset(s): private
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Dahl,
+    author = "Dahl, John and de Campos, Gabriel Rodrigues and Fredriksson, Jonas",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--7",
+    title = "Intention-Aware Lane Keeping Assist Using Driver Gaze Information",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_IROS_Tanama></a>
+<details close>
+<summary>Tanama et al., Quantized Distillation: Optimizing Driver Activity Recognition Models for Resource-Constrained Environments, IROS, 2023 | <a href=https://doi.org/10.1109/IROS55552.2023.10342203>paper</a> | <a href=https://github.com/calvintanama/qd-driver-activity-reco>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#Drive&Act>Drive&Act</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IROS_Tanama,
+    author = "Tanama, Calvin and Peng, Kunyu and Marinov, Zdravko and Stiefelhagen, Rainer and Roitberg, Alina",
+    booktitle = "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    organization = "IEEE",
+    pages = "5479--5486",
+    title = "Quantized Distillation: Optimizing Driver Activity Recognition Models for Resource-Constrained Environments",
+    year = "2023"
 }
 </pre>
 </ul>
@@ -92,6 +167,24 @@ Dataset(s): <a href=datasets.md#Drive&Act>Drive&Act</a>
     organization = "IEEE",
     pages = "278--285",
     title = "TransDARC: Transformer-based Driver Activity Recognition with Latent Space Feature Calibration",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2022_CVPRW_Zhao></a>
+<details close>
+<summary>Zhao et al., PAND: Precise Action Recognition on Naturalistic Driving, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Zhao_PAND_Precise_Action_Recognition_on_Naturalistic_Driving_CVPRW_2022_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): DGDB
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_CVPRW_Zhao,
+    author = "Zhao, Hangyue and Xiao, Yuchao and Zhao, Yanyun",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "3291--3299",
+    title = "PAND: Precise action recognition on naturalistic driving",
     year = "2022"
 }
 </pre>
@@ -190,7 +283,7 @@ Dataset(s): private
 </ul>
 <ul><a name=2018_TIV_Martin></a>
 <details close>
-<summary>Martin et al., Dynamics of Driver’s Gaze: Explorations in Behavior Modeling and Maneuver Prediction, TITS, 2018 | <a href=https://doi.org/10.1109/TIV.2018.2804160>paper</a></summary>
+<summary>Martin et al., Dynamics of Driver’s Gaze: Explorations in Behavior Modeling and Maneuver Prediction, Trans. ITS, 2018 | <a href=https://doi.org/10.1109/TIV.2018.2804160>paper</a></summary>
 <ul>
 Dataset(s): private
 </ul>

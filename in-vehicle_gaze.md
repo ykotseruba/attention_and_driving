@@ -23,6 +23,24 @@ Dataset(s): SHRP2
 </pre>
 </ul>
 </ul>
+<ul><a name=2024_CVPR_Cheng></a>
+<details close>
+<summary>Cheng et al., What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation, CVPR, 2024 | <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_What_Do_You_See_in_Vehicle_Comprehensive_Vision_Solution_for_CVPR_2024_paper.pdf>paper</a> | <a href=https://github.com/yihuacheng/IVGaze/tree/main>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#IVGaze>IVGaze</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2024_CVPR_Cheng,
+    author = "Cheng, Yihua and Zhu, Yaning and Wang, Zongji and Hao, Hongquan and Liu, Yongwei and Cheng, Shiqing and Wang, Xi and Chang, Hyung Jin",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "1556--1565",
+    title = "What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2023_T-ITS_Chai></a>
 <details close>
 <summary>Chai et al., Driver Head Pose Detection From Naturalistic Driving Data, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3275070>paper</a></summary>

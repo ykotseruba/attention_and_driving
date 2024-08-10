@@ -5,6 +5,208 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| Distraction detection&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2024_T-ITS_Yang></a>
+<details close>
+<summary>Yang et al., Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3316203>paper</a> | <a href=https://yanghh.io/Driver-Distraction-Quantification>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#3MDAD>3MDAD</a>, <a href=datasets.md#AUCD2>AUCD2</a>, <a href=datasets.md#SAM-DD>SAM-DD</a>
+</ul>
+<ul>
+<pre>
+@article{2024_T-ITS_Yang,
+    author = "Yang, Haohan and Liu, Haochen and Hu, Zhongxu and Nguyen, Anh-Tu and Guerra, Thierry-Marie and Lv, Chen",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Quantitative identification of driver distraction: A weakly supervised contrastive learning approach",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2024_T-ITS_Li></a>
+<details close>
+<summary>Li et al., Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3367665>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#SFD>SFD</a>, <a href=datasets.md#AUCD2>AUCD2</a>
+</ul>
+<ul>
+<pre>
+@article{2024_T-ITS_Li,
+    author = "Li, Guofa and Wang, Guanglei and Guo, Zizheng and Liu, Qing and Luo, Xiyuan and Yuan, Bangwei and Li, Mingrui and Yang, Lu",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2024_T-ITS_Hasan></a>
+<details close>
+<summary>Hasan et al., Vision-Language Models Can Identify Distracted Driver Behavior From Naturalistic Videos, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3381175>paper</a> | <a href=https://github.com/zahid-isu/DriveCLIP>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#DMD>DMD</a>, <a href=datasets.md#SAM-DD>SAM-DD</a>, <a href=datasets.md#SFD>SFD</a>, <a href=datasets.md#SynDD1>SynDD1</a>
+</ul>
+<ul>
+<pre>
+@article{2024_T-ITS_Hasan,
+    author = "Hasan, Md Zahid and Chen, Jiajing and Wang, Jiyang and Rahman, Mohammed Shaiqur and Joshi, Ameya and Velipasalar, Senem and Hegde, Chinmay and Sharma, Anuj and Sarkar, Soumik",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Vision-language models can identify distracted driver behavior from naturalistic videos",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2024_T-ITS_Chai></a>
+<details close>
+<summary>Chai et al., Rethinking the Evaluation of Driver Behavior Analysis Approaches, Trans. ITS, 2024 | <a href=htpps://doi.org/10.1109/TITS.2024.3354506>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#SFD>SFD</a>, <a href=datasets.md#AI CITY NDAR>AI CITY NDAR</a>
+</ul>
+<ul>
+<pre>
+@article{2024_T-ITS_Chai,
+    author = "Chai, Weiheng and Wang, Jiyang and Chen, Jiajing and Velipasalar, Senem and Sharma, Anuj",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Rethinking the Evaluation of Driver Behavior Analysis Approaches",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2024_IV_Pizarro></a>
+<details close>
+<summary>Pizarro et al., DRVMon-VM: Distracted driver recognition using large pre-trained video transformers, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588412>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#Drive&Act>Drive&Act</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2024_IV_Pizarro,
+    author = "Pizarro, Ricardo and Bergasa, Luis M and Baumela, Luis and Buenaposada, Jos{\'e} M and Barea, Rafael",
+    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1901--1906",
+    title = "DRVMon-VM: Distracted driver recognition using large pre-trained video transformers",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2024_IV_Palo></a>
+<details close>
+<summary>Palo et al., Holistic Driver Monitoring: A Multi-Task Approach for In-Cabin Driver Attention Evaluation through Multi-Camera Data, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588402>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#DMD>DMD</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2024_IV_Palo,
+    author = "Palo, Patitapaban and Nayak, Satyajit and Modhugu, Durga Nagendra Raghava Kumar and Gupta, Kwanit and Uttarkabat, Satarupa",
+    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1361--1366",
+    title = "Holistic Driver Monitoring: A Multi-Task Approach for In-Cabin Driver Attention Evaluation through Multi-Camera Data",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2024_IV_Ma></a>
+<details close>
+<summary>Ma et al., ViT-DD: Multi-Task Vision Transformer for Semi-Supervised Driver Distraction Detection, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588802>paper</a> | <a href=https://github.com/PurdueDigitalTwin/ViT-DD>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#SFD>SFD</a>, <a href=datasets.md#AUCD2>AUCD2</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2024_IV_Ma,
+    author = "Ma, Yunsheng and Wang, Ziran",
+    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "417--423",
+    title = "Vit-dd: Multi-task vision transformer for semi-supervised driver distraction detection",
+    year = "2024"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Mittal></a>
+<details close>
+<summary>Mittal et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#AUCD2>AUCD2</a>, Statefarm
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Mittal,
+    author = "Mittal, Himanshu and Verma, Bindu",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Mittal></a>
+<details close>
+<summary>Mittal et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#SFD>SFD</a>, <a href=datasets.md#AUCD2>AUCD2</a>
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Mittal,
+    author = "Mittal, Himanshu and Verma, Bindu",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_T-ITS_Kuang></a>
+<details close>
+<summary>Kuang et al., MIFI: MultI-Camera Feature Integration for Robust 3D Distracted Driver Activity Recognition, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3304317>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#3MDAD>3MDAD</a>
+</ul>
+<ul>
+<pre>
+@article{2023_T-ITS_Kuang,
+    author = "Kuang, Jian and Li, Wenjing and Li, Fang and Zhang, Jun and Wu, Zhongcheng",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "MIFI: MultI-Camera Feature Integration for Robust 3D Distracted Driver Activity Recognition",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
+<ul><a name=2023_IV_Sonth></a>
+<details close>
+<summary>Sonth et al., Explainable Driver Activity Recognition Using Video Transformer in Highly Automated Vehicle, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186584>paper</a> | <a href=github.com/VTTI/driver-secondary-action-recognition>code</a></summary>
+<ul>
+Dataset(s): VTTIMLP01, SHRP2
+</ul>
+<ul>
+<pre>
+@inproceedings{2023_IV_Sonth,
+    author = "Sonth, Akash and Sarkar, Abhijit and Bhagat, Hirva and Abbott, Lynn",
+    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1--8",
+    title = "Explainable Driver Activity Recognition Using Video Transformer in Highly Automated Vehicle",
+    year = "2023"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2023_ITSC_Morales-Alvarez></a>
 <details close>
 <summary>Morales-Alvarez et al., On Transferability of Driver Observation Models from Simulated to Real Environments in Autonomous Cars, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10422678>paper</a></summary>
@@ -43,92 +245,19 @@ Dataset(s): private
 </pre>
 </ul>
 </ul>
-<ul><a name=2023_T-ITS_Mittal></a>
+<ul><a name=2023_CVPRW_Zhou></a>
 <details close>
-<summary>Mittal et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>
+<summary>Zhou et al., Multi View Action Recognition for Distracted Driver Behavior Localization, CVPRW, 2023 | <a href=https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Zhou_Multi_View_Action_Recognition_for_Distracted_Driver_Behavior_Localization_CVPRW_2023_paper.pdf>paper</a> | <a href=https://github.com/Meituan-IoTCV/aicity_release>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#AUCD2>AUCD2</a>, Statefarm
+Dataset(s): <a href=datasets.md#AI CITY NDAR>AI CITY NDAR</a>
 </ul>
 <ul>
 <pre>
-@article{2023_T-ITS_Mittal,
-    author = "Mittal, Himanshu and Verma, Bindu",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction",
-    year = "2023"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2023_T-ITS_Kuang></a>
-<details close>
-<summary>Kuang et al., MIFI: MultI-Camera Feature Integration for Robust 3D Distracted Driver Activity Recognition, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3304317>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets.md#3MDAD>3MDAD</a>
-</ul>
-<ul>
-<pre>
-@article{2023_T-ITS_Kuang,
-    author = "Kuang, Jian and Li, Wenjing and Li, Fang and Zhang, Jun and Wu, Zhongcheng",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "MIFI: MultI-Camera Feature Integration for Robust 3D Distracted Driver Activity Recognition",
-    year = "2023"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2023_T-ITS_Yang></a>
-<details close>
-<summary>Yang et al., Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3316203>paper</a> | <a href=https://yanghh.io/Driver-Distraction-Quantification>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets.md#SAM-DD>SAM-DD</a>
-</ul>
-<ul>
-<pre>
-@article{2023_T-ITS_Yang,
-    author = "Yang, Haohan and Liu, Haochen and Hu, Zhongxu and Nguyen, Anh-Tu and Guerra, Thierry-Marie and Lv, Chen",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach",
-    year = "2023"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2023_IV_Sonth></a>
-<details close>
-<summary>Sonth et al., Explainable Driver Activity Recognition Using Video Transformer in Highly Automated Vehicle, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186584>paper</a> | <a href=github.com/VTTI/driver-secondary-action-recognition>code</a></summary>
-<ul>
-Dataset(s): VTTIMLP01, SHRP2
-</ul>
-<ul>
-<pre>
-@inproceedings{2023_IV_Sonth,
-    author = "Sonth, Akash and Sarkar, Abhijit and Bhagat, Hirva and Abbott, Lynn",
-    booktitle = "2023 IEEE Intelligent Vehicles Symposium (IV)",
-    organization = "IEEE",
-    pages = "1--8",
-    title = "Explainable Driver Activity Recognition Using Video Transformer in Highly Automated Vehicle",
-    year = "2023"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2023_T-ITS_Mittal></a>
-<details close>
-<summary>Mittal et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets.md#SFD>SFD</a>, <a href=datasets.md#AUCD2>AUCD2</a>
-</ul>
-<ul>
-<pre>
-@article{2023_T-ITS_Mittal,
-    author = "Mittal, Himanshu and Verma, Bindu",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction",
+@inproceedings{2023_CVPRW_Zhou,
+    author = "Zhou, Wei and Qian, Yinlong and Jie, Zequn and Ma, Lin",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "5375--5380",
+    title = "Multi view action recognition for distracted driver behavior localization",
     year = "2023"
 }
 </pre>
@@ -155,6 +284,24 @@ Dataset(s): <a href=datasets.md#RLDD>RLDD</a>
 </pre>
 </ul>
 </ul>
+<ul><a name=2022_CVPRW_Doshi></a>
+<details close>
+<summary>Doshi et al., Federated Learning-based Driver Activity Recognition for Edge Devices, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Doshi_Federated_Learning-Based_Driver_Activity_Recognition_for_Edge_Devices_CVPRW_2022_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets.md#SynDD1>SynDD1</a>
+</ul>
+<ul>
+<pre>
+@inproceedings{2022_CVPRW_Doshi,
+    author = "Doshi, Keval and Yilmaz, Yasin",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "3338--3346",
+    title = "Federated learning-based driver activity recognition for edge devices",
+    year = "2022"
+}
+</pre>
+</ul>
+</ul>
 <ul><a name=2022_CVPRW_Ding></a>
 <details close>
 <summary>Ding et al., A Coarse-to-Fine Boundary Localization method for Naturalistic Driving Action Recognition, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Ding_A_Coarse-To-Fine_Boundary_Localization_Method_for_Naturalistic_Driving_Action_Recognition_CVPRW_2022_paper.pdf>paper</a></summary>
@@ -171,24 +318,6 @@ Dataset(s): <a href=datasets.md#SynDD1>SynDD1</a>
     publisher = "IEEE",
     title = "A multimodal fusion fatigue driving detection method based on heart rate and PERCLOS",
     volume = "23",
-    year = "2022"
-}
-</pre>
-</ul>
-</ul>
-<ul><a name=2022_CVPRW_Doshi></a>
-<details close>
-<summary>Doshi et al., Federated Learning-based Driver Activity Recognition for Edge Devices, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Doshi_Federated_Learning-Based_Driver_Activity_Recognition_for_Edge_Devices_CVPRW_2022_paper.pdf>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets.md#SynDD1>SynDD1</a>
-</ul>
-<ul>
-<pre>
-@inproceedings{2022_CVPRW_Doshi,
-    author = "Doshi, Keval and Yilmaz, Yasin",
-    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-    pages = "3338--3346",
-    title = "Federated learning-based driver activity recognition for edge devices",
     year = "2022"
 }
 </pre>
