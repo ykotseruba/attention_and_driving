@@ -43,15 +43,15 @@ Dataset(s): private
 </pre>
 </ul>
 </ul>
-<ul><a name=2023_T-ITS_Wang1></a>
+<ul><a name=2023_T-ITS_Wang_1></a>
 <details close>
-<summary>Wang1 et al., Traffic Conflict Forecasting and Avoidance System Under Automated Driving System Disengagement: A Non-Intrusive Prototype Design, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3320583>paper</a></summary>
+<summary>Wang et al., Traffic Conflict Forecasting and Avoidance System Under Automated Driving System Disengagement: A Non-Intrusive Prototype Design, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3320583>paper</a></summary>
 <ul>
 Dataset(s): private
 </ul>
 <ul>
 <pre>
-@article{2023_T-ITS_Wang1,
+@article{2023_T-ITS_Wang_1,
     author = "Wang, Song and Li, Zhixia and Hu, Jia and Xu, Jin and Jiang, Shang",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     publisher = "IEEE",

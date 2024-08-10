@@ -85,15 +85,15 @@ Dataset(s): <a href=datasets.md#Brain4Cars>Brain4Cars</a>
 
 ### Scene gaze
 
-<ul><a name=2024_IV_Kotseruba2></a>
+<ul><a name=2024_IV_Kotseruba_2></a>
 <details close>
-<summary>Kotseruba2 et al., SCOUT+: Towards Practical Task-Driven Drivers’ Gaze Prediction, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588743>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
+<summary>Kotseruba et al., SCOUT+: Towards Practical Task-Driven Drivers’ Gaze Prediction, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588743>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
 <ul>
 Dataset(s): <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#SCOUT>SCOUT</a>
 </ul>
 <ul>
 <pre>
-@inproceedings{2024_IV_Kotseruba2,
+@inproceedings{2024_IV_Kotseruba_2,
     author = "Kotseruba, Iuliia and Tsotsos, John K",
     booktitle = "Intelligent Vehicles Symposium (IV)",
     title = "{SCOUT+: Towards Practical Task-Driven Drivers' Gaze Prediction}",
@@ -102,15 +102,15 @@ Dataset(s): <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#BDD
 </pre>
 </ul>
 </ul>
-<ul><a name=2024_IV_Kotseruba1></a>
+<ul><a name=2024_IV_Kotseruba_1></a>
 <details close>
-<summary>Kotseruba1 et al., Data Limitations for Modeling Top-Down Effects on Drivers’ Attention, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588528>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
+<summary>Kotseruba et al., Data Limitations for Modeling Top-Down Effects on Drivers’ Attention, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588528>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
 <ul>
 Dataset(s): <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#MAAD>MAAD</a>, <a href=datasets.md#LBW>LBW</a>, <a href=datasets.md#SCOUT>SCOUT</a>
 </ul>
 <ul>
 <pre>
-@inproceedings{2024_IV_Kotseruba1,
+@inproceedings{2024_IV_Kotseruba_1,
     author = "Kotseruba, Iuliia and Tsotsos, John K",
     booktitle = "Intelligent Vehicles Symposium (IV)",
     title = "Data Limitations for Modeling Top-Down Effects on Drivers' Attention",

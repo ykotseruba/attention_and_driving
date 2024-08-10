@@ -54,7 +54,7 @@ Annotations: action labels, context labels, map information
 </ul>
 <ul>
 <pre>
-@inproceedings{2024_IV_Kotseruba1,
+@inproceedings{2024_IV_Kotseruba_1,
     author = "Kotseruba, Iuliia and Tsotsos, John K",
     booktitle = "Intelligent Vehicles Symposium (IV)",
     title = "Data Limitations for Modeling Top-Down Effects on Drivers' Attention",
