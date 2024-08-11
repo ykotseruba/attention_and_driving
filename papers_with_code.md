@@ -597,7 +597,7 @@ Dataset(s): <a href=datasets.md#3MDAD>3MDAD</a>, <a href=datasets.md#AUCD2>AUCD2
 <details close>
 <summary>Hasan et al., Vision-Language Models Can Identify Distracted Driver Behavior From Naturalistic Videos, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3381175>paper</a> | <a href=https://github.com/zahid-isu/DriveCLIP>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#DMD>DMD</a>, <a href=datasets.md#SAM-DD>SAM-DD</a>, <a href=datasets.md#SFD>SFD</a>, <a href=datasets.md#SynDD1>SynDD1</a>
+Dataset(s): <a href=datasets.md#DMD>DMD</a>, <a href=datasets.md#SAM-DD>SAM-DD</a>, <a href=datasets.md#SFDDD>SFDDD</a>, <a href=datasets.md#SynDD1>SynDD1</a>
 </ul>
 <ul>
 <pre>
@@ -615,7 +615,7 @@ Dataset(s): <a href=datasets.md#DMD>DMD</a>, <a href=datasets.md#SAM-DD>SAM-DD</
 <details close>
 <summary>Ma et al., ViT-DD: Multi-Task Vision Transformer for Semi-Supervised Driver Distraction Detection, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588802>paper</a> | <a href=https://github.com/PurdueDigitalTwin/ViT-DD>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#SFD>SFD</a>, <a href=datasets.md#AUCD2>AUCD2</a>
+Dataset(s): <a href=datasets.md#SFDDD>SFDDD</a>, <a href=datasets.md#AUCD2>AUCD2</a>
 </ul>
 <ul>
 <pre>

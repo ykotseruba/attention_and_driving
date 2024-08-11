@@ -1370,9 +1370,9 @@ Data: scene video
 </details>
 </ul>
 
-<a name="SFD"></a>
+<a name="SFDDD"></a>
 <details close>
-<summary>SFD | <a href=https://www.kaggle.com/competitions/state-farm-distracted-driver-detection/overview>link</a></summary>
+<summary>SFDDD | <a href=https://www.kaggle.com/competitions/state-farm-distracted-driver-detection/overview>link</a></summary>
 <ul>
 Full name: State Farm Distracted Driver Detection
 </ul>
