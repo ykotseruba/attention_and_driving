@@ -24,7 +24,7 @@ Papers in the collection are grouped into behavioral, application (grouped into 
 	- [Driver awareness estimation](driver_awareness.md) - models that project drivers' gaze onto objects in the traffic scene
 	- [Attention for self-driving](self-driving.md) - models that use attention mechanisms for automated driving
 	- [Papers with code](papers_with_code.md) - a list of papers across all applications that have public code available
-- [Datasets](datasets.md) - a list of datasets with attention-related annotations
+- [Datasets](datasets_by_application.md) - a list of datasets with attention-related annotations
 
 ## Contributing to this project
 

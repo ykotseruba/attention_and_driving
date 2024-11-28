@@ -5,13 +5,29 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| In-vehicle gaze&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2024_T-ITS_Camberg></a>
+<details close>
+<summary>Camberg et al., An Extensive Analysis of Different Approaches to Driver Gaze Classification, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3444588>paper</a></summary>
+<ul>
+Dataset(s): private
+<pre>
+@article{2024_T-ITS_Camberg,
+    author = {Camberg, Simone and H{\"u}llermeier, Eyke},
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "An Extensive Analysis of Different Approaches to Driver Gaze Classification",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_T-ITS_Xu></a>
 <details close>
 <summary>Xu et al., Detecting Critical Mismatched Driver Visual Attention During Lane Change: An Embedding Kernel Algorithm, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3346684>paper</a></summary>
 <ul>
 Dataset(s): SHRP2
-</ul>
-<ul>
 <pre>
 @article{2024_T-ITS_Xu,
     author = "Xu, Jingbin and Qian, Chen and Han, Shu and Guo, Feng",
@@ -22,14 +38,14 @@ Dataset(s): SHRP2
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2024_CVPR_Cheng></a>
 <details close>
 <summary>Cheng et al., What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation, CVPR, 2024 | <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_What_Do_You_See_in_Vehicle_Comprehensive_Vision_Solution_for_CVPR_2024_paper.pdf>paper</a> | <a href=https://github.com/yihuacheng/IVGaze/tree/main>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#IVGaze>IVGaze</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#IVGaze>IVGaze</a>
 <pre>
 @inproceedings{2024_CVPR_Cheng,
     author = "Cheng, Yihua and Zhu, Yaning and Wang, Zongji and Hao, Hongquan and Liu, Yongwei and Cheng, Shiqing and Wang, Xi and Chang, Hyung Jin",
@@ -40,14 +56,14 @@ Dataset(s): <a href=datasets.md#IVGaze>IVGaze</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2023_T-ITS_Chai></a>
 <details close>
 <summary>Chai et al., Driver Head Pose Detection From Naturalistic Driving Data, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3275070>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2023_T-ITS_Chai,
     author = "Chai, Weiheng and Chen, Jiajing and Wang, Jiyang and Velipasalar, Senem and Venkatachalapathy, Archana and Adu-Gyamfi, Yaw and Merickel, Jennifer and Sharma, Anuj",
@@ -58,14 +74,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2023_IV_Lollett></a>
 <details close>
 <summary>Lollett et al., Normalized Facial Features-Based DNN for a Driver’s Gaze Zone Classifier Using a Single Camera Robust to Various Highly Challenging Driving Scenarios, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186697>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2023_IV_Lollett,
     author = "Lollett, Catherine and Kamezaki, Mitsuhiro and Sugano, Shigeki",
@@ -77,14 +93,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2022_IV_Bieg></a>
 <details close>
 <summary>Bieg et al., Comparison of Video-based Driver Gaze Region Estimation Techniques, IV, 2022 | <a href=https://doi.org/10.1109/IV51971.2022.9827145>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2022_IV_Bieg,
     author = "Bieg, Hans-Joachim and Strobel, Simon and Fischer, Matthias S and La{\ss}mann, Paula",
@@ -96,14 +112,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2021_T-ITS_Huang></a>
 <details close>
 <summary>Huang et al., Driver Glance Behavior Modeling based on Semi-supervised Clustering and Piecewise Aggregate Representation, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3080322>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2021_T-ITS_Huang,
     author = "Huang, Jianling and Long, Yan and Zhao, Xiaohua",
@@ -114,14 +130,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2021_IV_Lollett></a>
 <details close>
 <summary>Lollett et al., Towards a Driver’s Gaze Zone Classifier using a Single Camera Robust to Temporal and Permanent Face Occlusions, IV, 2021 | <a href=https://doi.org/0.1109/IV48863.2021.9575367>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2021_IV_Lollett,
     author = "Lollett, Catherine and Kamezaki, Mitsuhiro and Sugano, Shigeki",
@@ -133,14 +149,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2020_IV_Rangesh></a>
 <details close>
 <summary>Rangesh et al., Driver Gaze Estimation in the Real World: Overcoming the Eyeglass Challenge, IV, 2020 | <a href=https://doi.org/10.1109/IV47402.2020.9304573>paper</a> | <a href=https://github.com/arangesh/GPCycleGAN>code</a></summary>
 <ul>
 Dataset(s): LISA v3
-</ul>
-<ul>
 <pre>
 @inproceedings{2020_IV_Rangesh,
     author = "Rangesh, Akshay and Zhang, Bowen and Trivedi, Mohan M",
@@ -150,14 +166,14 @@ Dataset(s): LISA v3
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2020_ICMI_Stappen></a>
 <details close>
 <summary>Stappen et al., X-AWARE: ConteXt-AWARE Human-Environment Attention Fusion for Driver Gaze Prediction in the Wild, ICMI, 2020 | <a href=https://doi.org/10.1145/3382507.3417967>paper</a> | <a href=https://github.com/lstappen/XAWARE>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#DGW>DGW</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#DGW>DGW</a>
 <pre>
 @inproceedings{2020_ICMI_Stappen,
     author = {Stappen, Lukas and Rizos, Georgios and Schuller, Bj{\"o}rn},
@@ -167,14 +183,14 @@ Dataset(s): <a href=datasets.md#DGW>DGW</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2020_HumanFactors_Jokinen></a>
 <details close>
 <summary>Jokinen et al., Multitasking in Driving as Optimal Adaptation Under Uncertainty, Human Factors, 2020 | <a href=https://doi.org/10.1177/0018720820927687>paper</a> | <a href=https://gitlab.com/jokinenj/multitasking-driving>code</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2020_HumanFactors_Jokinen,
     author = "Jokinen, Jussi PP and Kujala, Tuomo and Oulasvirta, Antti",
@@ -188,14 +204,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2018_TIV_Vora></a>
 <details close>
 <summary>Vora et al., Driver Gaze Zone Estimation using Convolutional Neural Networks: A General Framework and Ablative Analysis, Trans. ITS, 2019 | <a href=https://doi.org/10.1109/TIV.2018.2843120>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2018_TIV_Vora,
     author = "Vora, Sourabh and Rangesh, Akshay and Trivedi, Mohan Manubhai",
@@ -208,14 +224,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2018_TIV_Martin></a>
 <details close>
 <summary>Martin et al., Dynamics of Driver’s Gaze: Explorations in Behavior Modeling & Maneuver Prediction, Trans. ITS, 2018 | <a href=https://doi.org/10.1109/TIV.2018.2804160>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2018_TIV_Martin,
     author = "Martin, Sujitha and Vora, Sourabh and Yuen, Kevan and Trivedi, Mohan Manubhai",
@@ -228,14 +244,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2017_IV_Vora></a>
 <details close>
 <summary>Vora et al., On Generalizing Driver Gaze Zone Estimation using Convolutional Neural Networks, IV, 2017 | <a href=https://doi.org/10.1109/IVS.2017.7995822>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2017_IV_Vora,
     author = "Vora, Sourabh and Rangesh, Akshay and Trivedi, Mohan M",
@@ -245,14 +261,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2016_T-ITS_Lundgren></a>
 <details close>
 <summary>Lundgren et al., Driver-Gaze Zone Estimation Using Bayesian Filtering and Gaussian Processes, Trans. ITS, 2016 | <a href=https://doi.org/10.1109/TITS.2016.2526050>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2016_T-ITS_Lundgren,
     author = "Lundgren, Malin and Hammarstrand, Lars and McKelvey, Tomas",
@@ -266,14 +282,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2016_ITSC_Vasli></a>
 <details close>
 <summary>Vasli et al., On Driver Gaze Estimation: Explorations and Fusion of Geometric and Data Driven Approaches, ITSC, 2016 | <a href=https://doi.org/10.1109/ITSC.2016.7795623>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2016_ITSC_Vasli,
     author = "Vasli, Borhan and Martin, Sujitha and Trivedi, Mohan Manubhai",
@@ -283,14 +299,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2016_IS_Fridman></a>
 <details close>
 <summary>Fridman et al., Driver Gaze Region Estimation without Use of Eye Movement, Pattern Recognition, 2016 | <a href=https://doi.org/10.1109/MIS.2016.47>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2016_IS_Fridman,
     author = "Fridman, Lex and Langhans, Philipp and Lee, Joonbum and Reimer, Bryan",
@@ -303,14 +319,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2016_IET_Fridman></a>
 <details close>
 <summary>Fridman et al., ‘Owl’ and ‘Lizard’: patterns of head pose and eye pose in driver gaze classification, IET Computer Vision, 2016 | <a href=https://doi.org/10.1049/iet-cvi.2015.0296>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2016_IET_Fridman,
     author = "Fridman, Lex and Lee, Joonbum and Reimer, Bryan and Victor, Trent",
@@ -323,14 +339,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2016_BigComp_Choi></a>
 <details close>
 <summary>Choi et al., Real-time categorization of driver’s gaze zone using the deep learning techniques, International Conference on Big Data and Smart Computing, 2016 | <a href=https://doi.org/10.1109/BIGCOMP.2016.7425813>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2016_BigComp_Choi,
     author = "Choi, In-Ho and Hong, Sung Kyung and Kim, Yong-Guk",
@@ -340,14 +356,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2015_T-ITS_Vicente></a>
 <details close>
 <summary>Vicente et al., Driver Gaze Tracking and Eyes Off the Road Detection System, Trans. ITS, 2015 | <a href=https://doi.org/10.1109/TITS.2015.2396031>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2015_T-ITS_Vicente,
     author = "Vicente, Francisco and Huang, Zehua and Xiong, Xuehan and De la Torre, Fernando and Zhang, Wende and Levi, Dan",
@@ -360,14 +376,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2014_IV_Tawari></a>
 <details close>
 <summary>Tawari et al., Robust and Continuous Estimation of Driver Gaze Zone by Dynamic Analysis of Multiple Face Videos, IV, 2014 | <a href=https://doi.org/10.1109/IVS.2014.6856607>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2014_IV_Tawari,
     author = "Tawari, Ashish and Trivedi, Mohan M",
@@ -377,14 +393,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2014_ITSC_Tawari></a>
 <details close>
 <summary>Tawari et al., Where is the driver looking: Analysis of Head, Eye and Iris for Robust Gaze Zone Estimation, ITSC, 2014 | <a href=https://doi.org/10.1109/ITSC.2014.6957817>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2014_ITSC_Tawari,
     author = "Tawari, Ashish and Chen, Kuo Hao and Trivedi, Mohan M",
@@ -394,14 +410,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2014_CVPRW_Chuang></a>
 <details close>
 <summary>Chuang et al., Estimating Gaze Direction of Vehicle Drivers using a Smartphone Camera, CVPRW, 2014 | <a href=https://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W03/papers/Chuang_Estimating_Gaze_Direction_2014_CVPR_paper.pdf>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2014_CVPRW_Chuang,
     author = "Chuang, Meng-Che and Bala, Raja and Bernal, Edgar A and Paul, Peter and Burry, Aaron",
@@ -411,14 +427,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2011_T-ITS_Lee></a>
 <details close>
 <summary>Lee et al., Real-Time Gaze Estimator Based on Driver’s Head Orientation for Forward Collision Warning System, Trans. ITS, 2011 | <a href=https://doi.org/10.1109/TITS.2010.2091503>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2011_T-ITS_Lee,
     author = "Lee, Sung Joo and Jo, Jaeik and Jung, Ho Gi and Park, Kang Ryoung and Kim, Jaihie",
@@ -431,4 +447,6 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>

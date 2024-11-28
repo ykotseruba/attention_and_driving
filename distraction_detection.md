@@ -5,13 +5,83 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| Distraction detection&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2024_T-ITS_Chen></a>
+<details close>
+<summary>Chen et al., A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3446832>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#DAD>DAD</a>, private
+<pre>
+@article{2024_T-ITS_Chen,
+    author = "Chen, Jiansong and Zhang, Qixiang and Chen, Jinxin and Wang, Jinxiang and Fang, Zhenwu and Liu, Yahui and Yin, Guodong",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Hu_1></a>
+<details close>
+<summary>Hu et al., An Investigation of the Effect of Smart Cockpit Layout on Distracted Driving Behavior Based on Real Road Experiments, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3456785>paper</a></summary>
+<ul>
+Dataset(s): private
+<pre>
+@article{2024_T-ITS_Hu_1,
+    author = "Hu, Lin and Deng, Xinjiao and Wang, Fang and Wu, Xianhui",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "An Investigation of the Effect of Smart Cockpit Layout on Distracted Driving Behavior Based on Real Road Experiments",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Li_2></a>
+<details close>
+<summary>Li et al., Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification, Trans. ITS, 2024 | <a href=nan>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#AUCD2>AUCD2</a>
+<pre>
+@article{2024_T-ITS_Li_2,
+    author = "Li, Guofa and Wang, Guanglei and Guo, Zizheng and Liu, Qing and Luo, Xiyuan and Yuan, Bangwei and Li, Mingrui and Yang, Lu",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Li_1></a>
+<details close>
+<summary>Li et al., A Lightweight and Efficient Distracted Driver Detection Model Fusing Convolutional Neural Network and Vision Transformer, Trans. ITS, 2024 | <a href=nan>paper</a> | <a href=https://github.com/lizhao-chd/CoViT_lz>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#100-Driver>100-Driver</a>
+<pre>
+@article{2024_T-ITS_Li_1,
+    author = "Li, Zhao and Zhao, Xia and Wu, Fuwei and Chen, Dan and Wang, Chang",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "A Lightweight and Efficient Distracted Driver Detection Model Fusing Convolutional Neural Network and Vision Transformer",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_T-ITS_Yang></a>
 <details close>
 <summary>Yang et al., Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3316203>paper</a> | <a href=https://yanghh.io/Driver-Distraction-Quantification>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#3MDAD>3MDAD</a>, <a href=datasets.md#AUCD2>AUCD2</a>, <a href=datasets.md#SAM-DD>SAM-DD</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#3MDAD>3MDAD</a>, <a href=datasets_by_year.md#AUCD2>AUCD2</a>, <a href=datasets_by_year.md#SAM-DD>SAM-DD</a>
 <pre>
 @article{2024_T-ITS_Yang,
     author = "Yang, Haohan and Liu, Haochen and Hu, Zhongxu and Nguyen, Anh-Tu and Guerra, Thierry-Marie and Lv, Chen",
@@ -22,14 +92,14 @@ Dataset(s): <a href=datasets.md#3MDAD>3MDAD</a>, <a href=datasets.md#AUCD2>AUCD2
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2024_T-ITS_Li></a>
 <details close>
 <summary>Li et al., Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3367665>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#SFDDD>SFDDD</a>, <a href=datasets.md#AUCD2>AUCD2</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#AUCD2>AUCD2</a>
 <pre>
 @article{2024_T-ITS_Li,
     author = "Li, Guofa and Wang, Guanglei and Guo, Zizheng and Liu, Qing and Luo, Xiyuan and Yuan, Bangwei and Li, Mingrui and Yang, Lu",
@@ -40,14 +110,14 @@ Dataset(s): <a href=datasets.md#SFDDD>SFDDD</a>, <a href=datasets.md#AUCD2>AUCD2
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2024_T-ITS_Hasan></a>
 <details close>
 <summary>Hasan et al., Vision-Language Models Can Identify Distracted Driver Behavior From Naturalistic Videos, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3381175>paper</a> | <a href=https://github.com/zahid-isu/DriveCLIP>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#DMD>DMD</a>, <a href=datasets.md#SAM-DD>SAM-DD</a>, <a href=datasets.md#SFDDD>SFDDD</a>, <a href=datasets.md#SynDD1>SynDD1</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>, <a href=datasets_by_year.md#SAM-DD>SAM-DD</a>, <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#SynDD1>SynDD1</a>
 <pre>
 @article{2024_T-ITS_Hasan,
     author = "Hasan, Md Zahid and Chen, Jiajing and Wang, Jiyang and Rahman, Mohammed Shaiqur and Joshi, Ameya and Velipasalar, Senem and Hegde, Chinmay and Sharma, Anuj and Sarkar, Soumik",
@@ -58,14 +128,14 @@ Dataset(s): <a href=datasets.md#DMD>DMD</a>, <a href=datasets.md#SAM-DD>SAM-DD</
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2024_T-ITS_Chai></a>
 <details close>
 <summary>Chai et al., Rethinking the Evaluation of Driver Behavior Analysis Approaches, Trans. ITS, 2024 | <a href=htpps://doi.org/10.1109/TITS.2024.3354506>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#SFDDD>SFDDD</a>, <a href=datasets.md#AI CITY NDAR>AI CITY NDAR</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#AI CITY NDAR>AI CITY NDAR</a>
 <pre>
 @article{2024_T-ITS_Chai,
     author = "Chai, Weiheng and Wang, Jiyang and Chen, Jiajing and Velipasalar, Senem and Sharma, Anuj",
@@ -76,14 +146,14 @@ Dataset(s): <a href=datasets.md#SFDDD>SFDDD</a>, <a href=datasets.md#AI CITY NDA
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2024_IV_Pizarro></a>
 <details close>
 <summary>Pizarro et al., DRVMon-VM: Distracted driver recognition using large pre-trained video transformers, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588412>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#Drive&Act>Drive&Act</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#Drive&Act>Drive&Act</a>
 <pre>
 @inproceedings{2024_IV_Pizarro,
     author = "Pizarro, Ricardo and Bergasa, Luis M and Baumela, Luis and Buenaposada, Jos{\'e} M and Barea, Rafael",
@@ -95,14 +165,14 @@ Dataset(s): <a href=datasets.md#Drive&Act>Drive&Act</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2024_IV_Palo></a>
 <details close>
 <summary>Palo et al., Holistic Driver Monitoring: A Multi-Task Approach for In-Cabin Driver Attention Evaluation through Multi-Camera Data, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588402>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#DMD>DMD</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>
 <pre>
 @inproceedings{2024_IV_Palo,
     author = "Palo, Patitapaban and Nayak, Satyajit and Modhugu, Durga Nagendra Raghava Kumar and Gupta, Kwanit and Uttarkabat, Satarupa",
@@ -114,14 +184,14 @@ Dataset(s): <a href=datasets.md#DMD>DMD</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2024_IV_Ma></a>
 <details close>
 <summary>Ma et al., ViT-DD: Multi-Task Vision Transformer for Semi-Supervised Driver Distraction Detection, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588802>paper</a> | <a href=https://github.com/PurdueDigitalTwin/ViT-DD>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#SFDDD>SFDDD</a>, <a href=datasets.md#AUCD2>AUCD2</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#AUCD2>AUCD2</a>
 <pre>
 @inproceedings{2024_IV_Ma,
     author = "Ma, Yunsheng and Wang, Ziran",
@@ -133,14 +203,14 @@ Dataset(s): <a href=datasets.md#SFDDD>SFDDD</a>, <a href=datasets.md#AUCD2>AUCD2
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2023_T-ITS_Mittal></a>
 <details close>
 <summary>Mittal et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#AUCD2>AUCD2</a>, Statefarm
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#AUCD2>AUCD2</a>, Statefarm
 <pre>
 @article{2023_T-ITS_Mittal,
     author = "Mittal, Himanshu and Verma, Bindu",
@@ -151,14 +221,14 @@ Dataset(s): <a href=datasets.md#AUCD2>AUCD2</a>, Statefarm
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2023_T-ITS_Mittal></a>
 <details close>
 <summary>Mittal et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#SFDDD>SFDDD</a>, <a href=datasets.md#AUCD2>AUCD2</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#AUCD2>AUCD2</a>
 <pre>
 @article{2023_T-ITS_Mittal,
     author = "Mittal, Himanshu and Verma, Bindu",
@@ -169,14 +239,14 @@ Dataset(s): <a href=datasets.md#SFDDD>SFDDD</a>, <a href=datasets.md#AUCD2>AUCD2
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2023_T-ITS_Kuang></a>
 <details close>
 <summary>Kuang et al., MIFI: MultI-Camera Feature Integration for Robust 3D Distracted Driver Activity Recognition, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3304317>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#3MDAD>3MDAD</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#3MDAD>3MDAD</a>
 <pre>
 @article{2023_T-ITS_Kuang,
     author = "Kuang, Jian and Li, Wenjing and Li, Fang and Zhang, Jun and Wu, Zhongcheng",
@@ -187,14 +257,14 @@ Dataset(s): <a href=datasets.md#3MDAD>3MDAD</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2023_IV_Sonth></a>
 <details close>
 <summary>Sonth et al., Explainable Driver Activity Recognition Using Video Transformer in Highly Automated Vehicle, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186584>paper</a> | <a href=github.com/VTTI/driver-secondary-action-recognition>code</a></summary>
 <ul>
 Dataset(s): VTTIMLP01, SHRP2
-</ul>
-<ul>
 <pre>
 @inproceedings{2023_IV_Sonth,
     author = "Sonth, Akash and Sarkar, Abhijit and Bhagat, Hirva and Abbott, Lynn",
@@ -206,14 +276,14 @@ Dataset(s): VTTIMLP01, SHRP2
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2023_ITSC_Morales-Alvarez></a>
 <details close>
 <summary>Morales-Alvarez et al., On Transferability of Driver Observation Models from Simulated to Real Environments in Autonomous Cars, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10422678>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#Drive&Act>Drive&Act</a>, private
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#Drive&Act>Drive&Act</a>, private
 <pre>
 @inproceedings{2023_ITSC_Morales-Alvarez,
     author = "Morales-Alvarez, Walter and Certad, Novel and Roitberg, Alina and Stiefelhagen, Rainer and Olaverri-Monreal, Cristina",
@@ -225,14 +295,14 @@ Dataset(s): <a href=datasets.md#Drive&Act>Drive&Act</a>, private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2023_ITSC_Hamieh></a>
 <details close>
 <summary>Hamieh et al., Driver Visual Distraction Detection Using Unsupervised Learning Techniques, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10421874>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2023_ITSC_Hamieh,
     author = "Hamieh, Salam and Heiries, Vincent and Al-Osman, Hussein and Godin, Christelle and Aloui, Saifeddine",
@@ -244,14 +314,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2023_CVPRW_Zhou></a>
 <details close>
 <summary>Zhou et al., Multi View Action Recognition for Distracted Driver Behavior Localization, CVPRW, 2023 | <a href=https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Zhou_Multi_View_Action_Recognition_for_Distracted_Driver_Behavior_Localization_CVPRW_2023_paper.pdf>paper</a> | <a href=https://github.com/Meituan-IoTCV/aicity_release>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#AI CITY NDAR>AI CITY NDAR</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#AI CITY NDAR>AI CITY NDAR</a>
 <pre>
 @inproceedings{2023_CVPRW_Zhou,
     author = "Zhou, Wei and Qian, Yinlong and Jie, Zequn and Ma, Lin",
@@ -262,14 +332,14 @@ Dataset(s): <a href=datasets.md#AI CITY NDAR>AI CITY NDAR</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2022_T-ITS_Du></a>
 <details close>
 <summary>Du et al., A Multimodal Fusion Fatigue Driving Detection Method Based on Heart Rate and PERCLOS, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3176973>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#RLDD>RLDD</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#RLDD>RLDD</a>
 <pre>
 @article{2022_T-ITS_Du,
     author = "Du, Guanglong and Zhang, Linlin and Su, Kang and Wang, Xueqian and Teng, Shaohua and Liu, Peter X",
@@ -283,14 +353,14 @@ Dataset(s): <a href=datasets.md#RLDD>RLDD</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2022_CVPRW_Doshi></a>
 <details close>
 <summary>Doshi et al., Federated Learning-based Driver Activity Recognition for Edge Devices, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Doshi_Federated_Learning-Based_Driver_Activity_Recognition_for_Edge_Devices_CVPRW_2022_paper.pdf>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#SynDD1>SynDD1</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#SynDD1>SynDD1</a>
 <pre>
 @inproceedings{2022_CVPRW_Doshi,
     author = "Doshi, Keval and Yilmaz, Yasin",
@@ -301,14 +371,14 @@ Dataset(s): <a href=datasets.md#SynDD1>SynDD1</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2022_CVPRW_Ding></a>
 <details close>
 <summary>Ding et al., A Coarse-to-Fine Boundary Localization method for Naturalistic Driving Action Recognition, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Ding_A_Coarse-To-Fine_Boundary_Localization_Method_for_Naturalistic_Driving_Action_Recognition_CVPRW_2022_paper.pdf>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#SynDD1>SynDD1</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#SynDD1>SynDD1</a>
 <pre>
 @article{2022_CVPRW_Ding,
     author = "Du, Guanglong and Zhang, Linlin and Su, Kang and Wang, Xueqian and Teng, Shaohua and Liu, Peter X",
@@ -322,14 +392,14 @@ Dataset(s): <a href=datasets.md#SynDD1>SynDD1</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2022_CVPRW_Alyahya></a>
 <details close>
 <summary>Alyahya et al., Temporal Driver Action Localization using Action Classification Methods, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Alyahya_Temporal_Driver_Action_Localization_Using_Action_Classification_Methods_CVPRW_2022_paper.pdf>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#SynDD1>SynDD1</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#SynDD1>SynDD1</a>
 <pre>
 @inproceedings{2022_CVPRW_Alyahya,
     author = "Alyahya, Munirah and Alghannam, Shahad and Alhussan, Taghreed",
@@ -340,14 +410,14 @@ Dataset(s): <a href=datasets.md#SynDD1>SynDD1</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2021_WACV_Kopuklu></a>
 <details close>
 <summary>Kopuklu et al., Driver Anomaly Detection: A Dataset and Contrastive Learning Approach, WACV, 2021 | <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Kopuklu_Driver_Anomaly_Detection_A_Dataset_and_Contrastive_Learning_Approach_WACV_2021_paper.pdf>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#DAD>DAD</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#DAD>DAD</a>
 <pre>
 @inproceedings{2021_WACV_Kopuklu,
     author = "Kopuklu, Okan and Zheng, Jiapeng and Xu, Hang and Rigoll, Gerhard",
@@ -358,14 +428,14 @@ Dataset(s): <a href=datasets.md#DAD>DAD</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2021_T-ITS_Huang></a>
 <details close>
 <summary>Huang et al., Driver Distraction Detection Based on the True Driver’s Focus of Attention, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2022.3166208>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#DADA-2000>DADA-2000</a>, <a href=datasets.md#TrafficSaliency>TrafficSaliency</a>, <a href=datasets.md#BDD-A>BDD-A</a>, <a href=datasets.md#DR(eye)VE>DR(eye)VE</a>, private
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#TrafficSaliency>TrafficSaliency</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, private
 <pre>
 @article{2021_T-ITS_Huang,
     author = "Huang, Jianling and Long, Yan and Zhao, Xiaohua",
@@ -376,14 +446,14 @@ Dataset(s): <a href=datasets.md#DADA-2000>DADA-2000</a>, <a href=datasets.md#Tra
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2021_T-ITS_Chen></a>
 <details close>
 <summary>Chen et al., Fine-Grained Detection of Driver Distraction Based on Neural Architecture Search, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3055545>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#C42CN>C42CN</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#C42CN>C42CN</a>
 <pre>
 @article{2021_T-ITS_Chen,
     author = "Chen, Jie and Jiang, YaNan and Huang, ZhiXiang and Guo, XiaoHui and Wu, BoCai and Sun, Long and Wu, Tao",
@@ -393,14 +463,14 @@ Dataset(s): <a href=datasets.md#C42CN>C42CN</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2021_PR_Yang></a>
 <details close>
 <summary>Yang et al., Recognition of visual-related non-driving activities using a dual-camera monitoring system, PR, 2021 | <a href=https://doi.org/10.1016/j.patcog.2021.107955>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2021_PR_Yang,
     author = "Yang, Lichao and Dong, Kuo and Ding, Yan and Brighton, James and Zhan, Zhenfei and Zhao, Yifan",
@@ -412,14 +482,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2021_PR_Yang></a>
 <details close>
 <summary>Yang et al., Recognition of visual-related non-driving activities using a dual-camera monitoring system, Pattern Recognition, 2021 | <a href=https://doi.org/10.1016/j.patcog.2021.107955>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2021_PR_Yang,
     author = "Yang, Lichao and Dong, Kuo and Ding, Yan and Brighton, James and Zhan, Zhenfei and Zhao, Yifan",
@@ -431,14 +501,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2020_IROS_Tran></a>
 <details close>
 <summary>Tran et al., Real-time Detection of Distracted Driving using Dual Cameras, IROS, 2020 | <a href=https://doi.org/10.1109/IROS45743.2020.9340921>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2020_IROS_Tran,
     author = "Tran, Duy and Do, Ha Manh and Lu, Jiaxing and Sheng, Weihua",
@@ -448,14 +518,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2019_TMC_Fan></a>
 <details close>
 <summary>Fan et al., GazMon: Eye Gazing Enabled Driving Behavior Monitoring and Prediction, IEEE Transactions on Mobile Computing, 2019 | <a href=https://doi.org/10.1109/TMC.2019.2962764>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2019_TMC_Fan,
     author = "Fan, Xiaoyi and Wang, Feng and Song, Danyang and Lu, Yuhe and Liu, Jiangchuan",
@@ -465,14 +535,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2019_T-ITS_Chiou></a>
 <details close>
 <summary>Chiou et al., Driver Monitoring Using Sparse Representation With Part-Based Temporal Face Descriptors, Trans. ITS, 2019 | <a href=https://doi.org/10.1109/TITS.2019.2892155>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#YawDD>YawDD</a>, <a href=datasets.md#DDD>DDD</a>
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#YawDD>YawDD</a>, <a href=datasets_by_year.md#DDD>DDD</a>
 <pre>
 @article{2019_T-ITS_Chiou,
     author = "Chiou, Chien-Yu and Wang, Wei-Cheng and Lu, Shueh-Chou and Huang, Chun-Rong and Chung, Pau-Choo and Lai, Yun-Yang",
@@ -486,14 +556,14 @@ Dataset(s): <a href=datasets.md#YawDD>YawDD</a>, <a href=datasets.md#DDD>DDD</a>
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2018_IROS_Wang></a>
 <details close>
 <summary>Wang et al., Real-Time Workload Classification during Driving using HyperNetworks, IROS, 2018 | <a href=https://doi.org/10.1109/IROS.2018.8594305>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2018_IROS_Wang,
     author = "Wang, Ruohan and Amadori, Pierluigi V and Demiris, Yiannis",
@@ -503,14 +573,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2017_NeurIPS_Abouelnaga></a>
 <details close>
 <summary>Abouelnaga et al., Real-time Distracted Driver Posture Classification, NeurIPSW, 2018 | <a href=https://arxiv.org/pdf/1706.09498.pdf>paper</a></summary>
 <ul>
 Dataset(s): AUCDD
-</ul>
-<ul>
 <pre>
 @inproceedings{2017_NeurIPS_Abouelnaga,
     author = "Abouelnaga, Yehya and Eraqi, Hesham M. and Moustafa, Mohamed N.",
@@ -520,14 +590,14 @@ Dataset(s): AUCDD
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2016_TransRes_Munoz></a>
 <details close>
 <summary>Munoz et al., Distinguishing patterns in drivers’ visual attention allocation using Hidden Markov Models, Transportation Research Part F, 2016 | <a href=https://doi.org/10.1016/j.trf.2016.09.015>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2016_TransRes_Munoz,
     author = "Mu{\\textasciitilde n}oz, Mauricio and Reimer, Bryan and Lee, Joonbum and Mehler, Bruce and Fridman, Lex",
@@ -539,14 +609,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2016_T-ITS_Liao></a>
 <details close>
 <summary>Liao et al., Detection of Driver Cognitive Distraction: A Comparison Study of Stop-Controlled Intersection and Speed-Limited Highway, Trans. ITS, 2016 | <a href=https://doi.org/10.1109/TITS.2015.2506602>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2016_T-ITS_Liao,
     author = "Liao, Yuan and Li, Shengbo Eben and Wang, Wenjun and Wang, Ying and Li, Guofa and Cheng, Bo",
@@ -560,14 +630,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2016_T-ITS_Li></a>
 <details close>
 <summary>Li et al., Detecting Drivers’ Mirror-Checking Actions and Its Application to Maneuver and Secondary Task Recognition, Trans. ITS, 2016 | <a href=https://doi.org/10.1109/TITS.2015.2493451>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2016_T-ITS_Li,
     author = "Li, Nanxiang and Busso, Carlos",
@@ -581,14 +651,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2016_IV_Liao></a>
 <details close>
 <summary>Liao et al., Detection of Driver Cognitive Distraction: A Comparison Study of Stop-Controlled Intersection and Speed-Limited Highway, IV, 2016 | <a href=https://doi.org/10.1109/IVS.2016.7535416>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2016_IV_Liao,
     author = "Liao, Yuan and Li, Shengbo Eben and Li, Guofa and Wang, Wenjun and Cheng, Bo and Chen, Fang",
@@ -598,14 +668,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2016_IV_Kim></a>
 <details close>
 <summary>Kim et al., Fusion of Driver-information Based Driver Status Recognition for Co-Pilot System, IV, 2016 | <a href=https://doi.org/10.1109/IVS.2016.7535573>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2016_IV_Kim,
     author = "Kim, Jinwoo and Kim, Kitae and Yoon, Daesub and Koo, Yongbon and Han, Wooyong",
@@ -617,14 +687,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2015_T-ITS_Liu></a>
 <details close>
 <summary>Liu et al., Driver Distraction Detection Using Semi-Supervised Machine Learning, Trans. ITS, 2015 | <a href=https://doi.org/10.1109/TITS.2015.2496157>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2015_T-ITS_Liu,
     author = "Liu, Tianchi and Yang, Yan and Huang, Guang-Bin and Yeo, Yong Kiang and Lin, Zhiping",
@@ -637,14 +707,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2015_T-ITS_Li></a>
 <details close>
 <summary>Li et al., Predicting Perceived Visual and Cognitive Distractions of Drivers With Multimodal Features, Trans. ITS, 2015 | <a href=https://doi.org/10.1109/TITS.2014.2324414>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2015_T-ITS_Li,
     author = "Li, Nanxiang and Busso, Carlos",
@@ -657,14 +727,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2015_T-ITS_Braunagel></a>
 <details close>
 <summary>Braunagel et al., Driver-Activity Recognition in the Context of Conditionally Autonomous Driving, Trans. ITS, 2015 | <a href=https://doi.org/10.1109/ITSC.2015.268>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2015_T-ITS_Braunagel,
     author = "Braunagel, Christian and Kasneci, Enkelejda and Stolzmann, Wolfgang and Rosenstiel, Wolfgang",
@@ -674,14 +744,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2015_ITSC_Liu></a>
 <details close>
 <summary>Liu et al., Cluster regularized extreme learning machine for detecting mixed-type distraction in driving, ITSC, 2015 | <a href=https://doi.org/10.1109/ITSC.2015.217>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2015_ITSC_Liu,
     author = "Liu, Tianchi and Yang, Yan and Huang, Guang-Bin and Lin, Zhiping and Klanner, Felix and Denk, Cornelia and Rasshofer, Ralph H",
@@ -691,14 +761,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2015_CVPRW_Seshadri></a>
 <details close>
 <summary>Seshadri et al., Driver Cell Phone Usage Detection on Strategic Highway Research Program (SHRP2) Face View Videos, CVPRW, 2015 | <a href=https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W11/papers/Seshadri_Driver_Cell_Phone_2015_CVPR_paper.pdf>paper</a></summary>
 <ul>
 Dataset(s): SHRP2
-</ul>
-<ul>
 <pre>
 @inproceedings{2015_CVPRW_Seshadri,
     author = "Seshadri, Keshav and Juefei-Xu, Felix and Pal, Dipan K and Savvides, Marios and Thor, Craig P",
@@ -708,14 +778,14 @@ Dataset(s): SHRP2
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2014_ITSC_Hirayama></a>
 <details close>
 <summary>Hirayama et al., Analysis of Peripheral Vehicular Behavior in Driver’s Gaze Transition: Differences between Driver’s Neutral and Cognitive Distraction States, ITSC, 2014 | <a href=https://doi.org/10.1109/ITSC.2014.6957813>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2014_ITSC_Hirayama,
     author = "Hirayama, Takatsugu and Sato, Shota and Mase, Kenji and Miyajima, Chiyomi and Takeda, Kazuya",
@@ -725,14 +795,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2013_T-ITS_Tango></a>
 <details close>
 <summary>Tango et al., Real-Time Detection System of Driver Distraction Using Machine Learning, Trans. ITS, 2013 | <a href=https://doi.org/10.1109/TITS.2013.2247760>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2013_T-ITS_Tango,
     author = "Tango, Fabio and Botta, Marco",
@@ -745,14 +815,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2013_T-ITS_Mbouna></a>
 <details close>
 <summary>Mbouna et al., Visual Analysis of Eye State and Head Pose for Driver Alertness Monitoring, Trans. ITS, 2013 | <a href=https://doi.org/10.1109/TITS.2013.2262098>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets.md#BU HeadTracking>BU HeadTracking</a>, private
-</ul>
-<ul>
+Dataset(s): <a href=datasets_by_year.md#BU HeadTracking>BU HeadTracking</a>, private
 <pre>
 @article{2013_T-ITS_Mbouna,
     author = "Mbouna, Ralph Oyini and Kong, Seong G and Chun, Myung-Geun",
@@ -765,14 +835,14 @@ Dataset(s): <a href=datasets.md#BU HeadTracking>BU HeadTracking</a>, private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2013_IV_Masala></a>
 <details close>
 <summary>Masala et al., Detecting Driver Inattention by Rough Iconic Classification, IV, 2013 | <a href=https://doi.org/10.1109/IVS.2013.6629583>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2013_IV_Masala,
     author = "Masala, Giovanni Luca and Grosso, Enrico",
@@ -784,14 +854,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2013_DDI_Ahlstrom></a>
 <details close>
 <summary>Ahlstrom et al., A Gaze-Based Driver Distraction Warning System and Its Effect on Visual Behavior, Driver Distraction and Inattention, 2013 | <a href=https://doi.org/10.1201/9781315578156>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inbook{2013_DDI_Ahlstrom,
     author = "Kircher, Katja and Ahlstrom, Christer",
@@ -804,14 +874,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2012_ITSC_Hirayama></a>
 <details close>
 <summary>Hirayama et al., Detection of Driver Distraction based on Temporal Relationship between Eye-Gaze and Peripheral Vehicle Behavior, ITSC, 2012 | <a href=https://doi.org/10.1109/ITSC.2012.6338634>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @inproceedings{2012_ITSC_Hirayama,
     author = "Hirayama, Takatsugu and Mase, Kenji and Takeda, Kazuya",
@@ -821,14 +891,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2011_T-ITS_Wollmer></a>
 <details close>
 <summary>Wollmer et al., Online Driver Distraction Detection UsingLong Short-Term Memory, Trans. ITS, 2011 | <a href=https://doi.org/10.1109/TITS.2011.2119483>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2011_T-ITS_Wollmer,
     author = {Wollmer, Martin and Blaschke, Christoph and Schindl, Thomas and Schuller, Bj{\"o}rn and Farber, Berthold and Mayer, Stefan and Trefflich, Benjamin},
@@ -841,14 +911,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2011_OptEng_Jo></a>
 <details close>
 <summary>Jo et al., Vision-based method for detecting driver drowsiness and distraction in driver monitoring system, Optical Engineering, 2011 | <a href=https://doi.org/10.1117/1.3657506>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2011_OptEng_Jo,
     author = "Jo, Jaeik and Lee, Sung Joo and Kim, Jaihie and Jung, Ho Gi and Park, Kang Ryoung",
@@ -861,14 +931,14 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
 <ul><a name=2011_IET_Flores></a>
 <details close>
 <summary>Flores et al., Driver drowsiness detection system under infrared illumination for an intelligent vehicle, IET Intelligent Transport Systems, 2011 | <a href=https://doi.org/10.1049/iet-its.2009.0090>paper</a></summary>
 <ul>
 Dataset(s): private
-</ul>
-<ul>
 <pre>
 @article{2011_IET_Flores,
     author = "Flores, Marco Javier and Armingol, J Ma and de la Escalera, Arturo",
@@ -882,4 +952,6 @@ Dataset(s): private
 }
 </pre>
 </ul>
+</details>
+
 </ul>
