@@ -9,7 +9,7 @@ ___
 <details close>
 <summary>Araluce et al., Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3350337>paper</a></summary>
 <ul>
-Dataset(s): DADA, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, BDD-OIA
+Dataset(s): DADA, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#BDD-OIA>BDD-OIA</a>
 <pre>
 @article{2024_T-ITS_Araluce,
     author = "Araluce, Javier and Bergasa, Luis M and Oca{\\textasciitilde n}a, Manuel and Llamazares, {\'A}ngel and L{\'o}pez-Guill{\'e}n, Elena",
