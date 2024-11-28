@@ -947,7 +947,7 @@ Dataset(s): <a href=datasets_by_year.md#MAAD>MAAD</a>
 ### 2020
 <a name="BDD-OIA"></a>
 <details close>
-<summary>BDD-OIA | <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Explainable_Object-Induced_Action_Decision_for_Autonomous_Vehicles_CVPR_2020_paper.pdf>paper</a></summary>
+<summary>BDD-OIA | <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Explainable_Object-Induced_Action_Decision_for_Autonomous_Vehicles_CVPR_2020_paper.pdf>paper</a> | <a href=https://github.com/Twizwei/bddoia_project>link</a></summary>
 <ul>
 Full name: BDD Object Induced Action
 </ul>

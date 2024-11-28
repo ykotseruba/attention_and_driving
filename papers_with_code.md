@@ -687,7 +687,7 @@ Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_yea
 </ul>
 <ul><a name=2023_IV_Sonth></a>
 <details close>
-<summary>Sonth et al., Explainable Driver Activity Recognition Using Video Transformer in Highly Automated Vehicle, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186584>paper</a> | <a href=github.com/VTTI/driver-secondary-action-recognition>code</a></summary>
+<summary>Sonth et al., Explainable Driver Activity Recognition Using Video Transformer in Highly Automated Vehicle, IV, 2023 | <a href=https://doi.org/10.1109/IV55152.2023.10186584>paper</a> | <a href=https://github.com/VTTI/driver-secondary-action-recognition>code</a></summary>
 <ul>
 Dataset(s): VTTIMLP01, SHRP2
 <pre>
