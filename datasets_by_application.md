@@ -2319,6 +2319,92 @@ Annotations: bounding boxes, action labels
 </details>
 </ul>
 
+<a name="SCOUT"></a>
+<details close>
+<summary>SCOUT | <a href=https://doi.org/10.1109/IV55156.2024.10588528>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>link</a></summary>
+<ul>
+Full name: Task and Context-Modulated Attention
+</ul>
+</summary>
+<ul>
+Description: Extended annotations for four public datasets for studying drivers’ attention: DR(eye)VE, BDD-A, MAAD, LBW
+</ul>
+</summary>
+<ul>
+Data: eye-tracking
+</ul>
+</summary>
+<ul>
+Annotations: action labels, context labels, map information
+</ul>
+<ul>
+<pre>
+@inproceedings{2024_IV_Kotseruba_1,
+    author = "Kotseruba, Iuliia and Tsotsos, John K",
+    booktitle = "Intelligent Vehicles Symposium (IV)",
+    title = "Data Limitations for Modeling Top-Down Effects on Drivers' Attention",
+    year = "2024"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2024_IV_Kotseruba_2></a>
+<details close>
+<summary>Kotseruba et al., SCOUT+: Towards Practical Task-Driven Drivers’ Gaze Prediction, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588743>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#SCOUT>SCOUT</a>
+<pre>
+@inproceedings{2024_IV_Kotseruba_2,
+    author = "Kotseruba, Iuliia and Tsotsos, John K",
+    booktitle = "Intelligent Vehicles Symposium (IV)",
+    title = "{SCOUT+: Towards Practical Task-Driven Drivers' Gaze Prediction}",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_IV_Kotseruba_1></a>
+<details close>
+<summary>Kotseruba et al., Data Limitations for Modeling Top-Down Effects on Drivers’ Attention, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588528>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#MAAD>MAAD</a>, <a href=datasets_by_year.md#LBW>LBW</a>, <a href=datasets_by_year.md#SCOUT>SCOUT</a>
+<pre>
+@inproceedings{2024_IV_Kotseruba_1,
+    author = "Kotseruba, Iuliia and Tsotsos, John K",
+    booktitle = "Intelligent Vehicles Symposium (IV)",
+    title = "Data Limitations for Modeling Top-Down Effects on Drivers' Attention",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_IV_Kotseruba></a>
+<details close>
+<summary>Kotseruba et al., Understanding and Modeling the Effects of Task and Context on Drivers’ Gaze Allocation, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588589>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#SCOUT>SCOUT</a>
+<pre>
+@inproceedings{2024_IV_Kotseruba,
+    author = "Kotseruba, Iuliia and Tsotsos, John K",
+    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1337--1344",
+    title = "Understanding and modeling the effects of task and context on drivers’ gaze allocation",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
 ### Object importance
 <a name="BDD-OIA"></a>
 <details close>
@@ -3094,92 +3180,6 @@ Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>
 </ul>
 
 ### Scene gaze
-<a name="SCOUT"></a>
-<details close>
-<summary>SCOUT | <a href=https://doi.org/10.1109/IV55156.2024.10588528>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>link</a></summary>
-<ul>
-Full name: Task and Context-Modulated Attention
-</ul>
-</summary>
-<ul>
-Description: Extended annotations for four public datasets for studying drivers’ attention: DR(eye)VE, BDD-A, MAAD, LBW
-</ul>
-</summary>
-<ul>
-Data: eye-tracking
-</ul>
-</summary>
-<ul>
-Annotations: action labels, context labels, map information
-</ul>
-<ul>
-<pre>
-@inproceedings{2024_IV_Kotseruba_1,
-    author = "Kotseruba, Iuliia and Tsotsos, John K",
-    booktitle = "Intelligent Vehicles Symposium (IV)",
-    title = "Data Limitations for Modeling Top-Down Effects on Drivers' Attention",
-    year = "2024"
-}
-</pre>
-<details close>
-<summary>Used in papers:
-<ul><a name=2024_IV_Kotseruba_2></a>
-<details close>
-<summary>Kotseruba et al., SCOUT+: Towards Practical Task-Driven Drivers’ Gaze Prediction, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588743>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#SCOUT>SCOUT</a>
-<pre>
-@inproceedings{2024_IV_Kotseruba_2,
-    author = "Kotseruba, Iuliia and Tsotsos, John K",
-    booktitle = "Intelligent Vehicles Symposium (IV)",
-    title = "{SCOUT+: Towards Practical Task-Driven Drivers' Gaze Prediction}",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2024_IV_Kotseruba_1></a>
-<details close>
-<summary>Kotseruba et al., Data Limitations for Modeling Top-Down Effects on Drivers’ Attention, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588528>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#MAAD>MAAD</a>, <a href=datasets_by_year.md#LBW>LBW</a>, <a href=datasets_by_year.md#SCOUT>SCOUT</a>
-<pre>
-@inproceedings{2024_IV_Kotseruba_1,
-    author = "Kotseruba, Iuliia and Tsotsos, John K",
-    booktitle = "Intelligent Vehicles Symposium (IV)",
-    title = "Data Limitations for Modeling Top-Down Effects on Drivers' Attention",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2024_IV_Kotseruba></a>
-<details close>
-<summary>Kotseruba et al., Understanding and Modeling the Effects of Task and Context on Drivers’ Gaze Allocation, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588589>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#SCOUT>SCOUT</a>
-<pre>
-@inproceedings{2024_IV_Kotseruba,
-    author = "Kotseruba, Iuliia and Tsotsos, John K",
-    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
-    organization = "IEEE",
-    pages = "1337--1344",
-    title = "Understanding and modeling the effects of task and context on drivers’ gaze allocation",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-</details>
-</details>
-</ul>
-
 <a name="DrFixD-night"></a>
 <details close>
 <summary>DrFixD-night | <a href=https://doi.org/10.1109/TITS.2023.3323468>paper</a> | <a href=https://github.com/taodeng/DrFixD-night>link</a></summary>
@@ -4220,6 +4220,92 @@ Dataset(s): <a href=datasets_by_year.md#3DDS>3DDS</a>
     booktitle = "BMVC",
     title = "Computational Modeling of Top-down Visual Attention in Interactive Environments.",
     year = "2011"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+<a name="SCOUT"></a>
+<details close>
+<summary>SCOUT | <a href=https://doi.org/10.1109/IV55156.2024.10588528>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>link</a></summary>
+<ul>
+Full name: Task and Context-Modulated Attention
+</ul>
+</summary>
+<ul>
+Description: Extended annotations for four public datasets for studying drivers’ attention: DR(eye)VE, BDD-A, MAAD, LBW
+</ul>
+</summary>
+<ul>
+Data: eye-tracking
+</ul>
+</summary>
+<ul>
+Annotations: action labels, context labels, map information
+</ul>
+<ul>
+<pre>
+@inproceedings{2024_IV_Kotseruba_1,
+    author = "Kotseruba, Iuliia and Tsotsos, John K",
+    booktitle = "Intelligent Vehicles Symposium (IV)",
+    title = "Data Limitations for Modeling Top-Down Effects on Drivers' Attention",
+    year = "2024"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2024_IV_Kotseruba_2></a>
+<details close>
+<summary>Kotseruba et al., SCOUT+: Towards Practical Task-Driven Drivers’ Gaze Prediction, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588743>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#SCOUT>SCOUT</a>
+<pre>
+@inproceedings{2024_IV_Kotseruba_2,
+    author = "Kotseruba, Iuliia and Tsotsos, John K",
+    booktitle = "Intelligent Vehicles Symposium (IV)",
+    title = "{SCOUT+: Towards Practical Task-Driven Drivers' Gaze Prediction}",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_IV_Kotseruba_1></a>
+<details close>
+<summary>Kotseruba et al., Data Limitations for Modeling Top-Down Effects on Drivers’ Attention, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588528>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#MAAD>MAAD</a>, <a href=datasets_by_year.md#LBW>LBW</a>, <a href=datasets_by_year.md#SCOUT>SCOUT</a>
+<pre>
+@inproceedings{2024_IV_Kotseruba_1,
+    author = "Kotseruba, Iuliia and Tsotsos, John K",
+    booktitle = "Intelligent Vehicles Symposium (IV)",
+    title = "Data Limitations for Modeling Top-Down Effects on Drivers' Attention",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_IV_Kotseruba></a>
+<details close>
+<summary>Kotseruba et al., Understanding and Modeling the Effects of Task and Context on Drivers’ Gaze Allocation, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588589>paper</a> | <a href=https://github.com/ykotseruba/SCOUT>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#SCOUT>SCOUT</a>
+<pre>
+@inproceedings{2024_IV_Kotseruba,
+    author = "Kotseruba, Iuliia and Tsotsos, John K",
+    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1337--1344",
+    title = "Understanding and modeling the effects of task and context on drivers’ gaze allocation",
+    year = "2024"
 }
 </pre>
 </ul>
