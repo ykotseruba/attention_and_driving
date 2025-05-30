@@ -5,6 +5,24 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| Action anticipation&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2025_T-ITS_Liu></a>
+<details close>
+<summary>Liu et al., Individualized Driving Intention Prediction With Inverse Reinforcement Learning, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3543553>paper</a></summary>
+<ul>
+Dataset(s): Brains4Cars, private
+<pre>
+@article{2025_T-ITS_Liu,
+    author = "Liu, Siqi and Li, Xinyang and Chen, Jiansheng and Guo, Chenghao and Wu, Jiehui and Luo, Qifeng and Ma, Huimin",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Individualized Driving Intention Prediction With Inverse Reinforcement Learning",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_ICRA_Kung></a>
 <details close>
 <summary>Kung et al., Looking Inside Out: Anticipating Driver Intent From Videos, ICRA, 2024 | <a href=https://doi.org/10.1109/ICRA57147.2024.10610257>paper</a> | <a href=https://github.com/ykung83/Driver-Intent-Prediction>code</a></summary>

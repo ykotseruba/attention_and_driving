@@ -5,6 +5,44 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| Self-driving&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2025_AAAI_Han></a>
+<details close>
+<summary>Han et al., DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving, AAAI, 2025 | <a href=nan>paper</a></summary>
+<ul>
+Dataset(s): private
+<pre>
+@inproceedings{2025_AAAI_Han,
+    author = "Han, Wencheng and Guo, Dongqian and Xu, Cheng-Zhong and Shen, Jianbing",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "3",
+    pages = "3347--3355",
+    title = "Dme-driver: Integrating human decision logic and 3d scene perception in autonomous driving",
+    volume = "39",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_T-ITS_Fu></a>
+<details close>
+<summary>Fu et al., Top-Down Attention-Based Mechanisms for Interpretable Autonomous Driving, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2024.3510853>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#BDD-OIA>BDD-OIA</a>, CARLA
+<pre>
+@article{2025_T-ITS_Fu,
+    author = "Fu, Zheng and Jiang, Kun and Xu, Yuhang and Wang, Yunlong and Wen, Tuopu and Gao, Hao and Zhong, Zhihua and Yang, Diange",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Top-down attention-based mechanisms for interpretable autonomous driving",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_T-ITS_Araluce></a>
 <details close>
 <summary>Araluce et al., Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3350337>paper</a></summary>

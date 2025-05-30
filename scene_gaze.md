@@ -5,6 +5,80 @@
 Scene gaze&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2025_AAAI_Zhao></a>
+<details close>
+<summary>Zhao et al., SalM²: An Extremely Lightweight Saliency Mamba Model for Real-Time Cognitive Awareness of Driver Attention , AAAI, 2025 | <a href=https://doi.org/10.1609/aaai.v39i2.32157>paper</a> | <a href=https://github.com/zhao-chunyu/SaliencyMamba>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DrFixD-rainy>DrFixD-rainy</a>, <a href=datasets_by_year.md#TrafficSaliency>TrafficSaliency</a>
+<pre>
+@inproceedings{2025_AAAI_Zhao,
+    author = "Zhao, Chunyu and Mu, Wentao and Zhou, Xian and Liu, Wenbo and Yan, Fei and Deng, Tao",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "2",
+    pages = "1647--1655",
+    title = "SalM$^2$: An Extremely Lightweight Saliency Mamba Model for Real-Time Cognitive Awareness of Driver Attention",
+    volume = "39",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_T-ITS_Jin></a>
+<details close>
+<summary>Jin et al., MTSF: Multi-Scale Temporal–Spatial Fusion Network for Driver Attention Prediction, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2024.3510116>paper</a> | <a href=https://github.com/JiBingdong/MTSF>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, TDV, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>
+<pre>
+@article{2025_T-ITS_Jin,
+    author = "Jin, Lisheng and Ji, Bingdong and Guo, Baicang and Wang, Huanhuan and Han, Zhuotong and Liu, Xingchen",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "MTSF: Multi-Scale Temporal--Spatial Fusion Network for Driver Attention Prediction",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_T-ITS_Abbasi></a>
+<details close>
+<summary>Abbasi et al., Enhancing Cyclist Safety Through Driver Gaze Analysis at Intersections With Cycle Lanes, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3530872>paper</a></summary>
+<ul>
+Dataset(s): private
+<pre>
+@article{2025_T-ITS_Abbasi,
+    author = "Abbasi, Jibran A and Parsi, Ashkan and Ringelstein, Nicolas and Reilhac, Patrice and Jones, Edward and Glavin, Martin",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Enhancing Cyclist Safety Through Driver Gaze Analysis at Intersections With Cycle Lanes",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_WACVW_Kumamoto></a>
+<details close>
+<summary>Kumamoto et al., AAT-DA: Accident Anticipation Transformer with Driver Attention, WACVW, 2025 | <a href=https://openaccess.thecvf.com/content/WACV2025W/HAVI/papers/Kumamoto_AAT-DA_Accident_Anticipation_Transformer_with_Driver_Attention_WACVW_2025_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#Dashcam>Dashcam</a>, <a href=datasets_by_year.md#CCD>CCD</a>
+<pre>
+@inproceedings{2025_WACVW_Kumamoto,
+    author = "Kumamoto, Yuto and Ohtani, Kento and Suzuki, Daiki and Yamataka, Minori and Takeda, Kazuya",
+    booktitle = "Proceedings of the Winter Conference on Applications of Computer Vision",
+    pages = "1142--1151",
+    title = "AAT-DA: Accident Anticipation Transformer with Driver Attention",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_R-AL_Gupta></a>
 <details close>
 <summary>Gupta et al., Object Importance Estimation Using Counterfactual Reasoning for Intelligent Driving, R-AL, 2024 | <a href=https://doi.org/10.1109/LRA.2024.3368301>paper</a> | <a href=https://github.com/vehicle-importance/oiecr>code</a></summary>

@@ -9,7 +9,7 @@ ___
 <details close>
 <summary>Chen et al., A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3446832>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#DAD>DAD</a>, private
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#Dashcam>Dashcam</a>, private
 <pre>
 @article{2024_T-ITS_Chen,
     author = "Chen, Jiansong and Zhang, Qixiang and Chen, Jinxin and Wang, Jinxiang and Fang, Zhenwu and Liu, Yahui and Yin, Guodong",
@@ -43,7 +43,7 @@ Dataset(s): private
 </ul>
 <ul><a name=2024_T-ITS_Li_2></a>
 <details close>
-<summary>Li et al., Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification, Trans. ITS, 2024 | <a href=nan>paper</a></summary>
+<summary>Li et al., Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3367665>paper</a></summary>
 <ul>
 Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#AUCD2>AUCD2</a>
 <pre>
@@ -61,7 +61,7 @@ Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_yea
 </ul>
 <ul><a name=2024_T-ITS_Li_1></a>
 <details close>
-<summary>Li et al., A Lightweight and Efficient Distracted Driver Detection Model Fusing Convolutional Neural Network and Vision Transformer, Trans. ITS, 2024 | <a href=nan>paper</a> | <a href=https://github.com/lizhao-chd/CoViT_lz>code</a></summary>
+<summary>Li et al., A Lightweight and Efficient Distracted Driver Detection Model Fusing Convolutional Neural Network and Vision Transformer, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3447041>paper</a> | <a href=https://github.com/lizhao-chd/CoViT_lz>code</a></summary>
 <ul>
 Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#100-Driver>100-Driver</a>
 <pre>
@@ -210,7 +210,7 @@ Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_yea
 <details close>
 <summary>Mittal et al., CAT-CapsNet: A Convolutional and Attention Based Capsule Network to Detect the Driver’s Distraction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3266113>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#AUCD2>AUCD2</a>, Statefarm
+Dataset(s): <a href=datasets_by_year.md#AUCD2>AUCD2</a>, <a href=datasets_by_year.md#SFDDD>SFDDD</a>
 <pre>
 @article{2023_T-ITS_Mittal,
     author = "Mittal, Himanshu and Verma, Bindu",
@@ -417,7 +417,7 @@ Dataset(s): <a href=datasets_by_year.md#SynDD1>SynDD1</a>
 <details close>
 <summary>Kopuklu et al., Driver Anomaly Detection: A Dataset and Contrastive Learning Approach, WACV, 2021 | <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Kopuklu_Driver_Anomaly_Detection_A_Dataset_and_Contrastive_Learning_Approach_WACV_2021_paper.pdf>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DAD>DAD</a>
+Dataset(s): <a href=datasets_by_year.md#Dashcam>Dashcam</a>
 <pre>
 @inproceedings{2021_WACV_Kopuklu,
     author = "Kopuklu, Okan and Zheng, Jiapeng and Xu, Hang and Rigoll, Gerhard",
@@ -542,7 +542,7 @@ Dataset(s): private
 <details close>
 <summary>Chiou et al., Driver Monitoring Using Sparse Representation With Part-Based Temporal Face Descriptors, Trans. ITS, 2019 | <a href=https://doi.org/10.1109/TITS.2019.2892155>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#YawDD>YawDD</a>, <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#YawDD>YawDD</a>, <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @article{2019_T-ITS_Chiou,
     author = "Chiou, Chien-Yu and Wang, Wei-Cheng and Lu, Shueh-Chou and Huang, Chun-Rong and Chung, Pau-Choo and Lai, Yun-Yang",

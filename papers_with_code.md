@@ -104,6 +104,44 @@ Dataset(s): <a href=datasets_by_year.md#Brain4Cars>Brain4Cars</a>
 
 ### Scene gaze
 
+<ul><a name=2025_AAAI_Zhao></a>
+<details close>
+<summary>Zhao et al., SalM²: An Extremely Lightweight Saliency Mamba Model for Real-Time Cognitive Awareness of Driver Attention , AAAI, 2025 | <a href=https://doi.org/10.1609/aaai.v39i2.32157>paper</a> | <a href=https://github.com/zhao-chunyu/SaliencyMamba>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DrFixD-rainy>DrFixD-rainy</a>, <a href=datasets_by_year.md#TrafficSaliency>TrafficSaliency</a>
+<pre>
+@inproceedings{2025_AAAI_Zhao,
+    author = "Zhao, Chunyu and Mu, Wentao and Zhou, Xian and Liu, Wenbo and Yan, Fei and Deng, Tao",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "2",
+    pages = "1647--1655",
+    title = "SalM$^2$: An Extremely Lightweight Saliency Mamba Model for Real-Time Cognitive Awareness of Driver Attention",
+    volume = "39",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_T-ITS_Jin></a>
+<details close>
+<summary>Jin et al., MTSF: Multi-Scale Temporal–Spatial Fusion Network for Driver Attention Prediction, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2024.3510116>paper</a> | <a href=https://github.com/JiBingdong/MTSF>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, TDV, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>
+<pre>
+@article{2025_T-ITS_Jin,
+    author = "Jin, Lisheng and Ji, Bingdong and Guo, Baicang and Wang, Huanhuan and Han, Zhuotong and Liu, Xingchen",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "MTSF: Multi-Scale Temporal--Spatial Fusion Network for Driver Attention Prediction",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_R-AL_Gupta></a>
 <details close>
 <summary>Gupta et al., Object Importance Estimation Using Counterfactual Reasoning for Intelligent Driving, R-AL, 2024 | <a href=https://doi.org/10.1109/LRA.2024.3368301>paper</a> | <a href=https://github.com/vehicle-importance/oiecr>code</a></summary>
@@ -614,7 +652,7 @@ Dataset(s): private
 
 <ul><a name=2024_T-ITS_Li_1></a>
 <details close>
-<summary>Li et al., A Lightweight and Efficient Distracted Driver Detection Model Fusing Convolutional Neural Network and Vision Transformer, Trans. ITS, 2024 | <a href=nan>paper</a> | <a href=https://github.com/lizhao-chd/CoViT_lz>code</a></summary>
+<summary>Li et al., A Lightweight and Efficient Distracted Driver Detection Model Fusing Convolutional Neural Network and Vision Transformer, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3447041>paper</a> | <a href=https://github.com/lizhao-chd/CoViT_lz>code</a></summary>
 <ul>
 Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#100-Driver>100-Driver</a>
 <pre>

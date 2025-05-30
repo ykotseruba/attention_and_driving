@@ -5,6 +5,24 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| Driver awareness&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2025_T-ITS_Lai></a>
+<details close>
+<summary>Lai et al., Framework of Adaptive Driving: Linking Situation Awareness, Driving Goals, and Driving Intentions Using Eye-Tracking and Vehicle Kinetic Data, Trans.ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3530252>paper</a></summary>
+<ul>
+Dataset(s): private
+<pre>
+@article{2025_T-ITS_Lai,
+    author = "Lai, Hsueh-Yi",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Framework of Adaptive Driving: Linking Situation Awareness, Driving Goals, and Driving Intentions Using Eye-Tracking and Vehicle Kinetic Data",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_ICRA_Liao></a>
 <details close>
 <summary>Liao et al., Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments, ICRA, 2024 | <a href=https://doi.org/10.1109/ICRA57147.2024.10611104>paper</a> | <a href=https://github.com/Petrichor625/Gava>code</a></summary>

@@ -5,11 +5,29 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| Drowsiness detection&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2025_T-ITS_Ganguly></a>
+<details close>
+<summary>Ganguly et al., An Attention Deep Learning Framework-Based Drowsiness Detection Model for Intelligent Transportation System, Trans, ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3544138>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#RLDD>RLDD</a>, <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>, private
+<pre>
+@article{2025_T-ITS_Ganguly,
+    author = "Ganguly, Biswarup and Dey, Debangshu and Munshi, Sugata",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "An Attention Deep Learning Framework-Based Drowsiness Detection Model for Intelligent Transportation System",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_T-ITS_Chen></a>
 <details close>
 <summary>Chen et al., A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3446832>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#DAD>DAD</a>, private
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#Dashcam>Dashcam</a>, private
 <pre>
 @article{2024_T-ITS_Chen,
     author = "Chen, Jiansong and Zhang, Qixiang and Chen, Jinxin and Wang, Jinxiang and Fang, Zhenwu and Liu, Yahui and Yin, Guodong",
@@ -27,7 +45,7 @@ Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_yea
 <details close>
 <summary>Wu et al., Driver Drowsiness Detection Based on Joint Human Face and Facial Landmark Localization With Cheap Operations, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3443832>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @article{2024_T-ITS_Wu,
     author = "Wu, Qingtian and Li, Nannan and Zhang, Liming and Yu, Fei Richard",
@@ -100,7 +118,7 @@ Dataset(s): private
 <details close>
 <summary>Yang et al., Video-Based Driver Drowsiness Detection With Optimised Utilization of Key Facial Features, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3346054>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#YawDD>YawDD</a>, <a href=datasets_by_year.md#DDD>DDD</a>, private
+Dataset(s): <a href=datasets_by_year.md#YawDD>YawDD</a>, <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>, private
 <pre>
 @article{2023_T-ITS_Yang,
     author = "Yang, Haohan and Liu, Haochen and Hu, Zhongxu and Nguyen, Anh-Tu and Guerra, Thierry-Marie and Lv, Chen",
@@ -256,7 +274,7 @@ Dataset(s): private
 <details close>
 <summary>Tufekci et al., Detecting Driver Drowsiness as an Anomaly Using LSTM Autoencoders, ECCVW, 2022 | <a href=https://doi.org/10.1007/978-3-031-25075-0_37>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @inproceedings{2022_ECCVW_Tufekci,
     author = {T{\"u}fekci, G{\"u}lin and Kayaba{\c{s}}{\i}, Alper and Akag{\"u}nd{\"u}z, Erdem and Ulusoy, {\.I}lkay},
@@ -334,7 +352,7 @@ Dataset(s): private
 <details close>
 <summary>Ahmed et al., Intelligent Driver Drowsiness Detection for Traffic Safety Based on Multi CNN Deep Model and Facial Subsampling, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2021.3134222>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @article{2021_T-ITS_Ahmed,
     author = "Ahmed, Muneeb and Masood, Sarfaraz and Ahmad, Musheer and Abd El-Latif, Ahmed A",
@@ -355,7 +373,7 @@ Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
 <details close>
 <summary>Huang et al., RF-DCM: Multi-Granularity Deep Convolutional Model Based on Feature Recalibration and Fusion for Driver Fatigue Detection, Trans. ITS, 2020 | <a href=https://doi.org/10.1109/TITS.2020.3017513>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @article{2020_T-ITS_Huang,
     author = "Huang, Rui and Wang, Yan and Li, Zijian and Lei, Zeyu and Xu, Yufan",
@@ -423,7 +441,7 @@ Dataset(s): private
 <details close>
 <summary>Vijay et al., Real-Time Driver Drowsiness Detection using Facial Action Units, ICPR, 2020 | <a href=https://doi.org/10.1109/ICPR48806.2021.9412288>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): DDD
 <pre>
 @inproceedings{2020_ICPR_Vijay,
     author = "Vijay, Malaika and Vinayak, Nandagopal Netrakanti and Nunna, Maanvi and Natarajan, Subramanyam",
@@ -440,7 +458,7 @@ Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
 <details close>
 <summary>Chiou et al., Driver Monitoring Using Sparse Representation With Part-Based Temporal Face Descriptors, Trans. ITS, 2019 | <a href=https://doi.org/10.1109/TITS.2019.2892155>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#YawDD>YawDD</a>, <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#YawDD>YawDD</a>, <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @article{2019_T-ITS_Chiou,
     author = "Chiou, Chien-Yu and Wang, Wei-Cheng and Lu, Shueh-Chou and Huang, Chun-Rong and Chung, Pau-Choo and Lai, Yun-Yang",
@@ -538,7 +556,7 @@ Dataset(s): <a href=datasets_by_year.md#RLDD>RLDD</a>
 <details close>
 <summary>Yu et al., Driver Drowsiness Detection Using Condition-Adaptive Representation Learning Framework, Trans. ITS, 2018 | <a href=https://doi.org/10.1109/TITS.2018.2883823>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @article{2018_T-ITS_Yu,
     author = "Yu, Jongmin and Park, Sangwoo and Lee, Sangwook and Jeon, Moongu",
@@ -652,7 +670,7 @@ Dataset(s): private
 <details close>
 <summary>Yu et al., Representation Learning, Scene Understanding, and Feature Fusion for Drowsiness Detection, ACCVW, 2017 | <a href=https://doi.org/10.1007/978-3-319-54526-4_13>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @inproceedings{2017_ACCVW_Yu,
     author = "Yu, Jongmin and Park, Sangwoo and Lee, Sangwook and Jeon, Moongu",
@@ -669,7 +687,7 @@ Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
 <details close>
 <summary>Shih et al., MSTN: Multistage Spatial-Temporal Network for Driver Drowsiness Detection, ACCVW, 2017 | <a href=https://doi.org/10.1007/978-3-319-54526-4_11>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @inproceedings{2017_ACCVW_Shih,
     author = "Shih, Tun-Huai and Hsu, Chiou-Ting",
@@ -686,7 +704,7 @@ Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
 <details close>
 <summary>Huynh et al., Detection of Driver Drowsiness Using 3D Deep Neural Network and Semi-Supervised Gradient Boosting Machine, ACCVW, 2017 | <a href=https://doi.org/10.1007/978-3-319-54526-4_10>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @inproceedings{2017_ACCVW_Huynh,
     author = "Huynh, Xuan-Phung and Park, Sang-Min and Kim, Yong-Guk",
@@ -703,7 +721,7 @@ Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
 <details close>
 <summary>Weng et al., Driver Drowsiness Detection via a Hierarchical Temporal Deep Belief Network, ACCV, 2017 | <a href=https://doi.org/10.1007/978-3-319-54526-4_9>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @inproceedings{2017_ACCV_Weng,
     author = "Weng, Ching-Hua and Lai, Ying-Hsiu and Lai, Shang-Hong",
@@ -776,7 +794,7 @@ Dataset(s): private
 <details close>
 <summary>Park et al., Driver drowsiness detection system based on feature representation learning using various deep networks, ACCV, 2016 | <a href=https://doi.org/10.1007/978-3-319-54526-4_12>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DDD>DDD</a>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
 <pre>
 @inproceedings{2016_ACCV_Park,
     author = "Park, Sanghyuk and Pan, Fei and Kang, Sunghun and Yoo, Chang D",
