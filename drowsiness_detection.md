@@ -5,6 +5,42 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| Drowsiness detection&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2025_T-ITS_Mai></a>
+<details close>
+<summary>Mai et al., Multimodal Driver Drowsiness Detection Using Facial Expressions and Ear-EEGs With a Lightweight Auto-Denoising Network, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3559098>paper</a></summary>
+<ul>
+Dataset(s): private
+<pre>
+@article{2025_T-ITS_Mai,
+    author = "Mai, Ngoc-Dau and Nguyen, Ha-Trung and Chung, Wan-Young",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Multimodal Driver Drowsiness Detection Using Facial Expressions and Ear-EEGs With a Lightweight Auto-Denoising Network",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_T-ITS_Lyu></a>
+<details close>
+<summary>Lyu et al., Driver Fatigue Warning Based on Medical Physiological Signal Monitoring for Transportation Cyber-Physical Systems, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3540895>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
+<pre>
+@article{2025_T-ITS_Lyu,
+    author = "Lyu, Xiaohong and Akbar, Muhammad Azeem and Manimurugan, Shanmuganathan and Jiang, Huamao",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Driver Fatigue Warning Based on Medical Physiological Signal Monitoring for Transportation Cyber-Physical Systems",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2025_T-ITS_Ganguly></a>
 <details close>
 <summary>Ganguly et al., An Attention Deep Learning Framework-Based Drowsiness Detection Model for Intelligent Transportation System, Trans, ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3544138>paper</a></summary>
@@ -23,18 +59,37 @@ Dataset(s): <a href=datasets_by_year.md#RLDD>RLDD</a>, <a href=datasets_by_year.
 </details>
 
 </ul>
-<ul><a name=2024_T-ITS_Chen></a>
+<ul><a name=2025_IV_Chi></a>
 <details close>
-<summary>Chen et al., A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3446832>paper</a></summary>
+<summary>Chi et al., VLM-DM: Visual Language Models for Multitask Domain Adaptation in Driver Monitoring, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097620>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#Dashcam>Dashcam</a>, private
+Dataset(s): <a href=datasets_by_year.md#SAM-DD>SAM-DD</a>, <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>, KMU-FED
 <pre>
-@article{2024_T-ITS_Chen,
-    author = "Chen, Jiansong and Zhang, Qixiang and Chen, Jinxin and Wang, Jinxiang and Fang, Zhenwu and Liu, Yahui and Yin, Guodong",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior",
-    year = "2024"
+@inproceedings{2025_IV_Chi,
+    author = "Chi, Haozhuang and Yang, Haohan and Yang, Lie and Lv, Chen",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1280--1285",
+    title = "VLM-DM: Visual Language Models for Multitask Domain Adaptation in Driver Monitoring",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_CVPR_Liu></a>
+<details close>
+<summary>Liu et al., MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception, CVPR, 2025 | <a href=https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_MMTL-UniAD_A_Unified_Framework_for_Multimodal_and_Multi-Task_Learning_in_CVPR_2025_paper.pdf>paper</a> | <a href=https://github.com/Wenzhuo-Liu/MMTL-UniAD>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#AIDE>AIDE</a>
+<pre>
+@inproceedings{2025_CVPR_Liu,
+    author = "Liu, Wenzhuo and Wang, Wenshuo and Qiao, Yicheng and Guo, Qiannan and Zhu, Jiayin and Li, Pengfei and Chen, Zilong and Yang, Huiming and Li, Zhiwei and Wang, Lening and others",
+    booktitle = "Proceedings of the Computer Vision and Pattern Recognition Conference",
+    pages = "6864--6874",
+    title = "Mmtl-uniad: A unified framework for multimodal and multi-task learning in assistive driving perception",
+    year = "2025"
 }
 </pre>
 </ul>
@@ -88,6 +143,24 @@ Dataset(s): private
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     publisher = "IEEE",
     title = "Human--machine shared control for path following considering driver fatigue characteristics",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Chen></a>
+<details close>
+<summary>Chen et al., A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3446832>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#Dashcam>Dashcam</a>, private
+<pre>
+@article{2024_T-ITS_Chen,
+    author = "Chen, Jiansong and Zhang, Qixiang and Chen, Jinxin and Wang, Jinxiang and Fang, Zhenwu and Liu, Yahui and Yin, Guodong",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior",
     year = "2024"
 }
 </pre>

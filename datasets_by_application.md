@@ -197,6 +197,82 @@ Annotations: distraction state, action labels
     year = "2023"
 }
 </pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2025_IV_Wu></a>
+<details close>
+<summary>Wu et al., PDB-Eval: An Evaluation of LMMs for Description and Explanation of Personalized Driving Behavior, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097582>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#Brain4Cars>Brain4Cars</a>, <a href=datasets_by_year.md#AIDE>AIDE</a>
+<pre>
+@inproceedings{2025_IV_Wu,
+    author = "Wu, Junda and Echterhoff, Jessica and Han, Kyungtae and Abdelraouf, Amr and Gupta, Rohit and McAuley, Julian",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "242--248",
+    title = "Pdb-eval: An evaluation of large multimodal models for description and explanation of personalized driving behavior",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_T-ITS_Liu1></a>
+<details close>
+<summary>Liu1 et al., UMD-Net: A Unified Multi-Task Assistive Driving Network Based on Multimodal Fusion, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3556852>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#AIDE>AIDE</a>
+<pre>
+@article{2025_T-ITS_Liu1,
+    author = "Liu, Wenzhuo and Qiao, Yicheng and Li, Zhiwei and Wang, Wenshuo and Zhang, Wei and Zhu, Jiayin and Jiang, Yanhuan and Wang, Li and Wang, Hong and Liu, Huaping and others",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Umd-net: A unified multi-task assistive driving network based on multimodal fusion",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_T-ITS_Hu></a>
+<details close>
+<summary>Hu et al., Human-Centric Context and Self-Uncertainty-Driven Multi-Modal Large Language Model for Training-Free Vision-Based Driver State Recognition, Trans. ITS, 2025 | <a href=https://doi.org/TITS.2025.3558847>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#AIDE>AIDE</a>, <a href=datasets_by_year.md#3MDAD>3MDAD</a>
+<pre>
+@article{2025_T-ITS_Hu,
+    author = "Hu, Chuanfei and Li, Xinde",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Human-Centric Context and Self-Uncertainty-Driven Multi-Modal Large Language Model for Training-Free Vision-Based Driver State Recognition",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_CVPR_Liu></a>
+<details close>
+<summary>Liu et al., MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception, CVPR, 2025 | <a href=https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_MMTL-UniAD_A_Unified_Framework_for_Multimodal_and_Multi-Task_Learning_in_CVPR_2025_paper.pdf>paper</a> | <a href=https://github.com/Wenzhuo-Liu/MMTL-UniAD>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#AIDE>AIDE</a>
+<pre>
+@inproceedings{2025_CVPR_Liu,
+    author = "Liu, Wenzhuo and Wang, Wenshuo and Qiao, Yicheng and Guo, Qiannan and Zhu, Jiayin and Li, Pengfei and Chen, Zilong and Yang, Huiming and Li, Zhiwei and Wang, Lening and others",
+    booktitle = "Proceedings of the Computer Vision and Pattern Recognition Conference",
+    pages = "6864--6874",
+    title = "Mmtl-uniad: A unified framework for multimodal and multi-task learning in assistive driving perception",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
 </details>
 </ul>
 
@@ -260,6 +336,25 @@ Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>, <a href=datasets_by_year.md
     publisher = "IEEE",
     title = "Vision-language models can identify distracted driver behavior from naturalistic videos",
     year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_IV_Chi></a>
+<details close>
+<summary>Chi et al., VLM-DM: Visual Language Models for Multitask Domain Adaptation in Driver Monitoring, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097620>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SAM-DD>SAM-DD</a>, <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>, KMU-FED
+<pre>
+@inproceedings{2025_IV_Chi,
+    author = "Chi, Haozhuang and Yang, Haohan and Yang, Lie and Lv, Chen",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1280--1285",
+    title = "VLM-DM: Visual Language Models for Multitask Domain Adaptation in Driver Monitoring",
+    year = "2025"
 }
 </pre>
 </ul>
@@ -441,6 +536,24 @@ Annotations: action labels, bounding boxes
 </pre>
 <details close>
 <summary>Used in papers:
+<ul><a name=2025_T-ITS_Hu></a>
+<details close>
+<summary>Hu et al., Human-Centric Context and Self-Uncertainty-Driven Multi-Modal Large Language Model for Training-Free Vision-Based Driver State Recognition, Trans. ITS, 2025 | <a href=https://doi.org/TITS.2025.3558847>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#AIDE>AIDE</a>, <a href=datasets_by_year.md#3MDAD>3MDAD</a>
+<pre>
+@article{2025_T-ITS_Hu,
+    author = "Hu, Chuanfei and Li, Xinde",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Human-Centric Context and Self-Uncertainty-Driven Multi-Modal Large Language Model for Training-Free Vision-Based Driver State Recognition",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_T-ITS_Yang></a>
 <details close>
 <summary>Yang et al., Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3316203>paper</a> | <a href=https://yanghh.io/Driver-Distraction-Quantification>code</a></summary>
@@ -668,24 +781,6 @@ Annotations: action labels
 </pre>
 <details close>
 <summary>Used in papers:
-<ul><a name=2024_T-ITS_Li_2></a>
-<details close>
-<summary>Li et al., Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3367665>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#AUCD2>AUCD2</a>
-<pre>
-@article{2024_T-ITS_Li_2,
-    author = "Li, Guofa and Wang, Guanglei and Guo, Zizheng and Liu, Qing and Luo, Xiyuan and Yuan, Bangwei and Li, Mingrui and Yang, Lu",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
 <ul><a name=2024_T-ITS_Yang></a>
 <details close>
 <summary>Yang et al., Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3316203>paper</a> | <a href=https://yanghh.io/Driver-Distraction-Quantification>code</a></summary>
@@ -698,6 +793,24 @@ Dataset(s): <a href=datasets_by_year.md#3MDAD>3MDAD</a>, <a href=datasets_by_yea
     publisher = "IEEE",
     title = "Quantitative identification of driver distraction: A weakly supervised contrastive learning approach",
     year = "2023"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Li_2></a>
+<details close>
+<summary>Li et al., Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3367665>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#AUCD2>AUCD2</a>
+<pre>
+@article{2024_T-ITS_Li_2,
+    author = "Li, Guofa and Wang, Guanglei and Guo, Zizheng and Liu, Qing and Luo, Xiyuan and Yuan, Bangwei and Li, Mingrui and Yang, Lu",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification",
+    year = "2024"
 }
 </pre>
 </ul>
@@ -830,24 +943,6 @@ Annotations: action labels
 </pre>
 <details close>
 <summary>Used in papers:
-<ul><a name=2024_T-ITS_Chen></a>
-<details close>
-<summary>Chen et al., A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3446832>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#Dashcam>Dashcam</a>, private
-<pre>
-@article{2024_T-ITS_Chen,
-    author = "Chen, Jiansong and Zhang, Qixiang and Chen, Jinxin and Wang, Jinxiang and Fang, Zhenwu and Liu, Yahui and Yin, Guodong",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
 <ul><a name=2024_T-ITS_Li_2></a>
 <details close>
 <summary>Li et al., Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3367665>paper</a></summary>
@@ -913,6 +1008,24 @@ Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>, <a href=datasets_by_year.md
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     publisher = "IEEE",
     title = "Vision-language models can identify distracted driver behavior from naturalistic videos",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Chen></a>
+<details close>
+<summary>Chen et al., A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3446832>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#Dashcam>Dashcam</a>, private
+<pre>
+@article{2024_T-ITS_Chen,
+    author = "Chen, Jiansong and Zhang, Qixiang and Chen, Jinxin and Wang, Jinxiang and Fang, Zhenwu and Liu, Yahui and Yin, Guodong",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior",
     year = "2024"
 }
 </pre>
@@ -1617,6 +1730,25 @@ Annotations: drowsiness labels
 </pre>
 <details close>
 <summary>Used in papers:
+<ul><a name=2025_IV_Chi></a>
+<details close>
+<summary>Chi et al., VLM-DM: Visual Language Models for Multitask Domain Adaptation in Driver Monitoring, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097620>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
+<pre>
+@inproceedings{2025_IV_Chi,
+    author = "Chi, Haozhuang and Yang, Haohan and Yang, Lie and Lv, Chen",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1280--1285",
+    title = "VLM-DM: Visual Language Models for Multitask Domain Adaptation in Driver Monitoring",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2019_T-ITS_Chiou></a>
 <details close>
 <summary>Chiou et al., Driver Monitoring Using Sparse Representation With Part-Based Temporal Face Descriptors, Trans. ITS, 2019 | <a href=https://doi.org/10.1109/TITS.2019.2892155>paper</a></summary>
@@ -1632,6 +1764,24 @@ Dataset(s): <a href=datasets_by_year.md#YawDD>YawDD</a>, <a href=datasets_by_yea
     title = "Driver monitoring using sparse representation with part-based temporal face descriptors",
     volume = "21",
     year = "2019"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_T-ITS_Lyu></a>
+<details close>
+<summary>Lyu et al., Driver Fatigue Warning Based on Medical Physiological Signal Monitoring for Transportation Cyber-Physical Systems, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3540895>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
+<pre>
+@article{2025_T-ITS_Lyu,
+    author = "Lyu, Xiaohong and Akbar, Muhammad Azeem and Manimurugan, Shanmuganathan and Jiang, Huamao",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Driver Fatigue Warning Based on Medical Physiological Signal Monitoring for Transportation Cyber-Physical Systems",
+    year = "2025"
 }
 </pre>
 </ul>
@@ -2115,6 +2265,25 @@ Annotations: action labels
 </pre>
 <details close>
 <summary>Used in papers:
+<ul><a name=2025_IV_Wu></a>
+<details close>
+<summary>Wu et al., PDB-Eval: An Evaluation of LMMs for Description and Explanation of Personalized Driving Behavior, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097582>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#Brain4Cars>Brain4Cars</a>, <a href=datasets_by_year.md#AIDE>AIDE</a>
+<pre>
+@inproceedings{2025_IV_Wu,
+    author = "Wu, Junda and Echterhoff, Jessica and Han, Kyungtae and Abdelraouf, Amr and Gupta, Rohit and McAuley, Julian",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "242--248",
+    title = "Pdb-eval: An evaluation of large multimodal models for description and explanation of personalized driving behavior",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2023_T-ITS_Guo></a>
 <details close>
 <summary>Guo et al., Temporal Information Fusion Network for Driving Behavior Prediction, Trans. ITS, 2023 | <a href=https://doi.org/10.1109/TITS.2023.3267150>paper</a></summary>
@@ -2425,6 +2594,134 @@ Annotations: bounding boxes, action labels
     booktitle = "CVPR",
     title = "Toward driving scene understanding: A dataset for learning driver behavior and causal reasoning",
     year = "2018"
+}
+</pre>
+</details>
+</ul>
+
+<a name="CODA-LM"></a>
+<details close>
+<summary>CODA-LM | <a href=https://openaccess.thecvf.com/content/WACV2025/papers/Chen_Automated_Evaluation_of_Large_Vision-Language_Models_on_Self-Driving_Corner_Cases_WACV_2025_paper.pdf>paper</a> | <a href=https://coda-dataset.github.io/coda-lm/>link</a></summary>
+<ul>
+Description: Dataset for visual question answering (VQA) in the driving domain
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: question-answer pairs
+</ul>
+<ul>
+<pre>
+@inproceedings{2025_WACV_Chen,
+    author = "Chen, Kai and Li, Yanze and Zhang, Wenhua and Liu, Yanxin and Li, Pengxiang and Gao, Ruiyuan and Hong, Lanqing and Tian, Meng and Zhao, Xinhai and Li, Zhenguo and others",
+    booktitle = "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+    organization = "IEEE",
+    pages = "7817--7826",
+    title = "Automated evaluation of large vision-language models on self-driving corner cases",
+    year = "2025"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2025_ICRA_Sun></a>
+<details close>
+<summary>Sun et al., Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception, ICRA, 2025 | <a href=https://doi.org/10.1109/ICRA55743.2025.11128326>paper</a> | <a href=https://github.com/DebuggerSunfz/PerceptDriveLM>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DriveLM>DriveLM</a>, <a href=datasets_by_year.md#CODA-LM>CODA-LM</a>
+<pre>
+@inproceedings{2025_ICRA_Sun,
+    author = "Sun, Fengzhao and Yu, Jun and Zhang, Yunxiang and Hou, Jiaming and Lu, Xilong and Song, Heng and Gao, Fang",
+    booktitle = "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    organization = "IEEE",
+    pages = "8234--8241",
+    title = "Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+<a name="DriveLM"></a>
+<details close>
+<summary>DriveLM | <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06870.pdf>paper</a> | <a href=https://github.com/OpenDriveLab/DriveLM>link</a></summary>
+<ul>
+Description: Dataset for visual question answering (VQA) in the driving domain
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: question-answer pairs
+</ul>
+<ul>
+<pre>
+@inproceedings{2025_ECCV_Sima,
+    author = "Sima, Chonghao and Renz, Katrin and Chitta, Kashyap and Chen, Li and Zhang, Hanxue and Xie, Chengen and Bei{\ss}wenger, Jens and Luo, Ping and Geiger, Andreas and Li, Hongyang",
+    booktitle = "European conference on computer vision",
+    organization = "Springer",
+    pages = "256--274",
+    title = "Drivelm: Driving with graph visual question answering",
+    year = "2024"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2025_ICRA_Sun></a>
+<details close>
+<summary>Sun et al., Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception, ICRA, 2025 | <a href=https://doi.org/10.1109/ICRA55743.2025.11128326>paper</a> | <a href=https://github.com/DebuggerSunfz/PerceptDriveLM>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DriveLM>DriveLM</a>, <a href=datasets_by_year.md#CODA-LM>CODA-LM</a>
+<pre>
+@inproceedings{2025_ICRA_Sun,
+    author = "Sun, Fengzhao and Yu, Jun and Zhang, Yunxiang and Hou, Jiaming and Lu, Xilong and Song, Heng and Gao, Fang",
+    booktitle = "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    organization = "IEEE",
+    pages = "8234--8241",
+    title = "Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+<a name="LingoQA"></a>
+<details close>
+<summary>LingoQA | <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9911_ECCV_2024_paper.php>paper</a> | <a href=https://github.com/wayveai/LingoQA>link</a></summary>
+<ul>
+Description: Dataset for visual question answering (VQA) in the driving domain
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: question-answer pairs
+</ul>
+<ul>
+<pre>
+@inproceedings{2025_ECCV_Marcu,
+    author = {Marcu, Ana-Maria and Chen, Long and H{\"u}nermann, Jan and Karnsund, Alice and Hanotte, Benoit and Chidananda, Prajwal and Nair, Saurabh and Badrinarayanan, Vijay and Kendall, Alex and Shotton, Jamie and others},
+    booktitle = "European Conference on Computer Vision",
+    organization = "Springer",
+    pages = "252--269",
+    title = "Lingoqa: Visual question answering for autonomous driving",
+    year = "2024"
 }
 </pre>
 </details>
@@ -2872,6 +3169,28 @@ Annotations: bounding boxes, captions
     year = "2023"
 }
 </pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2025_IV_Ma></a>
+<details close>
+<summary>Ma et al., Video Token Sparsification for Efficient Multimodal LLMs in Driving Visual Question Answering, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097438>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DRAMA>DRAMA</a>, LigoQA
+<pre>
+@inproceedings{2025_IV_Ma,
+    author = "Ma, Yunsheng and Abdelraouf, Amr and Gupta, Rohit and Moradipari, Ahmadreza and Wang, Ziran and Han, Kyungtae",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "2235--2242",
+    title = "Video Token Sparsification for Efficient Multimodal LLMs in Driving Visual Question Answering",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
 </details>
 </ul>
 
@@ -2979,322 +3298,96 @@ Dataset(s): <a href=datasets_by_year.md#HAD>HAD</a>
 </details>
 </ul>
 
-### Traffic accidents
-<a name="VIENA2"></a>
+### Scene gaze
+<a name="CODA-LM"></a>
 <details close>
-<summary>VIENA2 | <a href=https://doi.org/10.1007/978-3-030-20887-5_28>paper</a> | <a href=https://sites.google.com/view/viena2-project/home>link</a></summary>
+<summary>CODA-LM | <a href=https://openaccess.thecvf.com/content/WACV2025/papers/Chen_Automated_Evaluation_of_Large_Vision-Language_Models_on_Self-Driving_Corner_Cases_WACV_2025_paper.pdf>paper</a> | <a href=https://coda-dataset.github.io/coda-lm/>link</a></summary>
 <ul>
-Full name: VIrtual ENvironment for Action Analysi
+Description: Dataset for visual question answering (VQA) in the driving domain
 </ul>
 </summary>
 <ul>
-Description: Dataset recorded in simulation for driver action anticipation
+Data: driver video
 </ul>
 </summary>
 <ul>
-Data: scene video, vehicle data
-</ul>
-</summary>
-<ul>
-Annotations: action labels, accident labels
+Annotations: question-answer pairs
 </ul>
 <ul>
 <pre>
-@inproceedings{2018_ACCV_Alikbarian,
-    author = "Aliakbarian, Mohammad Sadegh and Saleh, Fatemeh Sadat and Salzmann, Mathieu and Fernando, Basura and Petersson, Lars and Andersson, Lars",
-    booktitle = "Asian Conference on Computer Vision",
+@inproceedings{2025_WACV_Chen,
+    author = "Chen, Kai and Li, Yanze and Zhang, Wenhua and Liu, Yanxin and Li, Pengxiang and Gao, Ruiyuan and Hong, Lanqing and Tian, Meng and Zhao, Xinhai and Li, Zhenguo and others",
+    booktitle = "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+    organization = "IEEE",
+    pages = "7817--7826",
+    title = "Automated evaluation of large vision-language models on self-driving corner cases",
+    year = "2025"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2025_ICRA_Sun></a>
+<details close>
+<summary>Sun et al., Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception, ICRA, 2025 | <a href=https://doi.org/10.1109/ICRA55743.2025.11128326>paper</a> | <a href=https://github.com/DebuggerSunfz/PerceptDriveLM>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DriveLM>DriveLM</a>, <a href=datasets_by_year.md#CODA-LM>CODA-LM</a>
+<pre>
+@inproceedings{2025_ICRA_Sun,
+    author = "Sun, Fengzhao and Yu, Jun and Zhang, Yunxiang and Hou, Jiaming and Lu, Xilong and Song, Heng and Gao, Fang",
+    booktitle = "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    organization = "IEEE",
+    pages = "8234--8241",
+    title = "Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+<a name="DriveLM"></a>
+<details close>
+<summary>DriveLM | <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06870.pdf>paper</a> | <a href=https://github.com/OpenDriveLab/DriveLM>link</a></summary>
+<ul>
+Description: Dataset for visual question answering (VQA) in the driving domain
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: question-answer pairs
+</ul>
+<ul>
+<pre>
+@inproceedings{2025_ECCV_Sima,
+    author = "Sima, Chonghao and Renz, Katrin and Chitta, Kashyap and Chen, Li and Zhang, Hanxue and Xie, Chengen and Bei{\ss}wenger, Jens and Luo, Ping and Geiger, Andreas and Li, Hongyang",
+    booktitle = "European conference on computer vision",
     organization = "Springer",
-    pages = "449--466",
-    title = "VIENA: A driving anticipation dataset",
-    year = "2018"
-}
-</pre>
-</details>
-</ul>
-
-<a name="DADA-2000"></a>
-<details close>
-<summary>DADA-2000 | <a href=https://doi.org/10.1109/ITSC.2019.8917218>paper</a> | <a href=https://github.com/JWFangit/LOTVS-DADA>link</a></summary>
-<ul>
-Full name: Driver Attention in Driving Accident Scenarios
-</ul>
-</summary>
-<ul>
-Description: 2000 videos of accident videos collected from video hosting websites with eye-tracking data from 20 subjects collected in the lab.
-</ul>
-</summary>
-<ul>
-Data: eye-tracking, scene video
-</ul>
-</summary>
-<ul>
-Annotations: bounding boxes, accident category labels
-</ul>
-<ul>
-<pre>
-@inproceedings{2019_ITSC_Fang,
-    author = "Fang, Jianwu and Yan, Dingxin and Qiao, Jiahuan and Xue, Jianru and Wang, He and Li, Sen",
-    booktitle = "ITSC",
-    title = "{DADA-2000: Can Driving Accident be Predicted by Driver Attentionƒ Analyzed by A Benchmark}",
-    year = "2019"
+    pages = "256--274",
+    title = "Drivelm: Driving with graph visual question answering",
+    year = "2024"
 }
 </pre>
 <details close>
 <summary>Used in papers:
-<ul><a name=2025_T-ITS_Jin></a>
+<ul><a name=2025_ICRA_Sun></a>
 <details close>
-<summary>Jin et al., MTSF: Multi-Scale Temporal–Spatial Fusion Network for Driver Attention Prediction, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2024.3510116>paper</a> | <a href=https://github.com/JiBingdong/MTSF>code</a></summary>
+<summary>Sun et al., Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception, ICRA, 2025 | <a href=https://doi.org/10.1109/ICRA55743.2025.11128326>paper</a> | <a href=https://github.com/DebuggerSunfz/PerceptDriveLM>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, TDV, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>
+Dataset(s): <a href=datasets_by_year.md#DriveLM>DriveLM</a>, <a href=datasets_by_year.md#CODA-LM>CODA-LM</a>
 <pre>
-@article{2025_T-ITS_Jin,
-    author = "Jin, Lisheng and Ji, Bingdong and Guo, Baicang and Wang, Huanhuan and Han, Zhuotong and Liu, Xingchen",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "MTSF: Multi-Scale Temporal--Spatial Fusion Network for Driver Attention Prediction",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2024_T-ITS_Araluce></a>
-<details close>
-<summary>Araluce et al., Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3350337>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#BDD-OIA>BDD-OIA</a>
-<pre>
-@article{2024_T-ITS_Araluce,
-    author = "Araluce, Javier and Bergasa, Luis M and Oca{\\textasciitilde n}a, Manuel and Llamazares, {\'A}ngel and L{\'o}pez-Guill{\'e}n, Elena",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2024_ITSM_Li></a>
-<details close>
-<summary>Li et al., Cognitive Traffic Accident Anticipation, ITS Mag., 2024 | <a href=https://doi.org/10.1109/MITS.2024.3378460>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#CCD>CCD</a>
-<pre>
-@article{2024_ITSM_Li,
-    author = "Li, Lei-Lei and Fang, Jianwu and Xue, Jianru",
-    journal = "IEEE Intelligent Transportation Systems Magazine",
-    publisher = "IEEE",
-    title = "Cognitive Traffic Accident Anticipation",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2023_ITSC_Zhao></a>
-<details close>
-<summary>Zhao et al., Gated Driver Attention Predictor, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10422543>paper</a> | <a href=https://github.com/Zhaotianci123/Gate-DAP>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>
-<pre>
-@inproceedings{2023_ITSC_Zhao,
-    author = "Zhao, Tianci and Bai, Xue and Fang, Jianwu and Xue, Jianru",
-    booktitle = "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)",
+@inproceedings{2025_ICRA_Sun,
+    author = "Sun, Fengzhao and Yu, Jun and Zhang, Yunxiang and Hou, Jiaming and Lu, Xilong and Song, Heng and Gao, Fang",
+    booktitle = "2025 IEEE International Conference on Robotics and Automation (ICRA)",
     organization = "IEEE",
-    pages = "270--276",
-    title = "Gated Driver Attention Predictor",
-    year = "2023"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2023_ICCV_Zhu></a>
-<details close>
-<summary>Zhu et al., Unsupervised Self-Driving Attention Prediction via Uncertainty Mining and Knowledge Embedding, ICCV, 2023 | <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Unsupervised_Self-Driving_Attention_Prediction_via_Uncertainty_Mining_and_Knowledge_Embedding_ICCV_2023_paper.pdf>paper</a> | <a href=https://github.com/zaplm/DriverAttention>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>
-<pre>
-@inproceedings{2023_ICCV_Zhu,
-    author = "Zhu, Pengfei and Qi, Mengshi and Li, Xia and Li, Weijian and Ma, Huadong",
-    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
-    pages = "8558--8568",
-    title = "Unsupervised self-driving attention prediction via uncertainty mining and knowledge embedding",
-    year = "2023"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2023_ICCV_Chen></a>
-<details close>
-<summary>Chen et al., FBLNet: FeedBack Loop Network for Driver Attention Prediction, ICCV, 2023 | <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_FBLNet_FeedBack_Loop_Network_for_Driver_Attention_Prediction_ICCV_2023_paper.pdf>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>
-<pre>
-@inproceedings{2023_ICCV_Chen,
-    author = "Chen, Yilong and Nan, Zhixiong and Xiang, Tao",
-    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
-    pages = "13371--13380",
-    title = "FBLNet: FeedBack Loop Network for Driver Attention Prediction",
-    year = "2023"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2022_T-ITS_Li></a>
-<details close>
-<summary>Li et al., Adaptive Short-Temporal Induced Aware Fusion Network for Predicting Attention Regions Like a Driver, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3165619>paper</a> | <a href=https://github.com/liuchunsense/ASIAFnet>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#TrafficSaliency>TrafficSaliency</a>
-<pre>
-@article{2022_T-ITS_Li,
-    author = "Li, Qiang and Liu, Chunsheng and Chang, Faliang and Li, Shuang and Liu, Hui and Liu, Zehao",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    number = "10",
-    pages = "18695--18706",
-    publisher = "IEEE",
-    title = "Adaptive short-temporal induced aware fusion network for predicting attention regions like a driver",
-    volume = "23",
-    year = "2022"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2022_T-ITS_Gan></a>
-<details close>
-<summary>Gan et al., Multisource Adaption for Driver Attention Prediction in Arbitrary Driving Scenes, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3177640>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#TrafficSaliency>TrafficSaliency</a>
-<pre>
-@article{2022_T-ITS_Gan,
-    author = "Gan, Shun and Pei, Xizhe and Ge, Yulong and Wang, Qingfan and Shang, Shi and Li, Shengbo Eben and Nie, Bingbing",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    number = "11",
-    pages = "20912--20925",
-    publisher = "IEEE",
-    title = "Multisource Adaption for Driver Attention Prediction in Arbitrary Driving Scenes",
-    volume = "23",
-    year = "2022"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2022_T-ITS_Fang></a>
-<details close>
-<summary>Fang et al., DADA: Driver Attention Prediction in Driving Accident Scenarios, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2020.3044678>paper</a> | <a href=https://github.com/JWFangit/LOTVS-DADA>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#TrafficSaliency>TrafficSaliency</a>, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>
-<pre>
-@article{2022_T-ITS_Fang,
-    author = "Fang, Jianwu and Yan, Dingxin and Qiao, Jiahuan and Xue, Jianru and Yu, Hongkai",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    number = "6",
-    pages = "4959--4971",
-    publisher = "IEEE",
-    title = "DADA: Driver attention prediction in driving accident scenarios",
-    volume = "23",
-    year = "2021"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2022_IV_Araluce></a>
-<details close>
-<summary>Araluce et al., ARAGAN: A dRiver Attention estimation model based on conditional Generative Adversarial Network, IV, 2022 | <a href=https://doi.org/10.1109/IV51971.2022.9827175>paper</a> | <a href=https://github.com/javierAraluce/ARAGAN>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>
-<pre>
-@inproceedings{2022_IV_Araluce,
-    author = "Araluce, Javier and Bergasa, Luis M and Oca{\\textasciitilde n}a, Manuel and Barea, Rafael and L{\'o}pez-Guill{\'e}n, Elena and Revenga, Pedro",
-    booktitle = "2022 IEEE Intelligent Vehicles Symposium (IV)",
-    organization = "IEEE",
-    pages = "1066--1072",
-    title = "ARAGAN: A dRiver Attention estimation model based on conditional Generative Adversarial Network",
-    year = "2022"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2021_T-ITS_Huang></a>
-<details close>
-<summary>Huang et al., Driver Distraction Detection Based on the True Driver’s Focus of Attention, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2022.3166208>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#TrafficSaliency>TrafficSaliency</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, private
-<pre>
-@article{2021_T-ITS_Huang,
-    author = "Huang, Jianling and Long, Yan and Zhao, Xiaohua",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "Driver Glance Behavior Modeling Based on Semi-Supervised Clustering and Piecewise Aggregate Representation",
-    year = "2021"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-</details>
-</details>
-</ul>
-
-<a name="CCD"></a>
-<details close>
-<summary>CCD | <a href=https://dl.acm.org/doi/pdf/10.1145/3394171.3413827>paper</a> | <a href=https://github.com/Cogito2012/CarCrashDataset>link</a></summary>
-<ul>
-Full name: Car Crash Dataset
-</ul>
-</summary>
-<ul>
-Description: A dataset of YouTube videos with traffic accidents
-</ul>
-</summary>
-<ul>
-Data: scene video
-</ul>
-</summary>
-<ul>
-Annotations: bounding boxes, accident labels
-</ul>
-<ul>
-<pre>
-@inproceedings{2020_MM_Bao,
-    author = "Bao, Wentao and Yu, Qi and Kong, Yu",
-    booktitle = "Proceedings of the 28th ACM International Conference on Multimedia",
-    pages = "2682--2690",
-    title = "Uncertainty-based traffic accident anticipation with spatio-temporal relational learning",
-    year = "2020"
-}
-</pre>
-<details close>
-<summary>Used in papers:
-<ul><a name=2025_WACVW_Kumamoto></a>
-<details close>
-<summary>Kumamoto et al., AAT-DA: Accident Anticipation Transformer with Driver Attention, WACVW, 2025 | <a href=https://openaccess.thecvf.com/content/WACV2025W/HAVI/papers/Kumamoto_AAT-DA_Accident_Anticipation_Transformer_with_Driver_Attention_WACVW_2025_paper.pdf>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#Dashcam>Dashcam</a>, <a href=datasets_by_year.md#CCD>CCD</a>
-<pre>
-@inproceedings{2025_WACVW_Kumamoto,
-    author = "Kumamoto, Yuto and Ohtani, Kento and Suzuki, Daiki and Yamataka, Minori and Takeda, Kazuya",
-    booktitle = "Proceedings of the Winter Conference on Applications of Computer Vision",
-    pages = "1142--1151",
-    title = "AAT-DA: Accident Anticipation Transformer with Driver Attention",
+    pages = "8234--8241",
+    title = "Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception",
     year = "2025"
 }
 </pre>
@@ -3302,154 +3395,72 @@ Dataset(s): <a href=datasets_by_year.md#Dashcam>Dashcam</a>, <a href=datasets_by
 </details>
 
 </ul>
-<ul><a name=2024_ITSM_Li></a>
+</details>
+</details>
+</ul>
+
+<a name="LingoQA"></a>
 <details close>
-<summary>Li et al., Cognitive Traffic Accident Anticipation, ITS Mag., 2024 | <a href=https://doi.org/10.1109/MITS.2024.3378460>paper</a></summary>
+<summary>LingoQA | <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9911_ECCV_2024_paper.php>paper</a> | <a href=https://github.com/wayveai/LingoQA>link</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#CCD>CCD</a>
+Description: Dataset for visual question answering (VQA) in the driving domain
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: question-answer pairs
+</ul>
+<ul>
 <pre>
-@article{2024_ITSM_Li,
-    author = "Li, Lei-Lei and Fang, Jianwu and Xue, Jianru",
-    journal = "IEEE Intelligent Transportation Systems Magazine",
-    publisher = "IEEE",
-    title = "Cognitive Traffic Accident Anticipation",
+@inproceedings{2025_ECCV_Marcu,
+    author = {Marcu, Ana-Maria and Chen, Long and H{\"u}nermann, Jan and Karnsund, Alice and Hanotte, Benoit and Chidananda, Prajwal and Nair, Saurabh and Badrinarayanan, Vijay and Kendall, Alex and Shotton, Jamie and others},
+    booktitle = "European Conference on Computer Vision",
+    organization = "Springer",
+    pages = "252--269",
+    title = "Lingoqa: Visual question answering for autonomous driving",
     year = "2024"
 }
 </pre>
-</ul>
-</details>
-
-</ul>
-</details>
 </details>
 </ul>
 
-<a name="Dashcam"></a>
+<a name="DATAD"></a>
 <details close>
-<summary>Dashcam | <a href=https://doi.org/10.1007/978-3-319-54190-7_9>paper</a> | <a href=https://aliensunmin.github.io/project/dashcam/>link</a></summary>
+<summary>DATAD | <a href=https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_From_Gaze_to_Movement_Predicting_Visual_Attention_for_Autonomous_Driving_ICCV_2025_paper.pdf>paper</a> | <a href=https://github.com/OOPartsfili/DATAD-driver-attention-in-takeover-of-autonomous-driving>link</a></summary>
 <ul>
-Description: Videos of accidents recorded with dashboard cameras sourced from video hosting sites with annotations for accidents and road users involved in them
-</ul>
-</summary>
-<ul>
-Data: scene video
-</ul>
-</summary>
-<ul>
-Annotations: bounding boxes, accident category labels
-</ul>
-<ul>
-<pre>
-@inproceedings{2016_ACCV_Chan,
-    author = "Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min",
-    booktitle = "ACCV",
-    title = "Anticipating accidents in dashcam videos",
-    year = "2016"
-}
-</pre>
-<details close>
-<summary>Used in papers:
-<ul><a name=2025_WACVW_Kumamoto></a>
-<details close>
-<summary>Kumamoto et al., AAT-DA: Accident Anticipation Transformer with Driver Attention, WACVW, 2025 | <a href=https://openaccess.thecvf.com/content/WACV2025W/HAVI/papers/Kumamoto_AAT-DA_Accident_Anticipation_Transformer_with_Driver_Attention_WACVW_2025_paper.pdf>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#Dashcam>Dashcam</a>, <a href=datasets_by_year.md#CCD>CCD</a>
-<pre>
-@inproceedings{2025_WACVW_Kumamoto,
-    author = "Kumamoto, Yuto and Ohtani, Kento and Suzuki, Daiki and Yamataka, Minori and Takeda, Kazuya",
-    booktitle = "Proceedings of the Winter Conference on Applications of Computer Vision",
-    pages = "1142--1151",
-    title = "AAT-DA: Accident Anticipation Transformer with Driver Attention",
-    year = "2025"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2024_T-ITS_Chen></a>
-<details close>
-<summary>Chen et al., A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3446832>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#Dashcam>Dashcam</a>, private
-<pre>
-@article{2024_T-ITS_Chen,
-    author = "Chen, Jiansong and Zhang, Qixiang and Chen, Jinxin and Wang, Jinxiang and Fang, Zhenwu and Liu, Yahui and Yin, Guodong",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2021_WACV_Kopuklu></a>
-<details close>
-<summary>Kopuklu et al., Driver Anomaly Detection: A Dataset and Contrastive Learning Approach, WACV, 2021 | <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Kopuklu_Driver_Anomaly_Detection_A_Dataset_and_Contrastive_Learning_Approach_WACV_2021_paper.pdf>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#Dashcam>Dashcam</a>
-<pre>
-@inproceedings{2021_WACV_Kopuklu,
-    author = "Kopuklu, Okan and Zheng, Jiapeng and Xu, Hang and Rigoll, Gerhard",
-    booktitle = "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision",
-    pages = "91--100",
-    title = "Driver anomaly detection: A dataset and contrastive learning approach",
-    year = "2021"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-</details>
-</details>
-</ul>
-
-### In-vehicle gaze
-<a name="IVGaze"></a>
-<details close>
-<summary>IVGaze | <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_What_Do_You_See_in_Vehicle_Comprehensive_Vision_Solution_for_CVPR_2024_paper.pdf>paper</a> | <a href=https://yihua.zone/work/ivgaze>link</a></summary>
-<ul>
-Full name: In-Vehicle Gaze Dataset
-</ul>
-</summary>
-<ul>
-Description: 44K images of 25 subjects looking at different areas inside the vehicle
+Description: Dataset with 12 types of autonomous driving takeover scenarios and eye-tracking data
 </ul>
 </summary>
 <ul>
 Data: driver video, eye-tracking
 </ul>
-</summary>
-<ul>
-Annotations: gaze area labels
-</ul>
 <ul>
 <pre>
-@inproceedings{2024_CVPR_Cheng,
-    author = "Cheng, Yihua and Zhu, Yaning and Wang, Zongji and Hao, Hongquan and Liu, Yongwei and Cheng, Shiqing and Wang, Xi and Chang, Hyung Jin",
-    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-    pages = "1556--1565",
-    title = "What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation",
-    year = "2024"
+@inproceedings{2025_ICCV_Huang,
+    author = "Huang, Yexin and Lin, Yongbin and Yue, Lishengsa and Yao, Zhihong and Wang, Jie",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "26146--26155",
+    title = "From Gaze to Movement: Predicting Visual Attention for Autonomous Driving Human-Machine Interaction based on Programmatic Imitation Learning",
+    year = "2025"
 }
 </pre>
 <details close>
 <summary>Used in papers:
-<ul><a name=2024_CVPR_Cheng></a>
+<ul><a name=2025_ICCV_Huang></a>
 <details close>
-<summary>Cheng et al., What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation, CVPR, 2024 | <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_What_Do_You_See_in_Vehicle_Comprehensive_Vision_Solution_for_CVPR_2024_paper.pdf>paper</a> | <a href=https://github.com/yihuacheng/IVGaze/tree/main>code</a></summary>
+<summary>Huang et al., From Gaze to Movement: Predicting Visual Attention for Autonomous Driving Human-Machine Interaction based on Programmatic Imitation Learning, ICCV, 2025 | <a href=https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_From_Gaze_to_Movement_Predicting_Visual_Attention_for_Autonomous_Driving_ICCV_2025_paper.pdf>paper</a> | <a href=https://github.com/OOPartsfili/DATAD-driver-attention-in-takeover-of-autonomous-driving>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#IVGaze>IVGaze</a>
+Dataset(s): <a href=datasets_by_year.md#DATAD>DATAD</a>
 <pre>
-@inproceedings{2024_CVPR_Cheng,
-    author = "Cheng, Yihua and Zhu, Yaning and Wang, Zongji and Hao, Hongquan and Liu, Yongwei and Cheng, Shiqing and Wang, Xi and Chang, Hyung Jin",
-    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-    pages = "1556--1565",
-    title = "What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation",
-    year = "2024"
+@inproceedings{2025_ICCV_Huang,
+    author = "Huang, Yexin and Lin, Yongbin and Yue, Lishengsa and Yao, Zhihong and Wang, Jie",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "26146--26155",
+    title = "From Gaze to Movement: Predicting Visual Attention for Autonomous Driving Human-Machine Interaction based on Programmatic Imitation Learning",
+    year = "2025"
 }
 </pre>
 </ul>
@@ -3460,377 +3471,9 @@ Dataset(s): <a href=datasets_by_year.md#IVGaze>IVGaze</a>
 </details>
 </ul>
 
-<a name="DGAZE"></a>
+<a name="DriVQA"></a>
 <details close>
-<summary>DGAZE | <a href=http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2020/DGAZE_Driver.pdf>paper</a> | <a href=https://github.com/duaisha/DGAZE>link</a></summary>
-<ul>
-Description: A dataset mapping drivers’ gaze to different areas in a static traffic scene in lab conditions
-</ul>
-</summary>
-<ul>
-Data: driver video, scene video
-</ul>
-</summary>
-<ul>
-Annotations: bounding boxes
-</ul>
-<ul>
-<pre>
-@inproceedings{2020_IROS_Dua,
-    author = "Dua, Isha and John, Thrupthi Ann and Gupta, Riya and Jawahar, CV",
-    booktitle = "IROS",
-    title = "DGAZE: Driver Gaze Mapping on Road",
-    year = "2020"
-}
-</pre>
-<details close>
-<summary>Used in papers:
-<ul><a name=2020_IROS_Dua></a>
-<details close>
-<summary>Dua et al., DGAZE: Driver Gaze Mapping on Road, IROS, 2020 | <a href=https://doi.org/10.1109/IROS45743.2020.9341782>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DGAZE>DGAZE</a>
-<pre>
-@inproceedings{2020_IROS_Dua,
-    author = "Dua, Isha and John, Thrupthi Ann and Gupta, Riya and Jawahar, CV",
-    booktitle = "IROS",
-    title = "DGAZE: Driver Gaze Mapping on Road",
-    year = "2020"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-</details>
-</details>
-</ul>
-
-<a name="DriveAHead"></a>
-<details close>
-<summary>DriveAHead | <a href=https://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/papers/Schwarz_DriveAHead_-_A_CVPR_2017_paper.pdf>paper</a> | <a href=https://cvhci.anthropomatik.kit.edu/data/DriveAHead/>link</a></summary>
-<ul>
-Description: Videos of drivers with frame-level head pose annotations obtained from a motion-capture system
-</ul>
-</summary>
-<ul>
-Data: driver video
-</ul>
-</summary>
-<ul>
-Annotations: occlusion, head pose, depth
-</ul>
-<ul>
-<pre>
-@inproceedings{2017_CVPRW_Schwarz,
-    author = "Schwarz, Anke and Haurilet, Monica and Martinez, Manuel and Stiefelhagen, Rainer",
-    booktitle = "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops",
-    pages = "1--10",
-    title = "Driveahead-a large-scale driver head pose dataset",
-    year = "2017"
-}
-</pre>
-</details>
-</ul>
-
-<a name="BU HeadTracking"></a>
-<details close>
-<summary>BU HeadTracking | <a href=https://doi.org/10.1109/34.845375>paper</a> | <a href=https://www.cs.bu.edu/groups/ivc/HeadTracking/>link</a></summary>
-<ul>
-Full name: Boston University Head Tracking Dataset
-</ul>
-</summary>
-<ul>
-Description: Videos and head tracking information for multiple human subjects recorded in diverse conditions
-</ul>
-</summary>
-<ul>
-Data: driver video
-</ul>
-</summary>
-<ul>
-Annotations: head pose
-</ul>
-<ul>
-<pre>
-@article{2000_PAMI_LaCascia,
-    author = "La Cascia, Marco and Sclaroff, Stan and Athitsos, Vassilis",
-    journal = "IEEE Transactions on pattern analysis and machine intelligence",
-    number = "4",
-    pages = "322--336",
-    publisher = "IEEE",
-    title = "Fast, reliable head tracking under varying illumination: An approach based on registration of texture-mapped 3D models",
-    volume = "22",
-    year = "2000"
-}
-</pre>
-<details close>
-<summary>Used in papers:
-<ul><a name=2013_T-ITS_Mbouna></a>
-<details close>
-<summary>Mbouna et al., Visual Analysis of Eye State and Head Pose for Driver Alertness Monitoring, Trans. ITS, 2013 | <a href=https://doi.org/10.1109/TITS.2013.2262098>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#BU HeadTracking>BU HeadTracking</a>, private
-<pre>
-@article{2013_T-ITS_Mbouna,
-    author = "Mbouna, Ralph Oyini and Kong, Seong G and Chun, Myung-Geun",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    number = "3",
-    pages = "1462--1469",
-    title = "Visual analysis of eye state and head pose for driver alertness monitoring",
-    volume = "14",
-    year = "2013"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-</details>
-</details>
-</ul>
-
-<a name="SynDD1"></a>
-<details close>
-<summary>SynDD1 | <a href=https://doi.org/10.1016/j.dib.2022.108793>paper</a> | <a href=https://data.mendeley.com/datasets/ptcp7rp3wb/4>link</a></summary>
-<ul>
-Full name: Synthetic Distracted Driving Dataset
-</ul>
-</summary>
-<ul>
-Description: Synthetic dataset for machine learning models to detect and analyze drivers' various distracted behavior and different gaze zones. 
-</ul>
-</summary>
-<ul>
-Data: driver video
-</ul>
-</summary>
-<ul>
-Annotations: gaze area labels, action labels, appearance labels
-</ul>
-<ul>
-<pre>
-@article{2023_DiB_Rahman,
-    author = "Rahman, Mohammed Shaiqur and Venkatachalapathy, Archana and Sharma, Anuj and Wang, Jiyang and Gursoy, Senem Velipasalar and Anastasiu, David and Wang, Shuo",
-    journal = "Data in brief",
-    pages = "108793",
-    publisher = "Elsevier",
-    title = "Synthetic distracted driving (syndd1) dataset for analyzing distracted behaviors and various gaze zones of a driver",
-    volume = "46",
-    year = "2023"
-}
-</pre>
-<details close>
-<summary>Used in papers:
-<ul><a name=2024_T-ITS_Hasan></a>
-<details close>
-<summary>Hasan et al., Vision-Language Models Can Identify Distracted Driver Behavior From Naturalistic Videos, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3381175>paper</a> | <a href=https://github.com/zahid-isu/DriveCLIP>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>, <a href=datasets_by_year.md#SAM-DD>SAM-DD</a>, <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#SynDD1>SynDD1</a>
-<pre>
-@article{2024_T-ITS_Hasan,
-    author = "Hasan, Md Zahid and Chen, Jiajing and Wang, Jiyang and Rahman, Mohammed Shaiqur and Joshi, Ameya and Velipasalar, Senem and Hegde, Chinmay and Sharma, Anuj and Sarkar, Soumik",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "Vision-language models can identify distracted driver behavior from naturalistic videos",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2022_CVPRW_Doshi></a>
-<details close>
-<summary>Doshi et al., Federated Learning-based Driver Activity Recognition for Edge Devices, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Doshi_Federated_Learning-Based_Driver_Activity_Recognition_for_Edge_Devices_CVPRW_2022_paper.pdf>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#SynDD1>SynDD1</a>
-<pre>
-@inproceedings{2022_CVPRW_Doshi,
-    author = "Doshi, Keval and Yilmaz, Yasin",
-    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-    pages = "3338--3346",
-    title = "Federated learning-based driver activity recognition for edge devices",
-    year = "2022"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2022_CVPRW_Ding></a>
-<details close>
-<summary>Ding et al., A Coarse-to-Fine Boundary Localization method for Naturalistic Driving Action Recognition, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Ding_A_Coarse-To-Fine_Boundary_Localization_Method_for_Naturalistic_Driving_Action_Recognition_CVPRW_2022_paper.pdf>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#SynDD1>SynDD1</a>
-<pre>
-@article{2022_CVPRW_Ding,
-    author = "Du, Guanglong and Zhang, Linlin and Su, Kang and Wang, Xueqian and Teng, Shaohua and Liu, Peter X",
-    journal = "Ieee Transactions on Intelligent Transportation Systems",
-    number = "11",
-    pages = "21810--21820",
-    publisher = "IEEE",
-    title = "A multimodal fusion fatigue driving detection method based on heart rate and PERCLOS",
-    volume = "23",
-    year = "2022"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2022_CVPRW_Alyahya></a>
-<details close>
-<summary>Alyahya et al., Temporal Driver Action Localization using Action Classification Methods, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Alyahya_Temporal_Driver_Action_Localization_Using_Action_Classification_Methods_CVPRW_2022_paper.pdf>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#SynDD1>SynDD1</a>
-<pre>
-@inproceedings{2022_CVPRW_Alyahya,
-    author = "Alyahya, Munirah and Alghannam, Shahad and Alhussan, Taghreed",
-    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-    pages = "3319--3326",
-    title = "Temporal Driver Action Localization using Action Classification Methods",
-    year = "2022"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-</details>
-</details>
-</ul>
-
-<a name="LISA v2"></a>
-<details close>
-<summary>LISA v2 | <a href=https://doi.org/10.1109/IV47402.2020.9304573>paper</a> | <a href=https://github.com/arangesh/GPCycleGAN>link</a></summary>
-<ul>
-Full name: Laboratory for Intelligent and Safe Automobiles
-</ul>
-</summary>
-<ul>
-Description: Videos of drivers with and without eyeglasses recorded under different lighting conditions
-</ul>
-</summary>
-<ul>
-Data: driver video
-</ul>
-<ul>
-<pre>
-@inproceedings{2020_IV_Rangesh,
-    author = "Rangesh, Akshay and Zhang, Bowen and Trivedi, Mohan M",
-    booktitle = "IV",
-    title = "Driver gaze estimation in the real world: Overcoming the eyeglass challenge",
-    year = "2020"
-}
-</pre>
-</details>
-</ul>
-
-<a name="NeuroIV"></a>
-<details close>
-<summary>NeuroIV | <a href=https://doi.org/10.1109/TITS.2020.3022921>paper</a> | <a href=https://github.com/ispc-lab/NeuroIV>link</a></summary>
-<ul>
-Full name: Neuromorphic Vision Meets Intelligent Vehicle
-</ul>
-</summary>
-<ul>
-Description: Videos of drivers performing secondary tasks, making hand gestures and observing different regions inside the vehicle recorded with DAVIS and depth sensor
-</ul>
-</summary>
-<ul>
-Data: driver video
-</ul>
-<ul>
-<pre>
-@article{2020_T-ITS_Chen,
-    author = {Chen, Guang and Wang, Fa and Li, Weijun and Hong, Lin and Conradt, J{\"o}rg and Chen, Jieneng and Zhang, Zhenyan and Lu, Yiwen and Knoll, Alois},
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    number = "2",
-    pages = "1171--1183",
-    publisher = "IEEE",
-    title = "NeuroIV: Neuromorphic vision meets intelligent vehicle towards safe driving with a new database and baseline evaluations",
-    volume = "23",
-    year = "2020"
-}
-</pre>
-</details>
-</ul>
-
-<a name="DMD"></a>
-<details close>
-<summary>DMD | <a href=https://doi.org/10.1007/978-3-030-66823-5_23>paper</a> | <a href=https://dmd.vicomtech.org/>link</a></summary>
-<ul>
-Full name: Driving Monitoring Dataset
-</ul>
-</summary>
-<ul>
-Description: A diverse multi-modal dataset of drivers performing various secondary tasks, observing different regions inside the car, and showing signs of drowsiness recorded on-road and in simulation environment
-</ul>
-</summary>
-<ul>
-Data: driver video, scene video, vehicle data
-</ul>
-</summary>
-<ul>
-Annotations: bounding boxes, action labels
-</ul>
-<ul>
-<pre>
-@inproceedings{2020_ECCVW_Ortega,
-    author = "Ortega, Juan Diego and Kose, Neslihan and Ca{\\textasciitilde n}as, Paola and Chao, Min-An and Unnervik, Alexander and Nieto, Marcos and Otaegui, Oihana and Salgado, Luis",
-    booktitle = "ECCV",
-    title = "Dmd: A large-scale multi-modal driver monitoring dataset for attention and alertness analysis",
-    year = "2020"
-}
-</pre>
-<details close>
-<summary>Used in papers:
-<ul><a name=2024_T-ITS_Hasan></a>
-<details close>
-<summary>Hasan et al., Vision-Language Models Can Identify Distracted Driver Behavior From Naturalistic Videos, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3381175>paper</a> | <a href=https://github.com/zahid-isu/DriveCLIP>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>, <a href=datasets_by_year.md#SAM-DD>SAM-DD</a>, <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#SynDD1>SynDD1</a>
-<pre>
-@article{2024_T-ITS_Hasan,
-    author = "Hasan, Md Zahid and Chen, Jiajing and Wang, Jiyang and Rahman, Mohammed Shaiqur and Joshi, Ameya and Velipasalar, Senem and Hegde, Chinmay and Sharma, Anuj and Sarkar, Soumik",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "Vision-language models can identify distracted driver behavior from naturalistic videos",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2024_IV_Palo></a>
-<details close>
-<summary>Palo et al., Holistic Driver Monitoring: A Multi-Task Approach for In-Cabin Driver Attention Evaluation through Multi-Camera Data, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588402>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>
-<pre>
-@inproceedings{2024_IV_Palo,
-    author = "Palo, Patitapaban and Nayak, Satyajit and Modhugu, Durga Nagendra Raghava Kumar and Gupta, Kwanit and Uttarkabat, Satarupa",
-    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
-    organization = "IEEE",
-    pages = "1361--1366",
-    title = "Holistic Driver Monitoring: A Multi-Task Approach for In-Cabin Driver Attention Evaluation through Multi-Camera Data",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-</details>
-</details>
-</ul>
-
-### Scene gaze
-<a name="DrivQA"></a>
-<details close>
-<summary>DrivQA | <a href=https://doi.org/10.1016/j.dib.2025.111367>paper</a> | <a href=https://data.mendeley.com/datasets/p25744hwrc/2>link</a></summary>
+<summary>DriVQA | <a href=https://doi.org/10.1016/j.dib.2025.111367>paper</a> | <a href=https://data.mendeley.com/datasets/p25744hwrc/2>link</a></summary>
 <ul>
 Description: Dataset for visual question answering (VQA) in the driving domain. Contains images driving scenes with eye-tracking data that was recorded from subjects that answered various questions about the scene.
 </ul>
@@ -4244,6 +3887,25 @@ Data: eye-tracking, scene video, vehicle data
 </pre>
 <details close>
 <summary>Used in papers:
+<ul><a name=2025_IV_Chen></a>
+<details close>
+<summary>Chen et al., CGVA: Cognitive Guided Visual Attention Selection in Traffic Driving Environment, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097518>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, private
+<pre>
+@inproceedings{2025_IV_Chen,
+    author = "Chen, Renjie and Zhang, Dongbo and Guo, Yuhao and Liu, Qinrui and Li, Jing",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1286--1292",
+    title = "CGVA: Cognitive Guided Visual Attention Selection in Traffic Driving Environment",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2025_AAAI_Zhao></a>
 <details close>
 <summary>Zhao et al., SalM²: An Extremely Lightweight Saliency Mamba Model for Real-Time Cognitive Awareness of Driver Attention , AAAI, 2025 | <a href=https://doi.org/10.1609/aaai.v39i2.32157>paper</a> | <a href=https://github.com/zhao-chunyu/SaliencyMamba>code</a></summary>
@@ -4264,24 +3926,6 @@ Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_yea
 </details>
 
 </ul>
-<ul><a name=2024_T-ITS_Araluce></a>
-<details close>
-<summary>Araluce et al., Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3350337>paper</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#BDD-OIA>BDD-OIA</a>
-<pre>
-@article{2024_T-ITS_Araluce,
-    author = "Araluce, Javier and Bergasa, Luis M and Oca{\\textasciitilde n}a, Manuel and Llamazares, {\'A}ngel and L{\'o}pez-Guill{\'e}n, Elena",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
 <ul><a name=2024_T-ITS_Hu></a>
 <details close>
 <summary>Hu et al., Context-Aware Driver Attention Estimation Using Multi-Hierarchy Saliency Fusion With Gaze Tracking, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3361903>paper</a></summary>
@@ -4293,6 +3937,24 @@ Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=dataset
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     publisher = "IEEE",
     title = "Context-Aware Driver Attention Estimation Using Multi-Hierarchy Saliency Fusion With Gaze Tracking",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Araluce></a>
+<details close>
+<summary>Araluce et al., Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3350337>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#BDD-OIA>BDD-OIA</a>
+<pre>
+@article{2024_T-ITS_Araluce,
+    author = "Araluce, Javier and Bergasa, Luis M and Oca{\\textasciitilde n}a, Manuel and Llamazares, {\'A}ngel and L{\'o}pez-Guill{\'e}n, Elena",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images",
     year = "2024"
 }
 </pre>
@@ -5209,6 +4871,25 @@ Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, TDV, <a href=da
 </details>
 
 </ul>
+<ul><a name=2025_IV_Chen></a>
+<details close>
+<summary>Chen et al., CGVA: Cognitive Guided Visual Attention Selection in Traffic Driving Environment, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097518>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, private
+<pre>
+@inproceedings{2025_IV_Chen,
+    author = "Chen, Renjie and Zhang, Dongbo and Guo, Yuhao and Liu, Qinrui and Li, Jing",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1286--1292",
+    title = "CGVA: Cognitive Guided Visual Attention Selection in Traffic Driving Environment",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_T-ITS_Araluce></a>
 <details close>
 <summary>Araluce et al., Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3350337>paper</a></summary>
@@ -5394,6 +5075,873 @@ Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=dataset
     publisher = "IEEE",
     title = "Driver Glance Behavior Modeling Based on Semi-Supervised Clustering and Piecewise Aggregate Representation",
     year = "2021"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+### Traffic accidents
+<a name="VIENA2"></a>
+<details close>
+<summary>VIENA2 | <a href=https://doi.org/10.1007/978-3-030-20887-5_28>paper</a> | <a href=https://sites.google.com/view/viena2-project/home>link</a></summary>
+<ul>
+Full name: VIrtual ENvironment for Action Analysi
+</ul>
+</summary>
+<ul>
+Description: Dataset recorded in simulation for driver action anticipation
+</ul>
+</summary>
+<ul>
+Data: scene video, vehicle data
+</ul>
+</summary>
+<ul>
+Annotations: action labels, accident labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2018_ACCV_Alikbarian,
+    author = "Aliakbarian, Mohammad Sadegh and Saleh, Fatemeh Sadat and Salzmann, Mathieu and Fernando, Basura and Petersson, Lars and Andersson, Lars",
+    booktitle = "Asian Conference on Computer Vision",
+    organization = "Springer",
+    pages = "449--466",
+    title = "VIENA: A driving anticipation dataset",
+    year = "2018"
+}
+</pre>
+</details>
+</ul>
+
+<a name="DADA-2000"></a>
+<details close>
+<summary>DADA-2000 | <a href=https://doi.org/10.1109/ITSC.2019.8917218>paper</a> | <a href=https://github.com/JWFangit/LOTVS-DADA>link</a></summary>
+<ul>
+Full name: Driver Attention in Driving Accident Scenarios
+</ul>
+</summary>
+<ul>
+Description: 2000 videos of accident videos collected from video hosting websites with eye-tracking data from 20 subjects collected in the lab.
+</ul>
+</summary>
+<ul>
+Data: eye-tracking, scene video
+</ul>
+</summary>
+<ul>
+Annotations: bounding boxes, accident category labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2019_ITSC_Fang,
+    author = "Fang, Jianwu and Yan, Dingxin and Qiao, Jiahuan and Xue, Jianru and Wang, He and Li, Sen",
+    booktitle = "ITSC",
+    title = "{DADA-2000: Can Driving Accident be Predicted by Driver Attentionƒ Analyzed by A Benchmark}",
+    year = "2019"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2025_T-ITS_Jin></a>
+<details close>
+<summary>Jin et al., MTSF: Multi-Scale Temporal–Spatial Fusion Network for Driver Attention Prediction, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2024.3510116>paper</a> | <a href=https://github.com/JiBingdong/MTSF>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, TDV, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>
+<pre>
+@article{2025_T-ITS_Jin,
+    author = "Jin, Lisheng and Ji, Bingdong and Guo, Baicang and Wang, Huanhuan and Han, Zhuotong and Liu, Xingchen",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "MTSF: Multi-Scale Temporal--Spatial Fusion Network for Driver Attention Prediction",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_IV_Chen></a>
+<details close>
+<summary>Chen et al., CGVA: Cognitive Guided Visual Attention Selection in Traffic Driving Environment, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097518>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, private
+<pre>
+@inproceedings{2025_IV_Chen,
+    author = "Chen, Renjie and Zhang, Dongbo and Guo, Yuhao and Liu, Qinrui and Li, Jing",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1286--1292",
+    title = "CGVA: Cognitive Guided Visual Attention Selection in Traffic Driving Environment",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Araluce></a>
+<details close>
+<summary>Araluce et al., Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3350337>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#BDD-OIA>BDD-OIA</a>
+<pre>
+@article{2024_T-ITS_Araluce,
+    author = "Araluce, Javier and Bergasa, Luis M and Oca{\\textasciitilde n}a, Manuel and Llamazares, {\'A}ngel and L{\'o}pez-Guill{\'e}n, Elena",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Leveraging Driver Attention for an End-to-End Explainable Decision-Making From Frontal Images",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_ITSM_Li></a>
+<details close>
+<summary>Li et al., Cognitive Traffic Accident Anticipation, ITS Mag., 2024 | <a href=https://doi.org/10.1109/MITS.2024.3378460>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#CCD>CCD</a>
+<pre>
+@article{2024_ITSM_Li,
+    author = "Li, Lei-Lei and Fang, Jianwu and Xue, Jianru",
+    journal = "IEEE Intelligent Transportation Systems Magazine",
+    publisher = "IEEE",
+    title = "Cognitive Traffic Accident Anticipation",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2023_ITSC_Zhao></a>
+<details close>
+<summary>Zhao et al., Gated Driver Attention Predictor, ITSC, 2023 | <a href=https://doi.org/10.1109/ITSC57777.2023.10422543>paper</a> | <a href=https://github.com/Zhaotianci123/Gate-DAP>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>
+<pre>
+@inproceedings{2023_ITSC_Zhao,
+    author = "Zhao, Tianci and Bai, Xue and Fang, Jianwu and Xue, Jianru",
+    booktitle = "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)",
+    organization = "IEEE",
+    pages = "270--276",
+    title = "Gated Driver Attention Predictor",
+    year = "2023"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2023_ICCV_Zhu></a>
+<details close>
+<summary>Zhu et al., Unsupervised Self-Driving Attention Prediction via Uncertainty Mining and Knowledge Embedding, ICCV, 2023 | <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Unsupervised_Self-Driving_Attention_Prediction_via_Uncertainty_Mining_and_Knowledge_Embedding_ICCV_2023_paper.pdf>paper</a> | <a href=https://github.com/zaplm/DriverAttention>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>
+<pre>
+@inproceedings{2023_ICCV_Zhu,
+    author = "Zhu, Pengfei and Qi, Mengshi and Li, Xia and Li, Weijian and Ma, Huadong",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "8558--8568",
+    title = "Unsupervised self-driving attention prediction via uncertainty mining and knowledge embedding",
+    year = "2023"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2023_ICCV_Chen></a>
+<details close>
+<summary>Chen et al., FBLNet: FeedBack Loop Network for Driver Attention Prediction, ICCV, 2023 | <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_FBLNet_FeedBack_Loop_Network_for_Driver_Attention_Prediction_ICCV_2023_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>
+<pre>
+@inproceedings{2023_ICCV_Chen,
+    author = "Chen, Yilong and Nan, Zhixiong and Xiang, Tao",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "13371--13380",
+    title = "FBLNet: FeedBack Loop Network for Driver Attention Prediction",
+    year = "2023"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2022_T-ITS_Li></a>
+<details close>
+<summary>Li et al., Adaptive Short-Temporal Induced Aware Fusion Network for Predicting Attention Regions Like a Driver, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3165619>paper</a> | <a href=https://github.com/liuchunsense/ASIAFnet>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#TrafficSaliency>TrafficSaliency</a>
+<pre>
+@article{2022_T-ITS_Li,
+    author = "Li, Qiang and Liu, Chunsheng and Chang, Faliang and Li, Shuang and Liu, Hui and Liu, Zehao",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    number = "10",
+    pages = "18695--18706",
+    publisher = "IEEE",
+    title = "Adaptive short-temporal induced aware fusion network for predicting attention regions like a driver",
+    volume = "23",
+    year = "2022"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2022_T-ITS_Gan></a>
+<details close>
+<summary>Gan et al., Multisource Adaption for Driver Attention Prediction in Arbitrary Driving Scenes, Trans. ITS, 2022 | <a href=https://doi.org/10.1109/TITS.2022.3177640>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#TrafficSaliency>TrafficSaliency</a>
+<pre>
+@article{2022_T-ITS_Gan,
+    author = "Gan, Shun and Pei, Xizhe and Ge, Yulong and Wang, Qingfan and Shang, Shi and Li, Shengbo Eben and Nie, Bingbing",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    number = "11",
+    pages = "20912--20925",
+    publisher = "IEEE",
+    title = "Multisource Adaption for Driver Attention Prediction in Arbitrary Driving Scenes",
+    volume = "23",
+    year = "2022"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2022_T-ITS_Fang></a>
+<details close>
+<summary>Fang et al., DADA: Driver Attention Prediction in Driving Accident Scenarios, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2020.3044678>paper</a> | <a href=https://github.com/JWFangit/LOTVS-DADA>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#TrafficSaliency>TrafficSaliency</a>, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>
+<pre>
+@article{2022_T-ITS_Fang,
+    author = "Fang, Jianwu and Yan, Dingxin and Qiao, Jiahuan and Xue, Jianru and Yu, Hongkai",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    number = "6",
+    pages = "4959--4971",
+    publisher = "IEEE",
+    title = "DADA: Driver attention prediction in driving accident scenarios",
+    volume = "23",
+    year = "2021"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2022_IV_Araluce></a>
+<details close>
+<summary>Araluce et al., ARAGAN: A dRiver Attention estimation model based on conditional Generative Adversarial Network, IV, 2022 | <a href=https://doi.org/10.1109/IV51971.2022.9827175>paper</a> | <a href=https://github.com/javierAraluce/ARAGAN>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>
+<pre>
+@inproceedings{2022_IV_Araluce,
+    author = "Araluce, Javier and Bergasa, Luis M and Oca{\\textasciitilde n}a, Manuel and Barea, Rafael and L{\'o}pez-Guill{\'e}n, Elena and Revenga, Pedro",
+    booktitle = "2022 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1066--1072",
+    title = "ARAGAN: A dRiver Attention estimation model based on conditional Generative Adversarial Network",
+    year = "2022"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2021_T-ITS_Huang></a>
+<details close>
+<summary>Huang et al., Driver Distraction Detection Based on the True Driver’s Focus of Attention, Trans. ITS, 2021 | <a href=https://doi.org/10.1109/TITS.2022.3166208>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#TrafficSaliency>TrafficSaliency</a>, <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>, private
+<pre>
+@article{2021_T-ITS_Huang,
+    author = "Huang, Jianling and Long, Yan and Zhao, Xiaohua",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Driver Glance Behavior Modeling Based on Semi-Supervised Clustering and Piecewise Aggregate Representation",
+    year = "2021"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+<a name="CCD"></a>
+<details close>
+<summary>CCD | <a href=https://dl.acm.org/doi/pdf/10.1145/3394171.3413827>paper</a> | <a href=https://github.com/Cogito2012/CarCrashDataset>link</a></summary>
+<ul>
+Full name: Car Crash Dataset
+</ul>
+</summary>
+<ul>
+Description: A dataset of YouTube videos with traffic accidents
+</ul>
+</summary>
+<ul>
+Data: scene video
+</ul>
+</summary>
+<ul>
+Annotations: bounding boxes, accident labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2020_MM_Bao,
+    author = "Bao, Wentao and Yu, Qi and Kong, Yu",
+    booktitle = "Proceedings of the 28th ACM International Conference on Multimedia",
+    pages = "2682--2690",
+    title = "Uncertainty-based traffic accident anticipation with spatio-temporal relational learning",
+    year = "2020"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2025_WACVW_Kumamoto></a>
+<details close>
+<summary>Kumamoto et al., AAT-DA: Accident Anticipation Transformer with Driver Attention, WACVW, 2025 | <a href=https://openaccess.thecvf.com/content/WACV2025W/HAVI/papers/Kumamoto_AAT-DA_Accident_Anticipation_Transformer_with_Driver_Attention_WACVW_2025_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#Dashcam>Dashcam</a>, <a href=datasets_by_year.md#CCD>CCD</a>
+<pre>
+@inproceedings{2025_WACVW_Kumamoto,
+    author = "Kumamoto, Yuto and Ohtani, Kento and Suzuki, Daiki and Yamataka, Minori and Takeda, Kazuya",
+    booktitle = "Proceedings of the Winter Conference on Applications of Computer Vision",
+    pages = "1142--1151",
+    title = "AAT-DA: Accident Anticipation Transformer with Driver Attention",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_ITSM_Li></a>
+<details close>
+<summary>Li et al., Cognitive Traffic Accident Anticipation, ITS Mag., 2024 | <a href=https://doi.org/10.1109/MITS.2024.3378460>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, <a href=datasets_by_year.md#CCD>CCD</a>
+<pre>
+@article{2024_ITSM_Li,
+    author = "Li, Lei-Lei and Fang, Jianwu and Xue, Jianru",
+    journal = "IEEE Intelligent Transportation Systems Magazine",
+    publisher = "IEEE",
+    title = "Cognitive Traffic Accident Anticipation",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+<a name="Dashcam"></a>
+<details close>
+<summary>Dashcam | <a href=https://doi.org/10.1007/978-3-319-54190-7_9>paper</a> | <a href=https://aliensunmin.github.io/project/dashcam/>link</a></summary>
+<ul>
+Description: Videos of accidents recorded with dashboard cameras sourced from video hosting sites with annotations for accidents and road users involved in them
+</ul>
+</summary>
+<ul>
+Data: scene video
+</ul>
+</summary>
+<ul>
+Annotations: bounding boxes, accident category labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2016_ACCV_Chan,
+    author = "Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min",
+    booktitle = "ACCV",
+    title = "Anticipating accidents in dashcam videos",
+    year = "2016"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2025_WACVW_Kumamoto></a>
+<details close>
+<summary>Kumamoto et al., AAT-DA: Accident Anticipation Transformer with Driver Attention, WACVW, 2025 | <a href=https://openaccess.thecvf.com/content/WACV2025W/HAVI/papers/Kumamoto_AAT-DA_Accident_Anticipation_Transformer_with_Driver_Attention_WACVW_2025_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#Dashcam>Dashcam</a>, <a href=datasets_by_year.md#CCD>CCD</a>
+<pre>
+@inproceedings{2025_WACVW_Kumamoto,
+    author = "Kumamoto, Yuto and Ohtani, Kento and Suzuki, Daiki and Yamataka, Minori and Takeda, Kazuya",
+    booktitle = "Proceedings of the Winter Conference on Applications of Computer Vision",
+    pages = "1142--1151",
+    title = "AAT-DA: Accident Anticipation Transformer with Driver Attention",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Chen></a>
+<details close>
+<summary>Chen et al., A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3446832>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#Dashcam>Dashcam</a>, private
+<pre>
+@article{2024_T-ITS_Chen,
+    author = "Chen, Jiansong and Zhang, Qixiang and Chen, Jinxin and Wang, Jinxiang and Fang, Zhenwu and Liu, Yahui and Yin, Guodong",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2021_WACV_Kopuklu></a>
+<details close>
+<summary>Kopuklu et al., Driver Anomaly Detection: A Dataset and Contrastive Learning Approach, WACV, 2021 | <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Kopuklu_Driver_Anomaly_Detection_A_Dataset_and_Contrastive_Learning_Approach_WACV_2021_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#Dashcam>Dashcam</a>
+<pre>
+@inproceedings{2021_WACV_Kopuklu,
+    author = "Kopuklu, Okan and Zheng, Jiapeng and Xu, Hang and Rigoll, Gerhard",
+    booktitle = "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision",
+    pages = "91--100",
+    title = "Driver anomaly detection: A dataset and contrastive learning approach",
+    year = "2021"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+### In-vehicle gaze
+<a name="IVGaze"></a>
+<details close>
+<summary>IVGaze | <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_What_Do_You_See_in_Vehicle_Comprehensive_Vision_Solution_for_CVPR_2024_paper.pdf>paper</a> | <a href=https://yihua.zone/work/ivgaze>link</a></summary>
+<ul>
+Full name: In-Vehicle Gaze Dataset
+</ul>
+</summary>
+<ul>
+Description: 44K images of 25 subjects looking at different areas inside the vehicle
+</ul>
+</summary>
+<ul>
+Data: driver video, eye-tracking
+</ul>
+</summary>
+<ul>
+Annotations: gaze area labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2024_CVPR_Cheng,
+    author = "Cheng, Yihua and Zhu, Yaning and Wang, Zongji and Hao, Hongquan and Liu, Yongwei and Cheng, Shiqing and Wang, Xi and Chang, Hyung Jin",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "1556--1565",
+    title = "What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation",
+    year = "2024"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2024_CVPR_Cheng></a>
+<details close>
+<summary>Cheng et al., What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation, CVPR, 2024 | <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_What_Do_You_See_in_Vehicle_Comprehensive_Vision_Solution_for_CVPR_2024_paper.pdf>paper</a> | <a href=https://github.com/yihuacheng/IVGaze/tree/main>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#IVGaze>IVGaze</a>
+<pre>
+@inproceedings{2024_CVPR_Cheng,
+    author = "Cheng, Yihua and Zhu, Yaning and Wang, Zongji and Hao, Hongquan and Liu, Yongwei and Cheng, Shiqing and Wang, Xi and Chang, Hyung Jin",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "1556--1565",
+    title = "What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+<a name="DGAZE"></a>
+<details close>
+<summary>DGAZE | <a href=http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2020/DGAZE_Driver.pdf>paper</a> | <a href=https://github.com/duaisha/DGAZE>link</a></summary>
+<ul>
+Description: A dataset mapping drivers’ gaze to different areas in a static traffic scene in lab conditions
+</ul>
+</summary>
+<ul>
+Data: driver video, scene video
+</ul>
+</summary>
+<ul>
+Annotations: bounding boxes
+</ul>
+<ul>
+<pre>
+@inproceedings{2020_IROS_Dua,
+    author = "Dua, Isha and John, Thrupthi Ann and Gupta, Riya and Jawahar, CV",
+    booktitle = "IROS",
+    title = "DGAZE: Driver Gaze Mapping on Road",
+    year = "2020"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2020_IROS_Dua></a>
+<details close>
+<summary>Dua et al., DGAZE: Driver Gaze Mapping on Road, IROS, 2020 | <a href=https://doi.org/10.1109/IROS45743.2020.9341782>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DGAZE>DGAZE</a>
+<pre>
+@inproceedings{2020_IROS_Dua,
+    author = "Dua, Isha and John, Thrupthi Ann and Gupta, Riya and Jawahar, CV",
+    booktitle = "IROS",
+    title = "DGAZE: Driver Gaze Mapping on Road",
+    year = "2020"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+<a name="DriveAHead"></a>
+<details close>
+<summary>DriveAHead | <a href=https://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/papers/Schwarz_DriveAHead_-_A_CVPR_2017_paper.pdf>paper</a> | <a href=https://cvhci.anthropomatik.kit.edu/data/DriveAHead/>link</a></summary>
+<ul>
+Description: Videos of drivers with frame-level head pose annotations obtained from a motion-capture system
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: occlusion, head pose, depth
+</ul>
+<ul>
+<pre>
+@inproceedings{2017_CVPRW_Schwarz,
+    author = "Schwarz, Anke and Haurilet, Monica and Martinez, Manuel and Stiefelhagen, Rainer",
+    booktitle = "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops",
+    pages = "1--10",
+    title = "Driveahead-a large-scale driver head pose dataset",
+    year = "2017"
+}
+</pre>
+</details>
+</ul>
+
+<a name="BU HeadTracking"></a>
+<details close>
+<summary>BU HeadTracking | <a href=https://doi.org/10.1109/34.845375>paper</a> | <a href=https://www.cs.bu.edu/groups/ivc/HeadTracking/>link</a></summary>
+<ul>
+Full name: Boston University Head Tracking Dataset
+</ul>
+</summary>
+<ul>
+Description: Videos and head tracking information for multiple human subjects recorded in diverse conditions
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: head pose
+</ul>
+<ul>
+<pre>
+@article{2000_PAMI_LaCascia,
+    author = "La Cascia, Marco and Sclaroff, Stan and Athitsos, Vassilis",
+    journal = "IEEE Transactions on pattern analysis and machine intelligence",
+    number = "4",
+    pages = "322--336",
+    publisher = "IEEE",
+    title = "Fast, reliable head tracking under varying illumination: An approach based on registration of texture-mapped 3D models",
+    volume = "22",
+    year = "2000"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2013_T-ITS_Mbouna></a>
+<details close>
+<summary>Mbouna et al., Visual Analysis of Eye State and Head Pose for Driver Alertness Monitoring, Trans. ITS, 2013 | <a href=https://doi.org/10.1109/TITS.2013.2262098>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#BU HeadTracking>BU HeadTracking</a>, private
+<pre>
+@article{2013_T-ITS_Mbouna,
+    author = "Mbouna, Ralph Oyini and Kong, Seong G and Chun, Myung-Geun",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    number = "3",
+    pages = "1462--1469",
+    title = "Visual analysis of eye state and head pose for driver alertness monitoring",
+    volume = "14",
+    year = "2013"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+<a name="SynDD1"></a>
+<details close>
+<summary>SynDD1 | <a href=https://doi.org/10.1016/j.dib.2022.108793>paper</a> | <a href=https://data.mendeley.com/datasets/ptcp7rp3wb/4>link</a></summary>
+<ul>
+Full name: Synthetic Distracted Driving Dataset
+</ul>
+</summary>
+<ul>
+Description: Synthetic dataset for machine learning models to detect and analyze drivers' various distracted behavior and different gaze zones. 
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+</summary>
+<ul>
+Annotations: gaze area labels, action labels, appearance labels
+</ul>
+<ul>
+<pre>
+@article{2023_DiB_Rahman,
+    author = "Rahman, Mohammed Shaiqur and Venkatachalapathy, Archana and Sharma, Anuj and Wang, Jiyang and Gursoy, Senem Velipasalar and Anastasiu, David and Wang, Shuo",
+    journal = "Data in brief",
+    pages = "108793",
+    publisher = "Elsevier",
+    title = "Synthetic distracted driving (syndd1) dataset for analyzing distracted behaviors and various gaze zones of a driver",
+    volume = "46",
+    year = "2023"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2024_T-ITS_Hasan></a>
+<details close>
+<summary>Hasan et al., Vision-Language Models Can Identify Distracted Driver Behavior From Naturalistic Videos, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3381175>paper</a> | <a href=https://github.com/zahid-isu/DriveCLIP>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>, <a href=datasets_by_year.md#SAM-DD>SAM-DD</a>, <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#SynDD1>SynDD1</a>
+<pre>
+@article{2024_T-ITS_Hasan,
+    author = "Hasan, Md Zahid and Chen, Jiajing and Wang, Jiyang and Rahman, Mohammed Shaiqur and Joshi, Ameya and Velipasalar, Senem and Hegde, Chinmay and Sharma, Anuj and Sarkar, Soumik",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Vision-language models can identify distracted driver behavior from naturalistic videos",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2022_CVPRW_Doshi></a>
+<details close>
+<summary>Doshi et al., Federated Learning-based Driver Activity Recognition for Edge Devices, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Doshi_Federated_Learning-Based_Driver_Activity_Recognition_for_Edge_Devices_CVPRW_2022_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SynDD1>SynDD1</a>
+<pre>
+@inproceedings{2022_CVPRW_Doshi,
+    author = "Doshi, Keval and Yilmaz, Yasin",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "3338--3346",
+    title = "Federated learning-based driver activity recognition for edge devices",
+    year = "2022"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2022_CVPRW_Ding></a>
+<details close>
+<summary>Ding et al., A Coarse-to-Fine Boundary Localization method for Naturalistic Driving Action Recognition, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Ding_A_Coarse-To-Fine_Boundary_Localization_Method_for_Naturalistic_Driving_Action_Recognition_CVPRW_2022_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SynDD1>SynDD1</a>
+<pre>
+@article{2022_CVPRW_Ding,
+    author = "Du, Guanglong and Zhang, Linlin and Su, Kang and Wang, Xueqian and Teng, Shaohua and Liu, Peter X",
+    journal = "Ieee Transactions on Intelligent Transportation Systems",
+    number = "11",
+    pages = "21810--21820",
+    publisher = "IEEE",
+    title = "A multimodal fusion fatigue driving detection method based on heart rate and PERCLOS",
+    volume = "23",
+    year = "2022"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2022_CVPRW_Alyahya></a>
+<details close>
+<summary>Alyahya et al., Temporal Driver Action Localization using Action Classification Methods, CVPRW, 2022 | <a href=https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Alyahya_Temporal_Driver_Action_Localization_Using_Action_Classification_Methods_CVPRW_2022_paper.pdf>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SynDD1>SynDD1</a>
+<pre>
+@inproceedings{2022_CVPRW_Alyahya,
+    author = "Alyahya, Munirah and Alghannam, Shahad and Alhussan, Taghreed",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "3319--3326",
+    title = "Temporal Driver Action Localization using Action Classification Methods",
+    year = "2022"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+</details>
+</details>
+</ul>
+
+<a name="LISA v2"></a>
+<details close>
+<summary>LISA v2 | <a href=https://doi.org/10.1109/IV47402.2020.9304573>paper</a> | <a href=https://github.com/arangesh/GPCycleGAN>link</a></summary>
+<ul>
+Full name: Laboratory for Intelligent and Safe Automobiles
+</ul>
+</summary>
+<ul>
+Description: Videos of drivers with and without eyeglasses recorded under different lighting conditions
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+<ul>
+<pre>
+@inproceedings{2020_IV_Rangesh,
+    author = "Rangesh, Akshay and Zhang, Bowen and Trivedi, Mohan M",
+    booktitle = "IV",
+    title = "Driver gaze estimation in the real world: Overcoming the eyeglass challenge",
+    year = "2020"
+}
+</pre>
+</details>
+</ul>
+
+<a name="NeuroIV"></a>
+<details close>
+<summary>NeuroIV | <a href=https://doi.org/10.1109/TITS.2020.3022921>paper</a> | <a href=https://github.com/ispc-lab/NeuroIV>link</a></summary>
+<ul>
+Full name: Neuromorphic Vision Meets Intelligent Vehicle
+</ul>
+</summary>
+<ul>
+Description: Videos of drivers performing secondary tasks, making hand gestures and observing different regions inside the vehicle recorded with DAVIS and depth sensor
+</ul>
+</summary>
+<ul>
+Data: driver video
+</ul>
+<ul>
+<pre>
+@article{2020_T-ITS_Chen,
+    author = {Chen, Guang and Wang, Fa and Li, Weijun and Hong, Lin and Conradt, J{\"o}rg and Chen, Jieneng and Zhang, Zhenyan and Lu, Yiwen and Knoll, Alois},
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    number = "2",
+    pages = "1171--1183",
+    publisher = "IEEE",
+    title = "NeuroIV: Neuromorphic vision meets intelligent vehicle towards safe driving with a new database and baseline evaluations",
+    volume = "23",
+    year = "2020"
+}
+</pre>
+</details>
+</ul>
+
+<a name="DMD"></a>
+<details close>
+<summary>DMD | <a href=https://doi.org/10.1007/978-3-030-66823-5_23>paper</a> | <a href=https://dmd.vicomtech.org/>link</a></summary>
+<ul>
+Full name: Driving Monitoring Dataset
+</ul>
+</summary>
+<ul>
+Description: A diverse multi-modal dataset of drivers performing various secondary tasks, observing different regions inside the car, and showing signs of drowsiness recorded on-road and in simulation environment
+</ul>
+</summary>
+<ul>
+Data: driver video, scene video, vehicle data
+</ul>
+</summary>
+<ul>
+Annotations: bounding boxes, action labels
+</ul>
+<ul>
+<pre>
+@inproceedings{2020_ECCVW_Ortega,
+    author = "Ortega, Juan Diego and Kose, Neslihan and Ca{\\textasciitilde n}as, Paola and Chao, Min-An and Unnervik, Alexander and Nieto, Marcos and Otaegui, Oihana and Salgado, Luis",
+    booktitle = "ECCV",
+    title = "Dmd: A large-scale multi-modal driver monitoring dataset for attention and alertness analysis",
+    year = "2020"
+}
+</pre>
+<details close>
+<summary>Used in papers:
+<ul><a name=2024_T-ITS_Hasan></a>
+<details close>
+<summary>Hasan et al., Vision-Language Models Can Identify Distracted Driver Behavior From Naturalistic Videos, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3381175>paper</a> | <a href=https://github.com/zahid-isu/DriveCLIP>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>, <a href=datasets_by_year.md#SAM-DD>SAM-DD</a>, <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#SynDD1>SynDD1</a>
+<pre>
+@article{2024_T-ITS_Hasan,
+    author = "Hasan, Md Zahid and Chen, Jiajing and Wang, Jiyang and Rahman, Mohammed Shaiqur and Joshi, Ameya and Velipasalar, Senem and Hegde, Chinmay and Sharma, Anuj and Sarkar, Soumik",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Vision-language models can identify distracted driver behavior from naturalistic videos",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_IV_Palo></a>
+<details close>
+<summary>Palo et al., Holistic Driver Monitoring: A Multi-Task Approach for In-Cabin Driver Attention Evaluation through Multi-Camera Data, IV, 2024 | <a href=https://doi.org/10.1109/IV55156.2024.10588402>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>
+<pre>
+@inproceedings{2024_IV_Palo,
+    author = "Palo, Patitapaban and Nayak, Satyajit and Modhugu, Durga Nagendra Raghava Kumar and Gupta, Kwanit and Uttarkabat, Satarupa",
+    booktitle = "2024 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1361--1366",
+    title = "Holistic Driver Monitoring: A Multi-Task Approach for In-Cabin Driver Attention Evaluation through Multi-Camera Data",
+    year = "2024"
 }
 </pre>
 </ul>

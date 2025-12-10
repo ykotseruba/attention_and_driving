@@ -5,18 +5,56 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| In-vehicle gaze&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
-<ul><a name=2024_T-ITS_Camberg></a>
+<ul><a name=2025_T-ITS_Hu></a>
 <details close>
-<summary>Camberg et al., An Extensive Analysis of Different Approaches to Driver Gaze Classification, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3444588>paper</a></summary>
+<summary>Hu et al., Human-Centric Context and Self-Uncertainty-Driven Multi-Modal Large Language Model for Training-Free Vision-Based Driver State Recognition, Trans. ITS, 2025 | <a href=https://doi.org/TITS.2025.3558847>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#AIDE>AIDE</a>, <a href=datasets_by_year.md#3MDAD>3MDAD</a>
+<pre>
+@article{2025_T-ITS_Hu,
+    author = "Hu, Chuanfei and Li, Xinde",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Human-Centric Context and Self-Uncertainty-Driven Multi-Modal Large Language Model for Training-Free Vision-Based Driver State Recognition",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_IV_Tamura></a>
+<details close>
+<summary>Tamura et al., Cognitive Distraction Detection Using Gaze and Pupil with an Interpretable Approach, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097826>paper</a> | <a href=https://toyotaresearchinstitute.github.io/IV25-cognitive-distraction/>code</a></summary>
 <ul>
 Dataset(s): private
 <pre>
-@article{2024_T-ITS_Camberg,
-    author = {Camberg, Simone and H{\"u}llermeier, Eyke},
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "An Extensive Analysis of Different Approaches to Driver Gaze Classification",
-    year = "2024"
+@inproceedings{2025_IV_Tamura,
+    author = "Tamura, Kimimasa and Stent, Simon and Gideon, John and Shintani, Kohei and Rosman, Guy",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1305--1312",
+    title = "Cognitive Distraction Detection Using Gaze and Pupil with an Interpretable Approach",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_IV_Chi></a>
+<details close>
+<summary>Chi et al., VLM-DM: Visual Language Models for Multitask Domain Adaptation in Driver Monitoring, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097620>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
+<pre>
+@inproceedings{2025_IV_Chi,
+    author = "Chi, Haozhuang and Yang, Haohan and Yang, Lie and Lv, Chen",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1280--1285",
+    title = "VLM-DM: Visual Language Models for Multitask Domain Adaptation in Driver Monitoring",
+    year = "2025"
 }
 </pre>
 </ul>
@@ -34,6 +72,24 @@ Dataset(s): SHRP2
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     publisher = "IEEE",
     title = "Detecting Critical Mismatched Driver Visual Attention During Lane Change: An Embedding Kernel Algorithm",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Camberg></a>
+<details close>
+<summary>Camberg et al., An Extensive Analysis of Different Approaches to Driver Gaze Classification, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3444588>paper</a></summary>
+<ul>
+Dataset(s): private
+<pre>
+@article{2024_T-ITS_Camberg,
+    author = {Camberg, Simone and H{\"u}llermeier, Eyke},
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "An Extensive Analysis of Different Approaches to Driver Gaze Classification",
     year = "2024"
 }
 </pre>

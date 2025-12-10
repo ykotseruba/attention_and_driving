@@ -5,36 +5,74 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| Distraction detection&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
-<ul><a name=2024_T-ITS_Chen></a>
+<ul><a name=2025_T-ITS_Hu></a>
 <details close>
-<summary>Chen et al., A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3446832>paper</a></summary>
+<summary>Hu et al., Human-Centric Context and Self-Uncertainty-Driven Multi-Modal Large Language Model for Training-Free Vision-Based Driver State Recognition, Trans. ITS, 2025 | <a href=https://doi.org/TITS.2025.3558847>paper</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#Dashcam>Dashcam</a>, private
+Dataset(s): <a href=datasets_by_year.md#AIDE>AIDE</a>, <a href=datasets_by_year.md#3MDAD>3MDAD</a>
 <pre>
-@article{2024_T-ITS_Chen,
-    author = "Chen, Jiansong and Zhang, Qixiang and Chen, Jinxin and Wang, Jinxiang and Fang, Zhenwu and Liu, Yahui and Yin, Guodong",
+@article{2025_T-ITS_Hu,
+    author = "Hu, Chuanfei and Li, Xinde",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     publisher = "IEEE",
-    title = "A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior",
-    year = "2024"
+    title = "Human-Centric Context and Self-Uncertainty-Driven Multi-Modal Large Language Model for Training-Free Vision-Based Driver State Recognition",
+    year = "2025"
 }
 </pre>
 </ul>
 </details>
 
 </ul>
-<ul><a name=2024_T-ITS_Hu_1></a>
+<ul><a name=2025_IV_Tamura></a>
 <details close>
-<summary>Hu et al., An Investigation of the Effect of Smart Cockpit Layout on Distracted Driving Behavior Based on Real Road Experiments, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3456785>paper</a></summary>
+<summary>Tamura et al., Cognitive Distraction Detection Using Gaze and Pupil with an Interpretable Approach, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097826>paper</a> | <a href=https://toyotaresearchinstitute.github.io/IV25-cognitive-distraction/>code</a></summary>
 <ul>
 Dataset(s): private
 <pre>
-@article{2024_T-ITS_Hu_1,
-    author = "Hu, Lin and Deng, Xinjiao and Wang, Fang and Wu, Xianhui",
+@inproceedings{2025_IV_Tamura,
+    author = "Tamura, Kimimasa and Stent, Simon and Gideon, John and Shintani, Kohei and Rosman, Guy",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1305--1312",
+    title = "Cognitive Distraction Detection Using Gaze and Pupil with an Interpretable Approach",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_IV_Chi></a>
+<details close>
+<summary>Chi et al., VLM-DM: Visual Language Models for Multitask Domain Adaptation in Driver Monitoring, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097620>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#NTHU-DDD>NTHU-DDD</a>
+<pre>
+@inproceedings{2025_IV_Chi,
+    author = "Chi, Haozhuang and Yang, Haohan and Yang, Lie and Lv, Chen",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1280--1285",
+    title = "VLM-DM: Visual Language Models for Multitask Domain Adaptation in Driver Monitoring",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Yang></a>
+<details close>
+<summary>Yang et al., Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3316203>paper</a> | <a href=https://yanghh.io/Driver-Distraction-Quantification>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#3MDAD>3MDAD</a>, <a href=datasets_by_year.md#AUCD2>AUCD2</a>, <a href=datasets_by_year.md#SAM-DD>SAM-DD</a>
+<pre>
+@article{2024_T-ITS_Yang,
+    author = "Yang, Haohan and Liu, Haochen and Hu, Zhongxu and Nguyen, Anh-Tu and Guerra, Thierry-Marie and Lv, Chen",
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     publisher = "IEEE",
-    title = "An Investigation of the Effect of Smart Cockpit Layout on Distracted Driving Behavior Based on Real Road Experiments",
-    year = "2024"
+    title = "Quantitative identification of driver distraction: A weakly supervised contrastive learning approach",
+    year = "2023"
 }
 </pre>
 </ul>
@@ -77,24 +115,6 @@ Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_yea
 </details>
 
 </ul>
-<ul><a name=2024_T-ITS_Yang></a>
-<details close>
-<summary>Yang et al., Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3316203>paper</a> | <a href=https://yanghh.io/Driver-Distraction-Quantification>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#3MDAD>3MDAD</a>, <a href=datasets_by_year.md#AUCD2>AUCD2</a>, <a href=datasets_by_year.md#SAM-DD>SAM-DD</a>
-<pre>
-@article{2024_T-ITS_Yang,
-    author = "Yang, Haohan and Liu, Haochen and Hu, Zhongxu and Nguyen, Anh-Tu and Guerra, Thierry-Marie and Lv, Chen",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "Quantitative identification of driver distraction: A weakly supervised contrastive learning approach",
-    year = "2023"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
 <ul><a name=2024_T-ITS_Li></a>
 <details close>
 <summary>Li et al., Domain Adaptive Driver Distraction Detection Based on Partial Feature Alignment and Confusion-Minimized Classification, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3367665>paper</a></summary>
@@ -113,6 +133,24 @@ Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_yea
 </details>
 
 </ul>
+<ul><a name=2024_T-ITS_Hu_1></a>
+<details close>
+<summary>Hu et al., An Investigation of the Effect of Smart Cockpit Layout on Distracted Driving Behavior Based on Real Road Experiments, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3456785>paper</a></summary>
+<ul>
+Dataset(s): private
+<pre>
+@article{2024_T-ITS_Hu_1,
+    author = "Hu, Lin and Deng, Xinjiao and Wang, Fang and Wu, Xianhui",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "An Investigation of the Effect of Smart Cockpit Layout on Distracted Driving Behavior Based on Real Road Experiments",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_T-ITS_Hasan></a>
 <details close>
 <summary>Hasan et al., Vision-Language Models Can Identify Distracted Driver Behavior From Naturalistic Videos, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3381175>paper</a> | <a href=https://github.com/zahid-isu/DriveCLIP>code</a></summary>
@@ -124,6 +162,24 @@ Dataset(s): <a href=datasets_by_year.md#DMD>DMD</a>, <a href=datasets_by_year.md
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     publisher = "IEEE",
     title = "Vision-language models can identify distracted driver behavior from naturalistic videos",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Chen></a>
+<details close>
+<summary>Chen et al., A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3446832>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#Dashcam>Dashcam</a>, private
+<pre>
+@article{2024_T-ITS_Chen,
+    author = "Chen, Jiansong and Zhang, Qixiang and Chen, Jinxin and Wang, Jinxiang and Fang, Zhenwu and Liu, Yahui and Yin, Guodong",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "A Driving Risk Assessment Framework Considering Driver’s Fatigue State and Distraction Behavior",
     year = "2024"
 }
 </pre>

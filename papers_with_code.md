@@ -104,6 +104,61 @@ Dataset(s): <a href=datasets_by_year.md#Brain4Cars>Brain4Cars</a>
 
 ### Scene gaze
 
+<ul><a name=2025_T-ITS_Jin></a>
+<details close>
+<summary>Jin et al., MTSF: Multi-Scale Temporal–Spatial Fusion Network for Driver Attention Prediction, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2024.3510116>paper</a> | <a href=https://github.com/JiBingdong/MTSF>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, TDV, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>
+<pre>
+@article{2025_T-ITS_Jin,
+    author = "Jin, Lisheng and Ji, Bingdong and Guo, Baicang and Wang, Huanhuan and Han, Zhuotong and Liu, Xingchen",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "MTSF: Multi-Scale Temporal--Spatial Fusion Network for Driver Attention Prediction",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_ICRA_Sun></a>
+<details close>
+<summary>Sun et al., Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception, ICRA, 2025 | <a href=https://doi.org/10.1109/ICRA55743.2025.11128326>paper</a> | <a href=https://github.com/DebuggerSunfz/PerceptDriveLM>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DriveLM>DriveLM</a>, <a href=datasets_by_year.md#CODA-LM>CODA-LM</a>
+<pre>
+@inproceedings{2025_ICRA_Sun,
+    author = "Sun, Fengzhao and Yu, Jun and Zhang, Yunxiang and Hou, Jiaming and Lu, Xilong and Song, Heng and Gao, Fang",
+    booktitle = "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    organization = "IEEE",
+    pages = "8234--8241",
+    title = "Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_ICCV_Huang></a>
+<details close>
+<summary>Huang et al., From Gaze to Movement: Predicting Visual Attention for Autonomous Driving Human-Machine Interaction based on Programmatic Imitation Learning, ICCV, 2025 | <a href=https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_From_Gaze_to_Movement_Predicting_Visual_Attention_for_Autonomous_Driving_ICCV_2025_paper.pdf>paper</a> | <a href=https://github.com/OOPartsfili/DATAD-driver-attention-in-takeover-of-autonomous-driving>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#DATAD>DATAD</a>
+<pre>
+@inproceedings{2025_ICCV_Huang,
+    author = "Huang, Yexin and Lin, Yongbin and Yue, Lishengsa and Yao, Zhihong and Wang, Jie",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "26146--26155",
+    title = "From Gaze to Movement: Predicting Visual Attention for Autonomous Driving Human-Machine Interaction based on Programmatic Imitation Learning",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2025_AAAI_Zhao></a>
 <details close>
 <summary>Zhao et al., SalM²: An Extremely Lightweight Saliency Mamba Model for Real-Time Cognitive Awareness of Driver Attention , AAAI, 2025 | <a href=https://doi.org/10.1609/aaai.v39i2.32157>paper</a> | <a href=https://github.com/zhao-chunyu/SaliencyMamba>code</a></summary>
@@ -118,24 +173,6 @@ Dataset(s): <a href=datasets_by_year.md#BDD-A>BDD-A</a>, <a href=datasets_by_yea
     title = "SalM$^2$: An Extremely Lightweight Saliency Mamba Model for Real-Time Cognitive Awareness of Driver Attention",
     volume = "39",
     year = "2025"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2025_T-ITS_Jin></a>
-<details close>
-<summary>Jin et al., MTSF: Multi-Scale Temporal–Spatial Fusion Network for Driver Attention Prediction, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2024.3510116>paper</a> | <a href=https://github.com/JiBingdong/MTSF>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#DADA-2000>DADA-2000</a>, TDV, <a href=datasets_by_year.md#DR(eye)VE>DR(eye)VE</a>
-<pre>
-@article{2025_T-ITS_Jin,
-    author = "Jin, Lisheng and Ji, Bingdong and Guo, Baicang and Wang, Huanhuan and Han, Zhuotong and Liu, Xingchen",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "MTSF: Multi-Scale Temporal--Spatial Fusion Network for Driver Attention Prediction",
-    year = "2024"
 }
 </pre>
 </ul>
@@ -574,6 +611,25 @@ Dataset(s): <a href=datasets_by_year.md#3DDS>3DDS</a>
 
 ### In-vehicle gaze
 
+<ul><a name=2025_IV_Tamura></a>
+<details close>
+<summary>Tamura et al., Cognitive Distraction Detection Using Gaze and Pupil with an Interpretable Approach, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097826>paper</a> | <a href=https://toyotaresearchinstitute.github.io/IV25-cognitive-distraction/>code</a></summary>
+<ul>
+Dataset(s): private
+<pre>
+@inproceedings{2025_IV_Tamura,
+    author = "Tamura, Kimimasa and Stent, Simon and Gideon, John and Shintani, Kohei and Rosman, Guy",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1305--1312",
+    title = "Cognitive Distraction Detection Using Gaze and Pupil with an Interpretable Approach",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_CVPR_Cheng></a>
 <details close>
 <summary>Cheng et al., What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation, CVPR, 2024 | <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_What_Do_You_See_in_Vehicle_Comprehensive_Vision_Solution_for_CVPR_2024_paper.pdf>paper</a> | <a href=https://github.com/yihuacheng/IVGaze/tree/main>code</a></summary>
@@ -650,18 +706,19 @@ Dataset(s): private
 
 ### Distraction detection
 
-<ul><a name=2024_T-ITS_Li_1></a>
+<ul><a name=2025_IV_Tamura></a>
 <details close>
-<summary>Li et al., A Lightweight and Efficient Distracted Driver Detection Model Fusing Convolutional Neural Network and Vision Transformer, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3447041>paper</a> | <a href=https://github.com/lizhao-chd/CoViT_lz>code</a></summary>
+<summary>Tamura et al., Cognitive Distraction Detection Using Gaze and Pupil with an Interpretable Approach, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097826>paper</a> | <a href=https://toyotaresearchinstitute.github.io/IV25-cognitive-distraction/>code</a></summary>
 <ul>
-Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#100-Driver>100-Driver</a>
+Dataset(s): private
 <pre>
-@article{2024_T-ITS_Li_1,
-    author = "Li, Zhao and Zhao, Xia and Wu, Fuwei and Chen, Dan and Wang, Chang",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "A Lightweight and Efficient Distracted Driver Detection Model Fusing Convolutional Neural Network and Vision Transformer",
-    year = "2024"
+@inproceedings{2025_IV_Tamura,
+    author = "Tamura, Kimimasa and Stent, Simon and Gideon, John and Shintani, Kohei and Rosman, Guy",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "1305--1312",
+    title = "Cognitive Distraction Detection Using Gaze and Pupil with an Interpretable Approach",
+    year = "2025"
 }
 </pre>
 </ul>
@@ -680,6 +737,24 @@ Dataset(s): <a href=datasets_by_year.md#3MDAD>3MDAD</a>, <a href=datasets_by_yea
     publisher = "IEEE",
     title = "Quantitative identification of driver distraction: A weakly supervised contrastive learning approach",
     year = "2023"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Li_1></a>
+<details close>
+<summary>Li et al., A Lightweight and Efficient Distracted Driver Detection Model Fusing Convolutional Neural Network and Vision Transformer, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3447041>paper</a> | <a href=https://github.com/lizhao-chd/CoViT_lz>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#SFDDD>SFDDD</a>, <a href=datasets_by_year.md#100-Driver>100-Driver</a>
+<pre>
+@article{2024_T-ITS_Li_1,
+    author = "Li, Zhao and Zhao, Xia and Wu, Fuwei and Chen, Dan and Wang, Chang",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "A Lightweight and Efficient Distracted Driver Detection Model Fusing Convolutional Neural Network and Vision Transformer",
+    year = "2024"
 }
 </pre>
 </ul>
@@ -761,8 +836,47 @@ Dataset(s): <a href=datasets_by_year.md#AI CITY NDAR>AI CITY NDAR</a>
 
 </ul>
 
+### Drowsiness detection
+
+<ul><a name=2025_CVPR_Liu></a>
+<details close>
+<summary>Liu et al., MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception, CVPR, 2025 | <a href=https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_MMTL-UniAD_A_Unified_Framework_for_Multimodal_and_Multi-Task_Learning_in_CVPR_2025_paper.pdf>paper</a> | <a href=https://github.com/Wenzhuo-Liu/MMTL-UniAD>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#AIDE>AIDE</a>
+<pre>
+@inproceedings{2025_CVPR_Liu,
+    author = "Liu, Wenzhuo and Wang, Wenshuo and Qiao, Yicheng and Guo, Qiannan and Zhu, Jiayin and Li, Pengfei and Chen, Zilong and Yang, Huiming and Li, Zhiwei and Wang, Lening and others",
+    booktitle = "Proceedings of the Computer Vision and Pattern Recognition Conference",
+    pages = "6864--6874",
+    title = "Mmtl-uniad: A unified framework for multimodal and multi-task learning in assistive driving perception",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+
 ### Driver awareness
 
+<ul><a name=2024_T-ITS_Angkan></a>
+<details close>
+<summary>Angkan et al., Multimodal Brain–Computer Interface for In-Vehicle Driver Cognitive Load Measurement: Dataset and Baselines, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3345846>paper</a> | <a href=https://github.com/prithila05/cl-drive>code</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#CL-Drive>CL-Drive</a>
+<pre>
+@article{2024_T-ITS_Angkan,
+    author = "Angkan, Prithila and Behinaein, Behnam and Mahmud, Zunayed and Bhatti, Anubhav and Rodenburg, Dirk and Hungler, Paul and Etemad, Ali",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Multimodal Brain--Computer Interface for In-Vehicle Driver Cognitive Load Measurement: Dataset and Baselines",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2024_ICRA_Liao></a>
 <details close>
 <summary>Liao et al., Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments, ICRA, 2024 | <a href=https://doi.org/10.1109/ICRA57147.2024.10611104>paper</a> | <a href=https://github.com/Petrichor625/Gava>code</a></summary>
@@ -775,24 +889,6 @@ Dataset(s): NGSIM, HighD, MoCAD
     organization = "IEEE",
     pages = "14212--14219",
     title = "Human observation-inspired trajectory prediction for autonomous driving in mixed-autonomy traffic environments",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2024_T-ITS_Angkan></a>
-<details close>
-<summary>Angkan et al., Multimodal Brain–Computer Interface for In-Vehicle Driver Cognitive Load Measurement: Dataset and Baselines, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2023.3345846>paper</a> | <a href=https://github.com/prithila05/cl-drive>code</a></summary>
-<ul>
-Dataset(s): <a href=datasets_by_year.md#CL-Drive>CL-Drive</a>
-<pre>
-@article{2024_T-ITS_Angkan,
-    author = "Angkan, Prithila and Behinaein, Behnam and Mahmud, Zunayed and Bhatti, Anubhav and Rodenburg, Dirk and Hungler, Paul and Etemad, Ali",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "Multimodal Brain--Computer Interface for In-Vehicle Driver Cognitive Load Measurement: Dataset and Baselines",
     year = "2024"
 }
 </pre>

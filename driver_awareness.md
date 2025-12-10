@@ -5,6 +5,24 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| [Action anticipation](action_anticipation.md)&nbsp;&nbsp;| Driver awareness&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2025_T-ITS_Wan></a>
+<details close>
+<summary>Wan et al., A Surrogate Approach for Real-Time Stress Assessment of Urban Drivers Using Driving Video Data, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3538647>paper</a></summary>
+<ul>
+Dataset(s): private
+<pre>
+@article{2025_T-ITS_Wan,
+    author = "Wan, Siwei and He, Jie and Wu, Xiaoyu and Ye, Yuntao and Qin, Pengcheng and Fang, Zhiming",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "A Surrogate Approach for Real-Time Stress Assessment of Urban Drivers Using Driving Video Data",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2025_T-ITS_Lai></a>
 <details close>
 <summary>Lai et al., Framework of Adaptive Driving: Linking Situation Awareness, Driving Goals, and Driving Intentions Using Eye-Tracking and Vehicle Kinetic Data, Trans.ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3530252>paper</a></summary>
@@ -23,18 +41,35 @@ Dataset(s): private
 </details>
 
 </ul>
-<ul><a name=2024_ICRA_Liao></a>
+<ul><a name=2025_ITSM_Xu></a>
 <details close>
-<summary>Liao et al., Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments, ICRA, 2024 | <a href=https://doi.org/10.1109/ICRA57147.2024.10611104>paper</a> | <a href=https://github.com/Petrichor625/Gava>code</a></summary>
+<summary>Xu et al., Personalizing Driver Agent Using Large Language Models for Driving Safety and Smarter Human–Machine Interactions, ITSM, 2025 | <a href=https://doi.org/10.1109/MITS.2025.3551736>paper</a></summary>
 <ul>
-Dataset(s): NGSIM, HighD, MoCAD
+Dataset(s): private
 <pre>
-@inproceedings{2024_ICRA_Liao,
-    author = "Liao, Haicheng and Liu, Shangqian and Li, Yongkang and Li, Zhenning and Wang, Chengyue and Li, Yunjian and Li, Shengbo Eben and Xu, Chengzhong",
-    booktitle = "2024 IEEE International Conference on Robotics and Automation (ICRA)",
-    organization = "IEEE",
-    pages = "14212--14219",
-    title = "Human observation-inspired trajectory prediction for autonomous driving in mixed-autonomy traffic environments",
+@article{2025_ITSM_Xu,
+    author = "Xu, Zixuan and Chen, Tiantian and Huang, Zilin and Xing, Yang and Chen, Sikai",
+    journal = "IEEE intelligent transportation Systems magazine",
+    publisher = "IEEE",
+    title = "Personalizing driver agent using large language models for driving safety and smarter human--machine interactions",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_T-ITS_Zhu></a>
+<details close>
+<summary>Zhu et al., Quantitative Estimation of Driver Cognitive Workload: A Dual-Stage Learning Approach, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3451144>paper</a></summary>
+<ul>
+Dataset(s): private
+<pre>
+@article{2024_T-ITS_Zhu,
+    author = "Zhu, Jieyu and Lv, Chen and Ma, Yanli and Yang, Haohan and Zhang, Yaping",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Quantitative Estimation of Driver Cognitive Workload: A Dual-Stage Learning Approach",
     year = "2024"
 }
 </pre>
@@ -53,24 +88,6 @@ Dataset(s): private
     journal = "IEEE Transactions on Intelligent Transportation Systems",
     publisher = "IEEE",
     title = "Transition in Different Critical Situations: How Non-Driving Related Tasks Affect Drivers’ Physiological Response and Takeover Behavior After Partial Automation Silent Failures",
-    year = "2024"
-}
-</pre>
-</ul>
-</details>
-
-</ul>
-<ul><a name=2024_T-ITS_Zhu></a>
-<details close>
-<summary>Zhu et al., Quantitative Estimation of Driver Cognitive Workload: A Dual-Stage Learning Approach, Trans. ITS, 2024 | <a href=https://doi.org/10.1109/TITS.2024.3451144>paper</a></summary>
-<ul>
-Dataset(s): private
-<pre>
-@article{2024_T-ITS_Zhu,
-    author = "Zhu, Jieyu and Lv, Chen and Ma, Yanli and Yang, Haohan and Zhang, Yaping",
-    journal = "IEEE Transactions on Intelligent Transportation Systems",
-    publisher = "IEEE",
-    title = "Quantitative Estimation of Driver Cognitive Workload: A Dual-Stage Learning Approach",
     year = "2024"
 }
 </pre>
@@ -127,6 +144,25 @@ Dataset(s): private
     organization = "IEEE",
     pages = "1878--1885",
     title = "Safety Driver Attention on Autonomous Vehicle Operation Based on Head Pose and Vehicle Perception",
+    year = "2024"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2024_ICRA_Liao></a>
+<details close>
+<summary>Liao et al., Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments, ICRA, 2024 | <a href=https://doi.org/10.1109/ICRA57147.2024.10611104>paper</a> | <a href=https://github.com/Petrichor625/Gava>code</a></summary>
+<ul>
+Dataset(s): NGSIM, HighD, MoCAD
+<pre>
+@inproceedings{2024_ICRA_Liao,
+    author = "Liao, Haicheng and Liu, Shangqian and Li, Yongkang and Li, Zhenning and Wang, Chengyue and Li, Yunjian and Li, Shengbo Eben and Xu, Chengzhong",
+    booktitle = "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    organization = "IEEE",
+    pages = "14212--14219",
+    title = "Human observation-inspired trajectory prediction for autonomous driving in mixed-autonomy traffic environments",
     year = "2024"
 }
 </pre>

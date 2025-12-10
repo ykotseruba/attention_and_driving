@@ -5,6 +5,43 @@
 [Scene gaze](scene_gaze.md)&nbsp;&nbsp;| [In-vehicle gaze](in-vehicle_gaze.md)&nbsp;&nbsp;| [Distraction detection](distraction_detection.md)&nbsp;&nbsp;| [Drowsiness detection](drowsiness_detection.md)&nbsp;&nbsp;| Action anticipation&nbsp;&nbsp;| [Driver awareness](driver_awareness.md)&nbsp;&nbsp;| [Self-driving](self-driving.md)&nbsp;&nbsp;| [Papers with code](papers_with_code.md)&nbsp;&nbsp;
 ___
 *Click on each entry below to see additional information.*
+<ul><a name=2025_IV_Wu></a>
+<details close>
+<summary>Wu et al., PDB-Eval: An Evaluation of LMMs for Description and Explanation of Personalized Driving Behavior, IV, 2025 | <a href=https://doi.org/10.1109/IV64158.2025.11097582>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#Brain4Cars>Brain4Cars</a>, <a href=datasets_by_year.md#AIDE>AIDE</a>
+<pre>
+@inproceedings{2025_IV_Wu,
+    author = "Wu, Junda and Echterhoff, Jessica and Han, Kyungtae and Abdelraouf, Amr and Gupta, Rohit and McAuley, Julian",
+    booktitle = "2025 IEEE Intelligent Vehicles Symposium (IV)",
+    organization = "IEEE",
+    pages = "242--248",
+    title = "Pdb-eval: An evaluation of large multimodal models for description and explanation of personalized driving behavior",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
+<ul><a name=2025_T-ITS_Liu1></a>
+<details close>
+<summary>Liu1 et al., UMD-Net: A Unified Multi-Task Assistive Driving Network Based on Multimodal Fusion, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3556852>paper</a></summary>
+<ul>
+Dataset(s): <a href=datasets_by_year.md#AIDE>AIDE</a>
+<pre>
+@article{2025_T-ITS_Liu1,
+    author = "Liu, Wenzhuo and Qiao, Yicheng and Li, Zhiwei and Wang, Wenshuo and Zhang, Wei and Zhu, Jiayin and Jiang, Yanhuan and Wang, Li and Wang, Hong and Liu, Huaping and others",
+    journal = "IEEE Transactions on Intelligent Transportation Systems",
+    publisher = "IEEE",
+    title = "Umd-net: A unified multi-task assistive driving network based on multimodal fusion",
+    year = "2025"
+}
+</pre>
+</ul>
+</details>
+
+</ul>
 <ul><a name=2025_T-ITS_Liu></a>
 <details close>
 <summary>Liu et al., Individualized Driving Intention Prediction With Inverse Reinforcement Learning, Trans. ITS, 2025 | <a href=https://doi.org/10.1109/TITS.2025.3543553>paper</a></summary>
